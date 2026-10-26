@@ -1,0 +1,3957 @@
+10:40:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705639.png"
+result:
+================================================================================
+
+10:40:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705639.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705639.png: 1 file pulled, 0 skipped. 36.1 MB/s (2356276 bytes in 0.062s)
+================================================================================
+
+10:40:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705639.png"
+result:
+================================================================================
+
+10:40:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+10:40:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+10:40:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+10:40:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+10:40:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+10:40:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705648.png"
+result:
+================================================================================
+
+10:40:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705648.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705648.png: 1 file pulled, 0 skipped. 28.2 MB/s (2356276 bytes in 0.080s)
+================================================================================
+
+10:40:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705648.png"
+result:
+================================================================================
+
+10:40:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705654.png"
+result:
+================================================================================
+
+10:40:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705654.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705654.png: 1 file pulled, 0 skipped. 7.9 MB/s (124146 bytes in 0.015s)
+================================================================================
+
+10:40:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705654.png"
+result:
+================================================================================
+
+10:40:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705657.png"
+result:
+================================================================================
+
+10:40:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705657.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705657.png: 1 file pulled, 0 skipped. 17.2 MB/s (125356 bytes in 0.007s)
+================================================================================
+
+10:40:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705657.png"
+result:
+================================================================================
+
+10:41:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705660.png"
+result:
+================================================================================
+
+10:41:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705660.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705660.png: 1 file pulled, 0 skipped. 13.5 MB/s (125767 bytes in 0.009s)
+================================================================================
+
+10:41:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705660.png"
+result:
+================================================================================
+
+10:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705664.png"
+result:
+================================================================================
+
+10:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705664.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705664.png: 1 file pulled, 0 skipped. 13.6 MB/s (125207 bytes in 0.009s)
+================================================================================
+
+10:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705664.png"
+result:
+================================================================================
+
+10:41:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705666.png"
+result:
+================================================================================
+
+10:41:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705666.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705666.png: 1 file pulled, 0 skipped. 18.5 MB/s (125207 bytes in 0.006s)
+================================================================================
+
+10:41:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705666.png"
+result:
+================================================================================
+
+10:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705669.png"
+result:
+================================================================================
+
+10:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705669.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705669.png: 1 file pulled, 0 skipped. 9.7 MB/s (123866 bytes in 0.012s)
+================================================================================
+
+10:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705669.png"
+result:
+================================================================================
+
+10:41:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705672.png"
+result:
+================================================================================
+
+10:41:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705672.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705672.png: 1 file pulled, 0 skipped. 14.0 MB/s (123866 bytes in 0.008s)
+================================================================================
+
+10:41:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705672.png"
+result:
+================================================================================
+
+10:41:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705675.png"
+result:
+================================================================================
+
+10:41:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705675.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705675.png: 1 file pulled, 0 skipped. 20.1 MB/s (123866 bytes in 0.006s)
+================================================================================
+
+10:41:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705675.png"
+result:
+================================================================================
+
+10:41:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705678.png"
+result:
+================================================================================
+
+10:41:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705678.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705678.png: 1 file pulled, 0 skipped. 21.8 MB/s (123866 bytes in 0.005s)
+================================================================================
+
+10:41:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705678.png"
+result:
+================================================================================
+
+10:41:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705681.png"
+result:
+================================================================================
+
+10:41:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705681.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705681.png: 1 file pulled, 0 skipped. 21.0 MB/s (123866 bytes in 0.006s)
+================================================================================
+
+10:41:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705681.png"
+result:
+================================================================================
+
+10:41:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705684.png"
+result:
+================================================================================
+
+10:41:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705684.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705684.png: 1 file pulled, 0 skipped. 15.3 MB/s (123866 bytes in 0.008s)
+================================================================================
+
+10:41:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705684.png"
+result:
+================================================================================
+
+10:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705686.png"
+result:
+================================================================================
+
+10:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705686.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705686.png: 1 file pulled, 0 skipped. 7.6 MB/s (123866 bytes in 0.016s)
+================================================================================
+
+10:41:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705686.png"
+result:
+================================================================================
+
+10:41:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705689.png"
+result:
+================================================================================
+
+10:41:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705689.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705689.png: 1 file pulled, 0 skipped. 19.8 MB/s (123697 bytes in 0.006s)
+================================================================================
+
+10:41:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705689.png"
+result:
+================================================================================
+
+10:41:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705692.png"
+result:
+================================================================================
+
+10:41:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705692.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705692.png: 1 file pulled, 0 skipped. 17.0 MB/s (123866 bytes in 0.007s)
+================================================================================
+
+10:41:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705692.png"
+result:
+================================================================================
+
+10:41:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705695.png"
+result:
+================================================================================
+
+10:41:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705695.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705695.png: 1 file pulled, 0 skipped. 5.4 MB/s (123866 bytes in 0.022s)
+================================================================================
+
+10:41:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705695.png"
+result:
+================================================================================
+
+10:41:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761705698.png"
+result:
+================================================================================
+
+10:41:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761705698.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761705698.png: 1 file pulled, 0 skipped. 12.8 MB/s (123776 bytes in 0.009s)
+================================================================================
+
+10:41:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761705698.png"
+result:
+================================================================================
+
+10:48:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706095.png"
+result:
+================================================================================
+
+10:48:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706095.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706095.png: 1 file pulled, 0 skipped. 35.0 MB/s (2356472 bytes in 0.064s)
+================================================================================
+
+10:48:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706095.png"
+result:
+================================================================================
+
+10:48:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706111.png"
+result:
+================================================================================
+
+10:48:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706111.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706111.png: 1 file pulled, 0 skipped. 38.2 MB/s (2356817 bytes in 0.059s)
+================================================================================
+
+10:48:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706111.png"
+result:
+================================================================================
+
+10:48:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706117.png"
+result:
+================================================================================
+
+10:48:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706117.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706117.png: 1 file pulled, 0 skipped. 30.9 MB/s (2357797 bytes in 0.073s)
+================================================================================
+
+10:48:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706117.png"
+result:
+================================================================================
+
+10:48:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706121.png"
+result:
+================================================================================
+
+10:48:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706121.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706121.png: 1 file pulled, 0 skipped. 33.8 MB/s (2356842 bytes in 0.066s)
+================================================================================
+
+10:48:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706121.png"
+result:
+================================================================================
+
+10:48:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706126.png"
+result:
+================================================================================
+
+10:48:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706126.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706126.png: 1 file pulled, 0 skipped. 34.9 MB/s (2356531 bytes in 0.064s)
+================================================================================
+
+10:48:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706126.png"
+result:
+================================================================================
+
+10:48:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706131.png"
+result:
+================================================================================
+
+10:48:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706131.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706131.png: 1 file pulled, 0 skipped. 30.5 MB/s (2356551 bytes in 0.074s)
+================================================================================
+
+10:48:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706131.png"
+result:
+================================================================================
+
+10:48:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706136.png"
+result:
+================================================================================
+
+10:48:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706136.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706136.png: 1 file pulled, 0 skipped. 34.0 MB/s (2356551 bytes in 0.066s)
+================================================================================
+
+10:48:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706136.png"
+result:
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706141.png"
+result:
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706141.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706141.png: 1 file pulled, 0 skipped. 35.2 MB/s (2356335 bytes in 0.064s)
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706141.png"
+result:
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.tencent.green.ace"
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+10:49:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+10:49:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706145.png"
+result:
+================================================================================
+
+10:49:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706145.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706145.png: 1 file pulled, 0 skipped. 35.1 MB/s (2356335 bytes in 0.064s)
+================================================================================
+
+10:49:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706145.png"
+result:
+================================================================================
+
+10:49:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706150.png"
+result:
+================================================================================
+
+10:49:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706150.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706150.png: 1 file pulled, 0 skipped. 22.8 MB/s (124007 bytes in 0.005s)
+================================================================================
+
+10:49:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706150.png"
+result:
+================================================================================
+
+10:49:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706153.png"
+result:
+================================================================================
+
+10:49:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706153.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706153.png: 1 file pulled, 0 skipped. 3.4 MB/s (124007 bytes in 0.035s)
+================================================================================
+
+10:49:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706153.png"
+result:
+================================================================================
+
+10:54:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706448.png"
+result:
+================================================================================
+
+10:54:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706448.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706448.png: 1 file pulled, 0 skipped. 4.5 MB/s (123889 bytes in 0.027s)
+================================================================================
+
+10:54:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706448.png"
+result:
+================================================================================
+
+10:56:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706614.png"
+result:
+================================================================================
+
+10:56:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706614.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706614.png: 1 file pulled, 0 skipped. 16.9 MB/s (123963 bytes in 0.007s)
+================================================================================
+
+10:56:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706614.png"
+result:
+================================================================================
+
+10:57:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706629.png"
+result:
+================================================================================
+
+10:57:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706629.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706629.png: 1 file pulled, 0 skipped. 5.7 MB/s (125701 bytes in 0.021s)
+================================================================================
+
+10:57:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706629.png"
+result:
+================================================================================
+
+10:57:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+10:57:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 615.6 1989.0
+result:
+================================================================================
+
+11:00:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706805.png"
+result:
+================================================================================
+
+11:00:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706805.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706805.png: 1 file pulled, 0 skipped. 32.1 MB/s (2355633 bytes in 0.070s)
+================================================================================
+
+11:00:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706805.png"
+result:
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706812.png"
+result:
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706812.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706812.png: 1 file pulled, 0 skipped. 38.1 MB/s (2355822 bytes in 0.059s)
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706812.png"
+result:
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.tencent.green.ace"
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+11:00:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:00:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706816.png"
+result:
+================================================================================
+
+11:00:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706816.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706816.png: 1 file pulled, 0 skipped. 4.4 MB/s (84685 bytes in 0.019s)
+================================================================================
+
+11:00:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706816.png"
+result:
+================================================================================
+
+11:00:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/click_1761706819.png"
+result:
+================================================================================
+
+11:00:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1761706819.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761706819.png: 1 file pulled, 0 skipped. 10.0 MB/s (125413 bytes in 0.012s)
+================================================================================
+
+11:00:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/click_1761706819.png"
+result:
+================================================================================
+
+11:00:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+11:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+result:
+================================================================================
+
+11:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+================================================================================
+
+11:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+11:00:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:00:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:03:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:03:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:03:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "screencap -p /sdcard/click_1761707004.png"
+result:
+================================================================================
+
+11:03:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y pull "/sdcard/click_1761707004.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707004.png: 1 file pulled, 0 skipped. 20.3 MB/s (808727 bytes in 0.038s)
+================================================================================
+
+11:03:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "rm -rf /sdcard/click_1761707004.png"
+result:
+================================================================================
+
+11:03:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  pm list package | grep com.tencent.green.ace
+result:
+================================================================================
+
+11:03:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  getprop ro.build.version.release
+result:
+7.1.2
+================================================================================
+
+11:03:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "screencap -p /sdcard/click_1761707012.png"
+result:
+================================================================================
+
+11:03:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y pull "/sdcard/click_1761707012.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707012.png: 1 file pulled, 0 skipped. 9.9 MB/s (808727 bytes in 0.078s)
+================================================================================
+
+11:03:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "rm -rf /sdcard/click_1761707012.png"
+result:
+================================================================================
+
+11:03:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+================================================================================
+
+11:03:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  getprop ro.build.version.release
+result:
+7.1.2
+================================================================================
+
+11:03:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+================================================================================
+
+11:03:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+================================================================================
+
+11:04:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707055.png"
+result:
+================================================================================
+
+11:04:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707055.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707055.png: 1 file pulled, 0 skipped. 5.5 MB/s (1974787 bytes in 0.345s)
+================================================================================
+
+11:04:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707055.png"
+result:
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707062.png"
+result:
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707062.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707062.png: 1 file pulled, 0 skipped. 5.4 MB/s (2003342 bytes in 0.354s)
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707062.png"
+result:
+================================================================================
+
+11:04:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:04:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:04:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:04:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707068.png"
+result:
+================================================================================
+
+11:04:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707068.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707068.png: 1 file pulled, 0 skipped. 2.7 MB/s (2008725 bytes in 0.712s)
+================================================================================
+
+11:04:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707068.png"
+result:
+================================================================================
+
+11:04:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707074.png"
+result:
+================================================================================
+
+11:04:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707074.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707074.png: 1 file pulled, 0 skipped. 3.5 MB/s (2011981 bytes in 0.549s)
+================================================================================
+
+11:04:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707074.png"
+result:
+================================================================================
+
+11:04:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 3.9 MB/s (31724968 bytes in 7.840s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Failure [INSTALL_FAILED_CANCELLED_BY_USER]
+================================================================================
+
+11:04:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:04:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:04:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35d4a9b6 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:04:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:09:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707348.png"
+result:
+================================================================================
+
+11:09:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707348.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707348.png: 1 file pulled, 0 skipped. 2.8 MB/s (1952274 bytes in 0.657s)
+================================================================================
+
+11:09:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707348.png"
+result:
+================================================================================
+
+11:09:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:09:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:09:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+11:09:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:09:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707356.png"
+result:
+================================================================================
+
+11:09:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707356.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707356.png: 1 file pulled, 0 skipped. 3.6 MB/s (1965390 bytes in 0.517s)
+================================================================================
+
+11:09:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707356.png"
+result:
+================================================================================
+
+11:09:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761707363.png"
+result:
+================================================================================
+
+11:09:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761707363.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761707363.png: 1 file pulled, 0 skipped. 3.6 MB/s (2001516 bytes in 0.536s)
+================================================================================
+
+11:09:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761707363.png"
+result:
+================================================================================
+
+11:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.3 MB/s (31724968 bytes in 5.672s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Failure [INSTALL_FAILED_CANCELLED_BY_USER]
+================================================================================
+
+11:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:10:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707407.0.png"
+result:
+================================================================================
+
+11:10:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707407.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707407.0.png: 1 file pulled, 0 skipped. 5.3 MB/s (2016810 bytes in 0.363s)
+================================================================================
+
+11:10:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707407.0.png"
+result:
+================================================================================
+
+11:10:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:10:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:10:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+11:10:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:10:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707415.0.png"
+result:
+================================================================================
+
+11:10:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707415.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707415.0.png: 1 file pulled, 0 skipped. 3.2 MB/s (2017072 bytes in 0.606s)
+================================================================================
+
+11:10:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707415.0.png"
+result:
+================================================================================
+
+11:10:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707422.0.png"
+result:
+================================================================================
+
+11:10:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707422.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707422.0.png: 1 file pulled, 0 skipped. 3.5 MB/s (2016406 bytes in 0.557s)
+================================================================================
+
+11:10:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707422.0.png"
+result:
+================================================================================
+
+11:10:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.3 MB/s (31724968 bytes in 5.743s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Failure [INSTALL_FAILED_CANCELLED_BY_USER]
+================================================================================
+
+11:10:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:10:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:10:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707663.0.png"
+result:
+================================================================================
+
+11:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707663.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707663.0.png: 1 file pulled, 0 skipped. 5.8 MB/s (1944375 bytes in 0.322s)
+================================================================================
+
+11:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707663.0.png"
+result:
+================================================================================
+
+11:14:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:14:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:14:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:14:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:14:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707671.0.png"
+result:
+================================================================================
+
+11:14:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707671.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707671.0.png: 1 file pulled, 0 skipped. 3.6 MB/s (1987327 bytes in 0.524s)
+================================================================================
+
+11:14:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707671.0.png"
+result:
+================================================================================
+
+11:14:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707677.0.png"
+result:
+================================================================================
+
+11:14:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707677.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707677.0.png: 1 file pulled, 0 skipped. 3.6 MB/s (1999902 bytes in 0.523s)
+================================================================================
+
+11:14:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707677.0.png"
+result:
+================================================================================
+
+11:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.3 MB/s (31724968 bytes in 5.731s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Failure [INSTALL_FAILED_CANCELLED_BY_USER]
+================================================================================
+
+11:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:16:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707803.0.png"
+result:
+================================================================================
+
+11:16:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707803.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707803.0.png: 1 file pulled, 0 skipped. 5.8 MB/s (2000607 bytes in 0.327s)
+================================================================================
+
+11:16:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707803.0.png"
+result:
+================================================================================
+
+11:16:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:16:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:16:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+11:16:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:16:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707810.0.png"
+result:
+================================================================================
+
+11:16:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707810.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707810.0.png: 1 file pulled, 0 skipped. 3.7 MB/s (1959971 bytes in 0.506s)
+================================================================================
+
+11:16:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707810.0.png"
+result:
+================================================================================
+
+11:16:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761707816.0.png"
+result:
+================================================================================
+
+11:16:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761707816.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761707816.0.png: 1 file pulled, 0 skipped. 3.8 MB/s (1961526 bytes in 0.496s)
+================================================================================
+
+11:16:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761707816.0.png"
+result:
+================================================================================
+
+11:17:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.0 MB/s (31724968 bytes in 6.014s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Failure [INSTALL_FAILED_CANCELLED_BY_USER]
+================================================================================
+
+11:17:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:17:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:17:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:21:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:21:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:21:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:21:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.3 MB/s (31724968 bytes in 5.748s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Success
+================================================================================
+
+11:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "screencap -p /sdcard/click_1761708234.png"
+result:
+================================================================================
+
+11:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y pull "/sdcard/click_1761708234.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708234.png: 1 file pulled, 0 skipped. 17.5 MB/s (801268 bytes in 0.044s)
+================================================================================
+
+11:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "rm -rf /sdcard/click_1761708234.png"
+result:
+================================================================================
+
+11:23:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:24:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+================================================================================
+
+11:24:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:24:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  getprop ro.build.version.release
+result:
+7.1.2
+================================================================================
+
+11:24:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "screencap -p /sdcard/click_1761708242.png"
+result:
+================================================================================
+
+11:24:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y pull "/sdcard/click_1761708242.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708242.png: 1 file pulled, 0 skipped. 20.3 MB/s (800697 bytes in 0.038s)
+================================================================================
+
+11:24:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  "rm -rf /sdcard/click_1761708242.png"
+result:
+================================================================================
+
+11:24:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+================================================================================
+
+11:24:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  getprop ro.build.version.release
+result:
+7.1.2
+================================================================================
+
+11:24:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+================================================================================
+
+11:24:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761708276.png"
+result:
+================================================================================
+
+11:24:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761708276.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708276.png: 1 file pulled, 0 skipped. 4.5 MB/s (1974443 bytes in 0.416s)
+================================================================================
+
+11:24:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761708276.png"
+result:
+================================================================================
+
+11:24:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:24:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:24:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:24:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:24:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761708283.png"
+result:
+================================================================================
+
+11:24:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761708283.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708283.png: 1 file pulled, 0 skipped. 2.5 MB/s (2001245 bytes in 0.759s)
+================================================================================
+
+11:24:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761708283.png"
+result:
+================================================================================
+
+11:24:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761708289.png"
+result:
+================================================================================
+
+11:24:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761708289.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708289.png: 1 file pulled, 0 skipped. 3.2 MB/s (2013068 bytes in 0.595s)
+================================================================================
+
+11:24:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761708289.png"
+result:
+================================================================================
+
+11:24:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/click_1761708295.png"
+result:
+================================================================================
+
+11:24:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1761708295.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761708295.png: 1 file pulled, 0 skipped. 3.3 MB/s (2008093 bytes in 0.577s)
+================================================================================
+
+11:24:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/click_1761708295.png"
+result:
+================================================================================
+
+11:25:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 4.2 MB/s (31724968 bytes in 7.264s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Success
+================================================================================
+
+11:25:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:25:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:25:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+11:25:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761708328.0.png"
+result:
+================================================================================
+
+11:25:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761708328.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761708328.0.png: 1 file pulled, 0 skipped. 4.1 MB/s (1996534 bytes in 0.469s)
+================================================================================
+
+11:25:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761708328.0.png"
+result:
+================================================================================
+
+11:25:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+11:25:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+11:25:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+11:25:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:25:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761708335.0.png"
+result:
+================================================================================
+
+11:25:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761708335.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761708335.0.png: 1 file pulled, 0 skipped. 4.2 MB/s (1980007 bytes in 0.452s)
+================================================================================
+
+11:25:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761708335.0.png"
+result:
+================================================================================
+
+11:25:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "screencap -p /sdcard/ocr_1761708341.0.png"
+result:
+================================================================================
+
+11:25:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1761708341.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761708341.0.png: 1 file pulled, 0 skipped. 6.1 MB/s (2001539 bytes in 0.312s)
+================================================================================
+
+11:25:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "rm -rf /sdcard/ocr_1761708341.0.png"
+result:
+================================================================================
+
+11:25:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: 1 file pushed, 0 skipped. 5.6 MB/s (31724968 bytes in 5.400s)
+	pkg: /data/local/tmp/鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_2005
+Success
+================================================================================
+
+11:25:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+11:25:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  mkdir /sdcard/sdk/
+
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+11:25:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+
+result:
+================================================================================
+
+14:20:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  "screencap -p /sdcard/click_1761718831.png"
+result:
+================================================================================
+
+14:20:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a pull "/sdcard/click_1761718831.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718831.png: 1 file pulled, 0 skipped. 32.5 MB/s (1994590 bytes in 0.059s)
+================================================================================
+
+14:20:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  "rm -rf /sdcard/click_1761718831.png"
+result:
+================================================================================
+
+14:20:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+14:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+================================================================================
+
+14:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+14:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+14:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  "screencap -p /sdcard/click_1761718838.png"
+result:
+================================================================================
+
+14:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a pull "/sdcard/click_1761718838.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718838.png: 1 file pulled, 0 skipped. 34.0 MB/s (1994692 bytes in 0.056s)
+================================================================================
+
+14:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  "rm -rf /sdcard/click_1761718838.png"
+result:
+================================================================================
+
+14:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+================================================================================
+
+14:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+14:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+14:22:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718949.png"
+result:
+================================================================================
+
+14:22:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718949.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718949.png: 1 file pulled, 0 skipped. 15.9 MB/s (547251 bytes in 0.033s)
+================================================================================
+
+14:22:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718949.png"
+result:
+================================================================================
+
+14:22:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718954.png"
+result:
+================================================================================
+
+14:22:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718954.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718954.png: 1 file pulled, 0 skipped. 13.2 MB/s (547251 bytes in 0.040s)
+================================================================================
+
+14:22:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+14:22:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718954.png"
+result:
+================================================================================
+
+14:22:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+14:22:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+14:22:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  getprop ro.build.version.release
+result:
+8.1.0
+================================================================================
+
+14:22:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718958.png"
+result:
+================================================================================
+
+14:22:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718958.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718958.png: 1 file pulled, 0 skipped. 14.4 MB/s (540013 bytes in 0.036s)
+================================================================================
+
+14:22:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718958.png"
+result:
+================================================================================
+
+14:22:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718962.png"
+result:
+================================================================================
+
+14:22:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718962.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718962.png: 1 file pulled, 0 skipped. 17.8 MB/s (540215 bytes in 0.029s)
+================================================================================
+
+14:22:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718962.png"
+result:
+================================================================================
+
+14:22:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718966.png"
+result:
+================================================================================
+
+14:22:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718966.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718966.png: 1 file pulled, 0 skipped. 11.3 MB/s (25477 bytes in 0.002s)
+================================================================================
+
+14:22:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718966.png"
+result:
+================================================================================
+
+14:22:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718969.png"
+result:
+================================================================================
+
+14:22:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718969.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718969.png: 1 file pulled, 0 skipped. 10.1 MB/s (25925 bytes in 0.002s)
+================================================================================
+
+14:22:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718969.png"
+result:
+================================================================================
+
+14:22:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718972.png"
+result:
+================================================================================
+
+14:22:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718972.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718972.png: 1 file pulled, 0 skipped. 6.0 MB/s (47198 bytes in 0.008s)
+================================================================================
+
+14:22:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718972.png"
+result:
+================================================================================
+
+14:22:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718975.png"
+result:
+================================================================================
+
+14:22:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718975.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718975.png: 1 file pulled, 0 skipped. 8.9 MB/s (97064 bytes in 0.010s)
+================================================================================
+
+14:22:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718975.png"
+result:
+================================================================================
+
+14:22:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718978.png"
+result:
+================================================================================
+
+14:22:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718978.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718978.png: 1 file pulled, 0 skipped. 9.5 MB/s (96852 bytes in 0.010s)
+================================================================================
+
+14:22:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718978.png"
+result:
+================================================================================
+
+14:23:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  wm size
+result:
+Physical size: 720x1520
+================================================================================
+
+14:23:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  input tap 360.0 1216.0
+result:
+================================================================================
+
+14:23:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "screencap -p /sdcard/click_1761718983.png"
+result:
+================================================================================
+
+14:23:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd pull "/sdcard/click_1761718983.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/click_1761718983.png: 1 file pulled, 0 skipped. 2.3 MB/s (44661 bytes in 0.018s)
+================================================================================
+
+14:23:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "rm -rf /sdcard/click_1761718983.png"
+result:
+================================================================================
+
+14:23:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+================================================================================
+
+14:23:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  getprop ro.build.version.release
+result:
+8.1.0
+================================================================================
+
+14:23:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+================================================================================
+
+14:55:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{6bf9f20 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+15:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:40:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:40:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:40:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761723650.0.png"
+result:
+================================================================================
+
+15:40:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761723650.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761723650.0.png: 1 file pulled, 0 skipped. 15.5 MB/s (125640 bytes in 0.008s)
+================================================================================
+
+15:40:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761723650.0.png"
+result:
+================================================================================
+
+15:41:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761723664.0.png"
+result:
+================================================================================
+
+15:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761723664.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761723664.0.png: 1 file pulled, 0 skipped. 16.5 MB/s (123297 bytes in 0.007s)
+================================================================================
+
+15:41:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761723664.0.png"
+result:
+================================================================================
+
+15:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:41:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761723871.0.png"
+result:
+================================================================================
+
+15:44:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761723871.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761723871.0.png: 1 file pulled, 0 skipped. 9.9 MB/s (123306 bytes in 0.012s)
+================================================================================
+
+15:44:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761723871.0.png"
+result:
+================================================================================
+
+15:44:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:44:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761723967.0.png"
+result:
+================================================================================
+
+15:46:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761723967.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761723967.0.png: 1 file pulled, 0 skipped. 12.8 MB/s (123885 bytes in 0.009s)
+================================================================================
+
+15:46:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761723967.0.png"
+result:
+================================================================================
+
+15:46:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+15:46:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{8cf22e0 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761727287.0.png"
+result:
+================================================================================
+
+16:41:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761727287.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761727287.0.png: 1 file pulled, 0 skipped. 19.2 MB/s (123431 bytes in 0.006s)
+================================================================================
+
+16:41:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761727287.0.png"
+result:
+================================================================================
+
+16:41:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:41:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761727349.0.png"
+result:
+================================================================================
+
+16:42:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761727349.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761727349.0.png: 1 file pulled, 0 skipped. 9.9 MB/s (123925 bytes in 0.012s)
+================================================================================
+
+16:42:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761727349.0.png"
+result:
+================================================================================
+
+16:42:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:42:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761727395.0.png"
+result:
+================================================================================
+
+16:43:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761727395.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761727395.0.png: 1 file pulled, 0 skipped. 12.3 MB/s (124180 bytes in 0.010s)
+================================================================================
+
+16:43:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761727395.0.png"
+result:
+================================================================================
+
+16:43:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/ocr_1761727429.0.png"
+result:
+================================================================================
+
+16:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/ocr_1761727429.0.png" D:\code\python\All_project\adb_install_02\temp\screen
+result:
+/sdcard/ocr_1761727429.0.png: 1 file pulled, 0 skipped. 18.0 MB/s (124180 bytes in 0.007s)
+================================================================================
+
+16:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/ocr_1761727429.0.png"
+result:
+================================================================================
+
+16:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+16:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{ddd8e4c u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+

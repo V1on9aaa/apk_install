@@ -1,0 +1,1353 @@
+17:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\4.9.X\4.9.27.7830\19368\4513100_20251231094407_ACE_Tools_7.7.24_20059_c#_resigned.shell.signed.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+17:00:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:00:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767171623.png
+result:
+================================================================================
+
+17:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767171623.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767171623.png"
+result:
+/sdcard/ocr_1767171623.png: 1 file pulled, 0 skipped. 19.9 MB/s (5871536 bytes in 0.282s)
+================================================================================
+
+17:00:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767171623.png"
+result:
+================================================================================
+
+17:00:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+================================================================================
+
+17:00:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:01:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 install -g "G:\Business_Area\shell\Andriod_Shell\4.9.X\4.9.27.7830\19368\4513100_20251231094407_ACE_Tools_7.7.24_20059_c#_resigned.shell.signed.apk"
+result:
+================================================================================
+
+17:01:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:01:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\4.9.X\4.9.27.7830\19368\4513100_20251231094407_ACE_Tools_7.7.24_20059_c#_resigned.shell.signed.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+17:01:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+================================================================================
+
+17:09:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:09:26
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar dump resources --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab
+result:
+Package 'com.wind.bird2':
+0x7f010000 - id/unitySurfaceView
+	(default)
+0x7f020000 - mipmap/app_icon
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020001 - mipmap/app_icon_round
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020002 - mipmap/ic_launcher_background
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f020003 - mipmap/ic_launcher_foreground
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f030000 - string/FreeformWindowOrientation_landscape
+	(default)
+	sdk_version: 30
+0x7f030001 - string/FreeformWindowOrientation_portrait
+	(default)
+	sdk_version: 30
+0x7f030002 - string/FreeformWindowSize_maximize
+	(default)
+	sdk_version: 30
+0x7f030003 - string/FreeformWindowSize_phone
+	(default)
+	sdk_version: 30
+0x7f030004 - string/FreeformWindowSize_tablet
+	(default)
+	sdk_version: 30
+0x7f030005 - string/app_name
+	(default)
+0x7f030006 - string/game_view_content_description
+	(default)
+0x7f040000 - style/BaseUnityTheme
+	(default)
+	sdk_version: 28
+0x7f040001 - style/UnityThemeSelector
+	(default)
+0x7f040002 - style/UnityThemeSelector.Translucent
+	(default)
+
+================================================================================
+
+17:09:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.wind.bird2
+result:
+package:com.wind.bird2.cloud
+================================================================================
+
+17:09:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 uninstall com.wind.bird2
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+17:09:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767172166.png
+result:
+================================================================================
+
+17:09:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767172166.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767172166.png"
+result:
+/sdcard/ocr_1767172166.png: 1 file pulled, 0 skipped. 37.2 MB/s (2557614 bytes in 0.066s)
+================================================================================
+
+17:09:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767172166.png"
+result:
+================================================================================
+
+17:09:35
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks
+result:
+INFO: The APKs will be signed with the debug keystore found at 'C:\Users\v_pjinjpan\.android\debug.keystore'.
+================================================================================
+
+17:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767172179.png
+result:
+================================================================================
+
+17:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767172179.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767172179.png"
+result:
+/sdcard/ocr_1767172179.png: 1 file pulled, 0 skipped. 38.7 MB/s (2557614 bytes in 0.063s)
+================================================================================
+
+17:09:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767172179.png"
+result:
+================================================================================
+
+17:09:41
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks --device-id 709ccd85
+result:
+================================================================================
+
+17:09:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:09:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:09:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+================================================================================
+
+17:09:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767172185.png
+result:
+================================================================================
+
+17:09:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767172185.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767172185.png"
+result:
+/sdcard/ocr_1767172185.png: 1 file pulled, 0 skipped. 12.6 MB/s (2509527 bytes in 0.191s)
+================================================================================
+
+17:09:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767172185.png"
+result:
+================================================================================
+
+17:09:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767172191.png
+result:
+================================================================================
+
+17:09:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767172191.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767172191.png"
+result:
+/sdcard/ocr_1767172191.png: 1 file pulled, 0 skipped. 35.3 MB/s (2561596 bytes in 0.069s)
+================================================================================
+
+17:09:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767172191.png"
+result:
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:18:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767172690.png
+result:
+================================================================================
+
+17:18:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767172690.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767172690.png"
+result:
+/sdcard/ocr_1767172690.png: 1 file pulled, 0 skipped. 30.0 MB/s (2562653 bytes in 0.081s)
+================================================================================
+
+17:18:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767172690.png"
+result:
+================================================================================
+
+17:26:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+================================================================================
+
+17:26:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:26:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173160.png
+result:
+================================================================================
+
+17:26:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173160.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173160.png"
+result:
+/sdcard/ocr_1767173160.png: 1 file pulled, 0 skipped. 37.6 MB/s (2563189 bytes in 0.065s)
+================================================================================
+
+17:26:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173160.png"
+result:
+================================================================================
+
+17:26:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173170.png
+result:
+================================================================================
+
+17:26:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173170.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173170.png"
+result:
+/sdcard/ocr_1767173170.png: 1 file pulled, 0 skipped. 24.1 MB/s (2563189 bytes in 0.101s)
+================================================================================
+
+17:26:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173170.png"
+result:
+================================================================================
+
+17:26:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173176.png
+result:
+================================================================================
+
+17:26:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173176.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173176.png"
+result:
+/sdcard/ocr_1767173176.png: 1 file pulled, 0 skipped. 38.0 MB/s (2563189 bytes in 0.064s)
+================================================================================
+
+17:26:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173176.png"
+result:
+================================================================================
+
+17:26:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173185.png
+result:
+================================================================================
+
+17:26:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173185.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173185.png"
+result:
+/sdcard/ocr_1767173185.png: 1 file pulled, 0 skipped. 37.7 MB/s (2563189 bytes in 0.065s)
+================================================================================
+
+17:26:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173185.png"
+result:
+================================================================================
+
+17:33:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:33:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar dump resources --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab
+result:
+Package 'com.wind.bird2':
+0x7f010000 - id/unitySurfaceView
+	(default)
+0x7f020000 - mipmap/app_icon
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020001 - mipmap/app_icon_round
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020002 - mipmap/ic_launcher_background
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f020003 - mipmap/ic_launcher_foreground
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f030000 - string/FreeformWindowOrientation_landscape
+	(default)
+	sdk_version: 30
+0x7f030001 - string/FreeformWindowOrientation_portrait
+	(default)
+	sdk_version: 30
+0x7f030002 - string/FreeformWindowSize_maximize
+	(default)
+	sdk_version: 30
+0x7f030003 - string/FreeformWindowSize_phone
+	(default)
+	sdk_version: 30
+0x7f030004 - string/FreeformWindowSize_tablet
+	(default)
+	sdk_version: 30
+0x7f030005 - string/app_name
+	(default)
+0x7f030006 - string/game_view_content_description
+	(default)
+0x7f040000 - style/BaseUnityTheme
+	(default)
+	sdk_version: 28
+0x7f040001 - style/UnityThemeSelector
+	(default)
+0x7f040002 - style/UnityThemeSelector.Translucent
+	(default)
+
+================================================================================
+
+17:33:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar dump resources --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab
+result:
+Package 'com.wind.bird2':
+0x7f010000 - id/unitySurfaceView
+	(default)
+0x7f020000 - mipmap/app_icon
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020001 - mipmap/app_icon_round
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020002 - mipmap/ic_launcher_background
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f020003 - mipmap/ic_launcher_foreground
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f030000 - string/FreeformWindowOrientation_landscape
+	(default)
+	sdk_version: 30
+0x7f030001 - string/FreeformWindowOrientation_portrait
+	(default)
+	sdk_version: 30
+0x7f030002 - string/FreeformWindowSize_maximize
+	(default)
+	sdk_version: 30
+0x7f030003 - string/FreeformWindowSize_phone
+	(default)
+	sdk_version: 30
+0x7f030004 - string/FreeformWindowSize_tablet
+	(default)
+	sdk_version: 30
+0x7f030005 - string/app_name
+	(default)
+0x7f030006 - string/game_view_content_description
+	(default)
+0x7f040000 - style/BaseUnityTheme
+	(default)
+	sdk_version: 28
+0x7f040001 - style/UnityThemeSelector
+	(default)
+0x7f040002 - style/UnityThemeSelector.Translucent
+	(default)
+
+================================================================================
+
+17:33:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.wind.bird2
+result:
+package:com.wind.bird2.cloud
+================================================================================
+
+17:33:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 uninstall com.wind.bird2
+result:
+Failure [DELETE_FAILED_INTERNAL_ERROR]
+================================================================================
+
+17:33:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173636.png
+result:
+================================================================================
+
+17:33:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173636.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173636.png"
+result:
+/sdcard/ocr_1767173636.png: 1 file pulled, 0 skipped. 26.4 MB/s (2562873 bytes in 0.093s)
+================================================================================
+
+17:33:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173636.png"
+result:
+================================================================================
+
+17:33:59
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks
+result:
+INFO: The APKs will be signed with the debug keystore found at 'C:\Users\v_pjinjpan\.android\debug.keystore'.
+================================================================================
+
+17:34:04
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks --device-id 709ccd85
+result:
+================================================================================
+
+17:34:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:34:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:34:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.wind.bird2
+result:
+package:com.wind.bird2.cloud
+package:com.wind.bird2
+================================================================================
+
+17:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173643.png
+result:
+================================================================================
+
+17:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173643.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173643.png"
+result:
+/sdcard/ocr_1767173643.png: 1 file pulled, 0 skipped. 40.3 MB/s (2562957 bytes in 0.061s)
+================================================================================
+
+17:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173643.png"
+result:
+================================================================================
+
+17:34:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173649.png
+result:
+================================================================================
+
+17:34:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173649.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173649.png"
+result:
+/sdcard/ocr_1767173649.png: 1 file pulled, 0 skipped. 37.7 MB/s (2572710 bytes in 0.065s)
+================================================================================
+
+17:34:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173649.png"
+result:
+================================================================================
+
+17:34:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173654.png
+result:
+================================================================================
+
+17:34:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173654.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173654.png"
+result:
+/sdcard/ocr_1767173654.png: 1 file pulled, 0 skipped. 38.3 MB/s (2572710 bytes in 0.064s)
+================================================================================
+
+17:34:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173654.png"
+result:
+================================================================================
+
+17:34:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173659.png
+result:
+================================================================================
+
+17:34:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173659.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173659.png"
+result:
+/sdcard/ocr_1767173659.png: 1 file pulled, 0 skipped. 40.3 MB/s (2572719 bytes in 0.061s)
+================================================================================
+
+17:34:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173659.png"
+result:
+================================================================================
+
+17:34:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173665.png
+result:
+================================================================================
+
+17:34:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173665.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173665.png"
+result:
+/sdcard/ocr_1767173665.png: 1 file pulled, 0 skipped. 39.2 MB/s (2572710 bytes in 0.063s)
+================================================================================
+
+17:34:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173665.png"
+result:
+================================================================================
+
+17:35:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:35:45
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar dump resources --bundle=E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab
+result:
+Package 'com.wind.bird2':
+0x7f010000 - id/unitySurfaceView
+	(default)
+0x7f020000 - mipmap/app_icon
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020001 - mipmap/app_icon_round
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020002 - mipmap/ic_launcher_background
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f020003 - mipmap/ic_launcher_foreground
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f030000 - string/FreeformWindowOrientation_landscape
+	(default)
+	sdk_version: 30
+0x7f030001 - string/FreeformWindowOrientation_portrait
+	(default)
+	sdk_version: 30
+0x7f030002 - string/FreeformWindowSize_maximize
+	(default)
+	sdk_version: 30
+0x7f030003 - string/FreeformWindowSize_phone
+	(default)
+	sdk_version: 30
+0x7f030004 - string/FreeformWindowSize_tablet
+	(default)
+	sdk_version: 30
+0x7f030005 - string/app_name
+	(default)
+0x7f030006 - string/game_view_content_description
+	(default)
+0x7f040000 - style/BaseUnityTheme
+	(default)
+	sdk_version: 28
+0x7f040001 - style/UnityThemeSelector
+	(default)
+0x7f040002 - style/UnityThemeSelector.Translucent
+	(default)
+
+================================================================================
+
+17:35:46
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar dump resources --bundle=E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab
+result:
+Package 'com.wind.bird2':
+0x7f010000 - id/unitySurfaceView
+	(default)
+0x7f020000 - mipmap/app_icon
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020001 - mipmap/app_icon_round
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+	density: 65534
+sdk_version: 26
+0x7f020002 - mipmap/ic_launcher_background
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f020003 - mipmap/ic_launcher_foreground
+	density: 120
+	density: 160
+	density: 240
+	density: 320
+	density: 480
+	density: 640
+0x7f030000 - string/FreeformWindowOrientation_landscape
+	(default)
+	sdk_version: 30
+0x7f030001 - string/FreeformWindowOrientation_portrait
+	(default)
+	sdk_version: 30
+0x7f030002 - string/FreeformWindowSize_maximize
+	(default)
+	sdk_version: 30
+0x7f030003 - string/FreeformWindowSize_phone
+	(default)
+	sdk_version: 30
+0x7f030004 - string/FreeformWindowSize_tablet
+	(default)
+	sdk_version: 30
+0x7f030005 - string/app_name
+	(default)
+0x7f030006 - string/game_view_content_description
+	(default)
+0x7f040000 - style/BaseUnityTheme
+	(default)
+	sdk_version: 28
+0x7f040001 - style/UnityThemeSelector
+	(default)
+0x7f040002 - style/UnityThemeSelector.Translucent
+	(default)
+
+================================================================================
+
+17:35:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.wind.bird2
+result:
+package:com.wind.bird2.cloud
+package:com.wind.bird2
+================================================================================
+
+17:35:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 uninstall com.wind.bird2
+result:
+Success
+================================================================================
+
+17:35:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173745.png
+result:
+================================================================================
+
+17:35:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173745.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173745.png"
+result:
+/sdcard/ocr_1767173745.png: 1 file pulled, 0 skipped. 21.8 MB/s (2572980 bytes in 0.113s)
+================================================================================
+
+17:35:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173745.png"
+result:
+================================================================================
+
+17:35:53
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab --output=E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab.apks
+result:
+INFO: The APKs will be signed with the debug keystore found at 'C:\Users\v_pjinjpan\.android\debug.keystore'.
+================================================================================
+
+17:35:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab.apks --device-id 709ccd85
+result:
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.wind.bird2
+result:
+package:com.wind.bird2.cloud
+package:com.wind.bird2
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173756.png
+result:
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173756.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173756.png"
+result:
+/sdcard/ocr_1767173756.png: 1 file pulled, 0 skipped. 39.2 MB/s (2563420 bytes in 0.062s)
+================================================================================
+
+17:35:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173756.png"
+result:
+================================================================================
+
+17:36:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173761.png
+result:
+================================================================================
+
+17:36:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173761.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173761.png"
+result:
+/sdcard/ocr_1767173761.png: 1 file pulled, 0 skipped. 38.3 MB/s (2573299 bytes in 0.064s)
+================================================================================
+
+17:36:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173761.png"
+result:
+================================================================================
+
+17:36:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173766.png
+result:
+================================================================================
+
+17:36:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173766.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173766.png"
+result:
+/sdcard/ocr_1767173766.png: 1 file pulled, 0 skipped. 39.4 MB/s (2573169 bytes in 0.062s)
+================================================================================
+
+17:36:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173766.png"
+result:
+================================================================================
+
+17:36:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767173771.png
+result:
+================================================================================
+
+17:36:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767173771.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767173771.png"
+result:
+/sdcard/ocr_1767173771.png: 1 file pulled, 0 skipped. 39.0 MB/s (2573299 bytes in 0.063s)
+================================================================================
+
+17:36:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767173771.png"
+result:
+================================================================================
+
+17:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+17:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=null
+  mCurrentFocus=Window{300612e u0 net.oneplus.launcher/net.oneplus.launcher.Launcher}
+================================================================================
+
+17:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+17:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767174228.png
+result:
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767174228.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767174228.png"
+result:
+/sdcard/ocr_1767174228.png: 1 file pulled, 0 skipped. 37.6 MB/s (2551927 bytes in 0.065s)
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767174228.png"
+result:
+================================================================================
+
+17:43:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+17:43:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:44:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767174238.png
+result:
+================================================================================
+
+17:44:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767174238.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767174238.png"
+result:
+/sdcard/ocr_1767174238.png: 1 file pulled, 0 skipped. 41.6 MB/s (2551059 bytes in 0.059s)
+================================================================================
+
+17:44:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767174238.png"
+result:
+================================================================================
+
+17:44:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767174244.png
+result:
+================================================================================
+
+17:44:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767174244.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767174244.png"
+result:
+/sdcard/ocr_1767174244.png: 1 file pulled, 0 skipped. 23.5 MB/s (1090398 bytes in 0.044s)
+================================================================================
+
+17:44:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767174244.png"
+result:
+================================================================================
+
+17:44:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767174248.png
+result:
+================================================================================
+
+17:44:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767174248.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767174248.png"
+result:
+/sdcard/ocr_1767174248.png: 1 file pulled, 0 skipped. 14.1 MB/s (1090398 bytes in 0.074s)
+================================================================================
+
+17:44:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767174248.png"
+result:
+================================================================================
+
+17:44:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  screencap -p /sdcard/ocr_1767174256.png
+result:
+================================================================================
+
+17:44:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 pull "/sdcard/ocr_1767174256.png" "D:\code\python\All_project\adb_install_02\temp\screen\ocr_1767174256.png"
+result:
+/sdcard/ocr_1767174256.png: 1 file pulled, 0 skipped. 22.1 MB/s (1090398 bytes in 0.047s)
+================================================================================
+
+17:44:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  rm -rf "/sdcard/ocr_1767174256.png"
+result:
+================================================================================
+
+17:46:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+17:46:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:46:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+

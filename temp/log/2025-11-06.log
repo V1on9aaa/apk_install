@@ -1,0 +1,2473 @@
+16:41:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk"
+result:
+com.test.myapplication
+================================================================================
+
+16:41:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:41:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:42:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk"
+result:
+================================================================================
+
+16:42:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:42:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+16:43:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk"
+result:
+com.test.myapplication
+================================================================================
+
+16:43:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+com.aaaaaa.bbbbbb
+================================================================================
+
+16:43:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.aaaaaa.bbbbbb
+result:
+package:com.aaaaaa.bbbbbb
+================================================================================
+
+16:43:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+package:com.test.myapplication
+================================================================================
+
+16:43:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.aaaaaa.bbbbbb"
+result:
+Success
+================================================================================
+
+16:43:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:43:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.test.myapplication"
+result:
+Success
+================================================================================
+
+16:43:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:43:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+================================================================================
+
+16:43:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:43:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+16:57:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk"
+result:
+com.test.myapplication
+================================================================================
+
+16:57:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:57:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.test.myapplication
+result:
+================================================================================
+
+16:58:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:58:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk"
+result:
+================================================================================
+
+16:58:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:58:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+16:58:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+com.aaaaaa.bbbbbb
+================================================================================
+
+16:58:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.aaaaaa.bbbbbb
+result:
+package:com.aaaaaa.bbbbbb
+================================================================================
+
+16:58:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall "com.aaaaaa.bbbbbb"
+result:
+Success
+================================================================================
+
+16:58:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:58:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+================================================================================
+
+16:58:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+16:58:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:01:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\10_4303709_20251105114823_20023-tomPark-debug.shell.signed.apk"
+result:
+com.outfit7.jinke.talkingtomclub.cps
+================================================================================
+
+17:01:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.outfit7.jinke.talkingtomclub.cps
+result:
+package:com.outfit7.jinke.talkingtomclub.cps
+================================================================================
+
+17:01:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.outfit7.jinke.talkingtomclub.cps"
+result:
+Success
+================================================================================
+
+17:01:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:01:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\10_4303709_20251105114823_20023-tomPark-debug.shell.signed.apk"
+result:
+================================================================================
+
+17:01:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:01:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:01:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\11_4303695_20251105114539_2226-MDNF_Android_LIVE_Client_bin_GM_0.9.22.3_202005260752.shell.signed.apk"
+result:
+com.tencent.tmgp.dnf
+================================================================================
+
+17:01:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tmgp.dnf
+result:
+package:com.tencent.tmgp.dnf
+================================================================================
+
+17:01:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.tmgp.dnf"
+result:
+Success
+================================================================================
+
+17:01:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:02:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\11_4303695_20251105114539_2226-MDNF_Android_LIVE_Client_bin_GM_0.9.22.3_202005260752.shell.signed.apk"
+result:
+================================================================================
+
+17:02:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:02:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:02:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\12_4303675_20251105114329_qqchess_4.2.8.2_android_release.shell.signed.apk"
+result:
+com.tencent.qqgame.xq
+================================================================================
+
+17:02:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.qqgame.xq
+result:
+package:com.tencent.qqgame.xq
+================================================================================
+
+17:02:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.qqgame.xq"
+result:
+Success
+================================================================================
+
+17:02:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:02:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\12_4303675_20251105114329_qqchess_4.2.8.2_android_release.shell.signed.apk"
+result:
+================================================================================
+
+17:02:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:02:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:02:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\13_sdk_ue5-arm64.apk"
+result:
+com.tencent.sdk.ue4
+================================================================================
+
+17:02:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:02:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.sdk.ue4
+result:
+================================================================================
+
+17:03:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:03:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\13_sdk_ue5-arm64.apk"
+result:
+================================================================================
+
+17:03:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:03:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:03:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\14_my_app2-arm64.apk"
+result:
+com.YourCompany.my_app2
+================================================================================
+
+17:03:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YourCompany.my_app2
+result:
+================================================================================
+
+17:03:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:04:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\14_my_app2-arm64.apk"
+result:
+================================================================================
+
+17:04:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:04:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\15_2005_BreezeGame_Android_CI-develop-3540.apk"
+result:
+com.tencent.pao
+================================================================================
+
+17:04:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.pao
+result:
+package:com.tencent.pao
+================================================================================
+
+17:04:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.pao"
+result:
+Success
+================================================================================
+
+17:04:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:06:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\15_2005_BreezeGame_Android_CI-develop-3540.apk"
+result:
+================================================================================
+
+17:06:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:06:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:06:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\16_4303623_20251105112943_20020_Omega.shell.signed.apk"
+result:
+com.igg.android.omegalegends
+================================================================================
+
+17:06:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.igg.android.omegalegends
+result:
+package:com.igg.android.omegalegends
+================================================================================
+
+17:06:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.igg.android.omegalegends"
+result:
+Success
+================================================================================
+
+17:06:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:07:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\16_4303623_20251105112943_20020_Omega.shell.signed.apk"
+result:
+================================================================================
+
+17:07:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:07:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:07:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\17_4303610_20251105112509_9998_Sky_Gold_0.6.2_149571_obt_netease_encrypted_minify.shell.signed.apk"
+result:
+com.netease.sky
+================================================================================
+
+17:07:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.netease.sky
+result:
+package:com.netease.sky
+================================================================================
+
+17:07:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.netease.sky"
+result:
+Success
+================================================================================
+
+17:07:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:09:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\18_4303601_20251105112204_19489_20200716-232915-Beta-versions-v4_2_weekly-betav2-b3a2e43e916-1235-4.2.0-ASB-MacV8-Agent1-388.shell.signed.apk"
+result:
+com.miHoYo.enterprise.NGHSoDBeta
+================================================================================
+
+17:09:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.miHoYo.enterprise.NGHSoDBeta
+result:
+package:com.miHoYo.enterprise.NGHSoDBeta
+================================================================================
+
+17:09:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.miHoYo.enterprise.NGHSoDBeta"
+result:
+Success
+================================================================================
+
+17:09:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:10:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\17_4303610_20251105112509_9998_Sky_Gold_0.6.2_149571_obt_netease_encrypted_minify.shell.signed.apk"
+result:
+================================================================================
+
+17:10:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:10:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:11:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\19_4303568_20251105111517_9997_20191126171540_jyzjyd_UC_1.3.3__20191126160933.shell.signed.apk"
+result:
+com.snailgame.jyzjyd.uc
+================================================================================
+
+17:11:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.snailgame.jyzjyd.uc
+result:
+package:com.snailgame.jyzjyd.uc
+================================================================================
+
+17:11:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.snailgame.jyzjyd.uc"
+result:
+Success
+================================================================================
+
+17:11:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:12:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\18_4303601_20251105112204_19489_20200716-232915-Beta-versions-v4_2_weekly-betav2-b3a2e43e916-1235-4.2.0-ASB-MacV8-Agent1-388.shell.signed.apk"
+result:
+================================================================================
+
+17:12:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:12:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:13:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\1_app-debug-29-lld.apk"
+result:
+com.test.myapplication
+================================================================================
+
+17:13:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.test.myapplication
+result:
+package:com.test.myapplication
+================================================================================
+
+17:13:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.test.myapplication"
+result:
+Success
+================================================================================
+
+17:13:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:13:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\1_app-debug-29-lld.apk"
+result:
+================================================================================
+
+17:13:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:13:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\19_4303568_20251105111517_9997_20191126171540_jyzjyd_UC_1.3.3__20191126160933.shell.signed.apk"
+result:
+================================================================================
+
+17:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\20_4303535_20251105110846_2063_kihan_PUBLISH_1.44.24.3_zhengshi.shell.signed.apk"
+result:
+com.tencent.KiHan
+================================================================================
+
+17:14:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.KiHan
+result:
+package:com.tencent.KiHan
+================================================================================
+
+17:14:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.KiHan"
+result:
+Success
+================================================================================
+
+17:14:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:15:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\21_2131_CG_Android_ETC2_1.28.0.19090_Shipping_check_resigned.apk"
+result:
+com.tencent.tmgp.pubgmhd
+================================================================================
+
+17:15:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tmgp.pubgmhd
+result:
+package:com.tencent.tmgp.pubgmhd
+================================================================================
+
+17:15:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.tmgp.pubgmhd"
+result:
+Success
+================================================================================
+
+17:15:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:18:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\20_4303535_20251105110846_2063_kihan_PUBLISH_1.44.24.3_zhengshi.shell.signed.apk"
+result:
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:18:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\22_4303451_20251105104530_20011_AbyssHorizon.shell.signed.apk"
+result:
+com.xindong.abyss
+================================================================================
+
+17:18:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.xindong.abyss
+result:
+package:com.xindong.abyss
+================================================================================
+
+17:18:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.xindong.abyss"
+result:
+Success
+================================================================================
+
+17:18:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:19:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\21_2131_CG_Android_ETC2_1.28.0.19090_Shipping_check_resigned.apk"
+result:
+================================================================================
+
+17:19:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:19:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:19:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+com.aaaaaa.bbbbbb
+================================================================================
+
+17:19:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.aaaaaa.bbbbbb
+result:
+package:com.aaaaaa.bbbbbb
+================================================================================
+
+17:19:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.aaaaaa.bbbbbb"
+result:
+Success
+================================================================================
+
+17:19:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\2_test_il2cpp_2020117_arm64.zipaligned.signed.apk"
+result:
+================================================================================
+
+17:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:20:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\3_ANO_Tools_7.7.24.apk"
+result:
+com.tencent.green.ace.ano
+================================================================================
+
+17:20:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.green.ace.ano
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+17:20:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.green.ace.ano"
+result:
+Success
+================================================================================
+
+17:20:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\3_ANO_Tools_7.7.24.apk"
+result:
+================================================================================
+
+17:20:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:20:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\4_ACE_16k_Tools.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+17:20:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+17:20:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.tencent.green.ace"
+result:
+Success
+================================================================================
+
+17:20:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\4_ACE_16k_Tools.apk"
+result:
+================================================================================
+
+17:20:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:20:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\5_Tools_c#_2022.3.50f1.apk"
+result:
+com.tencent.tools
+================================================================================
+
+17:20:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.tencent.tools
+result:
+================================================================================
+
+17:20:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\5_Tools_c#_2022.3.50f1.apk"
+result:
+================================================================================
+
+17:20:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:20:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:21:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\6_4303635_19879-20200519165620_arknights-jp-yostar-0813.mini.shell.signed.apk"
+result:
+com.YoStarJP.Arknights
+================================================================================
+
+17:21:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.YoStarJP.Arknights
+result:
+package:com.YoStarJP.Arknights
+================================================================================
+
+17:21:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.YoStarJP.Arknights"
+result:
+Success
+================================================================================
+
+17:21:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\6_4303635_19879-20200519165620_arknights-jp-yostar-0813.mini.shell.signed.apk"
+result:
+================================================================================
+
+17:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:21:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\7_4303705_20251105114725_9995-Hearthstone_CN_Production.shell.signed.apk"
+result:
+com.blizzard.wtcg.hearthstone
+================================================================================
+
+17:21:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.blizzard.wtcg.hearthstone
+result:
+package:com.blizzard.wtcg.hearthstone
+================================================================================
+
+17:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.blizzard.wtcg.hearthstone"
+result:
+Success
+================================================================================
+
+17:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:21:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\7_4303705_20251105114725_9995-Hearthstone_CN_Production.shell.signed.apk"
+result:
+================================================================================
+
+17:21:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:21:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:21:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\8_4303717_20251105114942_codm-Android-iMSDK_VNG-release-Lite-1.8.16.200-202007281044-r483058.shell.signed.apk"
+result:
+com.vng.codmvn
+================================================================================
+
+17:21:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.vng.codmvn
+result:
+package:com.vng.codmvn
+================================================================================
+
+17:21:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.vng.codmvn"
+result:
+Success
+================================================================================
+
+17:21:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:22:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\8_4303717_20251105114942_codm-Android-iMSDK_VNG-release-Lite-1.8.16.200-202007281044-r483058.shell.signed.apk"
+result:
+================================================================================
+
+17:22:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:22:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:22:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\22_4303451_20251105104530_20011_AbyssHorizon.shell.signed.apk"
+result:
+================================================================================
+
+17:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+
+17:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\9_4303747_20251105115548_20160-godsquest_jy_encrypted.shell.signed.apk"
+result:
+com.lightpaw.godsquest.aligames
+================================================================================
+
+17:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  pm list package | grep com.lightpaw.godsquest.aligames
+result:
+package:com.lightpaw.godsquest.aligames
+================================================================================
+
+17:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 uninstall "com.lightpaw.godsquest.aligames"
+result:
+Success
+================================================================================
+
+17:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:22:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\9_4303747_20251105115548_20160-godsquest_jy_encrypted.shell.signed.apk"
+result:
+================================================================================
+
+17:22:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+17:22:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+================================================================================
+

@@ -1,0 +1,116 @@
+14:30:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+14:52:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+14:54:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+15:14:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+15:16:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+15:16:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  am start com.tencent.sdk/com.tencent.foogame.MainActivity
+result:
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+================================================================================
+
+15:17:53
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\11033492138396409424
+================================================================================
+
+15:17:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:30:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:32:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+16:34:21
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab --output=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:34:25
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\12839282821998407844
+================================================================================
+
+16:35:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+

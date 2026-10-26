@@ -1,0 +1,20 @@
+>>>G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7825
+OpenID:584AEBE0805C7E245494E024,
+
+>>>G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab
+com.tencent.sdk未闪退，运行正常
+user_info->uin_.uin_str_:C73B36366565F9E02C191SDK_7825
+OpenID:584AEBE0805C7E245494E024,
+
+>>>G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab
+com.tencent.green.ace未闪退，运行正常
+无openid
+无shell_openid
+
+>>>G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab
+com.tencent.sdk未闪退，运行正常
+无openid
+无shell_openid
+

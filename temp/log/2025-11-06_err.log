@@ -1,0 +1,1158 @@
+16:42:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:43:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:58:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:58:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:01:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:02:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:02:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:03:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:04:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\14_my_app2-arm64.apk"
+result:
+adb: failed to install G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\14_my_app2-arm64.apk: Failure [INSTALL_FAILED_OLDER_SDK: Failed parse during installPackageLI: /data/app/vmdl1879181145.tmp/base.apk (at Binary XML file line #8): Requires newer sdk version #30 (current version is #28)]
+================================================================================
+
+17:04:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.YourCompany.my_app2': File exists
+mkdir: '/sdcard/Android/data/com.YourCompany.my_app2/files': File exists
+================================================================================
+
+17:06:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:07:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:10:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:12:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:13:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:14:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:19:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:20:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:20:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:20:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:21:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\apk\6_4303635_19879-20200519165620_arknights-jp-yostar-0813.mini.shell.signed.apk"
+result:
+warn: resource com.YoStarJP.Arknights:anim/abc_fade_in for config '' is a file reference to 'res/anim/abc_fade_in.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_fade_out for config '' is a file reference to 'res/anim/abc_fade_out.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_grow_fade_in_from_bottom for config '' is a file reference to 'res/anim/abc_grow_fade_in_from_bottom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_popup_enter for config '' is a file reference to 'res/anim/abc_popup_enter.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_popup_exit for config '' is a file reference to 'res/anim/abc_popup_exit.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_shrink_fade_out_from_bottom for config '' is a file reference to 'res/anim/abc_shrink_fade_out_from_bottom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_slide_in_bottom for config '' is a file reference to 'res/anim/abc_slide_in_bottom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_slide_in_top for config '' is a file reference to 'res/anim/abc_slide_in_top.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_slide_out_bottom for config '' is a file reference to 'res/anim/abc_slide_out_bottom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/abc_slide_out_top for config '' is a file reference to 'res/anim/abc_slide_out_top.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_bottom_sheet_slide_in for config '' is a file reference to 'res/anim/design_bottom_sheet_slide_in.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_bottom_sheet_slide_out for config '' is a file reference to 'res/anim/design_bottom_sheet_slide_out.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_snackbar_in for config '' is a file reference to 'res/anim/design_snackbar_in.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_snackbar_out for config '' is a file reference to 'res/anim/design_snackbar_out.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/hs__slide_in_from_left for config '' is a file reference to 'res/anim/hs__slide_in_from_left.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/hs__slide_in_from_right for config '' is a file reference to 'res/anim/hs__slide_in_from_right.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/hs__slide_out_to_left for config '' is a file reference to 'res/anim/hs__slide_out_to_left.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/hs__slide_out_to_right for config '' is a file reference to 'res/anim/hs__slide_out_to_right.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/tooltip_enter for config '' is a file reference to 'res/anim/tooltip_enter.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/tooltip_exit for config '' is a file reference to 'res/anim/tooltip_exit.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_bottom_sheet_slide_in for config 'v21' is a file reference to 'res/anim-v21/design_bottom_sheet_slide_in.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:anim/design_bottom_sheet_slide_out for config 'v21' is a file reference to 'res/anim-v21/design_bottom_sheet_slide_out.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:animator/design_appbar_state_list_animator for config 'v21' is a file reference to 'res/animator-v21/design_appbar_state_list_animator.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_background_cache_hint_selector_material_dark for config '' is a file reference to 'res/color/abc_background_cache_hint_selector_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_background_cache_hint_selector_material_light for config '' is a file reference to 'res/color/abc_background_cache_hint_selector_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_btn_colored_borderless_text_material for config '' is a file reference to 'res/color/abc_btn_colored_borderless_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_btn_colored_text_material for config '' is a file reference to 'res/color/abc_btn_colored_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_hint_foreground_material_dark for config '' is a file reference to 'res/color/abc_hint_foreground_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_hint_foreground_material_light for config '' is a file reference to 'res/color/abc_hint_foreground_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_primary_text_disable_only_material_dark for config '' is a file reference to 'res/color/abc_primary_text_disable_only_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_primary_text_disable_only_material_light for config '' is a file reference to 'res/color/abc_primary_text_disable_only_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_primary_text_material_dark for config '' is a file reference to 'res/color/abc_primary_text_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_primary_text_material_light for config '' is a file reference to 'res/color/abc_primary_text_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_search_url_text for config '' is a file reference to 'res/color/abc_search_url_text.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_secondary_text_material_dark for config '' is a file reference to 'res/color/abc_secondary_text_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_secondary_text_material_light for config '' is a file reference to 'res/color/abc_secondary_text_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_btn_checkable for config '' is a file reference to 'res/color/abc_tint_btn_checkable.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_default for config '' is a file reference to 'res/color/abc_tint_default.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_edittext for config '' is a file reference to 'res/color/abc_tint_edittext.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_seek_thumb for config '' is a file reference to 'res/color/abc_tint_seek_thumb.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_spinner for config '' is a file reference to 'res/color/abc_tint_spinner.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_switch_track for config '' is a file reference to 'res/color/abc_tint_switch_track.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/com_facebook_button_text_color for config '' is a file reference to 'res/color/com_facebook_button_text_color.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/common_google_signin_btn_text_dark for config '' is a file reference to 'res/color/common_google_signin_btn_text_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/common_google_signin_btn_text_light for config '' is a file reference to 'res/color/common_google_signin_btn_text_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/common_google_signin_btn_tint for config '' is a file reference to 'res/color/common_google_signin_btn_tint.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/design_error for config '' is a file reference to 'res/color/design_error.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/design_tint_password_toggle for config '' is a file reference to 'res/color/design_tint_password_toggle.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/switch_thumb_material_dark for config '' is a file reference to 'res/color/switch_thumb_material_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/switch_thumb_material_light for config '' is a file reference to 'res/color/switch_thumb_material_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_btn_colored_borderless_text_material for config 'v23' is a file reference to 'res/color-v23/abc_btn_colored_borderless_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_btn_colored_text_material for config 'v23' is a file reference to 'res/color-v23/abc_btn_colored_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_color_highlight_material for config 'v23' is a file reference to 'res/color-v23/abc_color_highlight_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_btn_checkable for config 'v23' is a file reference to 'res/color-v23/abc_tint_btn_checkable.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_default for config 'v23' is a file reference to 'res/color-v23/abc_tint_default.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_edittext for config 'v23' is a file reference to 'res/color-v23/abc_tint_edittext.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_seek_thumb for config 'v23' is a file reference to 'res/color-v23/abc_tint_seek_thumb.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_spinner for config 'v23' is a file reference to 'res/color-v23/abc_tint_spinner.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/abc_tint_switch_track for config 'v23' is a file reference to 'res/color-v23/abc_tint_switch_track.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:color/design_tint_password_toggle for config 'v23' is a file reference to 'res/color-v23/design_tint_password_toggle.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'anydpi-v21' is a file reference to 'res/drawable-anydpi-v21/design_ic_visibility.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'anydpi-v21' is a file reference to 'res/drawable-anydpi-v21/design_ic_visibility_off.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_borderless_material for config '' is a file reference to 'res/drawable/abc_btn_borderless_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_material for config '' is a file reference to 'res/drawable/abc_btn_check_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_colored_material for config '' is a file reference to 'res/drawable/abc_btn_colored_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_default_mtrl_shape for config '' is a file reference to 'res/drawable/abc_btn_default_mtrl_shape.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_material for config '' is a file reference to 'res/drawable/abc_btn_radio_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_internal_bg for config '' is a file reference to 'res/drawable/abc_cab_background_internal_bg.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_top_material for config '' is a file reference to 'res/drawable/abc_cab_background_top_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_dialog_material_background for config '' is a file reference to 'res/drawable/abc_dialog_material_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_edit_text_material for config '' is a file reference to 'res/drawable/abc_edit_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_ab_back_material for config '' is a file reference to 'res/drawable/abc_ic_ab_back_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_arrow_drop_right_black_24dp for config '' is a file reference to 'res/drawable/abc_ic_arrow_drop_right_black_24dp.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_clear_material for config '' is a file reference to 'res/drawable/abc_ic_clear_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_go_search_api_material for config '' is a file reference to 'res/drawable/abc_ic_go_search_api_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_overflow_material for config '' is a file reference to 'res/drawable/abc_ic_menu_overflow_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_search_api_material for config '' is a file reference to 'res/drawable/abc_ic_search_api_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_voice_search_api_material for config '' is a file reference to 'res/drawable/abc_ic_voice_search_api_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_item_background_holo_dark for config '' is a file reference to 'res/drawable/abc_item_background_holo_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_item_background_holo_light for config '' is a file reference to 'res/drawable/abc_item_background_holo_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_background_transition_holo_dark for config '' is a file reference to 'res/drawable/abc_list_selector_background_transition_holo_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_background_transition_holo_light for config '' is a file reference to 'res/drawable/abc_list_selector_background_transition_holo_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_holo_dark for config '' is a file reference to 'res/drawable/abc_list_selector_holo_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_holo_light for config '' is a file reference to 'res/drawable/abc_list_selector_holo_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_indicator_material for config '' is a file reference to 'res/drawable/abc_ratingbar_indicator_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_material for config '' is a file reference to 'res/drawable/abc_ratingbar_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_small_material for config '' is a file reference to 'res/drawable/abc_ratingbar_small_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_seekbar_thumb_material for config '' is a file reference to 'res/drawable/abc_seekbar_thumb_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_seekbar_tick_mark_material for config '' is a file reference to 'res/drawable/abc_seekbar_tick_mark_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_seekbar_track_material for config '' is a file reference to 'res/drawable/abc_seekbar_track_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_textfield_background_material for config '' is a file reference to 'res/drawable/abc_spinner_textfield_background_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_thumb_material for config '' is a file reference to 'res/drawable/abc_switch_thumb_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_material for config '' is a file reference to 'res/drawable/abc_tab_indicator_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_cursor_material for config '' is a file reference to 'res/drawable/abc_text_cursor_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_material for config '' is a file reference to 'res/drawable/abc_textfield_search_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_vector_test for config '' is a file reference to 'res/drawable/abc_vector_test.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_auth_dialog_background for config '' is a file reference to 'res/drawable/com_facebook_auth_dialog_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_auth_dialog_cancel_background for config '' is a file reference to 'res/drawable/com_facebook_auth_dialog_cancel_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_auth_dialog_header_background for config '' is a file reference to 'res/drawable/com_facebook_auth_dialog_header_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_background for config '' is a file reference to 'res/drawable/com_facebook_button_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon for config '' is a file reference to 'res/drawable/com_facebook_button_icon.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_like_background for config '' is a file reference to 'res/drawable/com_facebook_button_like_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_login_background for config '' is a file reference to 'res/drawable/com_facebook_button_login_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_login_logo for config '' is a file reference to 'res/drawable/com_facebook_button_login_logo.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_login_silver_background for config '' is a file reference to 'res/drawable/com_facebook_button_login_silver_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_favicon_blue for config '' is a file reference to 'res/drawable/com_facebook_favicon_blue.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_focused for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_dark_focused.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_normal for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_dark_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_disabled for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_disabled.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_focused for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_light_focused.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_normal for config '' is a file reference to 'res/drawable/common_google_signin_btn_icon_light_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_focused for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_dark_focused.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_dark_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_disabled for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_disabled.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_focused for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_light_focused.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal for config '' is a file reference to 'res/drawable/common_google_signin_btn_text_light_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_bottom_navigation_item_background for config '' is a file reference to 'res/drawable/design_bottom_navigation_item_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_fab_background for config '' is a file reference to 'res/drawable/design_fab_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_password_eye for config '' is a file reference to 'res/drawable/design_password_eye.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_snackbar_background for config '' is a file reference to 'res/drawable/design_snackbar_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__admin_image_background for config '' is a file reference to 'res/drawable/hs__admin_image_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_progressbar_background for config '' is a file reference to 'res/drawable/hs__attachment_progressbar_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__button_with_border for config '' is a file reference to 'res/drawable/hs__button_with_border.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__circle for config '' is a file reference to 'res/drawable/hs__circle.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__circle_shape_scroll_jump for config '' is a file reference to 'res/drawable/hs__circle_shape_scroll_jump.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__rating_bar for config '' is a file reference to 'res/drawable/hs__rating_bar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__ratingbar_full_empty for config '' is a file reference to 'res/drawable/hs__ratingbar_full_empty.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__ratingbar_full_filled for config '' is a file reference to 'res/drawable/hs__ratingbar_full_filled.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__ring for config '' is a file reference to 'res/drawable/hs__ring.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__rounded_corner_filled_rectangle_user_option_selection for config '' is a file reference to 'res/drawable/hs__rounded_corner_filled_rectangle_user_option_selection.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__rounded_corner_rectangle for config '' is a file reference to 'res/drawable/hs__rounded_corner_rectangle.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__rounded_corner_rectangle_user_option_selection for config '' is a file reference to 'res/drawable/hs__rounded_corner_rectangle_user_option_selection.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/navigation_empty_icon for config '' is a file reference to 'res/drawable/navigation_empty_icon.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg for config '' is a file reference to 'res/drawable/notification_bg.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low for config '' is a file reference to 'res/drawable/notification_bg_low.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_icon_background for config '' is a file reference to 'res/drawable/notification_icon_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_tile_bg for config '' is a file reference to 'res/drawable/notification_tile_bg.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tooltip_frame_dark for config '' is a file reference to 'res/drawable/tooltip_frame_dark.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tooltip_frame_light for config '' is a file reference to 'res/drawable/tooltip_frame_light.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__login_btn for config '' is a file reference to 'res/drawable/tw__login_btn.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__login_btn_default for config '' is a file reference to 'res/drawable/tw__login_btn_default.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__login_btn_disabled for config '' is a file reference to 'res/drawable/tw__login_btn_disabled.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__login_btn_pressed for config '' is a file reference to 'res/drawable/tw__login_btn_pressed.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/unity_static_splash for config '' is a file reference to 'res/drawable/unity_static_splash.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal for config 'watch-v20' is a file reference to 'res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_disabled for config 'watch-v20' is a file reference to 'res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal for config 'watch-v20' is a file reference to 'res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_hide_password__0 for config 'v21' is a file reference to 'res/drawable-v21/$avd_hide_password__0.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_hide_password__1 for config 'v21' is a file reference to 'res/drawable-v21/$avd_hide_password__1.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_hide_password__2 for config 'v21' is a file reference to 'res/drawable-v21/$avd_hide_password__2.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_show_password__0 for config 'v21' is a file reference to 'res/drawable-v21/$avd_show_password__0.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_show_password__1 for config 'v21' is a file reference to 'res/drawable-v21/$avd_show_password__1.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/$avd_show_password__2 for config 'v21' is a file reference to 'res/drawable-v21/$avd_show_password__2.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_action_bar_item_background_material for config 'v21' is a file reference to 'res/drawable-v21/abc_action_bar_item_background_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_colored_material for config 'v21' is a file reference to 'res/drawable-v21/abc_btn_colored_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_edit_text_material for config 'v21' is a file reference to 'res/drawable-v21/abc_edit_text_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_indicator_material for config 'v21' is a file reference to 'res/drawable-v21/abc_ratingbar_indicator_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_material for config 'v21' is a file reference to 'res/drawable-v21/abc_ratingbar_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ratingbar_small_material for config 'v21' is a file reference to 'res/drawable-v21/abc_ratingbar_small_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/avd_hide_password for config 'v21' is a file reference to 'res/drawable-v21/avd_hide_password.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/avd_show_password for config 'v21' is a file reference to 'res/drawable-v21/avd_show_password.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_bottom_navigation_item_background for config 'v21' is a file reference to 'res/drawable-v21/design_bottom_navigation_item_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_password_eye for config 'v21' is a file reference to 'res/drawable-v21/design_password_eye.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_action_background for config 'v21' is a file reference to 'res/drawable-v21/notification_action_background.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_control_background_material for config 'v23' is a file reference to 'res/drawable-v23/abc_control_background_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'ldpi' is a file reference to 'res/drawable-ldpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__logo for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__logo.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'ldpi' is a file reference to 'res/drawable-ldpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ab_share_pack_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_000 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_015 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_000 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_015 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00001 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00012 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_top_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_commit_search_api_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_paste_mtrl_am_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_selectall_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_share_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_16dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_36dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_48dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_16dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_half_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_36dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_half_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_48dp for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_ic_star_half_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_divider_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_focused_holo for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_focused_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_longpressed_holo for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_longpressed_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_dark for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_pressed_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_light for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_pressed_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_dark for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_light for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_menu_hardkey_panel_mtrl_mult for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_popup_background_mtrl_mult for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_off_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_000 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_005 for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_primary_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_track_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_track_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_dark for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_left_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_light for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_left_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_dark for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_middle_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_light for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_middle_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_dark for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_right_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_light for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_text_select_handle_right_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_activated_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_default_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_activated_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_default_mtrl_alpha for config 'mdpi' is a file reference to 'res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'mdpi' is a file reference to 'res/drawable-mdpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_blue for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_button_icon_blue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_white for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_button_icon_white.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_like_icon_selected for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_button_like_icon_selected.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_close for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_close.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_profile_picture_blank_portrait for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_profile_picture_blank_portrait.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_profile_picture_blank_square for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_profile_picture_blank_square.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_black_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_bottomnub for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_topnub for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_black_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_xout for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_black_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_bottomnub for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_topnub for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_xout for config 'mdpi' is a file reference to 'res/drawable-mdpi/com_facebook_tooltip_blue_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_normal_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/common_google_signin_btn_icon_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_normal_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/common_google_signin_btn_icon_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/common_google_signin_btn_text_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/common_google_signin_btn_text_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'mdpi' is a file reference to 'res/drawable-mdpi/design_ic_visibility.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'mdpi' is a file reference to 'res/drawable-mdpi/design_ic_visibility_off.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_disabled_color_18 for config 'mdpi' is a file reference to 'res/drawable-mdpi/googleg_disabled_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_standard_color_18 for config 'mdpi' is a file reference to 'res/drawable-mdpi/googleg_standard_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__actionbar_compat_shadow for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__actionbar_compat_shadow.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_book_now for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_book_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_chat_now for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_chat_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_dislike for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_dislike.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_download for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_help for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_help.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_later for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_later.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_launch for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_launch.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_like for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_like.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_no for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_rate for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_rate.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_reply for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_reply.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_send_feedback for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_send_feedback.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_share for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_share.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_shop_now for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_shop_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_yes for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_delete_icon for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_delete_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_cover for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_inbox_default_cover.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_icon for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_inbox_default_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_expired_campaign for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__cam_inbox_expired_campaign.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_admin for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__chat_bubble_admin.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_user for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__chat_bubble_user.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__error_icon for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__error_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__logo for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__logo.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__screenshot_clear for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__screenshot_clear.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__scroll_jump_indicator for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__scroll_jump_indicator.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs_action_retry for config 'mdpi' is a file reference to 'res/drawable-mdpi/hs_action_retry.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/ic_launcher for config 'mdpi' is a file reference to 'res/drawable-mdpi/ic_launcher.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_normal for config 'mdpi' is a file reference to 'res/drawable-mdpi/notification_bg_low_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_pressed for config 'mdpi' is a file reference to 'res/drawable-mdpi/notification_bg_low_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal for config 'mdpi' is a file reference to 'res/drawable-mdpi/notification_bg_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal_pressed for config 'mdpi' is a file reference to 'res/drawable-mdpi/notification_bg_normal_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notify_panel_notification_icon_bg for config 'mdpi' is a file reference to 'res/drawable-mdpi/notify_panel_notification_icon_bg.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__ic_logo_default for config 'mdpi' is a file reference to 'res/drawable-mdpi/tw__ic_logo_default.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'ldrtl-mdpi-v17' is a file reference to 'res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'ldrtl-mdpi-v17' is a file reference to 'res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'ldrtl-mdpi-v17' is a file reference to 'res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ab_share_pack_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_000 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_015 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_000 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_015 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00001 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00012 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_top_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_commit_search_api_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_paste_mtrl_am_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_selectall_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_share_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_16dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_36dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_48dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_16dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_half_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_36dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_half_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_48dp for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_ic_star_half_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_divider_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_focused_holo for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_focused_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_longpressed_holo for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_longpressed_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_dark for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_pressed_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_light for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_pressed_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_dark for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_light for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_menu_hardkey_panel_mtrl_mult for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_popup_background_mtrl_mult for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_off_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_000 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_005 for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_primary_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_track_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_track_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_dark for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_left_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_light for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_left_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_dark for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_middle_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_light for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_middle_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_dark for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_right_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_light for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_text_select_handle_right_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_activated_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_default_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_activated_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_default_mtrl_alpha for config 'hdpi' is a file reference to 'res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'hdpi' is a file reference to 'res/drawable-hdpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_blue for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_button_icon_blue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_white for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_button_icon_white.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_like_icon_selected for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_button_like_icon_selected.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_close for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_close.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_black_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_bottomnub for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_topnub for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_black_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_xout for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_black_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_bottomnub for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_topnub for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_xout for config 'hdpi' is a file reference to 'res/drawable-hdpi/com_facebook_tooltip_blue_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_full_open_on_phone for config 'hdpi' is a file reference to 'res/drawable-hdpi/common_full_open_on_phone.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_normal_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/common_google_signin_btn_icon_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_normal_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/common_google_signin_btn_icon_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/common_google_signin_btn_text_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/common_google_signin_btn_text_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'hdpi' is a file reference to 'res/drawable-hdpi/design_ic_visibility.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'hdpi' is a file reference to 'res/drawable-hdpi/design_ic_visibility_off.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_disabled_color_18 for config 'hdpi' is a file reference to 'res/drawable-hdpi/googleg_disabled_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_standard_color_18 for config 'hdpi' is a file reference to 'res/drawable-hdpi/googleg_standard_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__actionbar_compat_shadow for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__actionbar_compat_shadow.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_book_now for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_book_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_chat_now for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_chat_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_dislike for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_dislike.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_download for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_help for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_help.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_later for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_later.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_launch for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_launch.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_like for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_like.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_no for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_rate for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_rate.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_reply for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_reply.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_send_feedback for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_send_feedback.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_share for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_share.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_shop_now for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_shop_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_yes for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_delete_icon for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_delete_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_cover for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_inbox_default_cover.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_icon for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_inbox_default_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_expired_campaign for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__cam_inbox_expired_campaign.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_admin for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__chat_bubble_admin.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_rounded for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__chat_bubble_rounded.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_user for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__chat_bubble_user.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__error_icon for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__error_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__logo for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__logo.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__screenshot_clear for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__screenshot_clear.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__scroll_jump_indicator for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__scroll_jump_indicator.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs_action_retry for config 'hdpi' is a file reference to 'res/drawable-hdpi/hs_action_retry.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/ic_launcher for config 'hdpi' is a file reference to 'res/drawable-hdpi/ic_launcher.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_normal for config 'hdpi' is a file reference to 'res/drawable-hdpi/notification_bg_low_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_pressed for config 'hdpi' is a file reference to 'res/drawable-hdpi/notification_bg_low_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal for config 'hdpi' is a file reference to 'res/drawable-hdpi/notification_bg_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal_pressed for config 'hdpi' is a file reference to 'res/drawable-hdpi/notification_bg_normal_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notify_panel_notification_icon_bg for config 'hdpi' is a file reference to 'res/drawable-hdpi/notify_panel_notification_icon_bg.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__ic_logo_default for config 'hdpi' is a file reference to 'res/drawable-hdpi/tw__ic_logo_default.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'ldrtl-hdpi-v17' is a file reference to 'res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'ldrtl-hdpi-v17' is a file reference to 'res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'ldrtl-hdpi-v17' is a file reference to 'res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ab_share_pack_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_000 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_015 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_000 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_015 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00001 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00012 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_top_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_commit_search_api_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_paste_mtrl_am_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_selectall_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_share_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_16dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_36dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_48dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_16dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_half_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_36dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_half_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_48dp for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_ic_star_half_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_divider_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_focused_holo for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_focused_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_longpressed_holo for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_longpressed_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_dark for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_light for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_pressed_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_dark for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_light for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_menu_hardkey_panel_mtrl_mult for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_popup_background_mtrl_mult for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_off_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_000 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_005 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_primary_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_track_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_track_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_dark for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_left_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_light for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_left_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_dark for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_light for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_dark for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_right_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_light for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_text_select_handle_right_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_activated_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_default_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_activated_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_default_mtrl_alpha for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_blue for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_button_icon_blue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_white for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_button_icon_white.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_like_icon_selected for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_button_like_icon_selected.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_close for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_close.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_bottomnub for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_topnub for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_black_xout for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_black_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_bottomnub for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_topnub for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_tooltip_blue_xout for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_full_open_on_phone for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/common_full_open_on_phone.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_normal_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_normal_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/common_google_signin_btn_icon_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/common_google_signin_btn_text_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/common_google_signin_btn_text_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/design_ic_visibility.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/design_ic_visibility_off.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_disabled_color_18 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/googleg_disabled_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_standard_color_18 for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/googleg_standard_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__actionbar_compat_shadow for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__actionbar_compat_shadow.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_book_now for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_book_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_chat_now for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_chat_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_dislike for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_dislike.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_download for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_help for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_help.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_later for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_later.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_launch for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_launch.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_like for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_like.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_no for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_rate for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_rate.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_reply for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_reply.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_send_feedback for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_send_feedback.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_share for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_share.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_shop_now for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_shop_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_yes for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_delete_icon for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_delete_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_cover for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_inbox_default_cover.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_icon for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_inbox_default_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_expired_campaign for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__cam_inbox_expired_campaign.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_admin for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__chat_bubble_admin.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_user for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__chat_bubble_user.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__error_icon for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__error_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__logo for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__logo.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__screenshot_clear for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__screenshot_clear.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__scroll_jump_indicator for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__scroll_jump_indicator.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs_action_retry for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/hs_action_retry.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/ic_launcher for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/ic_launcher.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_normal for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/notification_bg_low_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_low_pressed for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/notification_bg_low_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/notification_bg_normal.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notification_bg_normal_pressed for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/notification_bg_normal_pressed.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/notify_panel_notification_icon_bg for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/notify_panel_notification_icon_bg.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__ic_logo_default for config 'xhdpi' is a file reference to 'res/drawable-xhdpi/tw__ic_logo_default.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'ldrtl-xhdpi-v17' is a file reference to 'res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'ldrtl-xhdpi-v17' is a file reference to 'res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'ldrtl-xhdpi-v17' is a file reference to 'res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ab_share_pack_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_000 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_015 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_000 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_015 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00001 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00012 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_cab_background_top_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_commit_search_api_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_paste_mtrl_am_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_selectall_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_share_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_16dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_36dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_48dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_16dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_half_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_36dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_half_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_48dp for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_ic_star_half_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_divider_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_focused_holo for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_focused_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_longpressed_holo for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_longpressed_holo.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_dark for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_pressed_holo_light for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_dark for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_list_selector_disabled_holo_light for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_menu_hardkey_panel_mtrl_mult for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_popup_background_mtrl_mult for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_off_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_000 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_005 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_primary_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_track_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_track_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_dark for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_light for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_dark for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_middle_mtrl_light for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_dark for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_light for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_activated_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_default_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_activated_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_textfield_search_default_mtrl_alpha for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_blue for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/com_facebook_button_icon_blue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_icon_white for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/com_facebook_button_icon_white.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/com_facebook_button_like_icon_selected for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_dark_normal_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_icon_light_normal_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_dark_normal_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/common_google_signin_btn_text_light_normal_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/common_google_signin_btn_text_light_normal_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/design_ic_visibility.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/design_ic_visibility_off.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_disabled_color_18 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/googleg_disabled_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/googleg_standard_color_18 for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/googleg_standard_color_18.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_book_now for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_book_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_chat_now for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_chat_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_dislike for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_dislike.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_download for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_help for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_help.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_later for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_later.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_launch for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_launch.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_like for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_like.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_no for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_rate for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_rate.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_reply for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_reply.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_send_feedback for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_send_feedback.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_share for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_share.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_shop_now for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_shop_now.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_action_yes for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_delete_icon for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_delete_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_cover for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_inbox_default_cover.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_default_icon for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_inbox_default_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__cam_inbox_expired_campaign for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__cam_inbox_expired_campaign.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_admin for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__chat_bubble_admin.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_user for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__chat_bubble_user.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__error_icon for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__error_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__screenshot_clear for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__screenshot_clear.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__scroll_jump_indicator for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__scroll_jump_indicator.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs_action_retry for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/hs_action_retry.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/ic_launcher for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/ic_launcher.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/tw__ic_logo_default for config 'xxhdpi' is a file reference to 'res/drawable-xxhdpi/tw__ic_logo_default.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'ldrtl-xxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'ldrtl-xxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'ldrtl-xxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_000 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_check_to_on_mtrl_015 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_000 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_radio_to_on_mtrl_015 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00001 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_btn_switch_to_on_mtrl_00012 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_paste_mtrl_am_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_selectall_mtrl_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_share_mtrl_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_16dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_36dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_black_48dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_16dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_half_black_16dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_36dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_half_black_36dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_star_half_black_48dp for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_ic_star_half_black_48dp.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_000 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_scrubber_control_to_pressed_mtrl_005 for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_switch_track_mtrl_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_tab_indicator_mtrl_alpha for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_dark for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_left_mtrl_light for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_dark for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_dark.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_text_select_handle_right_mtrl_light for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_light.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/app_icon for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/app_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/design_ic_visibility.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/design_ic_visibility_off for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/design_ic_visibility_off.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_filled for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs___star_filled.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs___star_hollow for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs___star_hollow.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__action_download.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_download_background for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__action_download_background.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_no for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__action_no.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_search for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__action_search.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__action_yes for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__action_yes.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attach_screenshot_action_button for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__attach_screenshot_action_button.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__attachment_icon for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__attachment_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_admin for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__chat_bubble_admin.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_bubble_user for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__chat_bubble_user.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__chat_notif for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__chat_notif.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__disclosure for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__disclosure.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__error_icon for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__error_icon.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__network_error for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__network_error.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__pill.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__pill_small for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__pill_small.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__placeholder_image for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__placeholder_image.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__report_issue for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__report_issue.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__screenshot_clear for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__screenshot_clear.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__scroll_jump_indicator for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__scroll_jump_indicator.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__search_on_conversation_done for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__search_on_conversation_done.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__send for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__send.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs__skip_pill_background for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs__skip_pill_background.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/hs_action_retry for config 'xxxhdpi' is a file reference to 'res/drawable-xxxhdpi/hs_action_retry.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_copy_mtrl_am_alpha for config 'ldrtl-xxxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_ic_menu_cut_mtrl_alpha for config 'ldrtl-xxxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:drawable/abc_spinner_mtrl_am_alpha for config 'ldrtl-xxxhdpi-v17' is a file reference to 'res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_bar_title_item for config '' is a file reference to 'res/layout/abc_action_bar_title_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_bar_up_container for config '' is a file reference to 'res/layout/abc_action_bar_up_container.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_bar_view_list_nav_layout for config '' is a file reference to 'res/layout/abc_action_bar_view_list_nav_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_menu_item_layout for config '' is a file reference to 'res/layout/abc_action_menu_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_menu_layout for config '' is a file reference to 'res/layout/abc_action_menu_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_mode_bar for config '' is a file reference to 'res/layout/abc_action_mode_bar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_mode_close_item_material for config '' is a file reference to 'res/layout/abc_action_mode_close_item_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_activity_chooser_view for config '' is a file reference to 'res/layout/abc_activity_chooser_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_activity_chooser_view_list_item for config '' is a file reference to 'res/layout/abc_activity_chooser_view_list_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_button_bar_material for config '' is a file reference to 'res/layout/abc_alert_dialog_button_bar_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_material for config '' is a file reference to 'res/layout/abc_alert_dialog_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_title_material for config '' is a file reference to 'res/layout/abc_alert_dialog_title_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_dialog_title_material for config '' is a file reference to 'res/layout/abc_dialog_title_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_expanded_menu_layout for config '' is a file reference to 'res/layout/abc_expanded_menu_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_list_menu_item_checkbox for config '' is a file reference to 'res/layout/abc_list_menu_item_checkbox.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_list_menu_item_icon for config '' is a file reference to 'res/layout/abc_list_menu_item_icon.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_list_menu_item_layout for config '' is a file reference to 'res/layout/abc_list_menu_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_list_menu_item_radio for config '' is a file reference to 'res/layout/abc_list_menu_item_radio.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_popup_menu_header_item_layout for config '' is a file reference to 'res/layout/abc_popup_menu_header_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_popup_menu_item_layout for config '' is a file reference to 'res/layout/abc_popup_menu_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_content_include for config '' is a file reference to 'res/layout/abc_screen_content_include.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_simple for config '' is a file reference to 'res/layout/abc_screen_simple.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_simple_overlay_action_mode for config '' is a file reference to 'res/layout/abc_screen_simple_overlay_action_mode.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_toolbar for config '' is a file reference to 'res/layout/abc_screen_toolbar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_search_dropdown_item_icons_2line for config '' is a file reference to 'res/layout/abc_search_dropdown_item_icons_2line.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_search_view for config '' is a file reference to 'res/layout/abc_search_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_select_dialog_material for config '' is a file reference to 'res/layout/abc_select_dialog_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/activity_unity for config '' is a file reference to 'res/layout/activity_unity.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/agentweb_error_page for config '' is a file reference to 'res/layout/agentweb_error_page.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_activity_layout for config '' is a file reference to 'res/layout/com_facebook_activity_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_device_auth_dialog_fragment for config '' is a file reference to 'res/layout/com_facebook_device_auth_dialog_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_login_fragment for config '' is a file reference to 'res/layout/com_facebook_login_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_smart_device_dialog_fragment for config '' is a file reference to 'res/layout/com_facebook_smart_device_dialog_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_tooltip_bubble for config '' is a file reference to 'res/layout/com_facebook_tooltip_bubble.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_bottom_navigation_item for config '' is a file reference to 'res/layout/design_bottom_navigation_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_bottom_sheet_dialog for config '' is a file reference to 'res/layout/design_bottom_sheet_dialog.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_snackbar for config '' is a file reference to 'res/layout/design_layout_snackbar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_snackbar_include for config '' is a file reference to 'res/layout/design_layout_snackbar_include.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_tab_icon for config '' is a file reference to 'res/layout/design_layout_tab_icon.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_tab_text for config '' is a file reference to 'res/layout/design_layout_tab_text.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_menu_item_action_area for config '' is a file reference to 'res/layout/design_menu_item_action_area.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_item for config '' is a file reference to 'res/layout/design_navigation_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_item_header for config '' is a file reference to 'res/layout/design_navigation_item_header.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_item_separator for config '' is a file reference to 'res/layout/design_navigation_item_separator.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_item_subheader for config '' is a file reference to 'res/layout/design_navigation_item_subheader.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_menu for config '' is a file reference to 'res/layout/design_navigation_menu.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_navigation_menu_item for config '' is a file reference to 'res/layout/design_navigation_menu_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_text_input_password_icon for config '' is a file reference to 'res/layout/design_text_input_password_icon.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__action_download_layout for config '' is a file reference to 'res/layout/hs__action_download_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__action_view_search for config '' is a file reference to 'res/layout/hs__action_view_search.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__authentication_failure_fragment for config '' is a file reference to 'res/layout/hs__authentication_failure_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__badge_layout for config '' is a file reference to 'res/layout/hs__badge_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_action_view_search for config '' is a file reference to 'res/layout/hs__campaign_action_view_search.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_detail_fragment for config '' is a file reference to 'res/layout/hs__campaign_detail_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_expired_message_view for config '' is a file reference to 'res/layout/hs__campaign_expired_message_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_inbox_fragment for config '' is a file reference to 'res/layout/hs__campaign_inbox_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_list_fragment for config '' is a file reference to 'res/layout/hs__campaign_list_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_parent_activity for config '' is a file reference to 'res/layout/hs__campaign_parent_activity.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_recycler_view_item for config '' is a file reference to 'res/layout/hs__campaign_recycler_view_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_fragment for config '' is a file reference to 'res/layout/hs__conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_layout for config '' is a file reference to 'res/layout/hs__conversation_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_replyboxview for config '' is a file reference to 'res/layout/hs__conversation_replyboxview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversational_labelledreplyboxview for config '' is a file reference to 'res/layout/hs__conversational_labelledreplyboxview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__csat_dialog for config '' is a file reference to 'res/layout/hs__csat_dialog.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__csat_holder for config '' is a file reference to 'res/layout/hs__csat_holder.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__csat_view for config '' is a file reference to 'res/layout/hs__csat_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__dynamic_form_fragment for config '' is a file reference to 'res/layout/hs__dynamic_form_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__faq_flow_fragment for config '' is a file reference to 'res/layout/hs__faq_flow_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__faq_fragment for config '' is a file reference to 'res/layout/hs__faq_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__history_loading_view_layout for config '' is a file reference to 'res/layout/hs__history_loading_view_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__issue_archival_message_view_holder for config '' is a file reference to 'res/layout/hs__issue_archival_message_view_holder.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__messages_list_footer for config '' is a file reference to 'res/layout/hs__messages_list_footer.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_admin_suggesstion_item for config '' is a file reference to 'res/layout/hs__msg_admin_suggesstion_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_admin_suggesstions_container for config '' is a file reference to 'res/layout/hs__msg_admin_suggesstions_container.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_agent_typing for config '' is a file reference to 'res/layout/hs__msg_agent_typing.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_attachment_generic for config '' is a file reference to 'res/layout/hs__msg_attachment_generic.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_attachment_image for config '' is a file reference to 'res/layout/hs__msg_attachment_image.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_publish_id_layout for config '' is a file reference to 'res/layout/hs__msg_publish_id_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_request_screenshot for config '' is a file reference to 'res/layout/hs__msg_request_screenshot.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_review_request for config '' is a file reference to 'res/layout/hs__msg_review_request.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_screenshot_status for config '' is a file reference to 'res/layout/hs__msg_screenshot_status.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_system_conversation_redacted_layout for config '' is a file reference to 'res/layout/hs__msg_system_conversation_redacted_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_system_divider_layout for config '' is a file reference to 'res/layout/hs__msg_system_divider_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_system_layout for config '' is a file reference to 'res/layout/hs__msg_system_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_txt_admin for config '' is a file reference to 'res/layout/hs__msg_txt_admin.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_txt_user for config '' is a file reference to 'res/layout/hs__msg_txt_user.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_user_selectable_option for config '' is a file reference to 'res/layout/hs__msg_user_selectable_option.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_user_selectable_options_container for config '' is a file reference to 'res/layout/hs__msg_user_selectable_options_container.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__new_conversation_fragment for config '' is a file reference to 'res/layout/hs__new_conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__new_conversation_layout for config '' is a file reference to 'res/layout/hs__new_conversation_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__parent_activity for config '' is a file reference to 'res/layout/hs__parent_activity.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__question_list_fragment for config '' is a file reference to 'res/layout/hs__question_list_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__screenshot_preview_fragment for config '' is a file reference to 'res/layout/hs__screenshot_preview_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__screenshot_preview_layout for config '' is a file reference to 'res/layout/hs__screenshot_preview_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_fragment for config '' is a file reference to 'res/layout/hs__search_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_list_footer for config '' is a file reference to 'res/layout/hs__search_list_footer.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_footer for config '' is a file reference to 'res/layout/hs__search_result_footer.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_fragment for config '' is a file reference to 'res/layout/hs__search_result_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_header for config '' is a file reference to 'res/layout/hs__search_result_header.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_layout for config '' is a file reference to 'res/layout/hs__search_result_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__section_divider for config '' is a file reference to 'res/layout/hs__section_divider.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__section_list_fragment for config '' is a file reference to 'res/layout/hs__section_list_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__section_pager_fragment for config '' is a file reference to 'res/layout/hs__section_pager_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__simple_list_item_1 for config '' is a file reference to 'res/layout/hs__simple_list_item_1.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__single_question_fragment for config '' is a file reference to 'res/layout/hs__single_question_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__single_question_layout_with_cardview for config '' is a file reference to 'res/layout/hs__single_question_layout_with_cardview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__support_fragment for config '' is a file reference to 'res/layout/hs__support_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__user_setup_fragment for config '' is a file reference to 'res/layout/hs__user_setup_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs_simple_recycler_view_item for config '' is a file reference to 'res/layout/hs_simple_recycler_view_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action for config '' is a file reference to 'res/layout/notification_action.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action_tombstone for config '' is a file reference to 'res/layout/notification_action_tombstone.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_media_action for config '' is a file reference to 'res/layout/notification_media_action.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_media_cancel_action for config '' is a file reference to 'res/layout/notification_media_cancel_action.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media for config '' is a file reference to 'res/layout/notification_template_big_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_custom for config '' is a file reference to 'res/layout/notification_template_big_media_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_narrow for config '' is a file reference to 'res/layout/notification_template_big_media_narrow.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_narrow_custom for config '' is a file reference to 'res/layout/notification_template_big_media_narrow_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_custom_big for config '' is a file reference to 'res/layout/notification_template_custom_big.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_icon_group for config '' is a file reference to 'res/layout/notification_template_icon_group.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_lines_media for config '' is a file reference to 'res/layout/notification_template_lines_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_media for config '' is a file reference to 'res/layout/notification_template_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_media_custom for config '' is a file reference to 'res/layout/notification_template_media_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_part_chronometer for config '' is a file reference to 'res/layout/notification_template_part_chronometer.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_part_time for config '' is a file reference to 'res/layout/notification_template_part_time.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/others_main for config '' is a file reference to 'res/layout/others_main.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/select_dialog_item_material for config '' is a file reference to 'res/layout/select_dialog_item_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/select_dialog_multichoice_material for config '' is a file reference to 'res/layout/select_dialog_multichoice_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/select_dialog_singlechoice_material for config '' is a file reference to 'res/layout/select_dialog_singlechoice_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/support_simple_spinner_dropdown_item for config '' is a file reference to 'res/layout/support_simple_spinner_dropdown_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/tooltip for config '' is a file reference to 'res/layout/tooltip.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/tw__activity_oauth for config '' is a file reference to 'res/layout/tw__activity_oauth.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_snackbar for config 'sw600dp' is a file reference to 'res/layout-sw600dp/design_layout_snackbar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_fragment for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__faq_flow_fragment for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__faq_flow_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__new_conversation_fragment for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__new_conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__screenshot_preview_fragment for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__screenshot_preview_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_fragment for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__search_result_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__single_question_layout_with_cardview for config 'sw600dp' is a file reference to 'res/layout-sw600dp/hs__single_question_layout_with_cardview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_fragment for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__faq_flow_fragment for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__faq_flow_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__new_conversation_fragment for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__new_conversation_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__screenshot_preview_fragment for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__screenshot_preview_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__search_result_fragment for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__search_result_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__single_question_layout_with_cardview for config 'sw720dp' is a file reference to 'res/layout-sw720dp/hs__single_question_layout_with_cardview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_action_mode_close_item_material for config 'v17' is a file reference to 'res/layout-v17/abc_action_mode_close_item_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_button_bar_material for config 'v17' is a file reference to 'res/layout-v17/abc_alert_dialog_button_bar_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_title_material for config 'v17' is a file reference to 'res/layout-v17/abc_alert_dialog_title_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_dialog_title_material for config 'v17' is a file reference to 'res/layout-v17/abc_dialog_title_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_popup_menu_header_item_layout for config 'v17' is a file reference to 'res/layout-v17/abc_popup_menu_header_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_popup_menu_item_layout for config 'v17' is a file reference to 'res/layout-v17/abc_popup_menu_item_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_search_view for config 'v17' is a file reference to 'res/layout-v17/abc_search_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_select_dialog_material for config 'v17' is a file reference to 'res/layout-v17/abc_select_dialog_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_device_auth_dialog_fragment for config 'v17' is a file reference to 'res/layout-v17/com_facebook_device_auth_dialog_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/com_facebook_smart_device_dialog_fragment for config 'v17' is a file reference to 'res/layout-v17/com_facebook_smart_device_dialog_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/design_layout_snackbar_include for config 'v17' is a file reference to 'res/layout-v17/design_layout_snackbar_include.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__badge_layout for config 'v17' is a file reference to 'res/layout-v17/hs__badge_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversation_layout for config 'v17' is a file reference to 'res/layout-v17/hs__conversation_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__conversational_labelledreplyboxview for config 'v17' is a file reference to 'res/layout-v17/hs__conversational_labelledreplyboxview.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__csat_dialog for config 'v17' is a file reference to 'res/layout-v17/hs__csat_dialog.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__csat_view for config 'v17' is a file reference to 'res/layout-v17/hs__csat_view.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__history_loading_view_layout for config 'v17' is a file reference to 'res/layout-v17/hs__history_loading_view_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_admin_suggesstion_item for config 'v17' is a file reference to 'res/layout-v17/hs__msg_admin_suggesstion_item.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_admin_suggesstions_container for config 'v17' is a file reference to 'res/layout-v17/hs__msg_admin_suggesstions_container.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_agent_typing for config 'v17' is a file reference to 'res/layout-v17/hs__msg_agent_typing.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_attachment_generic for config 'v17' is a file reference to 'res/layout-v17/hs__msg_attachment_generic.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_attachment_image for config 'v17' is a file reference to 'res/layout-v17/hs__msg_attachment_image.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_request_screenshot for config 'v17' is a file reference to 'res/layout-v17/hs__msg_request_screenshot.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_review_request for config 'v17' is a file reference to 'res/layout-v17/hs__msg_review_request.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_txt_admin for config 'v17' is a file reference to 'res/layout-v17/hs__msg_txt_admin.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_txt_user for config 'v17' is a file reference to 'res/layout-v17/hs__msg_txt_user.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_user_selectable_option for config 'v17' is a file reference to 'res/layout-v17/hs__msg_user_selectable_option.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__msg_user_selectable_options_container for config 'v17' is a file reference to 'res/layout-v17/hs__msg_user_selectable_options_container.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__new_conversation_layout for config 'v17' is a file reference to 'res/layout-v17/hs__new_conversation_layout.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__support_fragment for config 'v17' is a file reference to 'res/layout-v17/hs__support_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action for config 'v17' is a file reference to 'res/layout-v17/notification_action.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action_tombstone for config 'v17' is a file reference to 'res/layout-v17/notification_action_tombstone.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media for config 'v17' is a file reference to 'res/layout-v17/notification_template_big_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_custom for config 'v17' is a file reference to 'res/layout-v17/notification_template_big_media_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_narrow for config 'v17' is a file reference to 'res/layout-v17/notification_template_big_media_narrow.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_big_media_narrow_custom for config 'v17' is a file reference to 'res/layout-v17/notification_template_big_media_narrow_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_custom_big for config 'v17' is a file reference to 'res/layout-v17/notification_template_custom_big.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_lines_media for config 'v17' is a file reference to 'res/layout-v17/notification_template_lines_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_media for config 'v17' is a file reference to 'res/layout-v17/notification_template_media.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_media_custom for config 'v17' is a file reference to 'res/layout-v17/notification_template_media_custom.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/select_dialog_multichoice_material for config 'v17' is a file reference to 'res/layout-v17/select_dialog_multichoice_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/select_dialog_singlechoice_material for config 'v17' is a file reference to 'res/layout-v17/select_dialog_singlechoice_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/tooltip for config 'v17' is a file reference to 'res/layout-v17/tooltip.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_toolbar for config 'v21' is a file reference to 'res/layout-v21/abc_screen_toolbar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action for config 'v21' is a file reference to 'res/layout-v21/notification_action.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_action_tombstone for config 'v21' is a file reference to 'res/layout-v21/notification_action_tombstone.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_custom_big for config 'v21' is a file reference to 'res/layout-v21/notification_template_custom_big.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/notification_template_icon_group for config 'v21' is a file reference to 'res/layout-v21/notification_template_icon_group.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_alert_dialog_button_bar_material for config 'v22' is a file reference to 'res/layout-v22/abc_alert_dialog_button_bar_material.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/abc_screen_toolbar for config 'v26' is a file reference to 'res/layout-v26/abc_screen_toolbar.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:layout/hs__campaign_inbox_fragment for config 'sw600dp-land' is a file reference to 'res/layout-sw600dp-land/hs__campaign_inbox_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:menu/hs__campaign_list_item_menu for config '' is a file reference to 'res/menu/hs__campaign_list_item_menu.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:menu/hs__campaign_list_menu for config '' is a file reference to 'res/menu/hs__campaign_list_menu.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:menu/hs__support_fragment for config '' is a file reference to 'res/menu/hs__support_fragment.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:raw/non_round_corner_device_list for config '' is a file reference to 'res/raw/non_round_corner_device_list' but no such path exists.
+warn: resource com.YoStarJP.Arknights:xml/airisdk_network_security_config for config '' is a file reference to 'res/xml/airisdk_network_security_config.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:xml/hs__provider_paths for config '' is a file reference to 'res/xml/hs__provider_paths.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:xml/network_security_config for config '' is a file reference to 'res/xml/network_security_config.xml' but no such path exists.
+warn: resource com.YoStarJP.Arknights:xml/web_files_public for config '' is a file reference to 'res/xml/web_files_public.xml' but no such path exists.
+================================================================================
+
+17:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:21:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:22:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:22:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+

@@ -1,0 +1,166 @@
+09:35:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [-99]
+================================================================================
+
+09:35:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:39:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+09:39:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:47:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+09:47:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:47:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+^C================================================================================
+
+09:51:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+09:51:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:56:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+09:57:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+09:57:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:19:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:25:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+10:25:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:30:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+10:30:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb': File exists
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:32:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:34:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+10:34:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:38:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+adb: failed to install E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk: Failure [-99]
+================================================================================
+
+10:38:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb': File exists
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+

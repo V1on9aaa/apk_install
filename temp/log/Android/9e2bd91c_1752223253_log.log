@@ -1,0 +1,62 @@
+[2025/06/24 10:52:25]GCLOUD_VERSION_TP_7.7.011.40593
+[2025/06/24 10:52:25]android ver:7.7.11.40593 20230522
+[2025/06/24 10:52:25]{
+[2025/06/24 10:52:25] __ENABLE_DATA_ENC__
+[2025/06/24 10:52:25] __ENABLE_MPRCS__
+[2025/06/24 10:52:25] __ENABLE_TPSTL__
+[2025/06/24 10:52:25] __ENABLE_TPLIBC__
+[2025/06/24 10:52:25] __USE_NEW_QOS_ONLY__
+[2025/06/24 10:52:25] __ENABLE_SO_UPDATE__
+[2025/06/24 10:52:25]}
+[2025/06/24 10:52:25]module
+[2025/06/24 10:52:25]{
+[2025/06/24 10:52:25] 17:1
+[2025/06/24 10:52:25] 19:1
+[2025/06/24 10:52:25] 24:1
+[2025/06/24 10:52:25]}
+[2025/06/24 10:52:25]so:arm64
+[2025/06/24 10:52:25]pid:24788
+[2025/06/24 10:52:25]ChkInit{
+[2025/06/24 10:52:25]init_info:0x7de5f5c190
+[2025/06/24 10:52:25]init_info->size_:16
+[2025/06/24 10:52:25]init_info->game_id_:8888
+[2025/06/24 10:52:25]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/06/24 10:52:25]ChkInit}
+[2025/06/24 10:52:25]SetUserInfoEx{
+[2025/06/24 10:52:25]user_info:0x7de5f5c080
+[2025/06/24 10:52:25]user_info->size_:212
+[2025/06/24 10:52:25]user_info->entry_id_:1
+[2025/06/24 10:52:25]user_info->uin_.type_:2
+[2025/06/24 10:52:25]|jar_ver:7.7.11(2020/11/10)-jar-version
+[2025/06/24 10:52:25]user_info->uin_.uin_str_:UE5B36366565F9E02C191SDK_7711
+[2025/06/24 10:52:25]user_info->app_id_.type_:2
+[2025/06/24 10:52:25]user_info->app_id_.app_id_str_:
+[2025/06/24 10:52:25]user_info->world_id_:0
+[2025/06/24 10:52:25]user_info->role_id_:
+[2025/06/24 10:52:25]SetUserInfoEx}
+[2025/06/24 10:52:26]DoConnCSChannelImp, 180.102.211.18:443
+[2025/06/24 10:52:29]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/06/24 10:52:30]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/06/24 10:52:32]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/555C9ABC/comm.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/06/24 10:52:32]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/7A55332B/tssmua2.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/06/24 10:52:34]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D541F2B/tss_ano.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/06/24 10:52:34]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/06/24 10:52:35][builtin.zip][vm_r4.img]end, loop:96612
+[2025/06/24 10:52:37]r4, time cast:5896ms
+[2025/06/24 10:52:49]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/06/24 10:52:49]|/sdcard/sdk/log.log:0x4a4aa147, from_c:0
+[2025/06/24 10:52:49]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/06/24 10:52:49]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/06/24 10:53:13]<cp>9014_alert, 65f31b5ed2d5269d4dabbd4c0cad3a8c
+[2025/06/24 10:53:14]<cp-ret>response:0, t:9014_alert
+[2025/06/24 10:53:15]<cp>9005_alert, bin.mt.plus
+[2025/06/24 10:53:15]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/06/24 10:53:16]send_cs:76, send_gs:2, remain_cnt:16
+[2025/06/24 10:53:16]<cp-ret>response:0, t:9005_alert
+[2025/06/24 10:53:31]<cp>r2_err11, err:20,nw c:5029887
+[2025/06/24 10:53:33]<cp-ret>response:0, t:r2_err11
+[2025/06/24 10:57:44]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/06/24 10:57:44]|/sdcard/sdk/log.log:0xf653e481, from_c:0
+[2025/06/24 10:57:44]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/06/24 10:57:44]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/06/24 10:57:58]send_cs:109, send_gs:2, remain_cnt:0

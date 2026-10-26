@@ -1,0 +1,430 @@
+14:36:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:36:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:39:49
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:39:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:43:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:43:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:46:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:46:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:49:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.sdk
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.sdk
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+14:52:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:52:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:56:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:56:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:07:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:07:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:09:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:09:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:10:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:10:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:12:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:12:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:15:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_32.apk: Failure [-99]
+================================================================================
+
+15:15:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:15:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:16:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.sdk
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.sdk
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+15:16:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:16:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:20:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\ACE_Tools_7.9.22_20059_c#.apk"
+result:
+^C================================================================================
+
+15:20:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:20:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.green.ace
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+15:20:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\ACE_Tools_7.9.22_20059_c#.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\ACE_Tools_7.9.22_20059_c#.apk: Failure [-99]
+================================================================================
+
+15:20:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:20:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.green.ace
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+15:22:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\ACE_Tools_7.9.22_20059_c#.apk"
+result:
+^C================================================================================
+
+15:22:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:22:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.green.ace
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+15:23:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:25:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:27:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:28:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:29:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:29:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:30:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:30:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_64\dist\Sdk_Tools_7.9.22_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_64\dist\Sdk_Tools_7.9.22_8888_c++_64.apk: Failure [INSTALL_PARSE_FAILED_NO_CERTIFICATES: Failed to collect certificates from /data/app/vmdl1114282184.tmp/base.apk: Attempt to get length of null array]
+================================================================================
+
+15:30:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:30:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd uninstall com.tencent.sdk
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.sdk
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_64\dist\Sdk_Tools_7.9.22_8888_c++_64_resigned.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.22.10274\demo\Sdk_Tools_7.9.22_8888_c++_64\dist\Sdk_Tools_7.9.22_8888_c++_64_resigned.apk: Failure [-99]
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:38:33
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell  screencap -p /sdcard/ocr_1768289913.png
+result:
+^C================================================================================
+

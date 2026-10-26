@@ -1,0 +1,896 @@
+15:32:51
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:32:51
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:44:38
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:44:38
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:46:19
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:46:19
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:46:58
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:46:58
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:49:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:49:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:50:01
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:50:01
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:55:59
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:55:59
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:56:08
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 29299
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (jni/minicap/minicap.cpp:489) Server start
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+15:58:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:58:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:58:13
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 29475
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (jni/minicap/minicap.cpp:489) Server start
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+15:58:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:58:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+15:59:06
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 29559
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (jni/minicap/minicap.cpp:489) Server start
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+16:00:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:00:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:02:46
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:02:46
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:03:27
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:03:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:18:08
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:18:08
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:24:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:24:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:25:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:25:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:35:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:35:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:35:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:35:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:36:10
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:36:10
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:39:31
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:39:31
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:39:40
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 824
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (jni/minicap/minicap.cpp:489) Server start
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+16:40:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:40:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:40:51
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:40:52
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:41:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:41:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:41:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:41:58
+comm:
+adb -s FA7831801432 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/0
+result:
+PID: 4030
+INFO: Using projection 1440x2560@1440x2560/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 11061252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+16:42:32
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:42:32
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:43:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:43:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:43:11
+comm:
+adb -s FA7831801432 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x2560@1440x2560/0
+result:
+PID: 4897
+INFO: Using projection 1440x2560@1440x2560/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 11061252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+16:43:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:43:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:45:54
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+16:45:54
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:12:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:12:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:12:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:12:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:13:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:13:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:13:56
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:13:56
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:34:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:34:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:35:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:35:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:36:16
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:36:16
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:38:15
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:38:15
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:39:59
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:39:59
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:40:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:40:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:41:19
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:41:19
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:42:10
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:42:10
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:45:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:45:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:46:21
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\28
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:46:21
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\28
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:46:53
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:46:53
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:49:17
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:49:17
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:51:52
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:51:53
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:52:46
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:52:46
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:54:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:54:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:54:14
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:54:14
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:55:01
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:55:01
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:55:27
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\22
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+17:55:27
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\22
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+

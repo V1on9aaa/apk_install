@@ -1,0 +1,24 @@
+10-27-21D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.tmgp.sgame/files/log.log"
+cat: /sdcard/Android/data/com.tencent.tmgp.sgame/files/log.log: No such file or directory
+================================================================================
+
+10-32-51D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+10-43-51D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+10-44-27D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.tencent.tmgp.sgame/files/log.log"
+cat: /sdcard/Android/data/com.tencent.tmgp.sgame/files/log.log: No such file or directory
+================================================================================
+
+10-44-38D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+10-50-10D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.tencent.tools/files/log.log"
+cat: /sdcard/Android/data/com.tencent.tools/files/log.log: No such file or directory
+================================================================================
+

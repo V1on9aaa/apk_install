@@ -1,0 +1,180 @@
+15:54:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+15:55:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+15:55:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+15:55:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+15:55:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+15:56:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+15:56:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+15:56:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+15:56:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+16:18:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+16:18:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+16:22:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+16:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk: Failure [-99]
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:20:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:20:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:21:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:22:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:22:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:22:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+

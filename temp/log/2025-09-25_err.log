@@ -1,0 +1,164 @@
+10:34:44
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": library "minicap.so" not found: needed by main executable
+================================================================================
+
+10:35:36
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": library "minicap.so" not found: needed by main executable
+================================================================================
+
+10:36:16
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": library "minicap.so" not found: needed by main executable
+================================================================================
+
+10:37:52
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": library "minicap.so" not found: needed by main executable
+================================================================================
+
+11:27:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "getprop ro.build.version.sdk"
+result:
+adb.exe: device offline
+================================================================================
+
+11:27:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "getprop ro.build.version.sdk"
+result:
+adb.exe: device offline
+================================================================================
+
+11:29:34
+comm:
+adb -s 709ccd85 forward tcp:5037 localabstract:minicap
+result:
+adb.exe: error: internal error
+================================================================================
+
+11:32:45
+comm:
+adb -s 709ccd85 forward tcp:5037 localabstract:minicap
+result:
+adb.exe: error: internal error
+================================================================================
+
+11:34:29
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "getprop ro.build.version.sdk"
+result:
+adb.exe: device '709ccd85' not found
+================================================================================
+
+11:37:07
+comm:
+adb -s 709ccd85 forward tcp:5037 localabstract:minicap
+result:
+adb.exe: error: internal error
+================================================================================
+
+14:17:59
+comm:
+adb -s 709ccd85 forward tcp:5000 localabstract:minicap
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+14:19:45
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x3120@1440x3120/0
+result:
+PID: 24552
+INFO: Using projection 1440x3120@1440x3120/0
+INFO: (external/MY_minicap/src/minicap_30.cpp:243) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_30.cpp:246) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_30.cpp:257) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_30.cpp:263) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_30.cpp:266) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_30.cpp:270) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_30.cpp:274) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_30.cpp:278) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 13480452 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_30.cpp:293) Destroying virtual display
+================================================================================
+
+15:00:27
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x3120@1440x3120/0
+result:
+PID: 28048
+INFO: Using projection 1440x3120@1440x3120/0
+INFO: (external/MY_minicap/src/minicap_30.cpp:243) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_30.cpp:246) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_30.cpp:257) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_30.cpp:263) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_30.cpp:266) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_30.cpp:270) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_30.cpp:274) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_30.cpp:278) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 13480452 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_30.cpp:293) Destroying virtual display
+================================================================================
+
+15:56:23
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x3120@1440x3120/0
+result:
+PID: 30070
+INFO: Using projection 1440x3120@1440x3120/0
+INFO: (external/MY_minicap/src/minicap_30.cpp:243) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_30.cpp:246) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_30.cpp:257) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_30.cpp:263) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_30.cpp:266) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_30.cpp:270) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_30.cpp:274) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_30.cpp:278) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 13480452 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_30.cpp:293) Destroying virtual display
+================================================================================
+
+15:58:19
+comm:
+adb -s 709ccd85 shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1440x3120@1440x3120/0
+result:
+PID: 30924
+INFO: Using projection 1440x3120@1440x3120/0
+INFO: (external/MY_minicap/src/minicap_30.cpp:243) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_30.cpp:246) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_30.cpp:257) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_30.cpp:263) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_30.cpp:266) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_30.cpp:270) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_30.cpp:274) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_30.cpp:278) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 13480452 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_30.cpp:293) Destroying virtual display
+================================================================================
+
+16:04:08
+comm:
+adb -s 709ccd85 forward tcp:5037 localabstract:minicap
+result:
+adb.exe: error: internal error
+================================================================================
+
+16:10:00
+comm:
+adb -s 709ccd85 forward tcp:5037 localabstract:minicap
+result:
+adb.exe: error: internal error
+================================================================================
+

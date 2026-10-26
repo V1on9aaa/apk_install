@@ -1,0 +1,10 @@
+>>>G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk
+com.tencent.tptest未闪退，运行正常
+无openid
+OpenID:CC68E85FBF5AA87B25D24934,
+
+>>>G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk
+com.tencent.tptest未闪退，运行正常
+无openid
+OpenID:CC68E85FBF5AA87B25D24934,
+

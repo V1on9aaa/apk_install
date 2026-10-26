@@ -1,0 +1,1145 @@
+[2025/08/14 16:14:47]ctl:ilc_open_pipe
+[2025/08/14 16:14:47]GCLOUD_VERSION_TP_6.4.00.10412
+[2025/08/14 16:14:47]android ver:6.4.0.10412 20200122(N)
+[2025/08/14 16:14:47]{
+[2025/08/14 16:14:47] __ENABLE_DATA_ENC__
+[2025/08/14 16:14:47] __ENABLE_MPRCS__
+[2025/08/14 16:14:47] __ENABLE_TPSTL__
+[2025/08/14 16:14:47] __ENABLE_TPLIBC__
+[2025/08/14 16:14:47] __TPSTL_RECRYLE__
+[2025/08/14 16:14:47] __USE_NEW_QOS_ONLY__
+[2025/08/14 16:14:47] __ENABLE_SO_UPDATE__
+[2025/08/14 16:14:47]}
+[2025/08/14 16:14:47]module
+[2025/08/14 16:14:47]{
+[2025/08/14 16:14:47] 17:1
+[2025/08/14 16:14:47] 19:1
+[2025/08/14 16:14:47] 24:1
+[2025/08/14 16:14:47] 68:1
+[2025/08/14 16:14:47]}
+[2025/08/14 16:14:47]so:arm64
+[2025/08/14 16:14:47]pid:18905
+[2025/08/14 16:14:47]ChkInit{
+[2025/08/14 16:14:47]init_info:0x74fd2b39d0
+[2025/08/14 16:14:47]init_info->size_:16
+[2025/08/14 16:14:47]init_info->game_id_:8899
+[2025/08/14 16:14:47]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/08/14 16:14:47]ChkInit}
+[2025/08/14 16:14:47]|app_6.4.0.10412
+[2025/08/14 16:14:47]|app_0.2
+[2025/08/14 16:14:47]|init rp.
+[2025/08/14 16:14:47]|jar_ver:6.4.0(2020/11/10)-jar-version
+[2025/08/14 16:14:47]u_a_ps
+[2025/08/14 16:14:47]!gp3:11411
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:47]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]u_a_ps
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:255
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:255
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:48]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:49]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:49]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:49]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:49]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:64
+[2025/08/14 16:14:49]TssIoCtl.uts:40,n:root;cs;,p:files_dir=/data/user/0/com.tencent.tptest/files,b:64
+[2025/08/14 16:14:50]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config2.xml, retval:0, size:5640, cache:0, jd:1
+[2025/08/14 16:14:50]XXXXXX_9015, time cast:19ms
+[2025/08/14 16:14:50]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config3.xml, retval:0, size:4529, cache:0, jd:1
+[2025/08/14 16:14:50]ver:0.2 app_ver:0.2 code_size:17592 crc:0xf1cb981c
+[2025/08/14 16:14:50]ver:0.2 app_ver:0.2 code_size:9536 crc:0x0de0677c
+[2025/08/14 16:14:50]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/2E249009/comm.zip, retval:0, size:32752, cache:0, jd:1
+[2025/08/14 16:14:50]sig custom, name:comm.dat, len:72007, crc:efb4faf1
+[2025/08/14 16:14:50]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/B1609BBA/ob_x.zip, retval:0, size:24994, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/A25D711A/ob_normal.zip, retval:0, size:368631, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/FCA7DA70/ob_cs2.zip, retval:0, size:62226, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/705A58EC/tss_ano.dat, retval:0, size:1515, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/042A4FBA/cpfc.zip, retval:0, size:6750, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/4A67F1CB/ob_ace_gs_64.zip, retval:0, size:989, cache:0, jd:1
+[2025/08/14 16:14:51]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/FBE14C74/ob_ace_gs_32.zip, retval:0, size:985, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/42A8250E/ob_x_64.zip, retval:0, size:918, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/5CCEFB5F/ob_x_32.zip, retval:0, size:923, cache:0, jd:1
+[2025/08/14 16:14:52]get2:128, 0x755cd80c26
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/3670FEA3/ob_gs2.zip, retval:0, size:21222, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/04A682DD/ob_normal_64.zip, retval:0, size:933, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/C1D8DA1D/ob_normal_32.zip, retval:0, size:938, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/CC203A06/ob_cs2_64.zip, retval:0, size:926, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/E917EE2D/ob_cs2_32.zip, retval:0, size:931, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1F347E0B/ob_cdn1_32.zip, retval:0, size:935, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/42DA4CC4/ob_cdn1_64.zip, retval:0, size:910, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/5C87BD02/tssmua.zip, retval:0, size:285394, cache:0, jd:1
+[2025/08/14 16:14:52]cs_dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1C378502/cs_dl_only.dat, err:-1, dl len:0, cache:0, report:0
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1C378502/cs_dl_only.dat, retval:-1, size:0, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/6898398F/tssmua_th.zip, retval:0, size:2537, cache:0, jd:1
+[2025/08/14 16:14:52]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/891302F4/tss_tcj.dat, retval:0, size:124, cache:0, jd:1
+[2025/08/14 16:14:53]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/BCF4161A/mrpcs_abort.dat, retval:0, size:1785, cache:0, jd:1
+[2025/08/14 16:14:53]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/FA1462EF/test_sig_appver, retval:0, size:773, cache:0, jd:1
+[2025/08/14 16:14:53]!dsf
+[2025/08/14 16:14:53]!dl 0
+[2025/08/14 16:14:53]gp4 err:604
+[2025/08/14 16:14:53][VM64][builtin.zip][opcode_scan.img]Hi,opcode_scan{
+[2025/08/14 16:14:56]SetUserInfoEx{
+[2025/08/14 16:14:56]user_info:0x7563abd9e8
+[2025/08/14 16:14:56]user_info->size_:212
+[2025/08/14 16:14:56]user_info->entry_id_:1
+[2025/08/14 16:14:56]user_info->uin_.type_:2
+[2025/08/14 16:14:56]user_info->uin_.uin_str_:BF01262517E6AE02BF1A3BB4BCC11DE7
+[2025/08/14 16:14:56]user_info->app_id_.type_:2
+[2025/08/14 16:14:56]user_info->app_id_.app_id_str_:
+[2025/08/14 16:14:56]user_info->world_id_:0
+[2025/08/14 16:14:56]user_info->role_id_:
+[2025/08/14 16:14:56]SetUserInfoEx}
+[2025/08/14 16:14:56]<cp>root_alert, root_alert:/system/bin/su
+[2025/08/14 16:14:56]cai:1
+[2025/08/14 16:14:57]TssIoCtl.uts:40,n:root;cs;,p:files_dir=/data/user/0/com.tencent.tptest/files,b:512
+[2025/08/14 16:14:57]get2:128, 0x755cd80c26
+[2025/08/14 16:14:57]send_0,ret:0,cnt:1,len:163,remain:46 1
+
+[2025/08/14 16:14:58]gp4 err:604
+[2025/08/14 16:15:00]gp4 err:604
+[2025/08/14 16:15:02]DoConnCSChannelImp, 222.94.109.22:443
+[2025/08/14 16:15:02]get2:128, 0x755cd80c26
+[2025/08/14 16:15:03]###ZZ#####@@############### CS2, 222.94.109.22:443, suc:true, stat_result_cnt:0, failed_step:0
+[2025/08/14 16:15:03]###ZZ#####@@############### CS2, ALL:0, suc:true, stat_result_cnt:1, failed_step:0
+[2025/08/14 16:15:03]send_0,ret:1,cnt:5,len:952,remain:51,cs:1
+[2025/08/14 16:15:03]send_1,ret:1,cnt:4,len:997,remain:47,cs:1
+[2025/08/14 16:15:03]send_2,ret:1,cnt:3,len:772,remain:44,cs:1
+[2025/08/14 16:15:03]get2:128, 0x755cd80c26
+[2025/08/14 16:15:03]get3_0, 0x758124f3b0
+[2025/08/14 16:15:03]del3_0, 0x758124f3b0
+[2025/08/14 16:15:03]send_3,ret:1,cnt:3,len:796,remain:42,cs:1
+[2025/08/14 16:15:03]send_4,ret:1,cnt:4,len:985,remain:38,cs:1
+[2025/08/14 16:15:03]send_5,ret:1,cnt:3,len:780,remain:35,cs:1
+[2025/08/14 16:15:03]send_6,ret:1,cnt:3,len:778,remain:32,cs:1
+[2025/08/14 16:15:03]send_7,ret:1,cnt:3,len:775,remain:29,cs:1
+[2025/08/14 16:15:03]send_8,ret:1,cnt:4,len:977,remain:25,cs:1
+[2025/08/14 16:15:03]send_9,ret:1,cnt:5,len:777,remain:20,cs:1
+[2025/08/14 16:15:03]send_10,ret:1,cnt:4,len:953,remain:16,cs:1
+[2025/08/14 16:15:03]send_11,ret:1,cnt:4,len:949,remain:12,cs:1
+[2025/08/14 16:15:03]send_12,ret:1,cnt:3,len:945,remain:9,cs:1
+[2025/08/14 16:15:03]send_13,ret:1,cnt:2,len:376,remain:7,cs:1
+[2025/08/14 16:15:03]send_14,ret:1,cnt:4,len:936,remain:3,cs:1
+[2025/08/14 16:15:03]send_15,ret:1,cnt:2,len:561,remain:1,cs:1
+[2025/08/14 16:15:03]send_16,ret:1,cnt:1,len:198,remain:0,cs:1
+[2025/08/14 16:15:03]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/overflow.test
+[2025/08/14 16:15:03]tss_main:libtersafe.so,0x755c884000
+[2025/08/14 16:15:03]min_api:19,target_api:28
+[2025/08/14 16:15:03][mf]scan com.meta.box.assist64, path:/data/app/~~ozC6z85zQx9iYWzs-CtAjQ==/com.meta.box.assist64--EbUbQrXPzdTLieFvVxFQw==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan io.github.vvb2060.keyattestation, path:/data/app/~~v0m4LcYnSEiVdbh0_187kw==/io.github.vvb2060.keyattestation-tR3y2pHW0gX_dyvVAHIDcg==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.perfdog.app, path:/data/app/~~AcyRvwlqQWf1lI_fVzNJ7g==/com.perfdog.app-Cwy63lz4pjaphuJvEPOR6g==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.google.android.safetycore, path:/data/app/~~fXBYwjEi9AiGDykmmBN0xA==/com.google.android.safetycore--N91ESlsOzIPCJVHf3_hBw==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.garena.game.codm, path:/data/app/~~m2oRuL7u69JSeZE1GPy2Jw==/com.garena.game.codm-HUKzqNyh2k-J9NLQjXyCsQ==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.genymobile.gnirehtet, path:/data/app/~~ijOUJAacMa1Pp1Vu9BBHOQ==/com.genymobile.gnirehtet-TdZvtlEzQdNbo9wtssPZrw==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.tencent.android.qqdownloader, path:/data/app/~~ELM65QDli1sLpoWH52yJUw==/com.tencent.android.qqdownloader-rmyGGgnfmKdhG18JbN82rg==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan dev.mobile.min, path:/data/app/~~YpxsEmPxKfwwt_SVv8rpBQ==/dev.mobile.min-tyShXx9MjWe5GrJEFz_Big==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.aaaaaa.bbbbbb, path:/data/app/~~HdVKAZtWoToE7xGGni8Vzg==/com.aaaaaa.bbbbbb-MpTlSrA1gaMH6_TZMNk-yA==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.ace.testhook, path:/data/app/~~NXAYQMmtWMYxYJT-8UPhuA==/com.ace.testhook-jpQYjrSvd8-7P8i7pmZq_w==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.tcz.abc, path:/data/app/~~MlusvWv6XER1uyPd-pNGeA==/com.tcz.abc-LJKrPLLKJxv-amSKUURgnQ==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.iflytek.inputmethod, path:/data/app/~~7AvR3qIuuRKdmGOMJT2X6w==/com.iflytek.inputmethod-OrZhs04Uhb4hVSKPm4MueA==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.tencent.sdk, path:/data/app/~~F7StBM1rEQ4oBdgYUGPDNg==/com.tencent.sdk-6FHoQsfCdKIHVaQ4ywf1KQ==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan bin.mt.plus, path:/data/app/~~gkWpxBsJBT95HEGB4ehRDg==/bin.mt.plus-EUrrQddULg-v9n2ibMZ2Gg==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.tencent.sdk_ano, path:/data/app/~~H9_MDg-4ukTjxuOHN0eidg==/com.tencent.sdk_ano-2VG1N9m6xt0jThO7qJ8Z-w==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.lion.market, path:/data/app/~~pFllXRFfcNavSAL_0xBytQ==/com.lion.market-DL2QTO31VsqW6ziD_yue-Q==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.meta.box, path:/data/app/~~8oPyPxc3chZgeJ0gDIWMEg==/com.meta.box-YMHcz6P6Qs2x0QXLDZA8CA==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.android.adbkeyboard, path:/data/app/~~Y9Lq4SC7s95z-0aywy9LJA==/com.android.adbkeyboard-OupcR5pRF15hx0t0JUaY8A==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.tencent.unity.tools, path:/data/app/~~WHtNYUZzTK2_xhpFnR8y4g==/com.tencent.unity.tools-Eqtj2l7Q7BUUeTkyTXk-Gw==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan io.github.huskydg.magisk, path:/data/app/~~sbHxsYjg68H1qa_grvG1Cg==/io.github.huskydg.magisk-fSlD4jhh7qpSYq9SzcQmyQ==/base.apk, t:1
+[2025/08/14 16:15:03][mf]scan com.github.kr328.clash.foss, path:/data/app/~~WcvtB3Pdrr86MU3oe9oswQ==/com.github.kr328.clash.foss-YMvkP5P20aUrz78UvI9CMQ==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck, path:/data/app/~~qA2BLThigRliw4ArIDuh6w==/com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck-tRGWigL9M8bI3j7MzU_3eA==/base.apk, t:1
+[2025/08/14 16:15:04]![mf], com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck:VP_22249280, attr:0x8, f:0
+[2025/08/14 16:15:04][mf]scan com.zeewinpeng.clock, path:/data/app/~~mWQDE9RT3LNTXqXwX1R4EQ==/com.zeewinpeng.clock-5CwQFYtDPWKpJbe9fqSplA==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.google.android.contactkeys, path:/data/app/~~xeB3klcbvMYrci1qg9r6tw==/com.google.android.contactkeys-RpLs7sqzL0qCOwfuziJTYg==/base.apk, t:1
+[2025/08/14 16:15:04]!tcj,name:/data/user/0/com.tencent.tptest/files/overflow.test md5:9917b5668d5154c865c227faa6fec4bc,size:19062542
+[2025/08/14 16:15:04]|/data/user/0/com.tencent.tptest/files/overflow.test(-), task_id:0
+[2025/08/14 16:15:04]<cp>tcj, 
+[2025/08/14 16:15:04]<cp-ret>response:0, t:root_alert
+[2025/08/14 16:15:04][mf]scan com.lion.market.space_ap, path:/data/app/~~TuhIAH0gelejYeyESlO_Bw==/com.lion.market.space_ap-SJaaVNPdrvi1r9aP0fWOXw==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan myworkspace.mobile.clients.android, path:/data/app/~~p0Gzz3cofBIWSYN2whg1mw==/myworkspace.mobile.clients.android-i1u2Tjvvg6MO-FJXIkugXA==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.tencent.green.ace, path:/data/app/~~fEzRRHADkVTKGYRI5XMlLQ==/com.tencent.green.ace-JRQt1agviVeGM0woD1ivdg==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.qeeyou.app.accelerator, path:/data/app/~~D4xeRRTLCxwoQLUNs_nRGQ==/com.qeeyou.app.accelerator-IFXYYkVfLoIWGJzT12a6ww==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.tencent.green.ace.ano, path:/data/app/~~EmGJojHcjsCbrRjlDhyRkA==/com.tencent.green.ace.ano-_qHHZC57U5ScOGnxY2Wikw==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.wind.dumpdex, path:/data/app/~~YPn_WS-1pb8F_AdvwFnpVg==/com.wind.dumpdex-UBjiotxE3dVpAYd9wasEIQ==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.tencent.tptest, path:/data/app/~~iE94y5n_CxzOz7lIwdwpUA==/com.tencent.tptest-AhtqD_QiGlqRSgibIsR6tA==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.aefyr.sai, path:/data/app/~~GN167nx1Lgie7lnIHy_tew==/com.aefyr.sai-Hmy2nIqJJzg-wIm7JKKdag==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.jy.x.separation.manager, path:/data/app/~~-m8e2XWC3gElpHKDZP0dhw==/com.jy.x.separation.manager-ys9y1DWq5-7xfERcG91tAQ==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan com.plugingame.demo, path:/data/app/~~NB2x1azOxmpbvqc4tHrDeg==/com.plugingame.demo-7htTSwqsG7KiqxyR8R-J8A==/base.apk, t:1
+[2025/08/14 16:15:04][mf]scan world.letsgo.booster.android.pro, path:/data/app/~~bK3vdaJD93R9_IJQ7hgphQ==/world.letsgo.booster.android.pro-P1TcqJW-6ujQHDFmOqr30w==/base.apk, t:1
+[2025/08/14 16:15:04]gp4, reason:com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck, raw:VP_22249280, crc:13fba79c
+[2025/08/14 16:15:04]<cp>gp4, com.konggekonggekonggekonggekonggekonggekonggekonggekonggekongg
+[2025/08/14 16:15:04]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/3D60/EF85BFA0/tssmua_once.zip, retval:0, size:6586, cache:0
+[2025/08/14 16:15:05]get1_0:0x758124f3b0, remain:1, cs2
+[2025/08/14 16:15:05]del1_0:0x758124f3b0, remain:1, cs2
+[2025/08/14 16:15:05]send_17,ret:0,cnt:5,len:938,remain:42 1
+
+[2025/08/14 16:15:08]get1_1:0x758124f3b0, remain:0, cs2
+[2025/08/14 16:15:08]del1_1:0x758124f3b0, remain:0, cs2
+[2025/08/14 16:15:09]get2:128, 0x755cd80c26
+[2025/08/14 16:15:10]get3_1, 0x758124f3b0
+[2025/08/14 16:15:10]del3_1, 0x758124f3b0
+[2025/08/14 16:15:10]ob, time cast:0ms
+[2025/08/14 16:15:10][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math}
+[2025/08/14 16:15:10][VM]math.img end, loop:12
+[2025/08/14 16:15:10][VM64][ob_normal.zip][foo.img]Hi,Foo{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][foo.img]foo.vm, time cast:1ms
+[2025/08/14 16:15:10][VM64][ob_normal.zip][foo.img]libtersafe.so.text, crc:55f81eba, md5:17af41ec56ff6f73f442b84be72d2280
+[2025/08/14 16:15:10][VM64][ob_normal.zip][foo.img]Hi,Foo}
+[2025/08/14 16:15:10][VM]foo.img end, loop:13810
+[2025/08/14 16:15:10][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf}
+[2025/08/14 16:15:10][VM]unzip_mf.img end, loop:69685
+[2025/08/14 16:15:10][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml}
+[2025/08/14 16:15:10][VM]axml_xml.img end, loop:5271
+[2025/08/14 16:15:10][VM64][ob_normal.zip][ant.img]Hi,Ant{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][hb.img]Hi,HB{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][zip.img]Hi,Zip{
+[2025/08/14 16:15:10][VM64][ob_normal.zip][zip.img]Hi,Zip}
+[2025/08/14 16:15:10][VM]zip.img end, loop:26
+[2025/08/14 16:15:10][VM64][ob_normal.zip][ant.img]Hi,Ant}
+[2025/08/14 16:15:10][VM]ant.img end, loop:1000005
+[2025/08/14 16:15:10]send_17,ret:0,cnt:5,len:938,remain:57 1
+
+[2025/08/14 16:15:11][VM64][ob_normal.zip][hb.img]hi,hb:0
+[2025/08/14 16:15:12][VM64][ob_normal.zip][hb.img]hi,hb:1
+[2025/08/14 16:15:13][VM64][ob_normal.zip][hb.img]hi,hb:2
+[2025/08/14 16:15:14][VM64][ob_normal.zip][hb.img]hi,hb:3
+[2025/08/14 16:15:15][VM64][ob_normal.zip][hb.img]hi,hb:4
+[2025/08/14 16:15:15][VM64][ob_normal.zip][hb.img]Hi,HB}
+[2025/08/14 16:15:15][VM]hb.img end, loop:6
+[2025/08/14 16:15:15]ob, time cast:5158ms
+[2025/08/14 16:15:15]send_17,ret:1,cnt:5,len:938,remain:57,cs:1
+[2025/08/14 16:15:15]get3_2, 0x758124f3b0
+[2025/08/14 16:15:15]del3_2, 0x758124f3b0
+[2025/08/14 16:15:15]send_18,ret:1,cnt:3,len:868,remain:54,cs:1
+[2025/08/14 16:15:15]send_19,ret:1,cnt:3,len:717,remain:51,cs:1
+[2025/08/14 16:15:15]send_20,ret:1,cnt:3,len:944,remain:48,cs:1
+[2025/08/14 16:15:15]dl custom, name:tcjcfg.dat, len:251, crc:2b06218f, channel:1
+[2025/08/14 16:15:15]dl custom, name:tcjcfg.dat, len:251, crc:2b06218f, channel:1
+[2025/08/14 16:15:15]<cp-ret>response:0, t:tcj
+[2025/08/14 16:15:16]send_21,ret:1,cnt:4,len:898,remain:49,cs:1
+[2025/08/14 16:15:16]send_22,ret:1,cnt:5,len:987,remain:44,cs:1
+[2025/08/14 16:15:16]send_23,ret:1,cnt:4,len:927,remain:40,cs:1
+[2025/08/14 16:15:16]get3_3, 0x758124f3b0
+[2025/08/14 16:15:16]del3_3, 0x758124f3b0
+[2025/08/14 16:15:16]send_24,ret:1,cnt:3,len:766,remain:37,cs:1
+[2025/08/14 16:15:16]send_25,ret:1,cnt:2,len:573,remain:35,cs:1
+[2025/08/14 16:15:16]send_26,ret:1,cnt:3,len:780,remain:32,cs:1
+[2025/08/14 16:15:16]send_27,ret:1,cnt:3,len:858,remain:29,cs:1
+[2025/08/14 16:15:16]send_28,ret:1,cnt:4,len:949,remain:25,cs:1
+[2025/08/14 16:15:16]send_29,ret:1,cnt:3,len:796,remain:22,cs:1
+[2025/08/14 16:15:16]<cp-ret>response:0, t:gp4
+[2025/08/14 16:15:16]send_30,ret:1,cnt:3,len:873,remain:19,cs:1
+[2025/08/14 16:15:16]send_31,ret:1,cnt:3,len:772,remain:16,cs:1
+[2025/08/14 16:15:16]send_32,ret:1,cnt:4,len:999,remain:12,cs:1
+[2025/08/14 16:15:16]send_33,ret:1,cnt:4,len:913,remain:8,cs:1
+[2025/08/14 16:15:16]send_34,ret:1,cnt:4,len:951,remain:4,cs:1
+[2025/08/14 16:15:16]send_35,ret:1,cnt:3,len:715,remain:1,cs:1
+[2025/08/14 16:15:16]send_36,ret:1,cnt:1,len:275,remain:0,cs:1
+[2025/08/14 16:15:16]send_37,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:15:17]so_path:/data/app/~~iE94y5n_CxzOz7lIwdwpUA==/com.tencent.tptest-AhtqD_QiGlqRSgibIsR6tA==/lib/arm64/libtersafe.so, off:0, base:0x5c884000
+[2025/08/14 16:15:19]9060:781233
+[2025/08/14 16:15:19]cs:report_qos_if(opcode_eq("libtersafe.so",0x3,0x46)&&opcode_eq2("libtersafe.so",0x1,0x3,0x4a637295),781233), retval:1
+[2025/08/14 16:15:19]cs:report_qos_if(opcode_eq("libc.so",0x3,0x46)&&opcode_eq2("libc.so",0x1,0x3,0x4a637295),781234), retval:0
+[2025/08/14 16:15:19]9060:781235
+[2025/08/14 16:15:19]cs:report_qos_if(game_id_eq(8899),781235), retval:1
+[2025/08/14 16:15:19]send_38,ret:1,cnt:4,len:936,remain:6,cs:1
+[2025/08/14 16:15:19]send_39,ret:1,cnt:1,len:227,remain:5,cs:1
+[2025/08/14 16:15:19]send_40,ret:1,cnt:4,len:941,remain:1,cs:1
+[2025/08/14 16:15:19]send_41,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:15:19]send_42,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:15:20]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:1024
+[2025/08/14 16:15:22]send_43,ret:1,cnt:1,len:277,remain:1,cs:1
+[2025/08/14 16:15:22]send_44,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:15:22]send_45,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:15:23]+ allow by acu
+[2025/08/14 16:15:23]<cp>sc, 
+[2025/08/14 16:15:23]!overflow, path:/data/user/0/com.tencent.tptest/files/overflow.test, cnt:1, flow:144843
+[2025/08/14 16:15:25]send_46,ret:1,cnt:4,len:955,remain:2,cs:1
+[2025/08/14 16:15:25]<cp-ret>response:0, t:sc
+[2025/08/14 16:15:25][sc]Notify
+[2025/08/14 16:15:25][sc]CallBack
+[2025/08/14 16:15:26]get3_4, 0x758124f3b0
+[2025/08/14 16:15:26]del3_4, 0x758124f3b0
+[2025/08/14 16:15:26]send_47,ret:1,cnt:2,len:605,remain:2,cs:1
+[2025/08/14 16:15:26]send_48,ret:1,cnt:2,len:496,remain:0,cs:1
+[2025/08/14 16:15:28]send_49,ret:1,cnt:1,len:57,remain:4,cs:1
+[2025/08/14 16:15:28]send_50,ret:1,cnt:4,len:927,remain:0,cs:1
+[2025/08/14 16:15:31]send_51,ret:1,cnt:1,len:313,remain:4,cs:1
+[2025/08/14 16:15:31]send_52,ret:1,cnt:4,len:948,remain:0,cs:1
+[2025/08/14 16:15:32]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/08/14 16:15:33]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161533_1_tcj_sshot.bin
+[2025/08/14 16:15:33]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161533_1_tcj_sshot.bin md5:816cf471f55fe320a31254e822b9b7e5,size:676
+[2025/08/14 16:15:33]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161533_1_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:15:33]<cp>tcj, 
+[2025/08/14 16:15:33]+ allow by acu
+[2025/08/14 16:15:33]send_53,ret:1,cnt:3,len:933,remain:363,cs:1
+[2025/08/14 16:15:33]send_54,ret:1,cnt:3,len:857,remain:360,cs:1
+[2025/08/14 16:15:33]send_55,ret:1,cnt:3,len:850,remain:357,cs:1
+[2025/08/14 16:15:33]send_56,ret:1,cnt:3,len:917,remain:354,cs:1
+[2025/08/14 16:15:33]send_57,ret:1,cnt:3,len:861,remain:351,cs:1
+[2025/08/14 16:15:33]send_58,ret:1,cnt:3,len:895,remain:352,cs:1
+[2025/08/14 16:15:33]send_59,ret:1,cnt:3,len:876,remain:349,cs:1
+[2025/08/14 16:15:33]send_60,ret:1,cnt:3,len:892,remain:346,cs:1
+[2025/08/14 16:15:33]send_61,ret:1,cnt:3,len:853,remain:343,cs:1
+[2025/08/14 16:15:33]send_62,ret:1,cnt:3,len:892,remain:340,cs:1
+[2025/08/14 16:15:33]send_63,ret:1,cnt:3,len:878,remain:337,cs:1
+[2025/08/14 16:15:33]send_64,ret:1,cnt:3,len:883,remain:334,cs:1
+[2025/08/14 16:15:33]send_65,ret:1,cnt:3,len:914,remain:331,cs:1
+[2025/08/14 16:15:33]send_66,ret:1,cnt:3,len:893,remain:328,cs:1
+[2025/08/14 16:15:33]send_67,ret:1,cnt:3,len:921,remain:325,cs:1
+[2025/08/14 16:15:33]send_68,ret:1,cnt:3,len:881,remain:322,cs:1
+[2025/08/14 16:15:33]send_69,ret:1,cnt:3,len:889,remain:319,cs:1
+[2025/08/14 16:15:34]send_70,ret:0,cnt:3,len:875,remain:335 1
+
+[2025/08/14 16:15:39]send_70,ret:1,cnt:3,len:875,remain:334,cs:1
+[2025/08/14 16:15:39]send_71,ret:1,cnt:3,len:885,remain:331,cs:1
+[2025/08/14 16:15:39]send_72,ret:1,cnt:3,len:897,remain:328,cs:1
+[2025/08/14 16:15:39]send_73,ret:1,cnt:3,len:877,remain:325,cs:1
+[2025/08/14 16:15:39]send_74,ret:1,cnt:3,len:934,remain:322,cs:1
+[2025/08/14 16:15:39]send_75,ret:1,cnt:3,len:928,remain:319,cs:1
+[2025/08/14 16:15:39]send_76,ret:1,cnt:3,len:895,remain:316,cs:1
+[2025/08/14 16:15:39]send_77,ret:1,cnt:3,len:893,remain:313,cs:1
+[2025/08/14 16:15:39]send_78,ret:1,cnt:3,len:913,remain:310,cs:1
+[2025/08/14 16:15:39]send_79,ret:1,cnt:3,len:884,remain:307,cs:1
+[2025/08/14 16:15:39]send_80,ret:1,cnt:3,len:920,remain:304,cs:1
+[2025/08/14 16:15:39]send_81,ret:1,cnt:3,len:876,remain:301,cs:1
+[2025/08/14 16:15:39]send_82,ret:1,cnt:3,len:866,remain:298,cs:1
+[2025/08/14 16:15:39]send_83,ret:1,cnt:3,len:895,remain:295,cs:1
+[2025/08/14 16:15:39]send_84,ret:1,cnt:3,len:906,remain:292,cs:1
+[2025/08/14 16:15:39]send_85,ret:1,cnt:3,len:901,remain:289,cs:1
+[2025/08/14 16:15:39]send_86,ret:1,cnt:3,len:891,remain:286,cs:1
+[2025/08/14 16:15:39]send_87,ret:1,cnt:3,len:877,remain:283,cs:1
+[2025/08/14 16:15:40]send_88,ret:1,cnt:3,len:895,remain:280,cs:1
+[2025/08/14 16:15:40]send_89,ret:1,cnt:3,len:920,remain:277,cs:1
+[2025/08/14 16:15:41]send_90,ret:1,cnt:3,len:894,remain:274,cs:1
+[2025/08/14 16:15:41]send_91,ret:1,cnt:3,len:871,remain:271,cs:1
+[2025/08/14 16:15:41]send_92,ret:1,cnt:3,len:934,remain:268,cs:1
+[2025/08/14 16:15:41]send_93,ret:1,cnt:3,len:919,remain:265,cs:1
+[2025/08/14 16:15:41]send_94,ret:1,cnt:3,len:845,remain:262,cs:1
+[2025/08/14 16:15:41]send_95,ret:1,cnt:3,len:907,remain:259,cs:1
+[2025/08/14 16:15:41]send_96,ret:1,cnt:3,len:871,remain:256,cs:1
+[2025/08/14 16:15:41]send_97,ret:1,cnt:3,len:862,remain:253,cs:1
+[2025/08/14 16:15:41]send_98,ret:1,cnt:3,len:892,remain:250,cs:1
+[2025/08/14 16:15:41]send_99,ret:1,cnt:3,len:876,remain:247,cs:1
+[2025/08/14 16:15:41]send_100,ret:1,cnt:3,len:876,remain:244,cs:1
+[2025/08/14 16:15:41]send_101,ret:1,cnt:3,len:895,remain:241,cs:1
+[2025/08/14 16:15:41]send_102,ret:1,cnt:3,len:889,remain:238,cs:1
+[2025/08/14 16:15:41]send_103,ret:1,cnt:3,len:868,remain:235,cs:1
+[2025/08/14 16:15:41]send_104,ret:1,cnt:3,len:869,remain:232,cs:1
+[2025/08/14 16:15:41]send_105,ret:1,cnt:3,len:878,remain:229,cs:1
+[2025/08/14 16:15:41]send_106,ret:1,cnt:3,len:930,remain:226,cs:1
+[2025/08/14 16:15:41]send_107,ret:1,cnt:3,len:888,remain:223,cs:1
+[2025/08/14 16:15:41]send_108,ret:1,cnt:3,len:880,remain:220,cs:1
+[2025/08/14 16:15:41]send_109,ret:1,cnt:3,len:885,remain:217,cs:1
+[2025/08/14 16:15:42]send_110,ret:1,cnt:3,len:899,remain:214,cs:1
+[2025/08/14 16:15:42]send_111,ret:1,cnt:3,len:895,remain:211,cs:1
+[2025/08/14 16:15:42]send_112,ret:1,cnt:3,len:893,remain:208,cs:1
+[2025/08/14 16:15:42]send_113,ret:1,cnt:3,len:869,remain:205,cs:1
+[2025/08/14 16:15:42]send_114,ret:1,cnt:3,len:911,remain:202,cs:1
+[2025/08/14 16:15:42]send_115,ret:1,cnt:3,len:869,remain:199,cs:1
+[2025/08/14 16:15:42]send_116,ret:1,cnt:3,len:888,remain:196,cs:1
+[2025/08/14 16:15:42]send_117,ret:1,cnt:3,len:904,remain:193,cs:1
+[2025/08/14 16:15:42]send_118,ret:1,cnt:3,len:862,remain:190,cs:1
+[2025/08/14 16:15:42]send_119,ret:1,cnt:3,len:892,remain:187,cs:1
+[2025/08/14 16:15:42]send_120,ret:1,cnt:3,len:868,remain:184,cs:1
+[2025/08/14 16:15:42]send_121,ret:1,cnt:3,len:910,remain:181,cs:1
+[2025/08/14 16:15:42]send_122,ret:1,cnt:3,len:863,remain:178,cs:1
+[2025/08/14 16:15:42]send_123,ret:1,cnt:3,len:887,remain:175,cs:1
+[2025/08/14 16:15:42]send_124,ret:1,cnt:3,len:911,remain:172,cs:1
+[2025/08/14 16:15:42]send_125,ret:1,cnt:3,len:879,remain:169,cs:1
+[2025/08/14 16:15:42]send_126,ret:1,cnt:3,len:930,remain:166,cs:1
+[2025/08/14 16:15:42]send_127,ret:1,cnt:3,len:906,remain:163,cs:1
+[2025/08/14 16:15:42]send_128,ret:1,cnt:3,len:867,remain:160,cs:1
+[2025/08/14 16:15:42]send_129,ret:1,cnt:3,len:876,remain:157,cs:1
+[2025/08/14 16:15:43]+ allow by acu
+[2025/08/14 16:15:43]send_130,ret:1,cnt:3,len:909,remain:155,cs:1
+[2025/08/14 16:15:43]send_131,ret:1,cnt:3,len:878,remain:152,cs:1
+[2025/08/14 16:15:43]send_132,ret:1,cnt:3,len:915,remain:149,cs:1
+[2025/08/14 16:15:43]send_133,ret:1,cnt:3,len:912,remain:146,cs:1
+[2025/08/14 16:15:43]send_134,ret:1,cnt:3,len:900,remain:143,cs:1
+[2025/08/14 16:15:43]send_135,ret:1,cnt:3,len:872,remain:140,cs:1
+[2025/08/14 16:15:43]send_136,ret:1,cnt:3,len:892,remain:137,cs:1
+[2025/08/14 16:15:43]send_137,ret:1,cnt:3,len:889,remain:134,cs:1
+[2025/08/14 16:15:43]send_138,ret:1,cnt:3,len:894,remain:131,cs:1
+[2025/08/14 16:15:43]send_139,ret:1,cnt:3,len:928,remain:128,cs:1
+[2025/08/14 16:15:43]send_140,ret:1,cnt:3,len:860,remain:125,cs:1
+[2025/08/14 16:15:43]send_141,ret:1,cnt:3,len:940,remain:122,cs:1
+[2025/08/14 16:15:43]send_142,ret:1,cnt:3,len:887,remain:119,cs:1
+[2025/08/14 16:15:43]send_143,ret:1,cnt:3,len:886,remain:116,cs:1
+[2025/08/14 16:15:43]send_144,ret:1,cnt:3,len:888,remain:113,cs:1
+[2025/08/14 16:15:43]send_145,ret:1,cnt:3,len:861,remain:110,cs:1
+[2025/08/14 16:15:43]send_146,ret:1,cnt:3,len:897,remain:107,cs:1
+[2025/08/14 16:15:43]send_147,ret:1,cnt:3,len:919,remain:104,cs:1
+[2025/08/14 16:15:43]send_148,ret:1,cnt:3,len:971,remain:101,cs:1
+[2025/08/14 16:15:43]send_149,ret:1,cnt:3,len:902,remain:98,cs:1
+[2025/08/14 16:15:45]send_150,ret:1,cnt:3,len:890,remain:95,cs:1
+[2025/08/14 16:15:45]send_151,ret:1,cnt:3,len:849,remain:92,cs:1
+[2025/08/14 16:15:45]send_152,ret:1,cnt:3,len:931,remain:89,cs:1
+[2025/08/14 16:15:45]send_153,ret:1,cnt:3,len:925,remain:87,cs:1
+[2025/08/14 16:15:45]send_154,ret:1,cnt:3,len:894,remain:84,cs:1
+[2025/08/14 16:15:45]send_155,ret:1,cnt:3,len:883,remain:81,cs:1
+[2025/08/14 16:15:45]send_156,ret:1,cnt:3,len:912,remain:78,cs:1
+[2025/08/14 16:15:45]send_157,ret:1,cnt:3,len:908,remain:75,cs:1
+[2025/08/14 16:15:45]send_158,ret:1,cnt:3,len:912,remain:72,cs:1
+[2025/08/14 16:15:45]send_159,ret:1,cnt:3,len:918,remain:69,cs:1
+[2025/08/14 16:15:45]send_160,ret:1,cnt:3,len:906,remain:66,cs:1
+[2025/08/14 16:15:45]send_161,ret:1,cnt:3,len:888,remain:63,cs:1
+[2025/08/14 16:15:45]send_162,ret:1,cnt:3,len:892,remain:60,cs:1
+[2025/08/14 16:15:45]send_163,ret:1,cnt:3,len:863,remain:57,cs:1
+[2025/08/14 16:15:45]send_164,ret:1,cnt:3,len:916,remain:54,cs:1
+[2025/08/14 16:15:45]send_165,ret:1,cnt:3,len:859,remain:51,cs:1
+[2025/08/14 16:15:45]send_166,ret:1,cnt:3,len:916,remain:48,cs:1
+[2025/08/14 16:15:45]send_167,ret:1,cnt:3,len:935,remain:45,cs:1
+[2025/08/14 16:15:45]send_168,ret:1,cnt:3,len:889,remain:42,cs:1
+[2025/08/14 16:15:45]send_169,ret:1,cnt:3,len:888,remain:39,cs:1
+[2025/08/14 16:15:46]send_170,ret:1,cnt:3,len:886,remain:36,cs:1
+[2025/08/14 16:15:46]send_171,ret:1,cnt:3,len:920,remain:33,cs:1
+[2025/08/14 16:15:46]send_172,ret:1,cnt:3,len:896,remain:30,cs:1
+[2025/08/14 16:15:46]send_173,ret:1,cnt:4,len:788,remain:26,cs:1
+[2025/08/14 16:15:46]send_174,ret:1,cnt:4,len:799,remain:22,cs:1
+[2025/08/14 16:15:46]send_175,ret:1,cnt:3,len:667,remain:20,cs:1
+[2025/08/14 16:15:46]<cp-ret>response:0, t:tcj
+[2025/08/14 16:15:46]send_176,ret:1,cnt:1,len:319,remain:20,cs:1
+[2025/08/14 16:15:46]send_177,ret:1,cnt:4,len:934,remain:16,cs:1
+[2025/08/14 16:15:46]send_178,ret:1,cnt:4,len:992,remain:12,cs:1
+[2025/08/14 16:15:46]send_179,ret:1,cnt:3,len:801,remain:9,cs:1
+[2025/08/14 16:15:46]send_180,ret:1,cnt:3,len:802,remain:6,cs:1
+[2025/08/14 16:15:46]send_181,ret:1,cnt:3,len:786,remain:3,cs:1
+[2025/08/14 16:15:46]send_182,ret:1,cnt:2,len:501,remain:1,cs:1
+[2025/08/14 16:15:46]send_183,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:15:46]send_184,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:15:46]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161533_1_tcj_sshot.bin
+[2025/08/14 16:15:47][VM64][builtin.zip][opcode_scan.img]Hi,opcode_scan}
+[2025/08/14 16:15:47][VM]opcode_scan.img end, loop:3132445
+[2025/08/14 16:15:48]send_185,ret:1,cnt:2,len:616,remain:0,cs:1
+[2025/08/14 16:15:53]+ allow by acu
+[2025/08/14 16:15:53]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config2.xml, retval:0, size:5640, cache:0, jd:1
+[2025/08/14 16:15:53]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config3.xml, retval:0, size:4529, cache:0, jd:1
+[2025/08/14 16:15:53]ver:0.2 app_ver:0.2 code_size:17592 crc:0xf1cb981c
+[2025/08/14 16:15:53]ver:0.2 app_ver:0.2 code_size:9536 crc:0x0de0677c
+[2025/08/14 16:15:55]send_186,ret:1,cnt:4,len:987,remain:0,cs:1
+[2025/08/14 16:15:55]cs_dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1C378502/cs_dl_only.dat, err:0, dl len:3511, cache:0, report:1
+[2025/08/14 16:15:55]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1C378502/cs_dl_only.dat, retval:0, size:3511, cache:0, jd:1
+[2025/08/14 16:15:55]!dl 1
+[2025/08/14 16:15:57]send_187,ret:1,cnt:3,len:773,remain:0,cs:1
+[2025/08/14 16:16:03]+ allow by acu
+[2025/08/14 16:16:07]send_188,ret:1,cnt:1,len:311,remain:0,cs:1
+[2025/08/14 16:16:15]+ allow by acu
+[2025/08/14 16:16:19]send_189,ret:1,cnt:3,len:479,remain:0,cs:1
+[2025/08/14 16:16:25]+ allow by acu
+[2025/08/14 16:16:29]send_190,ret:1,cnt:1,len:311,remain:0,cs:1
+[2025/08/14 16:16:31]SetUserInfoEx{
+[2025/08/14 16:16:31]user_info:0x7563cc8fd8
+[2025/08/14 16:16:31]user_info->size_:212
+[2025/08/14 16:16:31]user_info->entry_id_:1
+[2025/08/14 16:16:31]user_info->uin_.type_:2
+[2025/08/14 16:16:31]user_info->uin_.uin_str_:AF01262517E6AE02BF1A3BB4BCC11DE7
+[2025/08/14 16:16:31]user_info->app_id_.type_:2
+[2025/08/14 16:16:31]user_info->app_id_.app_id_str_:
+[2025/08/14 16:16:32]user_info->world_id_:0
+[2025/08/14 16:16:32]user_info->role_id_:
+[2025/08/14 16:16:32]SetUserInfoEx}
+[2025/08/14 16:16:32]send_191,ret:0,cnt:2,len:193,remain:2 1
+
+[2025/08/14 16:16:32]tss_main:libtersafe.so,0x755c884000
+[2025/08/14 16:16:32]min_api:19,target_api:28
+[2025/08/14 16:16:35]+ allow by acu
+[2025/08/14 16:16:37]send_191,ret:0,cnt:5,len:889,remain:33 1
+
+[2025/08/14 16:16:42]DoConnCSChannelImp, 180.102.211.116:443
+[2025/08/14 16:16:42]###ZZ#####@@############### CS2, 180.102.211.116:443, suc:true, stat_result_cnt:2, failed_step:0
+[2025/08/14 16:16:42]###ZZ#####@@############### CS2, ALL:0, suc:true, stat_result_cnt:3, failed_step:0
+[2025/08/14 16:16:42]send_191,ret:1,cnt:5,len:889,remain:33,cs:1
+[2025/08/14 16:16:42]send_192,ret:1,cnt:3,len:793,remain:30,cs:1
+[2025/08/14 16:16:42]send_193,ret:1,cnt:4,len:990,remain:26,cs:1
+[2025/08/14 16:16:42]send_194,ret:1,cnt:3,len:786,remain:23,cs:1
+[2025/08/14 16:16:42]send_195,ret:1,cnt:3,len:864,remain:20,cs:1
+[2025/08/14 16:16:42]send_196,ret:1,cnt:4,len:957,remain:16,cs:1
+[2025/08/14 16:16:42]send_197,ret:1,cnt:3,len:802,remain:13,cs:1
+[2025/08/14 16:16:43]send_198,ret:0,cnt:2,len:431,remain:16 1
+
+[2025/08/14 16:16:44]get1_2:0x758124f3b0, remain:1, cs2
+[2025/08/14 16:16:44]del1_2:0x758124f3b0, remain:1, cs2
+[2025/08/14 16:16:45]+ allow by acu
+[2025/08/14 16:16:45]ob, time cast:0ms
+[2025/08/14 16:16:45][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math}
+[2025/08/14 16:16:45][VM]math.img end, loop:12
+[2025/08/14 16:16:45][VM64][ob_normal.zip][foo.img]Hi,Foo{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][foo.img]foo.vm, time cast:4ms
+[2025/08/14 16:16:45][VM64][ob_normal.zip][foo.img]libtersafe.so.text, crc:55f81eba, md5:17af41ec56ff6f73f442b84be72d2280
+[2025/08/14 16:16:45][VM64][ob_normal.zip][foo.img]Hi,Foo}
+[2025/08/14 16:16:45][VM]foo.img end, loop:13820
+[2025/08/14 16:16:45][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf}
+[2025/08/14 16:16:45][VM]unzip_mf.img end, loop:69685
+[2025/08/14 16:16:45][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml}
+[2025/08/14 16:16:45][VM]axml_xml.img end, loop:5271
+[2025/08/14 16:16:45][VM64][ob_normal.zip][ant.img]Hi,Ant{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][hb.img]Hi,HB{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][zip.img]Hi,Zip{
+[2025/08/14 16:16:45][VM64][ob_normal.zip][zip.img]Hi,Zip}
+[2025/08/14 16:16:45][VM]zip.img end, loop:24
+[2025/08/14 16:16:45][VM64][ob_normal.zip][ant.img]Hi,Ant}
+[2025/08/14 16:16:45][VM]ant.img end, loop:1000005
+[2025/08/14 16:16:46][VM64][ob_normal.zip][hb.img]hi,hb:0
+[2025/08/14 16:16:47]get1_3:0x758124f3b0, remain:0, cs2
+[2025/08/14 16:16:47]del1_3:0x758124f3b0, remain:0, cs2
+[2025/08/14 16:16:47][VM64][ob_normal.zip][hb.img]hi,hb:1
+[2025/08/14 16:16:48]send_198,ret:1,cnt:4,len:872,remain:23,cs:1
+[2025/08/14 16:16:48]send_199,ret:1,cnt:4,len:933,remain:19,cs:1
+[2025/08/14 16:16:48]send_200,ret:1,cnt:2,len:563,remain:17,cs:1
+[2025/08/14 16:16:48]send_201,ret:1,cnt:3,len:879,remain:14,cs:1
+[2025/08/14 16:16:48][VM64][ob_normal.zip][hb.img]hi,hb:2
+[2025/08/14 16:16:48]send_202,ret:1,cnt:3,len:778,remain:11,cs:1
+[2025/08/14 16:16:48]send_203,ret:1,cnt:3,len:775,remain:8,cs:1
+[2025/08/14 16:16:48]send_204,ret:1,cnt:4,len:930,remain:4,cs:1
+[2025/08/14 16:16:48]send_205,ret:1,cnt:4,len:956,remain:0,cs:1
+[2025/08/14 16:16:49][VM64][ob_normal.zip][hb.img]hi,hb:3
+[2025/08/14 16:16:50][VM64][ob_normal.zip][hb.img]hi,hb:4
+[2025/08/14 16:16:50][VM64][ob_normal.zip][hb.img]Hi,HB}
+[2025/08/14 16:16:50][VM]hb.img end, loop:6
+[2025/08/14 16:16:50]ob, time cast:5224ms
+[2025/08/14 16:16:52]send_206,ret:1,cnt:1,len:243,remain:4,cs:1
+[2025/08/14 16:16:52]send_207,ret:1,cnt:4,len:935,remain:0,cs:1
+[2025/08/14 16:16:54]9060:781233
+[2025/08/14 16:16:54]cs:report_qos_if(opcode_eq("libtersafe.so",0x3,0x46)&&opcode_eq2("libtersafe.so",0x1,0x3,0x4a637295),781233), retval:1
+[2025/08/14 16:16:54]cs:report_qos_if(opcode_eq("libc.so",0x3,0x46)&&opcode_eq2("libc.so",0x1,0x3,0x4a637295),781234), retval:0
+[2025/08/14 16:16:54]9060:781235
+[2025/08/14 16:16:54]cs:report_qos_if(game_id_eq(8899),781235), retval:1
+[2025/08/14 16:16:54]send_208,ret:1,cnt:4,len:789,remain:4,cs:1
+[2025/08/14 16:16:54]send_209,ret:1,cnt:4,len:941,remain:0,cs:1
+[2025/08/14 16:16:55]+ allow by acu
+[2025/08/14 16:16:58]ChkSetGameStatus{
+[2025/08/14 16:16:58]status_info:0x7fed7ab718
+[2025/08/14 16:16:58]status_info->size_:8
+[2025/08/14 16:16:58]status_info->game_status_:2
+[2025/08/14 16:16:58]ChkSetGameStatus}
+[2025/08/14 16:17:00]send_210,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:17:00]ChkSetGameStatus{
+[2025/08/14 16:17:00]status_info:0x7fed7ab738
+[2025/08/14 16:17:00]status_info->size_:8
+[2025/08/14 16:17:00]status_info->game_status_:1
+[2025/08/14 16:17:00]ChkSetGameStatus}
+[2025/08/14 16:17:02]send_211,ret:1,cnt:1,len:65,remain:4,cs:1
+[2025/08/14 16:17:02]send_212,ret:1,cnt:4,len:932,remain:0,cs:1
+[2025/08/14 16:17:04]send_213,ret:1,cnt:1,len:313,remain:4,cs:1
+[2025/08/14 16:17:04]send_214,ret:1,cnt:4,len:929,remain:0,cs:1
+[2025/08/14 16:17:06]+ allow by acu
+[2025/08/14 16:17:06]send_215,ret:1,cnt:3,len:933,remain:8,cs:1
+[2025/08/14 16:17:06]send_216,ret:1,cnt:3,len:857,remain:5,cs:1
+[2025/08/14 16:17:06]send_217,ret:1,cnt:1,len:254,remain:4,cs:1
+[2025/08/14 16:17:06]send_218,ret:1,cnt:4,len:940,remain:1,cs:1
+[2025/08/14 16:17:06]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/08/14 16:17:08]send_219,ret:1,cnt:3,len:905,remain:355,cs:1
+[2025/08/14 16:17:08]send_220,ret:1,cnt:3,len:907,remain:352,cs:1
+[2025/08/14 16:17:08]send_221,ret:1,cnt:3,len:856,remain:364,cs:1
+[2025/08/14 16:17:08]send_222,ret:1,cnt:3,len:894,remain:361,cs:1
+[2025/08/14 16:17:08]send_223,ret:1,cnt:3,len:895,remain:358,cs:1
+[2025/08/14 16:17:09]ChkSetGameStatus{
+[2025/08/14 16:17:09]status_info:0x7fed7ab718
+[2025/08/14 16:17:09]status_info->size_:8
+[2025/08/14 16:17:09]status_info->game_status_:2
+[2025/08/14 16:17:09]ChkSetGameStatus}
+[2025/08/14 16:17:09]send_224,ret:0,cnt:3,len:874,remain:360 1
+
+[2025/08/14 16:17:14]send_224,ret:1,cnt:3,len:874,remain:359,cs:1
+[2025/08/14 16:17:14]send_225,ret:1,cnt:3,len:881,remain:356,cs:1
+[2025/08/14 16:17:14]send_226,ret:1,cnt:3,len:858,remain:353,cs:1
+[2025/08/14 16:17:14]send_227,ret:1,cnt:3,len:894,remain:350,cs:1
+[2025/08/14 16:17:14]send_228,ret:1,cnt:3,len:903,remain:347,cs:1
+[2025/08/14 16:17:14]send_229,ret:1,cnt:3,len:911,remain:344,cs:1
+[2025/08/14 16:17:14]send_230,ret:1,cnt:3,len:886,remain:341,cs:1
+[2025/08/14 16:17:14]send_231,ret:1,cnt:3,len:896,remain:338,cs:1
+[2025/08/14 16:17:14]send_232,ret:1,cnt:3,len:908,remain:335,cs:1
+[2025/08/14 16:17:14]send_233,ret:1,cnt:3,len:864,remain:332,cs:1
+[2025/08/14 16:17:14]send_234,ret:1,cnt:3,len:876,remain:329,cs:1
+[2025/08/14 16:17:14]send_235,ret:1,cnt:3,len:892,remain:326,cs:1
+[2025/08/14 16:17:15]send_236,ret:1,cnt:3,len:902,remain:323,cs:1
+[2025/08/14 16:17:15]send_237,ret:1,cnt:3,len:880,remain:320,cs:1
+[2025/08/14 16:17:15]send_238,ret:1,cnt:3,len:950,remain:317,cs:1
+[2025/08/14 16:17:15]send_239,ret:1,cnt:3,len:902,remain:314,cs:1
+[2025/08/14 16:17:15]send_240,ret:1,cnt:3,len:906,remain:311,cs:1
+[2025/08/14 16:17:15]send_241,ret:1,cnt:3,len:915,remain:308,cs:1
+[2025/08/14 16:17:15]send_242,ret:1,cnt:3,len:886,remain:305,cs:1
+[2025/08/14 16:17:15]send_243,ret:1,cnt:3,len:875,remain:302,cs:1
+[2025/08/14 16:17:16]+ allow by acu
+[2025/08/14 16:17:16]send_244,ret:1,cnt:3,len:936,remain:299,cs:1
+[2025/08/14 16:17:16]send_245,ret:1,cnt:3,len:874,remain:296,cs:1
+[2025/08/14 16:17:16]send_246,ret:1,cnt:3,len:882,remain:293,cs:1
+[2025/08/14 16:17:16]send_247,ret:1,cnt:3,len:901,remain:290,cs:1
+[2025/08/14 16:17:16]send_248,ret:1,cnt:3,len:892,remain:287,cs:1
+[2025/08/14 16:17:16]send_249,ret:1,cnt:3,len:885,remain:284,cs:1
+[2025/08/14 16:17:16]send_250,ret:1,cnt:3,len:878,remain:281,cs:1
+[2025/08/14 16:17:16]send_251,ret:1,cnt:3,len:905,remain:278,cs:1
+[2025/08/14 16:17:16]send_252,ret:1,cnt:3,len:901,remain:275,cs:1
+[2025/08/14 16:17:16]send_253,ret:1,cnt:3,len:924,remain:272,cs:1
+[2025/08/14 16:17:16]send_254,ret:1,cnt:3,len:862,remain:269,cs:1
+[2025/08/14 16:17:16]send_255,ret:1,cnt:3,len:885,remain:266,cs:1
+[2025/08/14 16:17:16]send_256,ret:1,cnt:3,len:942,remain:263,cs:1
+[2025/08/14 16:17:16]send_257,ret:1,cnt:3,len:896,remain:260,cs:1
+[2025/08/14 16:17:16]send_258,ret:1,cnt:3,len:850,remain:257,cs:1
+[2025/08/14 16:17:16]send_259,ret:1,cnt:3,len:899,remain:254,cs:1
+[2025/08/14 16:17:16]send_260,ret:1,cnt:3,len:878,remain:251,cs:1
+[2025/08/14 16:17:16]send_261,ret:1,cnt:3,len:866,remain:248,cs:1
+[2025/08/14 16:17:16]send_262,ret:1,cnt:3,len:872,remain:245,cs:1
+[2025/08/14 16:17:16]send_263,ret:1,cnt:3,len:883,remain:242,cs:1
+[2025/08/14 16:17:17]send_264,ret:1,cnt:3,len:895,remain:239,cs:1
+[2025/08/14 16:17:17]send_265,ret:1,cnt:3,len:906,remain:236,cs:1
+[2025/08/14 16:17:17]send_266,ret:1,cnt:3,len:884,remain:233,cs:1
+[2025/08/14 16:17:17]send_267,ret:1,cnt:3,len:846,remain:230,cs:1
+[2025/08/14 16:17:17]send_268,ret:1,cnt:3,len:888,remain:227,cs:1
+[2025/08/14 16:17:17]send_269,ret:1,cnt:3,len:873,remain:224,cs:1
+[2025/08/14 16:17:17]send_270,ret:1,cnt:3,len:930,remain:221,cs:1
+[2025/08/14 16:17:17]send_271,ret:1,cnt:3,len:874,remain:218,cs:1
+[2025/08/14 16:17:17]send_272,ret:1,cnt:3,len:888,remain:215,cs:1
+[2025/08/14 16:17:17]send_273,ret:1,cnt:3,len:899,remain:212,cs:1
+[2025/08/14 16:17:17]send_274,ret:1,cnt:3,len:876,remain:209,cs:1
+[2025/08/14 16:17:17]send_275,ret:1,cnt:3,len:906,remain:206,cs:1
+[2025/08/14 16:17:17]send_276,ret:1,cnt:3,len:888,remain:203,cs:1
+[2025/08/14 16:17:17]send_277,ret:1,cnt:3,len:891,remain:200,cs:1
+[2025/08/14 16:17:17]send_278,ret:1,cnt:3,len:896,remain:197,cs:1
+[2025/08/14 16:17:17]send_279,ret:1,cnt:3,len:887,remain:194,cs:1
+[2025/08/14 16:17:17]send_280,ret:1,cnt:3,len:870,remain:191,cs:1
+[2025/08/14 16:17:17]send_281,ret:1,cnt:3,len:886,remain:188,cs:1
+[2025/08/14 16:17:17]send_282,ret:1,cnt:3,len:886,remain:185,cs:1
+[2025/08/14 16:17:17]send_283,ret:1,cnt:3,len:871,remain:182,cs:1
+[2025/08/14 16:17:18]send_284,ret:1,cnt:3,len:878,remain:180,cs:1
+[2025/08/14 16:17:18]send_285,ret:1,cnt:3,len:889,remain:177,cs:1
+[2025/08/14 16:17:18]send_286,ret:1,cnt:3,len:879,remain:174,cs:1
+[2025/08/14 16:17:18]send_287,ret:1,cnt:3,len:919,remain:171,cs:1
+[2025/08/14 16:17:18]send_288,ret:1,cnt:3,len:890,remain:168,cs:1
+[2025/08/14 16:17:18]send_289,ret:1,cnt:3,len:902,remain:165,cs:1
+[2025/08/14 16:17:18]send_290,ret:1,cnt:3,len:900,remain:162,cs:1
+[2025/08/14 16:17:18]send_291,ret:1,cnt:3,len:898,remain:159,cs:1
+[2025/08/14 16:17:18]send_292,ret:1,cnt:3,len:869,remain:156,cs:1
+[2025/08/14 16:17:19]send_293,ret:1,cnt:3,len:878,remain:153,cs:1
+[2025/08/14 16:17:19]send_294,ret:1,cnt:3,len:920,remain:150,cs:1
+[2025/08/14 16:17:19]send_295,ret:1,cnt:3,len:881,remain:147,cs:1
+[2025/08/14 16:17:19]send_296,ret:1,cnt:3,len:906,remain:144,cs:1
+[2025/08/14 16:17:19]send_297,ret:1,cnt:3,len:902,remain:141,cs:1
+[2025/08/14 16:17:19]send_298,ret:1,cnt:3,len:912,remain:138,cs:1
+[2025/08/14 16:17:19]send_299,ret:1,cnt:3,len:866,remain:135,cs:1
+[2025/08/14 16:17:19]send_300,ret:1,cnt:3,len:881,remain:132,cs:1
+[2025/08/14 16:17:19]send_301,ret:1,cnt:3,len:896,remain:129,cs:1
+[2025/08/14 16:17:19]send_302,ret:1,cnt:3,len:933,remain:126,cs:1
+[2025/08/14 16:17:19]send_303,ret:1,cnt:3,len:894,remain:123,cs:1
+[2025/08/14 16:17:20]send_304,ret:1,cnt:3,len:880,remain:120,cs:1
+[2025/08/14 16:17:20]send_305,ret:1,cnt:3,len:915,remain:117,cs:1
+[2025/08/14 16:17:20]send_306,ret:1,cnt:3,len:899,remain:114,cs:1
+[2025/08/14 16:17:20]send_307,ret:1,cnt:3,len:883,remain:111,cs:1
+[2025/08/14 16:17:20]send_308,ret:1,cnt:3,len:878,remain:108,cs:1
+[2025/08/14 16:17:20]send_309,ret:1,cnt:3,len:867,remain:105,cs:1
+[2025/08/14 16:17:20]send_310,ret:1,cnt:3,len:911,remain:102,cs:1
+[2025/08/14 16:17:20]send_311,ret:1,cnt:3,len:975,remain:99,cs:1
+[2025/08/14 16:17:20]send_312,ret:1,cnt:3,len:897,remain:96,cs:1
+[2025/08/14 16:17:20]send_313,ret:1,cnt:3,len:911,remain:93,cs:1
+[2025/08/14 16:17:20]send_314,ret:1,cnt:3,len:875,remain:90,cs:1
+[2025/08/14 16:17:20]send_315,ret:1,cnt:3,len:896,remain:87,cs:1
+[2025/08/14 16:17:20]send_316,ret:1,cnt:3,len:902,remain:84,cs:1
+[2025/08/14 16:17:20]send_317,ret:1,cnt:3,len:914,remain:81,cs:1
+[2025/08/14 16:17:20]send_318,ret:1,cnt:3,len:904,remain:78,cs:1
+[2025/08/14 16:17:20]send_319,ret:1,cnt:3,len:882,remain:75,cs:1
+[2025/08/14 16:17:20]send_320,ret:1,cnt:3,len:929,remain:72,cs:1
+[2025/08/14 16:17:20]send_321,ret:1,cnt:3,len:887,remain:69,cs:1
+[2025/08/14 16:17:20]send_322,ret:1,cnt:3,len:942,remain:66,cs:1
+[2025/08/14 16:17:20]send_323,ret:1,cnt:3,len:877,remain:63,cs:1
+[2025/08/14 16:17:21]send_324,ret:1,cnt:3,len:935,remain:60,cs:1
+[2025/08/14 16:17:21]send_325,ret:1,cnt:3,len:865,remain:57,cs:1
+[2025/08/14 16:17:21]send_326,ret:1,cnt:3,len:893,remain:54,cs:1
+[2025/08/14 16:17:21]send_327,ret:1,cnt:3,len:874,remain:51,cs:1
+[2025/08/14 16:17:21]send_328,ret:1,cnt:3,len:897,remain:48,cs:1
+[2025/08/14 16:17:21]send_329,ret:1,cnt:3,len:906,remain:45,cs:1
+[2025/08/14 16:17:21]send_330,ret:1,cnt:3,len:904,remain:42,cs:1
+[2025/08/14 16:17:21]send_331,ret:1,cnt:3,len:908,remain:39,cs:1
+[2025/08/14 16:17:21]send_332,ret:1,cnt:3,len:895,remain:36,cs:1
+[2025/08/14 16:17:21]send_333,ret:1,cnt:3,len:886,remain:33,cs:1
+[2025/08/14 16:17:21]send_334,ret:1,cnt:3,len:881,remain:30,cs:1
+[2025/08/14 16:17:22]send_335,ret:1,cnt:3,len:920,remain:27,cs:1
+[2025/08/14 16:17:22]send_336,ret:1,cnt:6,len:962,remain:21,cs:1
+[2025/08/14 16:17:22]send_337,ret:1,cnt:3,len:583,remain:18,cs:1
+[2025/08/14 16:17:22]send_338,ret:1,cnt:4,len:943,remain:14,cs:1
+[2025/08/14 16:17:22]send_339,ret:1,cnt:3,len:801,remain:11,cs:1
+[2025/08/14 16:17:22]send_340,ret:1,cnt:3,len:801,remain:9,cs:1
+[2025/08/14 16:17:22]send_341,ret:1,cnt:1,len:319,remain:8,cs:1
+[2025/08/14 16:17:22]send_342,ret:1,cnt:3,len:810,remain:5,cs:1
+[2025/08/14 16:17:22]send_343,ret:1,cnt:3,len:784,remain:2,cs:1
+[2025/08/14 16:17:23]send_344,ret:1,cnt:2,len:501,remain:0,cs:1
+[2025/08/14 16:17:23]ChkSetGameStatus{
+[2025/08/14 16:17:23]status_info:0x7fed7ab738
+[2025/08/14 16:17:23]status_info->size_:8
+[2025/08/14 16:17:23]status_info->game_status_:1
+[2025/08/14 16:17:23]ChkSetGameStatus}
+[2025/08/14 16:17:25]send_345,ret:1,cnt:1,len:65,remain:0,cs:1
+[2025/08/14 16:17:26]+ allow by acu
+[2025/08/14 16:17:28]send_346,ret:1,cnt:2,len:447,remain:0,cs:1
+[2025/08/14 16:17:36]+ allow by acu
+[2025/08/14 16:17:40]send_347,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:17:46]+ allow by acu
+[2025/08/14 16:17:50]send_348,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:17:52]TssIoCtl.emm:0,n:,p:files_dir=/data/user/0/com.tencent.tptest/files|wait=1,b:255
+[2025/08/14 16:17:52]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/tptest.xml
+[2025/08/14 16:17:52]!tcj,name:/data/user/0/com.tencent.tptest/files/tptest.xml md5:f7b29b9e9f8b52b5f793ec3c18955ee7,size:38468
+[2025/08/14 16:17:52]|/data/user/0/com.tencent.tptest/files/tptest.xml(-), task_id:0
+[2025/08/14 16:17:52]<cp>tcj, 
+[2025/08/14 16:17:54]send_349,ret:1,cnt:3,len:846,remain:1,cs:1
+[2025/08/14 16:17:56]+ allow by acu
+[2025/08/14 16:17:56]send_350,ret:1,cnt:2,len:359,remain:0,cs:1
+[2025/08/14 16:17:56]<cp-ret>response:0, t:tcj
+[2025/08/14 16:17:56]send_351,ret:1,cnt:1,len:272,remain:0,cs:1
+[2025/08/14 16:17:56]send_352,ret:1,cnt:1,len:28874,remain:0,cs:1
+[2025/08/14 16:17:56]send_353,ret:1,cnt:1,len:9998,remain:0,cs:1
+[2025/08/14 16:17:59]send_354,ret:1,cnt:3,len:703,remain:0,cs:1
+[2025/08/14 16:18:06]+ allow by acu
+[2025/08/14 16:18:10]send_355,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:18:16]+ allow by acu
+[2025/08/14 16:18:20]send_356,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:18:26]+ allow by acu
+[2025/08/14 16:18:30]send_357,ret:1,cnt:1,len:312,remain:1,cs:1
+[2025/08/14 16:18:32]send_358,ret:1,cnt:1,len:57,remain:0,cs:1
+[2025/08/14 16:18:36]+ allow by acu
+[2025/08/14 16:18:40]send_359,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:18:46]+ allow by acu
+[2025/08/14 16:18:46][sc]Notify
+[2025/08/14 16:18:46][sc]CallBack
+[2025/08/14 16:18:50]send_360,ret:1,cnt:1,len:312,remain:0,cs:1
+[2025/08/14 16:18:56]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161856_2_tcj_sshot.bin
+[2025/08/14 16:18:56]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161856_2_tcj_sshot.bin md5:01fd7e7766c59d962102e91a0091710e,size:676
+[2025/08/14 16:18:56]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161856_2_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:18:56]<cp>tcj, 
+[2025/08/14 16:18:56]+ allow by acu
+[2025/08/14 16:18:58]send_361,ret:1,cnt:4,len:969,remain:1,cs:1
+[2025/08/14 16:19:00]send_362,ret:1,cnt:2,len:547,remain:0,cs:1
+[2025/08/14 16:19:00]<cp-ret>response:0, t:tcj
+[2025/08/14 16:19:00]send_363,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:19:00]send_364,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:19:00]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14161856_2_tcj_sshot.bin
+[2025/08/14 16:19:02]send_365,ret:1,cnt:2,len:432,remain:0,cs:1
+[2025/08/14 16:19:06]+ allow by acu
+[2025/08/14 16:19:10]send_366,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:19:16]+ allow by acu
+[2025/08/14 16:19:20]send_367,ret:1,cnt:2,len:380,remain:0,cs:1
+[2025/08/14 16:19:26]+ allow by acu
+[2025/08/14 16:19:30]send_368,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:19:36]+ allow by acu
+[2025/08/14 16:19:40]send_369,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:19:46]+ allow by acu
+[2025/08/14 16:19:50]send_370,ret:1,cnt:1,len:314,remain:1,cs:1
+[2025/08/14 16:19:52]send_371,ret:1,cnt:1,len:57,remain:0,cs:1
+[2025/08/14 16:19:56]send_372,ret:1,cnt:2,len:440,remain:0,cs:1
+[2025/08/14 16:19:56]+ allow by acu
+[2025/08/14 16:20:00]send_373,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:20:06]+ allow by acu
+[2025/08/14 16:20:10]send_374,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:20:16]+ allow by acu
+[2025/08/14 16:20:20]send_375,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:20:26]+ allow by acu
+[2025/08/14 16:20:30]send_376,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:20:36]+ allow by acu
+[2025/08/14 16:20:40]send_377,ret:1,cnt:2,len:380,remain:0,cs:1
+[2025/08/14 16:20:46]+ allow by acu
+[2025/08/14 16:20:50]send_378,ret:1,cnt:1,len:314,remain:0,cs:1
+[2025/08/14 16:20:56]+ allow by acu
+[2025/08/14 16:20:58]send_379,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:21:00]send_380,ret:1,cnt:1,len:315,remain:0,cs:1
+[2025/08/14 16:21:06]+ allow by acu
+[2025/08/14 16:21:10]send_381,ret:1,cnt:1,len:315,remain:1,cs:1
+[2025/08/14 16:21:12]send_382,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:21:16]+ allow by acu
+[2025/08/14 16:21:20]send_383,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:21:26]+ allow by acu
+[2025/08/14 16:21:30]send_384,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:21:36]+ allow by acu
+[2025/08/14 16:21:40]send_385,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:21:46]send_386,ret:0,cnt:2,len:433,remain:6 1
+
+[2025/08/14 16:21:46]+ allow by acu
+[2025/08/14 16:21:46]ob, time cast:0ms
+[2025/08/14 16:21:46][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math}
+[2025/08/14 16:21:46][VM]math.img end, loop:12
+[2025/08/14 16:21:46][VM64][ob_normal.zip][foo.img]Hi,Foo{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][foo.img]Hi,Foo}
+[2025/08/14 16:21:46][VM]foo.img end, loop:4
+[2025/08/14 16:21:46][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf}
+[2025/08/14 16:21:46][VM]unzip_mf.img end, loop:4
+[2025/08/14 16:21:46][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml}
+[2025/08/14 16:21:46][VM]axml_xml.img end, loop:4
+[2025/08/14 16:21:46][VM64][ob_normal.zip][ant.img]Hi,Ant{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][hb.img]Hi,HB{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][zip.img]Hi,Zip{
+[2025/08/14 16:21:46][VM64][ob_normal.zip][zip.img]Hi,Zip}
+[2025/08/14 16:21:46][VM]zip.img end, loop:4
+[2025/08/14 16:21:46][VM64][ob_normal.zip][ant.img]Hi,Ant}
+[2025/08/14 16:21:46][VM]ant.img end, loop:1000005
+[2025/08/14 16:21:47][VM64][ob_normal.zip][hb.img]hi,hb:0
+[2025/08/14 16:21:48][VM64][ob_normal.zip][hb.img]hi,hb:1
+[2025/08/14 16:21:49][VM64][ob_normal.zip][hb.img]hi,hb:2
+[2025/08/14 16:21:50][VM64][ob_normal.zip][hb.img]hi,hb:3
+[2025/08/14 16:21:51]send_386,ret:1,cnt:4,len:875,remain:5,cs:1
+[2025/08/14 16:21:51]send_387,ret:1,cnt:1,len:317,remain:4,cs:1
+[2025/08/14 16:21:51]send_388,ret:1,cnt:4,len:964,remain:0,cs:1
+[2025/08/14 16:21:51][VM64][ob_normal.zip][hb.img]hi,hb:4
+[2025/08/14 16:21:51][VM64][ob_normal.zip][hb.img]Hi,HB}
+[2025/08/14 16:21:51][VM]hb.img end, loop:6
+[2025/08/14 16:21:51]ob, time cast:5170ms
+[2025/08/14 16:21:53]send_389,ret:1,cnt:1,len:245,remain:4,cs:1
+[2025/08/14 16:21:53]send_390,ret:1,cnt:4,len:943,remain:0,cs:1
+[2025/08/14 16:21:54]9060:781233
+[2025/08/14 16:21:54]cs:report_qos_if(opcode_eq("libtersafe.so",0x3,0x46)&&opcode_eq2("libtersafe.so",0x1,0x3,0x4a637295),781233), retval:1
+[2025/08/14 16:21:54]cs:report_qos_if(opcode_eq("libc.so",0x3,0x46)&&opcode_eq2("libc.so",0x1,0x3,0x4a637295),781234), retval:0
+[2025/08/14 16:21:55]9060:781235
+[2025/08/14 16:21:55]cs:report_qos_if(game_id_eq(8899),781235), retval:1
+[2025/08/14 16:21:55]send_391,ret:1,cnt:2,len:467,remain:4,cs:1
+[2025/08/14 16:21:55]send_392,ret:1,cnt:4,len:949,remain:0,cs:1
+[2025/08/14 16:21:56]+ allow by acu
+[2025/08/14 16:21:58]send_393,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:22:00]send_394,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:22:03]send_395,ret:1,cnt:4,len:940,remain:0,cs:1
+[2025/08/14 16:22:05]send_396,ret:1,cnt:4,len:937,remain:0,cs:1
+[2025/08/14 16:22:06]+ allow by acu
+[2025/08/14 16:22:06][sc]Notify
+[2025/08/14 16:22:06][sc]CallBack
+[2025/08/14 16:22:07]send_397,ret:1,cnt:3,len:817,remain:4,cs:1
+[2025/08/14 16:22:07]send_398,ret:1,cnt:4,len:948,remain:0,cs:1
+[2025/08/14 16:22:09]send_399,ret:1,cnt:2,len:577,remain:18,cs:1
+[2025/08/14 16:22:09]send_400,ret:1,cnt:1,len:277,remain:17,cs:1
+[2025/08/14 16:22:09]send_401,ret:1,cnt:4,len:951,remain:13,cs:1
+[2025/08/14 16:22:09]send_402,ret:1,cnt:3,len:807,remain:10,cs:1
+[2025/08/14 16:22:09]send_403,ret:1,cnt:3,len:807,remain:7,cs:1
+[2025/08/14 16:22:09]send_404,ret:1,cnt:3,len:816,remain:4,cs:1
+[2025/08/14 16:22:09]send_405,ret:1,cnt:3,len:790,remain:1,cs:1
+[2025/08/14 16:22:11]send_406,ret:0,cnt:1,len:49,remain:2 1
+
+[2025/08/14 16:22:16]send_406,ret:1,cnt:2,len:116,remain:1,cs:1
+[2025/08/14 16:22:16]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162216_3_tcj_sshot.bin
+[2025/08/14 16:22:16]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162216_3_tcj_sshot.bin md5:3002a77cb55b2c35fdc043dcc596399f,size:676
+[2025/08/14 16:22:16]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162216_3_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:22:16]<cp>tcj, 
+[2025/08/14 16:22:16]+ allow by acu
+[2025/08/14 16:22:18]send_407,ret:1,cnt:3,len:867,remain:2,cs:1
+[2025/08/14 16:22:18]send_408,ret:1,cnt:1,len:224,remain:1,cs:1
+[2025/08/14 16:22:18]<cp-ret>response:0, t:tcj
+[2025/08/14 16:22:19]send_409,ret:1,cnt:1,len:317,remain:2,cs:1
+[2025/08/14 16:22:19]send_410,ret:1,cnt:1,len:244,remain:1,cs:1
+[2025/08/14 16:22:19]send_411,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:22:19]send_412,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:22:19]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162216_3_tcj_sshot.bin
+[2025/08/14 16:22:21]send_413,ret:1,cnt:1,len:366,remain:0,cs:1
+[2025/08/14 16:22:26]+ allow by acu
+[2025/08/14 16:22:30]send_414,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:22:32]send_415,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:22:36]+ allow by acu
+[2025/08/14 16:22:40]send_416,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:22:46]+ allow by acu
+[2025/08/14 16:22:50]send_417,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:22:56]+ allow by acu
+[2025/08/14 16:22:58]send_418,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:23:00]send_419,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:23:04]send_420,ret:1,cnt:1,len:257,remain:0,cs:1
+[2025/08/14 16:23:06]+ allow by acu
+[2025/08/14 16:23:10]send_421,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:23:16]+ allow by acu
+[2025/08/14 16:23:20]send_422,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:23:26]+ allow by acu
+[2025/08/14 16:23:30]send_423,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:23:36]+ allow by acu
+[2025/08/14 16:23:40]send_424,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:23:46]+ allow by acu
+[2025/08/14 16:23:50]send_425,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:23:52]send_426,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:23:56]+ allow by acu
+[2025/08/14 16:23:58]send_427,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:24:00]send_428,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:24:06]+ allow by acu
+[2025/08/14 16:24:10]send_429,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:24:16]+ allow by acu
+[2025/08/14 16:24:20]send_430,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:24:26]+ allow by acu
+[2025/08/14 16:24:30]send_431,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:24:36]+ allow by acu
+[2025/08/14 16:24:40]send_432,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:24:46]+ allow by acu
+[2025/08/14 16:24:50]send_433,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:24:56]send_434,ret:1,cnt:2,len:440,remain:0,cs:1
+[2025/08/14 16:24:56]+ allow by acu
+[2025/08/14 16:25:00]send_435,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:25:06]+ allow by acu
+[2025/08/14 16:25:10]send_436,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:25:12]send_437,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:25:16]+ allow by acu
+[2025/08/14 16:25:20]send_438,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:25:26]+ allow by acu
+[2025/08/14 16:25:26][sc]Notify
+[2025/08/14 16:25:26][sc]CallBack
+[2025/08/14 16:25:30]send_439,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:25:36]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162536_4_tcj_sshot.bin
+[2025/08/14 16:25:36]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162536_4_tcj_sshot.bin md5:d8fb3a1b4bbb64700c45c9758e0888db,size:676
+[2025/08/14 16:25:36]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162536_4_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:25:36]<cp>tcj, 
+[2025/08/14 16:25:36]+ allow by acu
+[2025/08/14 16:25:38]send_440,ret:1,cnt:3,len:867,remain:2,cs:1
+[2025/08/14 16:25:38]send_441,ret:1,cnt:2,len:550,remain:0,cs:1
+[2025/08/14 16:25:38]<cp-ret>response:0, t:tcj
+[2025/08/14 16:25:39]send_442,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:25:39]send_443,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:25:39]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162536_4_tcj_sshot.bin
+[2025/08/14 16:25:41]send_444,ret:1,cnt:1,len:366,remain:0,cs:1
+[2025/08/14 16:25:46]+ allow by acu
+[2025/08/14 16:25:50]send_445,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:25:56]+ allow by acu
+[2025/08/14 16:25:58]send_446,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:26:00]send_447,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:26:06]+ allow by acu
+[2025/08/14 16:26:10]send_448,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:26:16]+ allow by acu
+[2025/08/14 16:26:20]send_449,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:26:26]+ allow by acu
+[2025/08/14 16:26:30]send_450,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:26:32]send_451,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:26:36]+ allow by acu
+[2025/08/14 16:26:37]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config2.xml, retval:0, size:5640, cache:0, jd:1
+[2025/08/14 16:26:37]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8899/config3.xml, retval:0, size:4529, cache:0, jd:1
+[2025/08/14 16:26:37]ver:0.2 app_ver:0.2 code_size:17592 crc:0xf1cb981c
+[2025/08/14 16:26:37]ver:0.2 app_ver:0.2 code_size:9536 crc:0x0de0677c
+[2025/08/14 16:26:37]!dl 1
+[2025/08/14 16:26:38]send_452,ret:1,cnt:4,len:887,remain:1,cs:1
+[2025/08/14 16:26:40]send_453,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:26:46]+ allow by acu
+[2025/08/14 16:26:46]send_454,ret:0,cnt:3,len:467,remain:7 1
+
+[2025/08/14 16:26:47]ob, time cast:0ms
+[2025/08/14 16:26:47][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math}
+[2025/08/14 16:26:47][VM]math.img end, loop:12
+[2025/08/14 16:26:47][VM64][ob_normal.zip][foo.img]Hi,Foo{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][foo.img]Hi,Foo}
+[2025/08/14 16:26:47][VM]foo.img end, loop:4
+[2025/08/14 16:26:47][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf}
+[2025/08/14 16:26:47][VM]unzip_mf.img end, loop:4
+[2025/08/14 16:26:47][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml}
+[2025/08/14 16:26:47][VM]axml_xml.img end, loop:4
+[2025/08/14 16:26:47][VM64][ob_normal.zip][ant.img]Hi,Ant{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][hb.img]Hi,HB{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][zip.img]Hi,Zip{
+[2025/08/14 16:26:47][VM64][ob_normal.zip][zip.img]Hi,Zip}
+[2025/08/14 16:26:47][VM]zip.img end, loop:4
+[2025/08/14 16:26:47][VM64][ob_normal.zip][ant.img]Hi,Ant}
+[2025/08/14 16:26:47][VM]ant.img end, loop:1000005
+[2025/08/14 16:26:48][VM64][ob_normal.zip][hb.img]hi,hb:0
+[2025/08/14 16:26:49][VM64][ob_normal.zip][hb.img]hi,hb:1
+[2025/08/14 16:26:50][VM64][ob_normal.zip][hb.img]hi,hb:2
+[2025/08/14 16:26:51][VM64][ob_normal.zip][hb.img]hi,hb:3
+[2025/08/14 16:26:51]send_454,ret:1,cnt:5,len:909,remain:5,cs:1
+[2025/08/14 16:26:51]send_455,ret:1,cnt:1,len:317,remain:4,cs:1
+[2025/08/14 16:26:51]send_456,ret:1,cnt:4,len:964,remain:0,cs:1
+[2025/08/14 16:26:52][VM64][ob_normal.zip][hb.img]hi,hb:4
+[2025/08/14 16:26:52][VM64][ob_normal.zip][hb.img]Hi,HB}
+[2025/08/14 16:26:52][VM]hb.img end, loop:6
+[2025/08/14 16:26:52]ob, time cast:5184ms
+[2025/08/14 16:26:54]send_457,ret:1,cnt:1,len:245,remain:4,cs:1
+[2025/08/14 16:26:54]send_458,ret:1,cnt:4,len:943,remain:0,cs:1
+[2025/08/14 16:26:55]9060:781233
+[2025/08/14 16:26:55]cs:report_qos_if(opcode_eq("libtersafe.so",0x3,0x46)&&opcode_eq2("libtersafe.so",0x1,0x3,0x4a637295),781233), retval:1
+[2025/08/14 16:26:55]cs:report_qos_if(opcode_eq("libc.so",0x3,0x46)&&opcode_eq2("libc.so",0x1,0x3,0x4a637295),781234), retval:0
+[2025/08/14 16:26:55]9060:781235
+[2025/08/14 16:26:55]cs:report_qos_if(game_id_eq(8899),781235), retval:1
+[2025/08/14 16:26:56]send_459,ret:1,cnt:3,len:569,remain:4,cs:1
+[2025/08/14 16:26:56]send_460,ret:1,cnt:4,len:949,remain:0,cs:1
+[2025/08/14 16:26:56]+ allow by acu
+[2025/08/14 16:27:00]send_461,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:27:03]send_462,ret:1,cnt:1,len:58,remain:4,cs:1
+[2025/08/14 16:27:03]send_463,ret:1,cnt:4,len:940,remain:0,cs:1
+[2025/08/14 16:27:05]send_464,ret:1,cnt:4,len:937,remain:0,cs:1
+[2025/08/14 16:27:05]send_465,ret:1,cnt:2,len:514,remain:0,cs:1
+[2025/08/14 16:27:08]send_466,ret:1,cnt:3,len:817,remain:4,cs:1
+[2025/08/14 16:27:08]send_467,ret:1,cnt:4,len:942,remain:0,cs:1
+[2025/08/14 16:27:08]+ allow by acu
+[2025/08/14 16:27:10]send_468,ret:0,cnt:3,len:562,remain:18 1
+
+[2025/08/14 16:27:15]send_468,ret:1,cnt:4,len:856,remain:15,cs:1
+[2025/08/14 16:27:15]send_469,ret:1,cnt:4,len:1000,remain:11,cs:1
+[2025/08/14 16:27:15]send_470,ret:1,cnt:3,len:807,remain:8,cs:1
+[2025/08/14 16:27:15]send_471,ret:1,cnt:3,len:808,remain:5,cs:1
+[2025/08/14 16:27:15]send_472,ret:1,cnt:3,len:827,remain:2,cs:1
+[2025/08/14 16:27:15]send_473,ret:1,cnt:2,len:498,remain:0,cs:1
+[2025/08/14 16:27:18]+ allow by acu
+[2025/08/14 16:27:22]send_474,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:27:28]+ allow by acu
+[2025/08/14 16:27:32]send_475,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:27:38]+ allow by acu
+[2025/08/14 16:27:42]send_476,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:27:48]+ allow by acu
+[2025/08/14 16:27:52]send_477,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:27:55]send_478,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:27:58]send_479,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:27:58]+ allow by acu
+[2025/08/14 16:28:02]send_480,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:28:08]+ allow by acu
+[2025/08/14 16:28:12]send_481,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:28:18]+ allow by acu
+[2025/08/14 16:28:22]send_482,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:28:28]+ allow by acu
+[2025/08/14 16:28:32]send_483,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:28:38]+ allow by acu
+[2025/08/14 16:28:40]send_484,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:28:48]+ allow by acu
+[2025/08/14 16:28:48][sc]Notify
+[2025/08/14 16:28:48][sc]CallBack
+[2025/08/14 16:28:52]send_485,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:28:58]send_486,ret:1,cnt:2,len:193,remain:0,cs:1
+[2025/08/14 16:28:58]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162858_5_tcj_sshot.bin
+[2025/08/14 16:28:58]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162858_5_tcj_sshot.bin md5:c9e20b1cad8afa29729ce7249abf0d24,size:676
+[2025/08/14 16:28:58]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162858_5_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:28:58]<cp>tcj, 
+[2025/08/14 16:28:58]+ allow by acu
+[2025/08/14 16:29:01]send_487,ret:1,cnt:3,len:867,remain:2,cs:1
+[2025/08/14 16:29:01]send_488,ret:1,cnt:2,len:550,remain:0,cs:1
+[2025/08/14 16:29:01]<cp-ret>response:0, t:tcj
+[2025/08/14 16:29:01]send_489,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:29:01]send_490,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:29:01]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14162858_5_tcj_sshot.bin
+[2025/08/14 16:29:03]send_491,ret:1,cnt:1,len:366,remain:0,cs:1
+[2025/08/14 16:29:08]+ allow by acu
+[2025/08/14 16:29:12]send_492,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:29:14]send_493,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:29:18]+ allow by acu
+[2025/08/14 16:29:22]send_494,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:29:28]+ allow by acu
+[2025/08/14 16:29:33]send_495,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:29:39]+ allow by acu
+[2025/08/14 16:29:43]send_496,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:29:49]+ allow by acu
+[2025/08/14 16:29:53]send_497,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:29:56]send_498,ret:1,cnt:2,len:440,remain:0,cs:1
+[2025/08/14 16:29:59]+ allow by acu
+[2025/08/14 16:30:01]send_499,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:30:09]+ allow by acu
+[2025/08/14 16:30:13]send_500,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:30:19]+ allow by acu
+[2025/08/14 16:30:23]send_501,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:30:29]+ allow by acu
+[2025/08/14 16:30:33]send_502,ret:1,cnt:1,len:317,remain:1,cs:1
+[2025/08/14 16:30:35]send_503,ret:1,cnt:1,len:58,remain:0,cs:1
+[2025/08/14 16:30:39]+ allow by acu
+[2025/08/14 16:30:43]send_504,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:30:49]+ allow by acu
+[2025/08/14 16:30:53]send_505,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:30:58]send_506,ret:1,cnt:1,len:126,remain:0,cs:1
+[2025/08/14 16:30:59]+ allow by acu
+[2025/08/14 16:31:03]send_507,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:31:09]+ allow by acu
+[2025/08/14 16:31:13]send_508,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:31:19]+ allow by acu
+[2025/08/14 16:31:21]send_509,ret:1,cnt:2,len:384,remain:0,cs:1
+[2025/08/14 16:31:29]+ allow by acu
+[2025/08/14 16:31:33]send_510,ret:1,cnt:1,len:317,remain:0,cs:1
+[2025/08/14 16:31:39]+ allow by acu
+[2025/08/14 16:31:43]send_511,ret:1,cnt:1,len:318,remain:0,cs:1
+[2025/08/14 16:31:49]send_512,ret:0,cnt:2,len:433,remain:6 1
+
+[2025/08/14 16:31:49]+ allow by acu
+[2025/08/14 16:31:49]ob, time cast:0ms
+[2025/08/14 16:31:49][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][math.img]Hi,ObjVM_Math}
+[2025/08/14 16:31:49][VM]math.img end, loop:12
+[2025/08/14 16:31:49][VM64][ob_normal.zip][foo.img]Hi,Foo{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][foo.img]Hi,Foo}
+[2025/08/14 16:31:49][VM]foo.img end, loop:4
+[2025/08/14 16:31:49][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][unzip_mf.img]Hi,ObjVM_UnzipMf}
+[2025/08/14 16:31:49][VM]unzip_mf.img end, loop:4
+[2025/08/14 16:31:49][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][axml_xml.img]Hi,axml_xml}
+[2025/08/14 16:31:49][VM]axml_xml.img end, loop:4
+[2025/08/14 16:31:49][VM64][ob_normal.zip][ant.img]Hi,Ant{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][hb.img]Hi,HB{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][zip.img]Hi,Zip{
+[2025/08/14 16:31:49][VM64][ob_normal.zip][zip.img]Hi,Zip}
+[2025/08/14 16:31:49][VM]zip.img end, loop:4
+[2025/08/14 16:31:49][VM64][ob_normal.zip][ant.img]Hi,Ant}
+[2025/08/14 16:31:49][VM]ant.img end, loop:1000005
+[2025/08/14 16:31:50][VM64][ob_normal.zip][hb.img]hi,hb:0
+[2025/08/14 16:31:51][VM64][ob_normal.zip][hb.img]hi,hb:1
+[2025/08/14 16:31:52][VM64][ob_normal.zip][hb.img]hi,hb:2
+[2025/08/14 16:31:53][VM64][ob_normal.zip][hb.img]hi,hb:3
+[2025/08/14 16:31:54]send_512,ret:1,cnt:4,len:875,remain:6,cs:1
+[2025/08/14 16:31:54]send_513,ret:1,cnt:2,len:385,remain:4,cs:1
+[2025/08/14 16:31:54]send_514,ret:1,cnt:4,len:964,remain:0,cs:1
+[2025/08/14 16:31:54][VM64][ob_normal.zip][hb.img]hi,hb:4
+[2025/08/14 16:31:54][VM64][ob_normal.zip][hb.img]Hi,HB}
+[2025/08/14 16:31:54][VM]hb.img end, loop:6
+[2025/08/14 16:31:54]ob, time cast:5170ms
+[2025/08/14 16:31:56]send_515,ret:1,cnt:2,len:380,remain:4,cs:1
+[2025/08/14 16:31:56]send_516,ret:1,cnt:4,len:943,remain:0,cs:1
+[2025/08/14 16:31:57]9060:781233
+[2025/08/14 16:31:57]cs:report_qos_if(opcode_eq("libtersafe.so",0x3,0x46)&&opcode_eq2("libtersafe.so",0x1,0x3,0x4a637295),781233), retval:1
+[2025/08/14 16:31:57]cs:report_qos_if(opcode_eq("libc.so",0x3,0x46)&&opcode_eq2("libc.so",0x1,0x3,0x4a637295),781234), retval:0
+[2025/08/14 16:31:57]9060:781235
+[2025/08/14 16:31:57]cs:report_qos_if(game_id_eq(8899),781235), retval:1
+[2025/08/14 16:31:58]send_517,ret:1,cnt:2,len:467,remain:4,cs:1
+[2025/08/14 16:31:58]send_518,ret:1,cnt:4,len:949,remain:0,cs:1
+[2025/08/14 16:31:59]+ allow by acu
+[2025/08/14 16:32:03]send_519,ret:1,cnt:1,len:318,remain:0,cs:1
+[2025/08/14 16:32:05]send_520,ret:1,cnt:4,len:940,remain:0,cs:1
+[2025/08/14 16:32:07]send_521,ret:1,cnt:4,len:937,remain:0,cs:1
+[2025/08/14 16:32:09]+ allow by acu
+[2025/08/14 16:32:09][sc]Notify
+[2025/08/14 16:32:09][sc]CallBack
+[2025/08/14 16:32:09]send_522,ret:1,cnt:4,len:851,remain:4,cs:1
+[2025/08/14 16:32:09]send_523,ret:1,cnt:4,len:948,remain:0,cs:1
+[2025/08/14 16:32:11]send_524,ret:1,cnt:2,len:578,remain:18,cs:1
+[2025/08/14 16:32:11]send_525,ret:1,cnt:1,len:277,remain:17,cs:1
+[2025/08/14 16:32:11]send_526,ret:1,cnt:4,len:951,remain:13,cs:1
+[2025/08/14 16:32:11]send_527,ret:1,cnt:3,len:807,remain:10,cs:1
+[2025/08/14 16:32:11]send_528,ret:1,cnt:3,len:807,remain:7,cs:1
+[2025/08/14 16:32:11]send_529,ret:1,cnt:3,len:816,remain:4,cs:1
+[2025/08/14 16:32:11]send_530,ret:1,cnt:3,len:790,remain:1,cs:1
+[2025/08/14 16:32:14]send_531,ret:0,cnt:1,len:49,remain:2 1
+
+[2025/08/14 16:32:19]send_531,ret:1,cnt:1,len:49,remain:1,cs:1
+[2025/08/14 16:32:19]DoRiskFileTCJTask, path:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14163219_6_tcj_sshot.bin
+[2025/08/14 16:32:19]!tcj,name:/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14163219_6_tcj_sshot.bin md5:0736f616f0c0cd247f8adbbf3139c5a7,size:676
+[2025/08/14 16:32:19]|/data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14163219_6_tcj_sshot.bin(-), task_id:0
+[2025/08/14 16:32:19]<cp>tcj, 
+[2025/08/14 16:32:19]+ allow by acu
+[2025/08/14 16:32:21]send_532,ret:1,cnt:3,len:867,remain:2,cs:1
+[2025/08/14 16:32:21]send_533,ret:1,cnt:1,len:224,remain:1,cs:1
+[2025/08/14 16:32:21]<cp-ret>response:0, t:tcj
+[2025/08/14 16:32:23]send_534,ret:1,cnt:1,len:318,remain:2,cs:1
+[2025/08/14 16:32:23]send_535,ret:1,cnt:1,len:244,remain:1,cs:1
+[2025/08/14 16:32:24]send_536,ret:1,cnt:1,len:286,remain:0,cs:1
+[2025/08/14 16:32:24]send_537,ret:1,cnt:1,len:878,remain:0,cs:1
+[2025/08/14 16:32:24]!tcj,remove /data/user/0/com.tencent.tptest/files/ano_tmp/ac_tmp/14163219_6_tcj_sshot.bin
+[2025/08/14 16:32:25]ChkSetGameStatus{
+[2025/08/14 16:32:25]status_info:0x7fed7ab718
+[2025/08/14 16:32:25]status_info->size_:8
+[2025/08/14 16:32:25]status_info->game_status_:2
+[2025/08/14 16:32:25]ChkSetGameStatus}
+[2025/08/14 16:32:26]send_538,ret:1,cnt:3,len:474,remain:0,cs:1
+[2025/08/14 16:32:29]+ allow by acu
+[2025/08/14 16:32:33]send_539,ret:1,cnt:1,len:318,remain:0,cs:1
+[2025/08/14 16:33:14]+ allow by acu
+[2025/08/14 16:33:44]send_540,ret:1,cnt:2,len:385,remain:0,cs:1
+[2025/08/14 16:35:01]+ allow by acu
+[2025/08/14 16:35:30]send_541,ret:1,cnt:1,len:318,remain:0,cs:1
+[2025/08/14 16:36:33]+ allow by acu
+[2025/08/14 16:37:03]send_542,ret:1,cnt:1,len:318,remain:0,cs:1

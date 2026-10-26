@@ -1,0 +1,292 @@
+[2025/11/10 14:58:07]GCLOUD_VERSION_TP_7.9.01.39320
+[2025/11/10 14:58:07]7.9.1.39320
+[2025/11/10 14:58:07]{
+[2025/11/10 14:58:07] __ENABLE_DATA_ENC__
+[2025/11/10 14:58:07] __ENABLE_MPRCS__
+[2025/11/10 14:58:07] __ENABLE_TPSTL__
+[2025/11/10 14:58:07] __ENABLE_TPLIBC__
+[2025/11/10 14:58:07] __USE_NEW_QOS_ONLY__
+[2025/11/10 14:58:07] __ENABLE_SO_UPDATE__
+[2025/11/10 14:58:07]}
+[2025/11/10 14:58:07]module
+[2025/11/10 14:58:07]{
+[2025/11/10 14:58:07] 17:1
+[2025/11/10 14:58:07] 20:1
+[2025/11/10 14:58:07] 68:1
+[2025/11/10 14:58:07]}
+[2025/11/10 14:58:07]so:arm64
+[2025/11/10 14:58:07]pid:27034
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]build_options
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]{
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  ver:20251103.1
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  pid:27034
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  fake_game_id:1718291212
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  fake_open_id:31953E44BE629B6B9AB_OB
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]  sdk_ver:7.9.1.39320
+[2025/11/10 14:58:07][VM64][builtin.zip][vm_main.img]}
+[2025/11/10 14:58:07]!aclp
+[2025/11/10 14:58:27][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/11/10 14:58:27][VM64][builtin.zip][vm_main.img]libtersafe.so,off:0,size:0, err:-1
+[2025/11/10 14:58:27][VM64][builtin.zip][vm_main.img]  v.bss, time cast:2ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.va, time cast:2214ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.op, time cast:20ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.ro, time cast:7ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]auto_defence, time cast:2248ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  CertScanerV, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  AttestScanerV, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  CC2V, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:0ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:21ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:1ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:35ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:7ms
+[2025/11/10 14:58:30][VM64][builtin.zip][vm_main.img]vm_scan }, cast:69ms
+[2025/11/10 15:00:34]ctl:ilc_open_pipe
+[2025/11/10 15:00:34]ChkInit{
+[2025/11/10 15:00:34]init_info:0x7f94a3d7e0
+[2025/11/10 15:00:34]init_info->size_:16
+[2025/11/10 15:00:34]init_info->game_id_:8899
+[2025/11/10 15:00:34]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/11/10 15:00:34]ChkInit}
+[2025/11/10 15:00:34]u_a_ps
+[2025/11/10 15:00:34]|jar_ver:7.9.1(2020/11/10)-jar-version
+[2025/11/10 15:00:34]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:34]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:34]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]get4_0, 0x558ea2b040
+[2025/11/10 15:00:35]del4_0, 0x558ea2b040
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:255
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:35]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:64
+[2025/11/10 15:00:36]TssIoCtl.uts:80,n:cdn;cs;,p:files_dir=/data/data/com.tencent.tptest/files,b:64
+[2025/11/10 15:00:37]get4_1, 0x558e9f21f0
+[2025/11/10 15:00:37]del4_1, 0x558e9f21f0
+[2025/11/10 15:00:38]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/config2.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/10 15:00:38]get4_2, 0x558ebd3bd0
+[2025/11/10 15:00:38]del4_2, 0x558ebd3bd0
+[2025/11/10 15:00:38]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/11/10 15:00:39]get4_3, 0x558eb896e0
+[2025/11/10 15:00:39]del4_3, 0x558eb896e0
+[2025/11/10 15:00:40]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/866942CD/tss_ano.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/11/10 15:00:40]get4_4, 0x558ec19a90
+[2025/11/10 15:00:40]del4_4, 0x558ec19a90
+[2025/11/10 15:00:40]get2:128, 0x7f9544885a
+[2025/11/10 15:00:40]get2:128, 0x7f9544885a
+[2025/11/10 15:00:40]gp4 err:604
+[2025/11/10 15:00:40]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/1C378502/cs_dl_only.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/10 15:00:42]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/99642335/tssmua.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/10 15:00:43]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/891302F4/tss_tcj.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/10 15:00:43]SetUserInfoEx{
+[2025/11/10 15:00:43]user_info:0x7f920c2690
+[2025/11/10 15:00:43]user_info->size_:212
+[2025/11/10 15:00:43]user_info->entry_id_:1
+[2025/11/10 15:00:43]user_info->uin_.type_:2
+[2025/11/10 15:00:43]user_info->uin_.uin_str_:BF01262517E6AE02BF1A3BB4BCC11D14
+[2025/11/10 15:00:43]user_info->app_id_.type_:2
+[2025/11/10 15:00:43]user_info->app_id_.app_id_str_:
+[2025/11/10 15:00:43]user_info->world_id_:0
+[2025/11/10 15:00:43]user_info->role_id_:
+[2025/11/10 15:00:43]SetUserInfoEx}
+[2025/11/10 15:00:43]dl custom, name:light_sig_test.dat, len:256, crc:8fc8b293, channel:2
+[2025/11/10 15:00:43]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/BCF4161A/mrpcs_abort.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/10 15:00:44]tbt:-1,n:,b:64,p:files_dir=/data/data/com.tencent.tptest/files|wait=0
+[2025/11/10 15:00:44]<cp>9088_alert, err_code:604
+[2025/11/10 15:00:44]gp4 err:604
+[2025/11/10 15:00:44][VM64][builtin.zip][vm_r4.img]  r4_foo, time cast:0ms
+[2025/11/10 15:00:44][VM64][builtin.zip][vm_r4.img]  r4_attest_task, time cast:1ms
+[2025/11/10 15:00:44][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:8ms
+[2025/11/10 15:00:44][builtin.zip][vm_r4.img]end, loop:6047
+[2025/11/10 15:00:45]TssIoCtl.uts:80,n:cdn;cs;,p:files_dir=/data/data/com.tencent.tptest/files,b:512
+[2025/11/10 15:00:45]tbt:0,n:,b:64,p:files_dir=/data/data/com.tencent.tptest/files|wait=0
+[2025/11/10 15:00:45]get2:128, 0x7f9544885a
+[2025/11/10 15:00:45]get2:128, 0x7f9544885a
+[2025/11/10 15:00:45]r4, time cast:9707ms
+[2025/11/10 15:00:46]get1_0:0x5590210320, cs6
+[2025/11/10 15:00:46]del1_0:0x5590210320, cs6
+[2025/11/10 15:00:47]gp4 err:604
+[2025/11/10 15:00:49]get1_1:0x5590210320, cs6
+[2025/11/10 15:00:49]get2:128, 0x7f9544885a
+[2025/11/10 15:00:49]get3_1, 0x55902ef1a0
+[2025/11/10 15:00:49]del3_1, 0x55902ef1a0
+[2025/11/10 15:00:49]del1_1:0x5590210320, cs6
+[2025/11/10 15:00:50]gp4 err:604
+[2025/11/10 15:00:52]get1_2:0x5590210320, cs6
+[2025/11/10 15:00:52]del1_2:0x5590210320, cs6
+[2025/11/10 15:00:54]gp4 err:604
+[2025/11/10 15:00:55]get1_3:0x5590210320, cs6
+[2025/11/10 15:00:55]get3_2, 0x558e7a9f30
+[2025/11/10 15:00:55]del3_2, 0x558e7a9f30
+[2025/11/10 15:00:55]del1_3:0x5590210320, cs6
+[2025/11/10 15:00:57][VM64][builtin.zip][vm_r4.img]  r4_emulator, time cast:11ms
+[2025/11/10 15:00:57][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:13ms
+[2025/11/10 15:00:57][builtin.zip][vm_r4.img]end, loop:6049
+[2025/11/10 15:00:57]gp4 err:604
+[2025/11/10 15:00:58]get1_4:0x558e7a9f30, cs6
+[2025/11/10 15:00:58]del1_4:0x558e7a9f30, cs6
+[2025/11/10 15:00:59]gp4 err:604
+[2025/11/10 15:01:01]get3_3, 0x55902abf80
+[2025/11/10 15:01:01]del3_3, 0x55902abf80
+[2025/11/10 15:01:03]gp4 err:604
+[2025/11/10 15:01:04]dl https://down.anticheatexpert.com/gamesafe/mobile/ano_dfh.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/11/10 15:01:05]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:1024
+[2025/11/10 15:01:05]gp4 err:604
+[2025/11/10 15:01:06]get3_4, 0x5590281670
+[2025/11/10 15:01:06]del3_4, 0x5590281670
+[2025/11/10 15:01:06]get3_5, 0x558e7bd160
+[2025/11/10 15:01:06]del3_5, 0x558e7bd160
+[2025/11/10 15:01:09]!cp, timeout:9088_alert
+[2025/11/10 15:01:20]send_cs:8, send_gs:30, remain_cnt:262
+[2025/11/10 15:02:16]SetUserInfoEx{
+[2025/11/10 15:02:16]user_info:0x7f921c1dd0
+[2025/11/10 15:02:16]user_info->size_:212
+[2025/11/10 15:02:16]user_info->entry_id_:1
+[2025/11/10 15:02:16]user_info->uin_.type_:2
+[2025/11/10 15:02:16]user_info->uin_.uin_str_:AF01262517E6AE02BF1A3BB4BCC11D14
+[2025/11/10 15:02:16]user_info->app_id_.type_:2
+[2025/11/10 15:02:16]user_info->app_id_.app_id_str_:
+[2025/11/10 15:02:16]user_info->world_id_:0
+[2025/11/10 15:02:16]user_info->role_id_:
+[2025/11/10 15:02:16]SetUserInfoEx}
+[2025/11/10 15:02:48]ChkSetGameStatus{
+[2025/11/10 15:02:48]status_info:0x7fc5c06c90
+[2025/11/10 15:02:48]status_info->size_:8
+[2025/11/10 15:02:48]status_info->game_status_:2
+[2025/11/10 15:02:48]ChkSetGameStatus}
+[2025/11/10 15:02:49]send_cs:18, send_gs:42, remain_cnt:235
+[2025/11/10 15:02:52]ChkSetGameStatus{
+[2025/11/10 15:02:52]status_info:0x7fc5c06c80
+[2025/11/10 15:02:52]status_info->size_:8
+[2025/11/10 15:02:52]status_info->game_status_:1
+[2025/11/10 15:02:52]ChkSetGameStatus}
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]  v.op, time cast:53ms
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]  v.ro, time cast:14ms
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]auto_defence, time cast:70ms
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/11/10 15:03:31][VM64][builtin.zip][vm_main.img]!invoke crash, key:FooScanerV, desc:FooScan, alert_only:1
+[2025/11/10 15:03:33][VM64][builtin.zip][vm_main.img]!connect nj.cschannel.anticheatexpert.com, ip:180.102.211.18
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]!volume ctl(sdk) response, ret:1, count:1567, ratio:0
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]!volume ctl, key:FooScanerV, desc:FooScan, limited:1
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2338ms
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:72ms
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:4ms
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:56ms
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:8ms
+[2025/11/10 15:03:34][VM64][builtin.zip][vm_main.img]vm_scan }, cast:2480ms
+[2025/11/10 15:03:35][JAVA]*#06#:AddTouchEvent:col=802|row=1735|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0|action=0|index=0|et=127098920|dt=127098920
+[2025/11/10 15:05:55][JAVA]*#06#:AddTouchEvent:col=774|row=1760|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0|action=0|index=0|et=127238728|dt=127238728
+[2025/11/10 15:06:56][JAVA]*#06#:AddTouchEvent:col=611|row=1590|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0|action=0|index=0|et=127300405|dt=127300405
+[2025/11/10 15:07:55]send_cs:25, send_gs:49, remain_cnt:4
+[2025/11/10 15:08:19][JAVA]*#06#:AddTouchEvent:col=364|row=1692|col_max=1080|row_max=1920|id=9|name=synaptics_dsx_i2c|source=4098|external=0|flags=0|action=0|index=0|et=127383280|dt=127383280
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]  v.op, time cast:45ms
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]  v.ro, time cast:15ms
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]auto_defence, time cast:63ms
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/11/10 15:08:30][VM64][builtin.zip][vm_main.img]!invoke crash, key:FooScanerV, desc:FooScan, alert_only:1
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]!connect nj.cschannel.anticheatexpert.com, ip:180.102.211.116
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]!volume ctl(sdk) response, ret:1, count:1585, ratio:0
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]!volume ctl, key:FooScanerV, desc:FooScan, limited:1
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2244ms
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:57ms
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:2ms
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:46ms
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:7ms
+[2025/11/10 15:08:32][VM64][builtin.zip][vm_main.img]vm_scan }, cast:2359ms
+[2025/11/10 15:10:37]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.tencent.tptest/files|wait=1,b:255
+[2025/11/10 15:12:27]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/config2.dat, retval:0, cache:0, cs:1, cs_cache:1
+[2025/11/10 15:12:27]dl https://down.anticheatexpert.com/iedsafe/Client/android/8899/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/11/10 15:12:56]send_cs:31, send_gs:49, remain_cnt:1
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]  v.op, time cast:49ms
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]  v.ro, time cast:14ms
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]auto_defence, time cast:66ms
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/11/10 15:13:30][VM64][builtin.zip][vm_main.img]!invoke crash, key:FooScanerV, desc:FooScan, alert_only:1
+[2025/11/10 15:13:32][VM64][builtin.zip][vm_main.img]!connect nj.cschannel.anticheatexpert.com, ip:180.102.211.93
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]!volume ctl(sdk) response, ret:1, count:1585, ratio:0
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]!volume ctl, key:FooScanerV, desc:FooScan, limited:1
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2464ms
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:74ms
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:5ms
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:62ms
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:11ms
+[2025/11/10 15:13:33][VM64][builtin.zip][vm_main.img]vm_scan }, cast:2620ms
+[2025/11/10 15:17:21][CS6]ConnConnProxySvr err
+[2025/11/10 15:17:31][CS6]ConnConnProxySvr err
+[2025/11/10 15:17:46][CS6]ConnConnProxySvr err
+[2025/11/10 15:17:59]send_cs:37, send_gs:50, remain_cnt:0
+[2025/11/10 15:18:02][CS6]ConnConnProxySvr err
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]  v.op, time cast:49ms
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]  v.ro, time cast:14ms
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]auto_defence, time cast:67ms
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/11/10 15:18:28][VM64][builtin.zip][vm_main.img]!invoke crash, key:FooScanerV, desc:FooScan, alert_only:1
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]!connect nj.cschannel.anticheatexpert.com, ip:222.94.109.22
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]!volume ctl(sdk) response, ret:1, count:1609, ratio:0
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]!volume ctl, key:FooScanerV, desc:FooScan, limited:1
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2487ms
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:72ms
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:4ms
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:50ms
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:6ms
+[2025/11/10 15:18:30][VM64][builtin.zip][vm_main.img]vm_scan }, cast:2623ms
+[2025/11/10 15:20:44]ChkSetGameStatus{
+[2025/11/10 15:20:44]status_info:0x7fc5c06c90
+[2025/11/10 15:20:44]status_info->size_:8
+[2025/11/10 15:20:44]status_info->game_status_:2
+[2025/11/10 15:20:44]ChkSetGameStatus}
+[2025/11/10 15:20:50]ChkSetGameStatus{
+[2025/11/10 15:20:50]status_info:0x7fc5c06c80
+[2025/11/10 15:20:50]status_info->size_:8
+[2025/11/10 15:20:50]status_info->game_status_:1
+[2025/11/10 15:20:50]ChkSetGameStatus}
+[2025/11/10 15:20:53]ChkSetGameStatus{
+[2025/11/10 15:20:53]status_info:0x7fc5c06c90
+[2025/11/10 15:20:53]status_info->size_:8
+[2025/11/10 15:20:53]status_info->game_status_:2
+[2025/11/10 15:20:53]ChkSetGameStatus}

@@ -1,0 +1,2 @@
+mkdir /sdcard/sdk
+echo enable_set > /sdcard/sdk/enable.log

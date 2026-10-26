@@ -1,0 +1,48 @@
+[2025/09/15 10:50:08]GCLOUD_VERSION_TP_7.7.024.33778
+[2025/09/15 10:50:08]android ver:7.7.24.33778 20230522
+[2025/09/15 10:50:08]{
+[2025/09/15 10:50:08] __MODULE_TERSAFE2__
+[2025/09/15 10:50:08] __ENABLE_DATA_ENC__
+[2025/09/15 10:50:08] __ENABLE_MPRCS__
+[2025/09/15 10:50:08] __ENABLE_TPSTL__
+[2025/09/15 10:50:08] __ENABLE_TPLIBC__
+[2025/09/15 10:50:08] __USE_NEW_QOS_ONLY__
+[2025/09/15 10:50:08] __ENABLE_SO_UPDATE__
+[2025/09/15 10:50:08]}
+[2025/09/15 10:50:08]module
+[2025/09/15 10:50:08]{
+[2025/09/15 10:50:08] 17:1
+[2025/09/15 10:50:08] 19:1
+[2025/09/15 10:50:08] 24:1
+[2025/09/15 10:50:08]}
+[2025/09/15 10:50:08]so:arm64
+[2025/09/15 10:50:08]pid:14999
+[2025/09/15 10:50:08]ctl:ilc_open_pipe
+[2025/09/15 10:50:08]ChkInit{
+[2025/09/15 10:50:08]init_info:0x7c622d5e30
+[2025/09/15 10:50:08]init_info->size_:16
+[2025/09/15 10:50:08]init_info->game_id_:20059
+[2025/09/15 10:50:08]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/09/15 10:50:08]ChkInit}
+[2025/09/15 10:50:08]|jar_ver:7.7.24(2020/11/10)-jar-version
+[2025/09/15 10:50:10]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:11]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:11]SetUserInfoEx{
+[2025/09/15 10:50:11]user_info:0x7c622d5e7c
+[2025/09/15 10:50:11]user_info->size_:212
+[2025/09/15 10:50:11]user_info->entry_id_:1
+[2025/09/15 10:50:11]user_info->uin_.type_:2
+[2025/09/15 10:50:11]user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7724
+[2025/09/15 10:50:11]user_info->app_id_.type_:2
+[2025/09/15 10:50:11]user_info->app_id_.app_id_str_:
+[2025/09/15 10:50:11]user_info->world_id_:101
+[2025/09/15 10:50:11]user_info->role_id_:paladin
+[2025/09/15 10:50:11]SetUserInfoEx}
+[2025/09/15 10:50:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/AB8138C9/tss_ano.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/5DC1D8B9/cpfc.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/8CE149F7/tp2cfg.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:12]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/1EB83FE7/ob_cs1_32.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:14]DoConnCSChannelImp, 180.102.211.18:443
+[2025/09/15 10:50:35]dl https://down.anticheatexpert.com/gamesafe/mobile/ano_dfh.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/15 10:50:44]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/09/15 10:50:45]send_cs:24, send_gs:2, remain_cnt:2

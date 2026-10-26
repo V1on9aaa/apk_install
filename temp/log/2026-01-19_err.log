@@ -1,0 +1,648 @@
+10:11:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:11:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:12:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:12:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:13:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+10:41:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:41:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:42:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:42:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:43:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+10:44:49
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:44:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:45:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:45:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:47:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+10:48:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+10:49:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:49:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:50:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:50:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:51:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:51:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:02:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:02:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:04:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:04:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:05:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+11:07:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C================================================================================
+
+11:11:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:11:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:12:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:12:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:13:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+11:14:34
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C================================================================================
+
+11:14:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:14:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:16:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:16:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:17:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+11:38:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C================================================================================
+
+11:39:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:39:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:41:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\tptest\tptest_7.9.22_32.apk"
+result:
+^C================================================================================
+
+11:41:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:41:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:43:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\tptest\tptest_7.9.22_32.apk"
+result:
+^C================================================================================
+
+11:43:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:43:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:44:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 install -g "G:\Business_Area\sdk\7.9.X\7.9.22.10274\tptest\tptest_7.9.22_32.apk"
+result:
+^C================================================================================
+
+11:44:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:44:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:45:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:47:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+15:27:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:27:49
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:28:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:28:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:29:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 uninstall "com.tencent.tptest"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.tptest
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4289)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21753)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18553)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:736)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1486)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:193)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22004)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2821)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4048)
+	at android.os.Binder.execTransact(Binder.java:731)
+================================================================================
+
+16:46:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:46:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+17:08:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:08:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:09:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:09:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:11:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:11:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+17:13:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:13:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+17:14:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:14:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+17:16:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:16:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+

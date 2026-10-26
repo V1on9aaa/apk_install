@@ -1,0 +1,49 @@
+[2025/10/22 16:18:42]GCLOUD_VERSION_TP_7.8.015.23033
+[2025/10/22 16:18:42]7.8.15.23033
+[2025/10/22 16:18:42]{
+[2025/10/22 16:18:42] __ENABLE_DATA_ENC__
+[2025/10/22 16:18:42] __ENABLE_MPRCS__
+[2025/10/22 16:18:42] __ENABLE_TPSTL__
+[2025/10/22 16:18:42] __ENABLE_TPLIBC__
+[2025/10/22 16:18:42] __USE_NEW_QOS_ONLY__
+[2025/10/22 16:18:42] __ENABLE_SO_UPDATE__
+[2025/10/22 16:18:42]}
+[2025/10/22 16:18:42]module
+[2025/10/22 16:18:42]{
+[2025/10/22 16:18:42] 17:1
+[2025/10/22 16:18:42] 19:1
+[2025/10/22 16:18:42] 24:1
+[2025/10/22 16:18:42]}
+[2025/10/22 16:18:42]so:arm32
+[2025/10/22 16:18:42]pid:4476
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]build_options
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]{
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  arch:arm32
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  pid:4476
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  fake_game_id:1718291212
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  fake_open_id:139BF56A5DACB9E7115_OB
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]  sdk_ver:7.8.15.23033
+[2025/10/22 16:18:42][VM32][builtin.zip][vm_main.img]}
+[2025/10/22 16:19:02][VM32][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/10/22 16:19:02][VM32][builtin.zip][vm_main.img]  v.bss, time cast:29ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.va, time cast:2225ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.op, time cast:14ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.ro, time cast:4ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  v.so, time cast:1ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]auto_defence, time cast:2279ms
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]vm_scan {
+[2025/10/22 16:19:04][VM32][builtin.zip][vm_main.img]  CertScanerV, time cast:0ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  AttestScanerV, time cast:3504ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  CC2V, time cast:7ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  FooScanerV, time cast:0ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  FridaScanerV, time cast:46ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  CommDatScanerV, time cast:0ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:25ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]  RoDataScanerV, time cast:11ms
+[2025/10/22 16:19:08][VM32][builtin.zip][vm_main.img]vm_scan }, cast:3598ms

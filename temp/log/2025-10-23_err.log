@@ -1,0 +1,1392 @@
+09:46:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+09:46:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+09:47:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+09:47:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+09:48:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_32.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+09:49:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.15.23033\tptest\Tptest_7.8.15_64.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+09:49:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+09:56:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+09:58:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:00:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:00:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:03:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.tptest/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.tptest/files/shell.log: No such file or directory
+================================================================================
+
+10:03:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:03:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:14:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:15:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:22:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:22:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:23:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  am start com.tencent.tptest/.MainActivity
+result:
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+10:29:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:29:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:31:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.tptest/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.tptest/files/shell.log: No such file or directory
+================================================================================
+
+10:31:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:31:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.tptest': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tptest/files': File exists
+================================================================================
+
+10:33:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.tptest/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.tptest/files/shell.log: No such file or directory
+================================================================================
+
+10:33:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:33:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+10:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+10:38:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo/files': File exists
+================================================================================
+
+10:41:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+10:42:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:43:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:43:10
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\15086486007476985391
+================================================================================
+
+10:43:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock': File exists
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock/files': File exists
+================================================================================
+
+10:43:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+10:43:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+10:50:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:50:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:54:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:54:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:54:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+10:54:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+10:58:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:58:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:02:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:02:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:05:05
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+11:05:32
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\8866232185653175273
+================================================================================
+
+11:05:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:05:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:05:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+11:05:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+11:10:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+11:12:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:12:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+11:13:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame/files': File exists
+================================================================================
+
+11:14:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+11:14:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:14:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+11:16:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+11:16:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:16:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+11:17:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd/files': File exists
+================================================================================
+
+11:18:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.sdk_ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk_ano/files/shell.log: No such file or directory
+================================================================================
+
+11:19:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:19:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+11:19:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+11:19:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+11:19:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo/files': File exists
+================================================================================
+
+11:20:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.sdk_ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk_ano/files/shell.log: No such file or directory
+================================================================================
+
+11:21:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:21:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+11:21:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4/files': File exists
+================================================================================
+
+11:22:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.sdk/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk/files/shell.log: No such file or directory
+================================================================================
+
+11:23:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:23:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+11:23:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+11:24:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.sdk/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk/files/shell.log: No such file or directory
+================================================================================
+
+11:24:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.8.X\7.8.22.64040\demo\Sdk_Tools_7.8.22_8888_c++_64\dist\Sdk_Tools_7.8.22_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.22.64040\demo\Sdk_Tools_7.8.22_8888_c++_64\dist\Sdk_Tools_7.8.22_8888_c++_64.apk: Failure [INSTALL_PARSE_FAILED_NO_CERTIFICATES: Failed collecting certificates for /data/app/vmdl647666661.tmp/base.apk: Failed to collect certificates from /data/app/vmdl647666661.tmp/base.apk: Attempt to get length of null array]
+================================================================================
+
+11:24:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:25:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+11:25:32
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+11:25:36
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17164897775170313319
+================================================================================
+
+11:25:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock': File exists
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock/files': File exists
+================================================================================
+
+11:25:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+11:25:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+16:09:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:09:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:18:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:18:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:27:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:27:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:32:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:32:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:32:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:32:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+16:37:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:37:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:47:23
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:47:34
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17926598361382636772
+================================================================================
+
+17:31:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:32:08
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\7756105925077787441
+================================================================================
+
+17:34:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:37:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame/files': File exists
+================================================================================
+
+17:41:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd/files': File exists
+================================================================================
+
+17:42:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:42:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.tmgp.pubgmhd/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.tmgp.pubgmhd/files/log.log: No such file or directory
+================================================================================
+
+17:42:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo/files': File exists
+================================================================================
+
+17:42:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:446)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1477)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1430)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2308)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:252)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22330)
+	at android.os.Binder.shellCommand(Binder.java:940)
+	at android.os.Binder.onTransact(Binder.java:824)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4644)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4513)
+	at android.os.Binder.execTransactInternal(Binder.java:1170)
+	at android.os.Binder.execTransact(Binder.java:1134)
+================================================================================
+
+17:42:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:446)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1477)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1430)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2308)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:252)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22330)
+	at android.os.Binder.shellCommand(Binder.java:940)
+	at android.os.Binder.onTransact(Binder.java:824)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4644)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4513)
+	at android.os.Binder.execTransactInternal(Binder.java:1170)
+	at android.os.Binder.execTransact(Binder.java:1134)
+================================================================================
+
+17:44:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.debug_demo/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.debug_demo/files/log.log: No such file or directory
+================================================================================
+
+17:44:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4/files': File exists
+================================================================================
+
+17:46:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.sdk.ue4/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk.ue4/files/log.log: No such file or directory
+================================================================================
+
+17:46:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.sgame/files': File exists
+================================================================================
+
+17:46:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+17:48:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.unity.tools/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.unity.tools/files/log.log: No such file or directory
+================================================================================
+
+17:48:40
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:50:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tmgp.pubgmhd/files': File exists
+================================================================================
+
+17:52:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.debug_demo/files': File exists
+================================================================================
+
+17:52:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+17:52:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+17:54:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk.ue4/files': File exists
+================================================================================
+
+17:56:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+17:58:03
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id 709ccd85
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\5493812061293833453
+================================================================================
+
+17:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock': File exists
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock/files': File exists
+================================================================================
+
+17:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:446)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1477)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1430)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2308)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:252)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22330)
+	at android.os.Binder.shellCommand(Binder.java:940)
+	at android.os.Binder.onTransact(Binder.java:824)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4644)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4513)
+	at android.os.Binder.execTransactInternal(Binder.java:1170)
+	at android.os.Binder.execTransact(Binder.java:1134)
+================================================================================
+
+17:58:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:446)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1477)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1430)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2308)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:252)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22330)
+	at android.os.Binder.shellCommand(Binder.java:940)
+	at android.os.Binder.onTransact(Binder.java:824)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4644)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4513)
+	at android.os.Binder.execTransactInternal(Binder.java:1170)
+	at android.os.Binder.execTransact(Binder.java:1134)
+================================================================================
+
+17:58:53
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:58:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4246743_Clock_20251020142432.shell.shell.signed.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\6601113076358463351
+================================================================================
+
+17:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock': File exists
+mkdir: '/sdcard/Android/data/com.zeewinpeng.clock/files': File exists
+================================================================================
+
+17:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+17:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+
+java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:379)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1439)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:95)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2165)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5636)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1741)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:219)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+17:59:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.zeewinpeng.clock/files/log.log"
+result:
+cat: /sdcard/Android/data/com.zeewinpeng.clock/files/log.log: No such file or directory
+================================================================================
+

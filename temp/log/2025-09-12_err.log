@@ -1,0 +1,221 @@
+17-34-50
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G"
+ziparchive W 09-12 17:34:50 63928 29136] Unable to open 'G': No such file or directory
+G: error: failed opening zip: I/O error.
+================================================================================
+
+17-43-51
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+17-43-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-43-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-43-58
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670243.0.png"
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670243.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670243.0.png"
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670248.0.png"
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670248.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670248.0.png"
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670251.0.png"
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670251.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670251.0.png"
+================================================================================
+
+17-44-14
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-44-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+17-45-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-45-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/log.log: No such file or directory
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/shell.log: No such file or directory
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757670324_log.log
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757670324_log.log
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+

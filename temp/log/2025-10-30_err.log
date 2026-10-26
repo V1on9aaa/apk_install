@@ -1,0 +1,170 @@
+10:19:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\鏂板缓鏂囦欢澶筡ACE_Tools_7.8.25_20059_c#.apk: ================================================================================
+
+10:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  getprop ro.build.version.release
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+10:19:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:22:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+10:25:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+10:27:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+10:27:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:30:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:33:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:36:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+terminating with uncaught exception of type std::bad_alloc: std::bad_alloc
+================================================================================
+
+10:36:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+adb.exe: device 'dfc5f4ee' not found
+================================================================================
+
+10:45:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:46:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee install "G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25_20059_c#.apk"
+result:
+* daemon still not running
+- waiting for device -
+* daemon still not running
+error: cannot connect to daemon at tcp:5037: cannot connect to 127.0.0.1:5037: 由于目标计算机积极拒绝，无法连接。 (10061)
+================================================================================
+
+10:46:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+10:59:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:00:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 721QADRG3429Y shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+

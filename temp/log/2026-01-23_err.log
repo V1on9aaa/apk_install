@@ -1,0 +1,570 @@
+09:29:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:33:34
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:33:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:34:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c uninstall com.tencent.sdk_ano
+result:
+^C================================================================================
+
+09:34:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+^C================================================================================
+
+09:34:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:34:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:34:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:35:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:35:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:35:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:55:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:55:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+09:56:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:56:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+09:57:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:57:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+09:58:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:58:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+09:59:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:59:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+09:59:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:59:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10:01:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:01:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:01:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:01:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+10:02:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K install -g "G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\ANO_Tools_7.9.24_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\ANO_Tools_7.9.24_8888_c++_32.apk: Failure [INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113]
+================================================================================
+
+10:02:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:03:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+10:03:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+10:04:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K install -g "G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\Sdk_Tools_7.9.24_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\Sdk_Tools_7.9.24_8888_c++_32.apk: Failure [INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113]
+================================================================================
+
+10:04:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:04:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:04:33
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:04:34
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:52:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:52:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10:53:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:53:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+10:54:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K install -g "G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\ANO_Tools_7.9.24_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\ANO_Tools_7.9.24_8888_c++_32.apk: Failure [INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113]
+================================================================================
+
+10:54:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:55:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+10:55:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+10:56:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K install -g "G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\Sdk_Tools_7.9.24_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.24.60446\demo\Sdk_Tools_7.9.24_8888_c++_32.apk: Failure [INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113]
+================================================================================
+
+10:56:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:57:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:57:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:57:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:57:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:59:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+10:59:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:00:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:00:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:01:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:01:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:11:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:11:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:12:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:12:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:14:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:14:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:15:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:15:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:17:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:17:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:18:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:18:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+14:41:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:42:01
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:42:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:42:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:42:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:42:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+

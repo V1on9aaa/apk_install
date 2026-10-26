@@ -1,0 +1,32 @@
+14:58:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:59:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:38:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:44:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+

@@ -1,0 +1,120 @@
+10:10:32
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4643437126877681405
+================================================================================
+
+10:14:55
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4357590246802638717
+================================================================================
+
+10:24:41
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab --output=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+10:24:50
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\ACE_Tools_7.8.25.aab.apks --device-id 44221FDJH0020K
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\626607834040086163
+================================================================================
+
+10:24:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:24:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10:28:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/log.log: No such file or directory
+================================================================================
+
+10:28:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10:28:42
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab --output=G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+10:28:51
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\sdk\7.8.X\7.8.25.46154\demo\新建文件夹\Sdk_Tools_7.8.25.aab.apks --device-id 44221FDJH0020K
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17417970767797349772
+================================================================================
+
+10:28:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:28:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+================================================================================
+
+10:32:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  "cat /sdcard/Android/data/com.tencent.sdk/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk/files/log.log: No such file or directory
+================================================================================
+
+10:32:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 44221FDJH0020K shell  "cat /sdcard/Android/data/com.tencent.sdk/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.sdk/files/shell.log: No such file or directory
+================================================================================
+

@@ -1,0 +1,88 @@
+[2025/10/23 10:48:33] [VM64][builtin.zip][vm_main.img]build_options
+[2025/10/23 10:48:33] [VM64][builtin.zip][vm_main.img]{
+[2025/10/23 10:48:33] [VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/23 10:48:33] [VM64][builtin.zip][vm_main.img]}
+[2025/10/23 10:48:33] [VM64][builtin.zip][vm_main.img]arch:arm64
+[2025/10/23 10:48:55] SetCountryCode:NotEn
+[2025/10/23 10:48:55] li:530586570001031d62b6218c|1
+[2025/10/23 10:48:55] GCLOUD_VERSION_TP_7.0.038.16115
+[2025/10/23 10:48:55] android ver:7.0.38.16115 20230522
+[2025/10/23 10:48:55] {
+[2025/10/23 10:48:55]  __ENABLE_DATA_ENC__
+[2025/10/23 10:48:55]  __ENABLE_MPRCS__
+[2025/10/23 10:48:55]  __ENABLE_TPSTL__
+[2025/10/23 10:48:55]  __ENABLE_TPLIBC__
+[2025/10/23 10:48:55]  __TPSTL_RECRYLE__
+[2025/10/23 10:48:55]  __USE_NEW_QOS_ONLY__
+[2025/10/23 10:48:55]  __ENABLE_SO_UPDATE__
+[2025/10/23 10:48:55] }
+[2025/10/23 10:48:55] module
+[2025/10/23 10:48:55] {
+[2025/10/23 10:48:55]  17:1
+[2025/10/23 10:48:55]  19:1
+[2025/10/23 10:48:55]  24:1
+[2025/10/23 10:48:55] }
+[2025/10/23 10:48:55] so:arm64
+[2025/10/23 10:48:55] pid:20624
+[2025/10/23 10:48:55] ChkInit{
+[2025/10/23 10:48:55] init_info:0x7c37cec040
+[2025/10/23 10:48:55] init_info->size_:16
+[2025/10/23 10:48:55] init_info->game_id_:2577
+[2025/10/23 10:48:55] init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/23 10:48:55] ChkInit}
+[2025/10/23 10:48:55] C# SDK ver:7.0.38.16115
+[2025/10/23 10:48:55] |app_10.3.1.1
+[2025/10/23 10:48:55] TssIoCtl.emm:0,n:,p:files_dir=/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files|wait=0,b:64
+[2025/10/23 10:48:55] |jar_ver:7.0.38(2020/11/10)-jar-version
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2577/config2.xml, retval:0, size:1457, cache:0, jd:1
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2577/config3.xml, retval:0, size:954, cache:0, jd:1
+[2025/10/23 10:48:59] ver:11.1.1.6 app_ver:10.3.1.1 code_size:75997256 crc:0x83f99ba6
+[2025/10/23 10:48:59] ver:11.1.1.6 app_ver:10.3.1.1 code_size:60865344 crc:0x683213e8
+[2025/10/23 10:48:59] ver:11.1.1.15 app_ver:10.3.1.1 code_size:76018952 crc:0x4e571093
+[2025/10/23 10:48:59] ver:11.1.1.15 app_ver:10.3.1.1 code_size:60885824 crc:0xacdd29d0
+[2025/10/23 10:48:59] ver:11.1.1.6 app_ver:10.3.1.1 code_size:75997256 crc:0x83f99ba6
+[2025/10/23 10:48:59] ver:11.1.1.6 app_ver:10.3.1.1 code_size:60865344 crc:0x683213e8
+[2025/10/23 10:48:59] ver:11.1.1.15 app_ver:10.3.1.1 code_size:76018952 crc:0x4e571093
+[2025/10/23 10:48:59] ver:11.1.1.15 app_ver:10.3.1.1 code_size:60885824 crc:0xacdd29d0
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/FD13997D/comm.zip, retval:0, size:32955, cache:1, jd:1
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/408F1979/mrpcs_com.data, retval:0, size:168, cache:1, jd:1
+[2025/10/23 10:48:59] notify mrpcs, hash:0x408f1979
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/27F5CFDE/ob_cs2.zip, retval:0, size:155456, cache:1, jd:1
+[2025/10/23 10:48:59] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/A3B251CF/ob_x.zip, retval:0, size:6458, cache:1, jd:1
+[2025/10/23 10:49:02] TssIoCtl.emm:0,n:,p:files_dir=/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files|wait=0,b:64
+[2025/10/23 10:49:25] ChkSetGameStatus{
+[2025/10/23 10:49:25] status_info:0x7c37cec6d0
+[2025/10/23 10:49:25] status_info->size_:8
+[2025/10/23 10:49:25] status_info->game_status_:2
+[2025/10/23 10:49:25] ChkSetGameStatus}
+[2025/10/23 10:50:54] ChkSetGameStatus{
+[2025/10/23 10:50:54] status_info:0x7c37cece60
+[2025/10/23 10:50:54] status_info->size_:8
+[2025/10/23 10:50:54] status_info->game_status_:1
+[2025/10/23 10:50:54] ChkSetGameStatus}
+[2025/10/23 10:50:56] ChkSetGameStatus{
+[2025/10/23 10:50:56] status_info:0x7c37cec6d0
+[2025/10/23 10:50:56] status_info->size_:8
+[2025/10/23 10:50:56] status_info->game_status_:2
+[2025/10/23 10:50:56] ChkSetGameStatus}
+[2025/10/23 10:53:34] ChkSetGameStatus{
+[2025/10/23 10:53:34] status_info:0x7c37cece60
+[2025/10/23 10:53:34] status_info->size_:8
+[2025/10/23 10:53:34] status_info->game_status_:1
+[2025/10/23 10:53:34] ChkSetGameStatus}
+[2025/10/23 10:54:04] ChkSetGameStatus{
+[2025/10/23 10:54:04] status_info:0x7c37cec6d0
+[2025/10/23 10:54:04] status_info->size_:8
+[2025/10/23 10:54:04] status_info->game_status_:2
+[2025/10/23 10:54:04] ChkSetGameStatus}
+[2025/10/23 10:54:28] ChkSetGameStatus{
+[2025/10/23 10:54:28] status_info:0x7c37cece60
+[2025/10/23 10:54:28] status_info->size_:8
+[2025/10/23 10:54:28] status_info->game_status_:1
+[2025/10/23 10:54:28] ChkSetGameStatus}
+[2025/10/23 10:54:32] ChkSetGameStatus{
+[2025/10/23 10:54:32] status_info:0x7c37cec6d0
+[2025/10/23 10:54:32] status_info->size_:8
+[2025/10/23 10:54:32] status_info->game_status_:2
+[2025/10/23 10:54:32] ChkSetGameStatus}
+[2025/10/23 10:54:40] [VM]vm_main.img end, loop:11956

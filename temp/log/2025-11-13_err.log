@@ -1,0 +1,583 @@
+09:39:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:39:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.test.myapplication': File exists
+mkdir: '/sdcard/Android/data/com.test.myapplication/files': File exists
+================================================================================
+
+09:40:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  am start com.test.myapplication/.MainActivity
+result:
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+09:56:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:56:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.test.myapplication': File exists
+mkdir: '/sdcard/Android/data/com.test.myapplication/files': File exists
+================================================================================
+
+10:01:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.test.myapplication/files/log.log"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/log.log: No such file or directory
+================================================================================
+
+10:01:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.test.myapplication/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/shell.log: No such file or directory
+================================================================================
+
+10:02:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:02:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb': File exists
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb/files': File exists
+================================================================================
+
+10:02:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm grant com.aaaaaa.bbbbbb android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10:02:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm grant com.aaaaaa.bbbbbb android.permission.READ_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10:07:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.aaaaaa.bbbbbb/files/log.log"
+result:
+cat: /sdcard/Android/data/com.aaaaaa.bbbbbb/files/log.log: No such file or directory
+================================================================================
+
+10:07:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.aaaaaa.bbbbbb/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.aaaaaa.bbbbbb/files/shell.log: No such file or directory
+================================================================================
+
+10:24:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe devices
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+10:37:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:37:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:37:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.test.myapplication': File exists
+mkdir: '/sdcard/Android/data/com.test.myapplication/files': File exists
+================================================================================
+
+10:39:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.test.myapplication/files/log.log"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/log.log: No such file or directory
+================================================================================
+
+10:39:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.test.myapplication/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/shell.log: No such file or directory
+================================================================================
+
+10:39:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb': File exists
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb/files': File exists
+================================================================================
+
+10:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm grant com.aaaaaa.bbbbbb android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10:40:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm grant com.aaaaaa.bbbbbb android.permission.READ_EXTERNAL_STORAGE
+
+result:
+
+Exception occurred while executing 'grant':
+java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.READ_EXTERNAL_STORAGE
+	at com.android.server.pm.permission.BasePermission.enforceDeclaredUsedAndRuntimeOrDevelopment(BasePermission.java:448)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermissionInternal(PermissionManagerService.java:1509)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1462)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2333)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:266)
+	at android.os.BasicShellCommandHandler.exec(BasicShellCommandHandler.java:98)
+	at android.os.ShellCommand.exec(ShellCommand.java:44)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:23336)
+	at android.os.Binder.shellCommand(Binder.java:929)
+	at android.os.Binder.onTransact(Binder.java:813)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:4946)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4670)
+	at android.os.Binder.execTransactInternal(Binder.java:1159)
+	at android.os.Binder.execTransact(Binder.java:1123)
+================================================================================
+
+10:40:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:40:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.aaaaaa.bbbbbb/files/log.log"
+result:
+cat: /sdcard/Android/data/com.aaaaaa.bbbbbb/files/log.log: No such file or directory
+================================================================================
+
+10:41:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.aaaaaa.bbbbbb/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.aaaaaa.bbbbbb/files/shell.log: No such file or directory
+================================================================================
+
+10:43:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:43:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10:43:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.aaaaaa.bbbbbb android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+10:43:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.aaaaaa.bbbbbb android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.aaaaaa.bbbbbb has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+10:59:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:59:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.test.myapplication': File exists
+mkdir: '/sdcard/Android/data/com.test.myapplication/files': File exists
+================================================================================
+
+10:59:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  pm grant com.test.myapplication android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+
+java.lang.SecurityException: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+	at android.app.ContextImpl.enforce(ContextImpl.java:1955)
+	at android.app.ContextImpl.enforceCallingOrSelfPermission(ContextImpl.java:1983)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:2306)
+	at com.android.server.pm.permission.PermissionManagerService.access$1000(PermissionManagerService.java:133)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerServiceInternalImpl.grantRuntimePermission(PermissionManagerService.java:3437)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:6672)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2030)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:238)
+	at android.os.ShellCommand.exec(ShellCommand.java:104)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:24267)
+	at android.os.Binder.shellCommand(Binder.java:881)
+	at android.os.Binder.onTransact(Binder.java:765)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:5400)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4820)
+	at com.android.server.pm.OppoPackageManagerService.onTransact(OppoPackageManagerService.java:83)
+	at android.os.Binder.execTransactInternal(Binder.java:1021)
+	at android.os.Binder.execTransact(Binder.java:994)
+================================================================================
+
+10:59:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  pm grant com.test.myapplication android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+
+java.lang.SecurityException: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+	at android.app.ContextImpl.enforce(ContextImpl.java:1955)
+	at android.app.ContextImpl.enforceCallingOrSelfPermission(ContextImpl.java:1983)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:2306)
+	at com.android.server.pm.permission.PermissionManagerService.access$1000(PermissionManagerService.java:133)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerServiceInternalImpl.grantRuntimePermission(PermissionManagerService.java:3437)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:6672)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2030)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:238)
+	at android.os.ShellCommand.exec(ShellCommand.java:104)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:24267)
+	at android.os.Binder.shellCommand(Binder.java:881)
+	at android.os.Binder.onTransact(Binder.java:765)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:5400)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4820)
+	at com.android.server.pm.OppoPackageManagerService.onTransact(OppoPackageManagerService.java:83)
+	at android.os.Binder.execTransactInternal(Binder.java:1021)
+	at android.os.Binder.execTransact(Binder.java:994)
+================================================================================
+
+11:02:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  "cat /sdcard/Android/data/com.test.myapplication/files/log.log"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/log.log: No such file or directory
+================================================================================
+
+11:02:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  "cat /sdcard/Android/data/com.test.myapplication/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.test.myapplication/files/shell.log: No such file or directory
+================================================================================
+
+11:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:02:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb': File exists
+mkdir: '/sdcard/Android/data/com.aaaaaa.bbbbbb/files': File exists
+================================================================================
+
+11:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  pm grant com.aaaaaa.bbbbbb android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Security exception: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+
+java.lang.SecurityException: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+	at android.app.ContextImpl.enforce(ContextImpl.java:1955)
+	at android.app.ContextImpl.enforceCallingOrSelfPermission(ContextImpl.java:1983)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:2306)
+	at com.android.server.pm.permission.PermissionManagerService.access$1000(PermissionManagerService.java:133)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerServiceInternalImpl.grantRuntimePermission(PermissionManagerService.java:3437)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:6672)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2030)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:238)
+	at android.os.ShellCommand.exec(ShellCommand.java:104)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:24267)
+	at android.os.Binder.shellCommand(Binder.java:881)
+	at android.os.Binder.onTransact(Binder.java:765)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:5400)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4820)
+	at com.android.server.pm.OppoPackageManagerService.onTransact(OppoPackageManagerService.java:83)
+	at android.os.Binder.execTransactInternal(Binder.java:1021)
+	at android.os.Binder.execTransact(Binder.java:994)
+================================================================================
+
+11:02:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 8LAILJWWVKCUVK49 shell  pm grant com.aaaaaa.bbbbbb android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Security exception: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+
+java.lang.SecurityException: grantRuntimePermission: Neither user 2000 nor current process has android.permission.GRANT_RUNTIME_PERMISSIONS.
+	at android.app.ContextImpl.enforce(ContextImpl.java:1955)
+	at android.app.ContextImpl.enforceCallingOrSelfPermission(ContextImpl.java:1983)
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:2306)
+	at com.android.server.pm.permission.PermissionManagerService.access$1000(PermissionManagerService.java:133)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerServiceInternalImpl.grantRuntimePermission(PermissionManagerService.java:3437)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:6672)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:2030)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:238)
+	at android.os.ShellCommand.exec(ShellCommand.java:104)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:24267)
+	at android.os.Binder.shellCommand(Binder.java:881)
+	at android.os.Binder.onTransact(Binder.java:765)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:5400)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4820)
+	at com.android.server.pm.OppoPackageManagerService.onTransact(OppoPackageManagerService.java:83)
+	at android.os.Binder.execTransactInternal(Binder.java:1021)
+	at android.os.Binder.execTransact(Binder.java:994)
+================================================================================
+
+11:46:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:47:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:52:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:52:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:57:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11:57:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:02:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:02:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:07:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:07:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:12:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+12:12:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:00:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+

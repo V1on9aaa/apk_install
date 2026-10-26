@@ -1,0 +1,69 @@
+[2025/11/13 12:07:40]GCLOUD_VERSION_TP_7.7.037.5830
+[2025/11/13 12:07:40]android ver:7.7.37.5830 20230522
+[2025/11/13 12:07:40]{
+[2025/11/13 12:07:40] __ENABLE_DATA_ENC__
+[2025/11/13 12:07:40] __ENABLE_MPRCS__
+[2025/11/13 12:07:40] __ENABLE_TPSTL__
+[2025/11/13 12:07:40] __ENABLE_TPLIBC__
+[2025/11/13 12:07:40] __USE_NEW_QOS_ONLY__
+[2025/11/13 12:07:40] __ENABLE_SO_UPDATE__
+[2025/11/13 12:07:40]}
+[2025/11/13 12:07:40]module
+[2025/11/13 12:07:40]{
+[2025/11/13 12:07:40] 17:1
+[2025/11/13 12:07:40] 19:1
+[2025/11/13 12:07:40] 24:1
+[2025/11/13 12:07:40]}
+[2025/11/13 12:07:40]so:arm32
+[2025/11/13 12:07:40]pid:11340
+[2025/11/13 12:07:40]ChkInit{
+[2025/11/13 12:07:40]init_info:0xffef957c
+[2025/11/13 12:07:40]init_info->size_:12
+[2025/11/13 12:07:40]init_info->game_id_:8888
+[2025/11/13 12:07:40]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/11/13 12:07:40]ChkInit}
+[2025/11/13 12:07:40]TssIoCtl.emm_ex:0,n:,p:files_dir=/data/data/com.tencent.tp/files|wait=1,b:512
+[2025/11/13 12:07:40]|jar_ver:7.7.37(2020/11/10)-jar-version
+[2025/11/13 12:07:43]SetUserInfoEx{
+[2025/11/13 12:07:43]user_info:0xedd46e20
+[2025/11/13 12:07:43]user_info->size_:212
+[2025/11/13 12:07:43]user_info->entry_id_:1
+[2025/11/13 12:07:43]user_info->uin_.type_:2
+[2025/11/13 12:07:43]user_info->uin_.uin_str_:863897045254815_sdk_7737_32_qq
+[2025/11/13 12:07:43]user_info->app_id_.type_:2
+[2025/11/13 12:07:43]user_info->app_id_.app_id_str_:100555390
+[2025/11/13 12:07:43]user_info->world_id_:32
+[2025/11/13 12:07:43]user_info->role_id_:saite.tt
+[2025/11/13 12:07:43]SetUserInfoEx}
+[2025/11/13 12:07:43]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/11/13 12:07:43]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/11/13 12:07:44]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/6626A84D/comm.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/13 12:07:44]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/C5345710/tss_ano.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/13 12:07:44]DoConnCSChannelImp, 180.102.211.116:443
+[2025/11/13 12:07:44]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/7A55332B/tssmua2.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/11/13 12:07:44]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/11/13 12:07:49][builtin.zip][vm_r4.img]end, loop:100131
+[2025/11/13 12:07:52]r4, time cast:6183ms
+[2025/11/13 12:08:00]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/11/13 12:08:00]|/sdcard/sdk/log.log:0x40504422, from_c:0
+[2025/11/13 12:08:00]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/11/13 12:08:00]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/11/13 12:08:06]r4, time cast:139ms
+[2025/11/13 12:08:12]<cp>9014_alert, 8783f086361ced70cc61f898b291cd10
+[2025/11/13 12:08:13]<cp-ret>response:0, t:9014_alert
+[2025/11/13 12:08:14]<cp>9005_alert, com.github.shadowsocks
+[2025/11/13 12:08:14]|com.github.shadowsocks:com.github.shadowsocks, attr:0X00008000
+[2025/11/13 12:08:14]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/11/13 12:08:15]send_cs:76, send_gs:3, remain_cnt:3
+[2025/11/13 12:08:15]<cp-ret>response:0, t:9005_alert
+[2025/11/13 12:08:26]r4, time cast:141ms
+[2025/11/13 12:08:46]r4, time cast:137ms
+[2025/11/13 12:09:06]r4, time cast:147ms
+[2025/11/13 12:09:26]r4, time cast:145ms
+[2025/11/13 12:09:46]r4, time cast:143ms
+[2025/11/13 12:10:06]r4, time cast:139ms
+[2025/11/13 12:10:26]r4, time cast:136ms
+[2025/11/13 12:10:46]r4, time cast:145ms
+[2025/11/13 12:11:06]<cp>r2r3r4_err, 0:0:0:0:0:0:11
+[2025/11/13 12:11:06]r4, time cast:144ms
+[2025/11/13 12:11:10]<cp-ret>response:0, t:r2r3r4_err

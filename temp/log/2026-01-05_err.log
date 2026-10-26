@@ -1,0 +1,235 @@
+10:50:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+10:50:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+11:34:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+11:34:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+11:48:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+11:48:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+14:23:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+14:23:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+14:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+14:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+14:27:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+14:27:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+14:33:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+================================================================================
+
+14:38:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:31:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+^C================================================================================
+
+15:31:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [-99]
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+adb: failed to install G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk: Failure [-99]
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:40:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo': File exists
+mkdir: '/sdcard/Android/data/com.tencent.mtp.udemo/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+17:22:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+

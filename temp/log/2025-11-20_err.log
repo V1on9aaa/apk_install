@@ -1,0 +1,1680 @@
+09:37:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 127.0.0.1:5555 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:39:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 127.0.0.1:5555 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:40:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 127.0.0.1:5555 shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+09:51:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:52:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09:57:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10:00:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:41:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:42:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:43:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+11:44:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.unity.tools/files/log.log"
+result:
+cat: /sdcard/Android/data/com.tencent.unity.tools/files/log.log: No such file or directory
+================================================================================
+
+11:44:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11:44:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+14:43:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.unity.tools/files': File exists
+================================================================================
+
+14:45:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4294)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:21550)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:18288)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:738)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:1497)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:195)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:21783)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2804)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4069)
+	at android.os.Binder.execTransact(Binder.java:748)
+================================================================================
+
+14:45:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:35:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:45:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:45:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:50:47
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\229158465220587744
+================================================================================
+
+16:50:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:50:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:50:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:50:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+16:57:58
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\useless\clock.aab --output=D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:58:24
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\2377921658416789338
+================================================================================
+
+16:58:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:58:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:58:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:58:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+error: closed
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device '18fdf3fd' not found
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:58:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+16:59:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  "dumpsys window | grep mCurrentFocus"
+result:
+adb.exe: device offline
+================================================================================
+
+17:01:44
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\useless\clock.aab --output=D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:02:10
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\useless\clock.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\5657468255108671604
+================================================================================
+
+17:02:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:02:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:02:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+17:02:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+17:14:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:14:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install_02\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+

@@ -1,0 +1,47 @@
+[2025/09/16 09:58:13]GCLOUD_VERSION_TP_7.7.024.33778
+[2025/09/16 09:58:13]android ver:7.7.24.33778 20230522
+[2025/09/16 09:58:13]{
+[2025/09/16 09:58:13] __MODULE_TERSAFE2__
+[2025/09/16 09:58:13] __ENABLE_DATA_ENC__
+[2025/09/16 09:58:13] __ENABLE_MPRCS__
+[2025/09/16 09:58:13] __ENABLE_TPSTL__
+[2025/09/16 09:58:13] __ENABLE_TPLIBC__
+[2025/09/16 09:58:13] __USE_NEW_QOS_ONLY__
+[2025/09/16 09:58:13] __ENABLE_SO_UPDATE__
+[2025/09/16 09:58:13]}
+[2025/09/16 09:58:13]module
+[2025/09/16 09:58:13]{
+[2025/09/16 09:58:13] 17:1
+[2025/09/16 09:58:13] 20:1
+[2025/09/16 09:58:13] 68:1
+[2025/09/16 09:58:13]}
+[2025/09/16 09:58:13]so:arm64
+[2025/09/16 09:58:13]pid:12016
+[2025/09/16 09:58:13]ctl:ilc_open_pipe
+[2025/09/16 09:58:13]!aac
+[2025/09/16 09:58:13]ChkInit{
+[2025/09/16 09:58:13]init_info:0x7f9c9bbc90
+[2025/09/16 09:58:13]init_info->size_:16
+[2025/09/16 09:58:13]init_info->game_id_:20059
+[2025/09/16 09:58:13]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/09/16 09:58:13]ChkInit}
+[2025/09/16 09:58:13]|jar_ver:7.7.24(2020/11/10)-jar-version
+[2025/09/16 09:58:16]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:58:16]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:58:16]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/E74E684E/tss_ano.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:58:16]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/5DC1D8B9/cpfc.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:58:16]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/8CE149F7/tp2cfg.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:58:17]SetUserInfoEx{
+[2025/09/16 09:58:17]user_info:0x7f9c9bbcdc
+[2025/09/16 09:58:17]user_info->size_:212
+[2025/09/16 09:58:17]user_info->entry_id_:1
+[2025/09/16 09:58:17]user_info->uin_.type_:2
+[2025/09/16 09:58:17]user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7724
+[2025/09/16 09:58:17]user_info->app_id_.type_:2
+[2025/09/16 09:58:17]user_info->app_id_.app_id_str_:
+[2025/09/16 09:58:17]user_info->world_id_:101
+[2025/09/16 09:58:17]user_info->role_id_:paladin
+[2025/09/16 09:58:17]SetUserInfoEx}
+[2025/09/16 09:58:18]DoConnCSChannelImp, 222.94.109.22:443
+[2025/09/16 09:58:50]dl https://down.anticheatexpert.com/gamesafe/mobile/ano_dfh.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/09/16 09:59:01]send_cs:23, send_gs:2, remain_cnt:2

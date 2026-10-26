@@ -1,0 +1,30 @@
+[2025/10/23 17:37:44] [VM64][builtin.zip][vm_main.img]build_options
+[2025/10/23 17:37:44] [VM64][builtin.zip][vm_main.img]{
+[2025/10/23 17:37:44] [VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/23 17:37:44] [VM64][builtin.zip][vm_main.img]}
+[2025/10/23 17:37:44] [VM64][builtin.zip][vm_main.img]arch:arm64
+[2025/10/23 17:38:12] SetCountryCode:NotEn
+[2025/10/23 17:38:12] li:bb8eb0b5000007b0000cf287|0
+[2025/10/23 17:38:12] GCLOUD_VERSION_TP_7.0.038.16115
+[2025/10/23 17:38:12] android ver:7.0.38.16115 20230522
+[2025/10/23 17:38:12] {
+[2025/10/23 17:38:12]  __ENABLE_DATA_ENC__
+[2025/10/23 17:38:12]  __ENABLE_MPRCS__
+[2025/10/23 17:38:12]  __ENABLE_TPSTL__
+[2025/10/23 17:38:12]  __ENABLE_TPLIBC__
+[2025/10/23 17:38:12]  __TPSTL_RECRYLE__
+[2025/10/23 17:38:12]  __USE_NEW_QOS_ONLY__
+[2025/10/23 17:38:12]  __ENABLE_SO_UPDATE__
+[2025/10/23 17:38:12] }
+[2025/10/23 17:38:12] module
+[2025/10/23 17:38:12] {
+[2025/10/23 17:38:12] }
+[2025/10/23 17:38:12] so:arm64
+[2025/10/23 17:38:12] pid:11566
+[2025/10/23 17:38:12] ChkInit{
+[2025/10/23 17:38:12] init_info:0x6fdda63a10
+[2025/10/23 17:38:12] init_info->size_:16
+[2025/10/23 17:38:12] init_info->game_id_:2577
+[2025/10/23 17:38:12] init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/23 17:38:12] ChkInit}
+[2025/10/23 17:38:12] |jar_ver:7.0.38(2020/11/10)-jar-version

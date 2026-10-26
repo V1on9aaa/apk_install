@@ -1,0 +1,4511 @@
+15:58:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe devices
+result:
+List of devices attached
+45a2cacc	offline
+FA7831801432	device
+
+================================================================================
+
+16:02:56
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe devices
+result:
+List of devices attached
+45a2cacc	offline
+FA7831801432	device
+
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "settings put system screen_off_timeout 1800000"
+result:
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_2022.3.50f1.apk"
+result:
+com.tencent.green.tools
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_2022.3.50f1.apk"
+result:
+com.tencent.green.tools
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_2022.3.50f1.apk"
+result:
+com.tencent.green.tools
+================================================================================
+
+16:03:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.green.tools"
+result:
+package:com.tencent.green.tools
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 uninstall com.tencent.green.tools
+result:
+Success
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 install -g "E:\Test\sdk\origin\Tools_2022.3.50f1.apk"
+result:
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.green.tools"
+result:
+package:com.tencent.green.tools
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  input keyevent 3
+result:
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_2022.3.50f1.apk"
+result:
+com.tencent.green.tools
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.green.tools"
+result:
+package:com.tencent.green.tools
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys package com.tencent.green.tools | grep -A 1 android.intent.action.MAIN:"
+result:
+      android.intent.action.MAIN:
+        5c56614 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity filter 427590
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "am start com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity"
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity }
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.green.tools"
+result:
+u0_a126      28668  1255 7218104 108976 0                   0 S com.tencent.green.tools
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  screencap -p /sdcard/FA7831801432_com.tencent.green.tools_start_1793001789.png
+result:
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 pull "/sdcard/FA7831801432_com.tencent.green.tools_start_1793001789.png" "E:\pycharmWorkSpace\apk_install\temp\screen\FA7831801432_com.tencent.green.tools_start_1793001789.png"
+result:
+/sdcard/FA7831801432_com.tencent.green.tools_start_1793001789.png: 1 file pulled, 0 skipped. 11.8 MB/s (53588 bytes in 0.004s)
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  rm -rf "/sdcard/FA7831801432_com.tencent.green.tools_start_1793001789.png"
+result:
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:26
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:26
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:30
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:30
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:30
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:32
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:32
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:32
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:38
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:38
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:40
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:40
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:42
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:42
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:45
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:45
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:45
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:46
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:46
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:47
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:47
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:47
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:48
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:48
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:49
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:49
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:49
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:50
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:50
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:51
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:51
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:52
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:52
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:52
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:53
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:53
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:54
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:54
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:55
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:55
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:55
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:56
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:56
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:58
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:58
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:03:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:04:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:04:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:04:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:04:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:04:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.green.tools"
+result:
+u0_a126      28668  1255 7218500 112688 0                   0 S com.tencent.green.tools
+================================================================================
+
+16:06:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{d88cdc5 u0 com.tencent.green.tools/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+16:06:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.green.tools"
+result:
+u0_a126      28668  1255 7218500 114664 0                   0 S com.tencent.green.tools
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  screencap -p /sdcard/FA7831801432_com.tencent.green.tools_end_1793001966.png
+result:
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 pull "/sdcard/FA7831801432_com.tencent.green.tools_end_1793001966.png" "E:\pycharmWorkSpace\apk_install\temp\screen\FA7831801432_com.tencent.green.tools_end_1793001966.png"
+result:
+/sdcard/FA7831801432_com.tencent.green.tools_end_1793001966.png: 1 file pulled, 0 skipped. 2.9 MB/s (36015 bytes in 0.012s)
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  rm -rf "/sdcard/FA7831801432_com.tencent.green.tools_end_1793001966.png"
+result:
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "am force-stop com.tencent.green.tools"
+result:
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_c++.apk"
+result:
+com.tencent.tools
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_c++.apk"
+result:
+com.tencent.tools
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_c++.apk"
+result:
+com.tencent.tools
+================================================================================
+
+16:06:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.tools"
+result:
+package:com.tencent.tools
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 uninstall com.tencent.tools
+result:
+Success
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  getprop ro.build.version.release
+result:
+9
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:08
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 install -g "E:\Test\sdk\origin\Tools_c++.apk"
+result:
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.tools"
+result:
+package:com.tencent.tools
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  input keyevent 3
+result:
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\aapt2.exe dump packagename "E:\Test\sdk\origin\Tools_c++.apk"
+result:
+com.tencent.tools
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "pm list package | grep com.tencent.tools"
+result:
+package:com.tencent.tools
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys package com.tencent.tools | grep -A 1 android.intent.action.MAIN:"
+result:
+      android.intent.action.MAIN:
+        e853d2b com.tencent.tools/com.tencent.ace.MainActivity filter 84c67c
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{b4f819d u0 com.htc.launcher/com.htc.launcher.Launcher}
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "am start com.tencent.tools/com.tencent.ace.MainActivity"
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.tools/com.tencent.ace.MainActivity }
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=null
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:13
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.tools"
+result:
+u0_a127      30495  1255 3879072  74880 0                   0 S com.tencent.tools
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:14
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  screencap -p /sdcard/FA7831801432_com.tencent.tools_start_1793001974.png
+result:
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 pull "/sdcard/FA7831801432_com.tencent.tools_start_1793001974.png" "E:\pycharmWorkSpace\apk_install\temp\screen\FA7831801432_com.tencent.tools_start_1793001974.png"
+result:
+/sdcard/FA7831801432_com.tencent.tools_start_1793001974.png: 1 file pulled, 0 skipped. 14.5 MB/s (139991 bytes in 0.009s)
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  rm -rf "/sdcard/FA7831801432_com.tencent.tools_start_1793001974.png"
+result:
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:15
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:16
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:17
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:18
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:19
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:20
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:21
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:22
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:23
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:24
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:25
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:26
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:26
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:27
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:28
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:29
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:30
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:30
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:31
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:32
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:32
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:33
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:34
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:35
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:36
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:37
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:38
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:38
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:38
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:39
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:40
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:40
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:40
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:42
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:42
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:43
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:44
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:45
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:45
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:46
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:46
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:46
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:47
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:47
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:48
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:48
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:48
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:49
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:49
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:50
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:50
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:51
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:51
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:51
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:52
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:52
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:53
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:53
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:53
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:54
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:54
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:54
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:55
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:55
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:56
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:56
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:57
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:58
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:58
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:06:59
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:00
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:01
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:02
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:03
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:06
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:07
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:07:41
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.tools"
+result:
+u0_a127      30495  1255 3877120  75580 0                   0 S com.tencent.tools
+================================================================================
+
+16:09:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{42e7356 u0 com.tencent.tools/com.tencent.ace.MainActivity}
+================================================================================
+
+16:09:11
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "ps | grep com.tencent.tools"
+result:
+u0_a127      30495  1255 3877896  76728 0                   0 S com.tencent.tools
+================================================================================
+
+16:09:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  screencap -p /sdcard/FA7831801432_com.tencent.tools_end_1793002152.png
+result:
+================================================================================
+
+16:09:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 pull "/sdcard/FA7831801432_com.tencent.tools_end_1793002152.png" "E:\pycharmWorkSpace\apk_install\temp\screen\FA7831801432_com.tencent.tools_end_1793002152.png"
+result:
+/sdcard/FA7831801432_com.tencent.tools_end_1793002152.png: 1 file pulled, 0 skipped. 7.4 MB/s (141341 bytes in 0.018s)
+================================================================================
+
+16:09:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  rm -rf "/sdcard/FA7831801432_com.tencent.tools_end_1793002152.png"
+result:
+================================================================================
+
+16:09:12
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell  "am force-stop com.tencent.tools"
+result:
+================================================================================
+

@@ -1,0 +1,5 @@
+su
+mkdir /sdcard/Android/data/com.tencent.tools
+mkdir /sdcard/Android/data/com.tencent.tools/files
+echo 0000000000000000090900009000000000000 > /sdcard/Android/data/com.tencent.tools/files/enable.log
+cp /sdcard/sdk/enable.dat  /sdcard/Android/data/com.tencent.tools/files/enable.dat

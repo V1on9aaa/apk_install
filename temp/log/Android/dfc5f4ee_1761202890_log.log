@@ -1,0 +1,642 @@
+[2025/10/23 14:57:49]XCLOUD_VERSION_ACE_7.8.25.46154
+[2025/10/23 14:57:49]7.8.25.46154
+[2025/10/23 14:57:49]{
+[2025/10/23 14:57:49] __ACE_EXPORT__
+[2025/10/23 14:57:49] __ENABLE_DATA_ENC__
+[2025/10/23 14:57:49] __ENABLE_MPRCS__
+[2025/10/23 14:57:49] __ENABLE_TPSTL__
+[2025/10/23 14:57:49] __ENABLE_TPLIBC__
+[2025/10/23 14:57:49] __USE_NEW_QOS_ONLY__
+[2025/10/23 14:57:49]}
+[2025/10/23 14:57:49]module
+[2025/10/23 14:57:49]{
+[2025/10/23 14:57:49] 17:1
+[2025/10/23 14:57:49] 19:1
+[2025/10/23 14:57:49] 24:1
+[2025/10/23 14:57:49]}
+[2025/10/23 14:57:49]so:arm32
+[2025/10/23 14:57:49]pid:28361
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]build_options
+[2025/10/23 14:57:49]SetCountryCode:EN
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]{
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  arch:arm32
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  pid:28361
+[2025/10/23 14:57:49]ChkInit{
+[2025/10/23 14:57:49]init_info:0xffccda30
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  fake_game_id:152461108
+[2025/10/23 14:57:49]init_info->size_:12
+[2025/10/23 14:57:49]init_info->game_id_:8888
+[2025/10/23 14:57:49]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/23 14:57:49]ChkInit}
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  fake_open_id:6C1A0C787C61C62D9C7_OB
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]  sdk_ver:7.8.25.46154
+[2025/10/23 14:57:49][VM32][builtin.zip][vm_main.img]}
+[2025/10/23 14:57:49]|jar_ver:7.8.25(2020/11/10)-jar-version
+[2025/10/23 14:57:52]SetUserInfoEx{
+[2025/10/23 14:57:52]user_info:0xe0e667d8
+[2025/10/23 14:57:52]user_info->size_:212
+[2025/10/23 14:57:52]user_info->entry_id_:1
+[2025/10/23 14:57:52]user_info->uin_.type_:2
+[2025/10/23 14:57:52]user_info->uin_.uin_str_:862460035713737_sdkano_7825_32_qq
+[2025/10/23 14:57:52]user_info->app_id_.type_:2
+[2025/10/23 14:57:52]user_info->app_id_.app_id_str_:
+[2025/10/23 14:57:52]user_info->world_id_:0
+[2025/10/23 14:57:52]user_info->role_id_:
+[2025/10/23 14:57:52]SetUserInfoEx}
+[2025/10/23 14:57:52]csh!glcs.listdl.com
+[2025/10/23 14:57:52]csi!
+[2025/10/23 14:57:52]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:57:52]!dcfd
+[2025/10/23 14:57:52]csh!glcs.listdl.com
+[2025/10/23 14:57:52]csi!
+[2025/10/23 14:57:52]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:57:52]!dcf
+[2025/10/23 14:57:53]csh!glcs.listdl.com
+[2025/10/23 14:57:53]csi!
+[2025/10/23 14:57:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:57:53]!dcfd
+[2025/10/23 14:57:53]csh!glcs.listdl.com
+[2025/10/23 14:57:53]csi!
+[2025/10/23 14:57:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:57:53]!dcf
+[2025/10/23 14:57:53][VM32][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/10/23 14:57:53][VM32][builtin.zip][vm_main.img]libanogs.so,off:0,size:0, err:-1
+[2025/10/23 14:57:53][VM32][builtin.zip][vm_main.img]  v.bss, time cast:2ms
+[2025/10/23 14:57:55]csh!glcs.listdl.com
+[2025/10/23 14:57:55]csi!
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_r4.img]  r4_foo, time cast:0ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_r4.img]  r4_attest_task, time cast:1ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_r4.img]vm_r4, time cast:2ms
+[2025/10/23 14:57:55][builtin.zip][vm_r4.img]end, loop:601
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.va, time cast:2185ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.op, time cast:15ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.ro, time cast:4ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]auto_defence, time cast:2211ms
+[2025/10/23 14:57:55][VM32][builtin.zip][vm_main.img]vm_scan {
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  CertScanerV, time cast:22ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  AttestScanerV, time cast:1ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  CC2V, time cast:0ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  FooScanerV, time cast:0ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  FridaScanerV, time cast:23ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  CommDatScanerV, time cast:0ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:29ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]  RoDataScanerV, time cast:6ms
+[2025/10/23 14:57:56][VM32][builtin.zip][vm_main.img]vm_scan }, cast:84ms
+[2025/10/23 14:57:56]r4, time cast:701ms
+[2025/10/23 14:57:56]csh!glcs.listdl.com
+[2025/10/23 14:57:56]csi!
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:57]csh!glcs.listdl.com
+[2025/10/23 14:57:57]csi!
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:57]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:58]csh!glcs.listdl.com
+[2025/10/23 14:57:58]csi!
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:58]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:59]csh!glcs.listdl.com
+[2025/10/23 14:57:59]csi!
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:57:59]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:00]csh!glcs.listdl.com
+[2025/10/23 14:58:00]csi!
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:00]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:03]csh!glcs.listdl.com
+[2025/10/23 14:58:03]csi!
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:03]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:04][VM32][builtin.zip][vm_r4.img]  r4_emulator, time cast:10ms
+[2025/10/23 14:58:04][VM32][builtin.zip][vm_r4.img]vm_r4, time cast:11ms
+[2025/10/23 14:58:04][builtin.zip][vm_r4.img]end, loop:614
+[2025/10/23 14:58:06]csh!glcs.listdl.com
+[2025/10/23 14:58:06]csi!
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:06]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:07]csh!glcs.listdl.com
+[2025/10/23 14:58:07]csi!
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:07]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:08]csh!glcs.listdl.com
+[2025/10/23 14:58:08]csi!
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:08]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:09]csh!glcs.listdl.com
+[2025/10/23 14:58:09]csi!
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:09]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:10]csh!glcs.listdl.com
+[2025/10/23 14:58:10]csi!
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:11]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:12]csh!glcs.listdl.com
+[2025/10/23 14:58:12]csi!
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:12]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:13]csh!glcs.listdl.com
+[2025/10/23 14:58:13]csi!
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:13]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:14]csh!glcs.listdl.com
+[2025/10/23 14:58:14]csi!
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:14]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:15]csh!glcs.listdl.com
+[2025/10/23 14:58:15]csi!
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:15]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:16]csh!glcs.listdl.com
+[2025/10/23 14:58:16]csi!
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:16]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:17]csh!glcs.listdl.com
+[2025/10/23 14:58:17]csi!
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:17]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:18]csh!glcs.listdl.com
+[2025/10/23 14:58:18]csi!
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:18]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:19]csh!glcs.listdl.com
+[2025/10/23 14:58:19]csi!
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:19]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:26]csh!glcs.listdl.com
+[2025/10/23 14:58:26]csi!
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:26]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:29]<cp>9014_alert, 8783f086361ced70cc61f898b291cd10
+[2025/10/23 14:58:29]csh!glcs.listdl.com
+[2025/10/23 14:58:29]csi!
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:29]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:30]csh!glcs.listdl.com
+[2025/10/23 14:58:30]csi!
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:30]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:31]csh!glcs.listdl.com
+[2025/10/23 14:58:31]csi!
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:31]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:32]csh!glcs.listdl.com
+[2025/10/23 14:58:32]csi!
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:32]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:33]send_cs:0, send_gs:75, remain_cnt:5
+[2025/10/23 14:58:33]csh!glcs.listdl.com
+[2025/10/23 14:58:33]csi!
+[2025/10/23 14:58:33]csh!glcs.listdl.com
+[2025/10/23 14:58:33]csi!
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:33]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:34]csh!glcs.listdl.com
+[2025/10/23 14:58:34]csi!
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:34]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:35]csh!glcs.listdl.com
+[2025/10/23 14:58:35]csi!
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:35]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:53]!cp, timeout:9014_alert
+[2025/10/23 14:58:53]csh!glcs.listdl.com
+[2025/10/23 14:58:53]csi!
+[2025/10/23 14:58:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:58:53]!dcfd
+[2025/10/23 14:58:53]csh!glcs.listdl.com
+[2025/10/23 14:58:53]csi!
+[2025/10/23 14:58:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:58:53]!dcf
+[2025/10/23 14:58:55]csh!glcs.listdl.com
+[2025/10/23 14:58:55]csi!
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:56]csh!glcs.listdl.com
+[2025/10/23 14:58:56]csi!
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:58:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:21]csh!glcs.listdl.com
+[2025/10/23 14:59:21]csi!
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:53]csh!glcs.listdl.com
+[2025/10/23 14:59:53]csi!
+[2025/10/23 14:59:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:59:53]!dcfd
+[2025/10/23 14:59:53]csh!glcs.listdl.com
+[2025/10/23 14:59:53]csi!
+[2025/10/23 14:59:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 14:59:53]!dcf
+[2025/10/23 14:59:55]csh!glcs.listdl.com
+[2025/10/23 14:59:55]csi!
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:56]csh!glcs.listdl.com
+[2025/10/23 14:59:56]csi!
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 14:59:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:21]csh!glcs.listdl.com
+[2025/10/23 15:00:21]csi!
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:53]csh!glcs.listdl.com
+[2025/10/23 15:00:53]csi!
+[2025/10/23 15:00:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 15:00:53]!dcfd
+[2025/10/23 15:00:53]csh!glcs.listdl.com
+[2025/10/23 15:00:53]csi!
+[2025/10/23 15:00:53]dl https://dl.listdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/10/23 15:00:53]!dcf
+[2025/10/23 15:00:55]csh!glcs.listdl.com
+[2025/10/23 15:00:55]csi!
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:55]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:56]csh!glcs.listdl.com
+[2025/10/23 15:00:56]csi!
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 15:00:56]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 15:01:21]csh!glcs.listdl.com
+[2025/10/23 15:01:21]csi!
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:443, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:443, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:443, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:443, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:10012, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:10012, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:10012, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:10012, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.142, port:80, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.2.231, port:80, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:101.32.143.171, port:80, err:-1, failed_step:400
+[2025/10/23 15:01:21]CS2, host:glcs.listdl.com, ip:129.226.3.232, port:80, err:-1, failed_step:400

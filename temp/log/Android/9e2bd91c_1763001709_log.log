@@ -1,0 +1,38 @@
+[2025/11/05 11:35:59]android ver:7.2.30.5362 20230522
+[2025/11/05 11:35:59]{
+[2025/11/05 11:35:59] __ACE_EXPORT__
+[2025/11/05 11:35:59] __ENABLE_DATA_ENC__
+[2025/11/05 11:35:59] __ENABLE_MPRCS__
+[2025/11/05 11:35:59] __ENABLE_TPSTL__
+[2025/11/05 11:35:59] __ENABLE_TPLIBC__
+[2025/11/05 11:35:59] __USE_NEW_QOS_ONLY__
+[2025/11/05 11:35:59]}
+[2025/11/05 11:35:59]module
+[2025/11/05 11:35:59]{
+[2025/11/05 11:35:59] 17:1
+[2025/11/05 11:35:59] 20:1
+[2025/11/05 11:35:59] 68:1
+[2025/11/05 11:35:59]}
+[2025/11/05 11:35:59]so:arm64
+[2025/11/05 11:35:59]pid:25013
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]build_options
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]{
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]  ver:20240619.1
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/11/05 11:35:59][VM64][builtin.zip][vm_main.img]}
+[2025/11/05 11:36:04]!cap
+[2025/11/05 11:36:04]ChkInit{
+[2025/11/05 11:36:04]init_info:0x684113a540
+[2025/11/05 11:36:04]init_info->size_:16
+[2025/11/05 11:36:04]init_info->game_id_:2487
+[2025/11/05 11:36:04]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/11/05 11:36:04]ChkInit}
+[2025/11/05 11:36:04]|jar_ver:7.2.30(2020/11/10)-jar-version
+[2025/11/05 11:36:04]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.proximabeta.mf.liteuamo/files|wait=1,b:64
+[2025/11/05 11:36:04]TssIoCtl.emm:0,n:,p:files_dir=/data/data/com.proximabeta.mf.liteuamo/files|wait=1,b:64
+[2025/11/05 11:36:08]dl https://dl.listdl.com/iedsafe/Client/android/2487/config2.dat, retval:0, size:509, cache:0
+[2025/11/05 11:36:08]dl https://dl.listdl.com/iedsafe/Client/android/2487/config3.dat, retval:0, size:515, cache:0
+[2025/11/05 11:36:08]dl https://dl.listdl.com/iedsafe/Client/android/2487/C2A0013D/comm.zip, retval:0, size:31506, cache:0
+[2025/11/05 11:36:09]dl https://dl.listdl.com/iedsafe/Client/android/2487/5E976552/ob_x.zip, retval:0, size:219769, cache:0
+[2025/11/05 11:36:09]dl https://dl.listdl.com/iedsafe/Client/android/2487/9B03D43B/tss_ano.dat, retval:0, size:742, cache:0

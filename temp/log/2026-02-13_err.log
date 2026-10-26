@@ -1,0 +1,116 @@
+16:21:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe devices
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+16:24:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:24:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:27:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:28:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:31:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:31:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:34:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:34:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:37:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:37:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:40:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:41:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk/files': File exists
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+

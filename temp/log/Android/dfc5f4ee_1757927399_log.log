@@ -1,0 +1,69 @@
+[2025/09/15 17:08:24]XCLOUD_VERSION_ACE_7.7.24.33778
+[2025/09/15 17:08:24]android ver:7.7.24.33778 20230522
+[2025/09/15 17:08:24]{
+[2025/09/15 17:08:24] __MODULE_TERSAFE2__
+[2025/09/15 17:08:24] __ACE_EXPORT__
+[2025/09/15 17:08:24] __ENABLE_DATA_ENC__
+[2025/09/15 17:08:24] __ENABLE_TPSTL__
+[2025/09/15 17:08:24] __ENABLE_TPLIBC__
+[2025/09/15 17:08:24] __USE_NEW_QOS_ONLY__
+[2025/09/15 17:08:24]}
+[2025/09/15 17:08:24]module
+[2025/09/15 17:08:24]{
+[2025/09/15 17:08:24] 17:1
+[2025/09/15 17:08:24] 19:1
+[2025/09/15 17:08:24] 24:1
+[2025/09/15 17:08:24]}
+[2025/09/15 17:08:24]so:arm64
+[2025/09/15 17:08:24]pid:30063
+[2025/09/15 17:08:24]ctl:ilc_open_pipe
+[2025/09/15 17:08:24]SetCountryCode:EN
+[2025/09/15 17:08:25]ChkInit{
+[2025/09/15 17:08:25]init_info:0x7f9c9d4cf0
+[2025/09/15 17:08:25]init_info->size_:16
+[2025/09/15 17:08:25]init_info->game_id_:20109
+[2025/09/15 17:08:25]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/09/15 17:08:25]ChkInit}
+[2025/09/15 17:08:25]|jar_ver:7.7.24(2020/11/10)-jar-version
+[2025/09/15 17:08:27]csh!glcs.listdl.com
+[2025/09/15 17:08:27]csi!
+[2025/09/15 17:08:28]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config2.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:28]SetUserInfoEx{
+[2025/09/15 17:08:28]user_info:0x7f9c9d4b90
+[2025/09/15 17:08:28]user_info->size_:212
+[2025/09/15 17:08:28]user_info->entry_id_:1
+[2025/09/15 17:08:28]user_info->uin_.type_:2
+[2025/09/15 17:08:28]user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7724
+[2025/09/15 17:08:28]user_info->app_id_.type_:2
+[2025/09/15 17:08:28]user_info->app_id_.app_id_str_:
+[2025/09/15 17:08:28]user_info->world_id_:0
+[2025/09/15 17:08:28]user_info->role_id_:
+[2025/09/15 17:08:28]SetUserInfoEx}
+[2025/09/15 17:08:28]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/09/15 17:08:29]csh!glcs.listdl.com
+[2025/09/15 17:08:29]csi!
+[2025/09/15 17:08:29]dl https://dl.listdl.com/iedsafe/Client/android/20109/20B7BC32/comm.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:29]csh!glcs.listdl.com
+[2025/09/15 17:08:29]csi!
+[2025/09/15 17:08:30]dl https://dl.listdl.com/iedsafe/Client/android/20109/1EFBBF1D/tss_ano.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:30]csh!glcs.listdl.com
+[2025/09/15 17:08:30]csi!
+[2025/09/15 17:08:31]dl https://dl.listdl.com/iedsafe/Client/android/20109/882439B9/ob_cdn2.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:31]csh!glcs.listdl.com
+[2025/09/15 17:08:31]csi!
+[2025/09/15 17:08:31]DoConnCSChannelImp, 129.226.2.37:443
+[2025/09/15 17:08:31]csh!glcs.listdl.com
+[2025/09/15 17:08:31]csi!
+[2025/09/15 17:08:32]dl https://dl.listdl.com/iedsafe/Client/android/20109/78131640/tp2cfg.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:33]csh!glcs.listdl.com
+[2025/09/15 17:08:33]csi!
+[2025/09/15 17:08:33]dl https://dl.listdl.com/iedsafe/Client/android/20109/084B5BAC/ob_x_ace.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:34]csh!glcs.listdl.com
+[2025/09/15 17:08:34]csi!
+[2025/09/15 17:08:35]dl https://dl.listdl.com/iedsafe/Client/android/20109/9A9A43FC/tssmua2.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/09/15 17:08:35][ob_x_ace.zip][maDelta_scan.img]end, loop:24
+[2025/09/15 17:08:45][VM64][ob_cdn2.zip][gp6_t3.img]Hi,gp6_t3{
+[2025/09/15 17:08:46]__VM_ASSERT err! jni/gp6_t3.cpp, ln:208
+[2025/09/15 17:08:46][VM64][ob_cdn2.zip][gp6_t3.img]Hi,gp6_t3}
+[2025/09/15 17:08:46][ob_cdn2.zip][gp6_t3.img]end, loop:11
+[2025/09/15 17:09:06]send_cs:30, send_gs:2, remain_cnt:2

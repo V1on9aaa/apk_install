@@ -1,0 +1,4839 @@
+10:10:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767579008.png
+result:
+================================================================================
+
+10:10:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767579008.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767579008.png"
+result:
+/sdcard/click_1767579008.png: 1 file pulled, 0 skipped. 4.2 MB/s (63034 bytes in 0.014s)
+================================================================================
+
+10:10:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767579008.png"
+result:
+================================================================================
+
+10:18:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767579508.png
+result:
+================================================================================
+
+10:18:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767579508.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767579508.png"
+result:
+/sdcard/click_1767579508.png: 1 file pulled, 0 skipped. 8.3 MB/s (62803 bytes in 0.007s)
+================================================================================
+
+10:18:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767579508.png"
+result:
+================================================================================
+
+10:18:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+10:18:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+10:18:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767579513.png
+result:
+================================================================================
+
+10:18:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767579513.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767579513.png"
+result:
+/sdcard/click_1767579513.png: 1 file pulled, 0 skipped. 6.0 MB/s (68001 bytes in 0.011s)
+================================================================================
+
+10:18:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767579513.png"
+result:
+================================================================================
+
+10:18:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 351.0
+result:
+================================================================================
+
+10:19:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767579563.png
+result:
+================================================================================
+
+10:19:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767579563.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767579563.png"
+result:
+/sdcard/click_1767579563.png: 1 file pulled, 0 skipped. 9.8 MB/s (62444 bytes in 0.006s)
+================================================================================
+
+10:19:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767579563.png"
+result:
+================================================================================
+
+10:19:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+10:19:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+10:19:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767579568.png
+result:
+================================================================================
+
+10:19:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767579568.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767579568.png"
+result:
+/sdcard/click_1767579568.png: 1 file pulled, 0 skipped. 17.2 MB/s (67703 bytes in 0.004s)
+================================================================================
+
+10:19:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767579568.png"
+result:
+================================================================================
+
+10:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767580140.png
+result:
+================================================================================
+
+10:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767580140.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767580140.png"
+result:
+/sdcard/click_1767580140.png: 1 file pulled, 0 skipped. 9.0 MB/s (63025 bytes in 0.007s)
+================================================================================
+
+10:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767580140.png"
+result:
+================================================================================
+
+10:29:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+10:29:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+10:29:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767580145.png
+result:
+================================================================================
+
+10:29:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767580145.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767580145.png"
+result:
+/sdcard/click_1767580145.png: 1 file pulled, 0 skipped. 7.1 MB/s (68426 bytes in 0.009s)
+================================================================================
+
+10:29:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767580145.png"
+result:
+================================================================================
+
+10:29:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 514.8
+result:
+================================================================================
+
+10:29:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767580178.png
+result:
+================================================================================
+
+10:29:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767580178.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767580178.png"
+result:
+/sdcard/click_1767580178.png: 1 file pulled, 0 skipped. 14.1 MB/s (94438 bytes in 0.006s)
+================================================================================
+
+10:29:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767580178.png"
+result:
+================================================================================
+
+10:29:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+10:29:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+10:29:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767580182.png
+result:
+================================================================================
+
+10:29:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767580182.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767580182.png"
+result:
+/sdcard/click_1767580182.png: 1 file pulled, 0 skipped. 13.4 MB/s (85562 bytes in 0.006s)
+================================================================================
+
+10:29:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767580182.png"
+result:
+================================================================================
+
+10:29:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 514.8
+result:
+================================================================================
+
+10:46:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+10:46:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+10:46:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:46:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+10:50:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+10:50:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+10:50:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+10:50:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+10:50:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:50:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767581436.png
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767581436.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767581436.png"
+result:
+/sdcard/search_1767581436.png: 1 file pulled, 0 skipped. 38.1 MB/s (2373062 bytes in 0.059s)
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767581436.png"
+result:
+================================================================================
+
+10:50:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:50:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:51:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+10:52:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:28:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:28:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:28:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:29:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:32:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:32:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:32:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767583959.png
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767583959.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767583959.png"
+result:
+/sdcard/search_1767583959.png: 1 file pulled, 0 skipped. 35.5 MB/s (2373155 bytes in 0.064s)
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767583959.png"
+result:
+================================================================================
+
+11:32:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:32:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:33:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:33:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:33:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767584003.png
+result:
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767584003.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767584003.png"
+result:
+/sdcard/search_1767584003.png: 1 file pulled, 0 skipped. 33.3 MB/s (2373133 bytes in 0.068s)
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767584003.png"
+result:
+================================================================================
+
+11:33:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:33:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:34:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+11:34:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+11:34:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:34:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:34:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:34:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:34:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:47:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+11:47:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+11:47:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767584838.png
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767584838.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767584838.png"
+result:
+/sdcard/search_1767584838.png: 1 file pulled, 0 skipped. 34.1 MB/s (2372847 bytes in 0.066s)
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767584838.png"
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:47:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+11:48:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+11:48:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+11:48:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:48:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:48:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:48:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:48:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+11:48:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:22:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:22:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+14:22:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767594132.png
+result:
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767594132.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767594132.png"
+result:
+/sdcard/search_1767594132.png: 1 file pulled, 0 skipped. 33.2 MB/s (2373057 bytes in 0.068s)
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767594132.png"
+result:
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:22:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+14:23:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+14:23:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+14:23:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:23:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:24:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:24:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+14:24:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767594266.png
+result:
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767594266.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767594266.png"
+result:
+/sdcard/search_1767594266.png: 1 file pulled, 0 skipped. 32.4 MB/s (2372949 bytes in 0.070s)
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767594266.png"
+result:
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:24:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+14:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+14:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+14:26:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:26:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:26:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+14:26:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1767594404.png
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/search_1767594404.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767594404.png"
+result:
+/sdcard/search_1767594404.png: 1 file pulled, 0 skipped. 35.5 MB/s (2373244 bytes in 0.064s)
+================================================================================
+
+14:26:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/search_1767594404.png"
+result:
+================================================================================
+
+14:26:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:26:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+14:27:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+14:27:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+14:27:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:27:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:27:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:27:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:27:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:32:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:32:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+14:32:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:32:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:33:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:33:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:33:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+14:33:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+14:33:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767594803.png
+result:
+================================================================================
+
+14:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767594803.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767594803.png"
+result:
+/sdcard/click_1767594803.png: 1 file pulled, 0 skipped. 22.8 MB/s (127895 bytes in 0.005s)
+================================================================================
+
+14:33:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767594803.png"
+result:
+================================================================================
+
+14:33:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+14:33:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+result:
+================================================================================
+
+14:33:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+14:33:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+14:33:28
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+
+14:38:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:38:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+14:38:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+
+14:38:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{9747457 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+14:38:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c uninstall com.tencent.mtp.udemo
+result:
+Success
+================================================================================
+
+14:38:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+14:38:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767595119.png
+result:
+================================================================================
+
+14:38:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767595119.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767595119.png"
+result:
+/sdcard/click_1767595119.png: 1 file pulled, 0 skipped. 23.1 MB/s (128805 bytes in 0.005s)
+================================================================================
+
+14:38:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767595119.png"
+result:
+================================================================================
+
+14:38:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+14:38:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+result:
+================================================================================
+
+14:38:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+14:38:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+14:38:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+
+15:21:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:21:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:21:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+15:21:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:21:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+15:21:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 7
+result:
+================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:23:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+15:30:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:30:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+15:31:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 7
+result:
+================================================================================
+
+15:31:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+15:31:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+15:31:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:31:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:31:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+15:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:31:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+15:32:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:34:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:35:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:35:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+15:35:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:13
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:14
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:35:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+15:35:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:38:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+15:38:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:32
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+15:38:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+================================================================================
+
+15:38:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+15:39:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+15:39:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+15:39:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+15:39:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 31
+result:
+================================================================================
+
+15:39:07
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+15:39:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+15:39:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+15:39:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 8
+result:
+================================================================================
+
+15:39:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 9
+result:
+================================================================================
+
+15:39:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 10
+result:
+================================================================================
+
+15:40:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+15:40:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+15:40:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+
+17:20:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+17:20:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+com.tencent.mtp.udemo
+================================================================================
+
+17:20:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+
+17:20:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{48a3de7 u0 com.oppo.launcher/com.oppo.launcher.Launcher}
+================================================================================
+
+17:20:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c uninstall com.tencent.mtp.udemo
+result:
+Success
+================================================================================
+
+17:20:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  getprop ro.build.version.release
+result:
+11
+================================================================================
+
+17:21:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+17:21:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+17:21:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+17:21:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 31
+result:
+================================================================================
+
+17:21:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+17:22:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+17:22:01
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+17:22:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 8
+result:
+================================================================================
+
+17:22:03
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 9
+result:
+================================================================================
+
+17:22:04
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 10
+result:
+================================================================================
+
+17:22:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  screencap -p /sdcard/search_1767604925.png
+result:
+================================================================================
+
+17:22:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c pull "/sdcard/search_1767604925.png" "D:\code\python\All_project\adb_install_02\temp\screen\search_1767604925.png"
+result:
+/sdcard/search_1767604925.png: 1 file pulled, 0 skipped. 4.6 MB/s (36201 bytes in 0.007s)
+================================================================================
+
+17:22:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  rm -rf "/sdcard/search_1767604925.png"
+result:
+================================================================================
+
+17:22:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\shell\shell_auto_pkg\Android\Unity_demo_buluodi.apk"
+result:
+================================================================================
+
+17:22:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+================================================================================
+
+17:22:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell pm list package com.tencent.mtp.udemo
+result:
+package:com.tencent.mtp.udemo
+================================================================================
+

@@ -1,0 +1,25 @@
+>>>G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk
+com.tencent.green.ace.ano未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7724
+OpenID:CC68E85FBF5AA87B25D24934,
+
+>>>G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk
+com.tencent.green.ace.ano未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7724
+OpenID:CC68E85FBF5AA87B25D24934,
+
+>>>G:\Business_Area\shell\need_shell\test\birdfly_release.apk
+com.cfsyts.toutiao未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7724
+OpenID:CC68E85FBF5AA87B25D24934,
+
+>>>G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7724
+OpenID:01D7959CCA775ED5D183A75F,
+
+>>>G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab
+com.tencent.green.ace未闪退，运行正常
+user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7724
+OpenID:CC68E85FBF5AA87B25D24934,
+

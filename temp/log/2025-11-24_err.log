@@ -1,0 +1,15 @@
+16:23:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.4.1033\tptest\tptest_32_7.9.4.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.4.1033\tptest\tptest_32_7.9.4.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+16:23:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+

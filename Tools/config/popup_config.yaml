@@ -1,0 +1,33 @@
+click_traversal_popup:
+  - 完成
+  - 详细情况
+  - 仍要安装
+  - 继续安装
+  - 始终允许
+  - 允许
+  - 确定
+  - 安装
+  - 允许访问一次
+
+popup_pkgname:
+  system_pkgname:
+    - com.oplus.appdetail
+    - com.android.vending
+    - com.android.systemui
+  install_pkgname:
+    - com.android.packageinstaller
+    - u0 android
+    - com.coloros.safecenter
+
+special_handling:
+  - 18fdf3fd:
+    - 2
+  - 9e2bd91c:
+    - 已了解应用的风险检测结果
+    - 继续安装
+  - 709ccd85:
+    - 更多详细
+    - 仍要安装
+    - KEYCODE_ENTER
+  - 5fa3254c:
+    - 2

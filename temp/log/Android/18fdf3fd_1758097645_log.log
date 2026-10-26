@@ -1,0 +1,50 @@
+[2025/09/17 16:24:37] [VM64][builtin.zip][vm_main.img]build_options
+[2025/09/17 16:24:37] [VM64][builtin.zip][vm_main.img]{
+[2025/09/17 16:24:37] [VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/09/17 16:24:37] [VM64][builtin.zip][vm_main.img]}
+[2025/09/17 16:24:37] [VM64][builtin.zip][vm_main.img]arch:arm64
+[2025/09/17 16:24:57] SetCountryCode:NotEn
+[2025/09/17 16:24:57] li:530586570001031d62b6218c|1
+[2025/09/17 16:24:57] GCLOUD_VERSION_TP_7.0.038.16115
+[2025/09/17 16:24:57] android ver:7.0.38.16115 20230522
+[2025/09/17 16:24:57] {
+[2025/09/17 16:24:57]  __ENABLE_DATA_ENC__
+[2025/09/17 16:24:57]  __ENABLE_MPRCS__
+[2025/09/17 16:24:57]  __ENABLE_TPSTL__
+[2025/09/17 16:24:57]  __ENABLE_TPLIBC__
+[2025/09/17 16:24:57]  __TPSTL_RECRYLE__
+[2025/09/17 16:24:57]  __USE_NEW_QOS_ONLY__
+[2025/09/17 16:24:57]  __ENABLE_SO_UPDATE__
+[2025/09/17 16:24:57] }
+[2025/09/17 16:24:57] module
+[2025/09/17 16:24:57] {
+[2025/09/17 16:24:57]  17:1
+[2025/09/17 16:24:57]  19:1
+[2025/09/17 16:24:57]  24:1
+[2025/09/17 16:24:57] }
+[2025/09/17 16:24:57] so:arm64
+[2025/09/17 16:24:57] pid:25294
+[2025/09/17 16:24:57] ChkInit{
+[2025/09/17 16:24:57] init_info:0x7301deb040
+[2025/09/17 16:24:57] init_info->size_:16
+[2025/09/17 16:24:57] init_info->game_id_:2577
+[2025/09/17 16:24:57] init_info->tss_sdk_send_data_to_svr:0x0
+[2025/09/17 16:24:57] ChkInit}
+[2025/09/17 16:24:57] |app_10.3.1.1
+[2025/09/17 16:24:57] C# SDK ver:7.0.38.16115
+[2025/09/17 16:24:57] TssIoCtl.emm:0,n:,p:files_dir=/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files|wait=0,b:64
+[2025/09/17 16:24:57] |jar_ver:7.0.38(2020/11/10)-jar-version
+[2025/09/17 16:25:01] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2577/config2.xml, retval:0, size:1115, cache:0, jd:1
+[2025/09/17 16:25:01] XXXXXX_9015, time cast:159ms
+[2025/09/17 16:25:01] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2577/config3.xml, retval:0, size:504, cache:0, jd:1
+[2025/09/17 16:25:01] ver:10.4.1.6 app_ver:10.3.1.1 code_size:72519816 crc:0xb769dcf8
+[2025/09/17 16:25:01] ver:10.4.1.6 app_ver:10.3.1.1 code_size:58032644 crc:0x77dc3280
+[2025/09/17 16:25:01] ver:10.4.1.6 app_ver:10.3.1.1 code_size:72519816 crc:0xb769dcf8
+[2025/09/17 16:25:01] ver:10.4.1.6 app_ver:10.3.1.1 code_size:58032644 crc:0x77dc3280
+[2025/09/17 16:25:02] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/F389973A/comm.zip, retval:0, size:33055, cache:0, jd:1
+[2025/09/17 16:25:03] TssIoCtl.emm:0,n:,p:files_dir=/storage/emulated/0/Android/data/com.tencent.tmgp.sgame/files|wait=0,b:64
+[2025/09/17 16:25:03] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/27F5CFDE/ob_cs2.zip, retval:0, size:155456, cache:0, jd:1
+[2025/09/17 16:25:03] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/A3B251CF/ob_x.zip, retval:0, size:6458, cache:0, jd:1
+[2025/09/17 16:25:03] dl https://down.anticheatexpert.com/iedsafe/Client/android/2577/DA41C26E/mrpcs_com.data, retval:0, size:168, cache:0, jd:1
+[2025/09/17 16:25:03] notify mrpcs, hash:0xda41c26e
+[2025/09/17 16:27:05] [VM]vm_main.img end, loop:11956

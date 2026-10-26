@@ -1,0 +1,589 @@
+11:00:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+11:00:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+11:00:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+11:00:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 31
+result:
+================================================================================
+
+11:00:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+11:00:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+11:00:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+11:00:46
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 8
+result:
+================================================================================
+
+11:00:47
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 9
+result:
+================================================================================
+
+11:00:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 10
+result:
+================================================================================
+
+11:25:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+11:25:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+11:25:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+11:25:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 31
+result:
+================================================================================
+
+11:25:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 33
+result:
+================================================================================
+
+11:25:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 42
+result:
+================================================================================
+
+11:25:24
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 48
+result:
+================================================================================
+
+11:25:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 8
+result:
+================================================================================
+
+11:25:26
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 9
+result:
+================================================================================
+
+11:25:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input keyevent 10
+result:
+================================================================================
+
+11:26:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  screencap -p /sdcard/click_1767497175.png
+result:
+================================================================================
+
+11:26:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c pull "/sdcard/click_1767497175.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767497175.png"
+result:
+/sdcard/click_1767497175.png: 1 file pulled, 0 skipped. 10.6 MB/s (58658 bytes in 0.005s)
+================================================================================
+
+11:26:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  rm -rf "/sdcard/click_1767497175.png"
+result:
+================================================================================
+
+11:26:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  wm size
+result:
+Physical size: 720x1600
+================================================================================
+
+11:26:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 5fa3254c shell  input tap 360.0 1520.0
+result:
+================================================================================
+
+16:34:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767515638.png
+result:
+================================================================================
+
+16:34:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767515638.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767515638.png"
+result:
+/sdcard/click_1767515638.png: 1 file pulled, 0 skipped. 34.5 MB/s (2341786 bytes in 0.065s)
+================================================================================
+
+16:34:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767515638.png"
+result:
+================================================================================
+
+16:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+16:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 172.8 1263.6
+result:
+================================================================================
+
+16:42:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516167.png
+result:
+================================================================================
+
+16:42:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516167.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516167.png"
+result:
+/sdcard/click_1767516167.png: 1 file pulled, 0 skipped. 11.3 MB/s (64390 bytes in 0.005s)
+================================================================================
+
+16:42:48
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516167.png"
+result:
+================================================================================
+
+16:42:50
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+16:42:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 580467.6 1460160.0
+result:
+================================================================================
+
+16:48:08
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516488.png
+result:
+================================================================================
+
+16:48:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516488.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516488.png"
+result:
+/sdcard/click_1767516488.png: 1 file pulled, 0 skipped. 10.0 MB/s (64728 bytes in 0.006s)
+================================================================================
+
+16:48:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516488.png"
+result:
+================================================================================
+
+16:49:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516569.png
+result:
+================================================================================
+
+16:49:29
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516569.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516569.png"
+result:
+/sdcard/click_1767516569.png: 1 file pulled, 0 skipped. 14.6 MB/s (64412 bytes in 0.004s)
+================================================================================
+
+16:49:30
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516569.png"
+result:
+================================================================================
+
+16:50:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516618.png
+result:
+================================================================================
+
+16:50:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516618.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516618.png"
+result:
+/sdcard/click_1767516618.png: 1 file pulled, 0 skipped. 9.8 MB/s (64413 bytes in 0.006s)
+================================================================================
+
+16:50:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516618.png"
+result:
+================================================================================
+
+16:50:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+16:50:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+16:50:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516651.png
+result:
+================================================================================
+
+16:50:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516651.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516651.png"
+result:
+/sdcard/click_1767516651.png: 1 file pulled, 0 skipped. 11.2 MB/s (64344 bytes in 0.005s)
+================================================================================
+
+16:50:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516651.png"
+result:
+================================================================================
+
+16:50:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+16:50:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+16:50:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767516655.png
+result:
+================================================================================
+
+16:50:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767516655.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767516655.png"
+result:
+/sdcard/click_1767516655.png: 1 file pulled, 0 skipped. 15.3 MB/s (70197 bytes in 0.004s)
+================================================================================
+
+16:50:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767516655.png"
+result:
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517140.png
+result:
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517140.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517140.png"
+result:
+/sdcard/click_1767517140.png: 1 file pulled, 0 skipped. 11.5 MB/s (69918 bytes in 0.006s)
+================================================================================
+
+16:59:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517140.png"
+result:
+================================================================================
+
+17:00:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517220.png
+result:
+================================================================================
+
+17:00:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517220.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517220.png"
+result:
+/sdcard/click_1767517220.png: 1 file pulled, 0 skipped. 12.1 MB/s (63651 bytes in 0.005s)
+================================================================================
+
+17:00:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517220.png"
+result:
+================================================================================
+
+17:00:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517254.png
+result:
+================================================================================
+
+17:00:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517254.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517254.png"
+result:
+/sdcard/click_1767517254.png: 1 file pulled, 0 skipped. 9.7 MB/s (63636 bytes in 0.006s)
+================================================================================
+
+17:00:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517254.png"
+result:
+================================================================================
+
+17:01:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517296.png
+result:
+================================================================================
+
+17:01:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517296.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517296.png"
+result:
+/sdcard/click_1767517296.png: 1 file pulled, 0 skipped. 14.7 MB/s (63816 bytes in 0.004s)
+================================================================================
+
+17:01:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517296.png"
+result:
+================================================================================
+
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517754.png
+result:
+================================================================================
+
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517754.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517754.png"
+result:
+================================================================================
+
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517754.png"
+result:
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517771.png
+result:
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517771.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517771.png"
+result:
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517771.png"
+result:
+================================================================================
+
+17:09:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517794.png
+result:
+================================================================================
+
+17:09:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517794.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517794.png"
+result:
+/sdcard/click_1767517794.png: 1 file pulled, 0 skipped. 9.8 MB/s (64240 bytes in 0.006s)
+================================================================================
+
+17:09:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517794.png"
+result:
+================================================================================
+
+17:09:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+17:09:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 631.8
+result:
+================================================================================
+
+17:09:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517798.png
+result:
+================================================================================
+
+17:09:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517798.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517798.png"
+result:
+/sdcard/click_1767517798.png: 1 file pulled, 0 skipped. 15.9 MB/s (69889 bytes in 0.004s)
+================================================================================
+
+17:09:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517798.png"
+result:
+================================================================================
+
+17:11:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517871.png
+result:
+================================================================================
+
+17:11:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517871.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517871.png"
+result:
+/sdcard/click_1767517871.png: 1 file pulled, 0 skipped. 7.4 MB/s (68304 bytes in 0.009s)
+================================================================================
+
+17:11:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517871.png"
+result:
+================================================================================
+
+17:11:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517897.png
+result:
+================================================================================
+
+17:11:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517897.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517897.png"
+result:
+/sdcard/click_1767517897.png: 1 file pulled, 0 skipped. 9.3 MB/s (68304 bytes in 0.007s)
+================================================================================
+
+17:11:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517897.png"
+result:
+================================================================================
+
+17:11:40
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  wm size
+result:
+Physical size: 1080x2340
+================================================================================
+
+17:11:41
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 351.0
+result:
+================================================================================
+
+17:11:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517901.png
+result:
+================================================================================
+
+17:11:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517901.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517901.png"
+result:
+/sdcard/click_1767517901.png: 1 file pulled, 0 skipped. 5.0 MB/s (68304 bytes in 0.013s)
+================================================================================
+
+17:11:42
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517901.png"
+result:
+================================================================================
+
+17:19:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767518382.png
+result:
+================================================================================
+
+17:19:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767518382.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767518382.png"
+result:
+/sdcard/click_1767518382.png: 1 file pulled, 0 skipped. 10.0 MB/s (64109 bytes in 0.006s)
+================================================================================
+
+17:19:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767518382.png"
+result:
+================================================================================
+

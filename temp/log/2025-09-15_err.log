@@ -1,0 +1,2683 @@
+09-31-48
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-31-48
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-31-49
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.personal.rocketmouse"
+================================================================================
+
+09-31-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-31-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-31-56
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-31-57
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-31-57
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-32-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-32-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757899921.0.png"
+================================================================================
+
+09-32-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757899921.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-32-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757899921.0.png"
+================================================================================
+
+09-32-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757899928.0.png"
+================================================================================
+
+09-32-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757899928.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-32-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757899928.0.png"
+================================================================================
+
+09-32-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757899931.0.png"
+================================================================================
+
+09-32-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757899931.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-32-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757899931.0.png"
+================================================================================
+
+09-32-14
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757899934.0.png"
+================================================================================
+
+09-32-14
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757899934.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-32-14
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757899934.0.png"
+================================================================================
+
+09-32-16
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+09-32-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+09-32-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-32-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-32-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-32-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-32-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-32-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-32-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-32-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-32-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+09-33-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-33-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-33-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+09-33-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-33-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/log.log: No such file or directory
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/shell.log: No such file or directory
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-33-27
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757900007_log.log
+================================================================================
+
+09-33-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757900007_log.log
+================================================================================
+
+09-33-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+
+09-35-00
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-35-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-35-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.personal.rocketmouse"
+================================================================================
+
+09-35-02
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-08
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-35-09
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-35-09
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-35-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900112.0.png"
+================================================================================
+
+09-35-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900112.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900112.0.png"
+================================================================================
+
+09-35-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900119.0.png"
+================================================================================
+
+09-35-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900119.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900119.0.png"
+================================================================================
+
+09-35-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900122.0.png"
+================================================================================
+
+09-35-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900122.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900122.0.png"
+================================================================================
+
+09-35-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900125.0.png"
+================================================================================
+
+09-35-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900125.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900125.0.png"
+================================================================================
+
+09-35-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+09-35-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+09-35-29
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-35-29
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-35-29
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+09-35-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+09-35-35
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+09-35-35
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-35-35
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+09-35-40
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-40
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-35-40
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-41
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757900141.0.png"
+================================================================================
+
+09-35-41
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757900141.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-41
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757900141.0.png"
+================================================================================
+
+09-35-44
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757900144.0.png"
+================================================================================
+
+09-35-44
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757900144.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-35-44
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757900144.0.png"
+================================================================================
+
+09-35-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-35-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-36-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-36-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-41-58
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-41-58
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-41-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.personal.rocketmouse"
+================================================================================
+
+09-41-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-04
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-06
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-42-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-42-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-42-09
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-10
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900530.0.png"
+================================================================================
+
+09-42-10
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900530.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-42-10
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900530.0.png"
+================================================================================
+
+09-42-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900537.0.png"
+================================================================================
+
+09-42-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900537.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-42-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900537.0.png"
+================================================================================
+
+09-42-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900540.0.png"
+================================================================================
+
+09-42-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900540.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-42-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900540.0.png"
+================================================================================
+
+09-42-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757900543.0.png"
+================================================================================
+
+09-42-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757900543.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-42-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757900543.0.png"
+================================================================================
+
+09-42-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+09-42-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+09-42-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-42-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-42-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+09-42-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-31
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+09-42-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-42-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-42-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757900558.0.png"
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757900558.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-42-38
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757900558.0.png"
+================================================================================
+
+09-42-41
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+09-42-42
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 1076.4
+================================================================================
+
+09-42-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-42-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-43-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-43-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-43-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-43-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+09-43-49
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-43-49
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-43-49
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/log.log: No such file or directory
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-43-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/shell.log: No such file or directory
+================================================================================
+
+09-43-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+09-43-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757900630_log.log
+================================================================================
+
+09-43-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757900630_log.log
+================================================================================
+
+09-43-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+
+10-04-55
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-04-56
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-04-56
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.personal.rocketmouse"
+================================================================================
+
+10-04-57
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-02
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-03
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-05-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-05-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-05-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757901908.0.png"
+================================================================================
+
+10-05-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757901908.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-05-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757901908.0.png"
+================================================================================
+
+10-05-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757901912.0.png"
+================================================================================
+
+10-05-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757901912.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-05-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757901912.0.png"
+================================================================================
+
+10-05-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757901915.0.png"
+================================================================================
+
+10-05-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757901915.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-05-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757901915.0.png"
+================================================================================
+
+10-05-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-05-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+10-05-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-05-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-05-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+10-05-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+10-05-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+10-05-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-05-25
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+10-05-30
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-30
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-05-30
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757901931.0.png"
+================================================================================
+
+10-05-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757901931.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-05-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757901931.0.png"
+================================================================================
+
+10-05-33
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-05-34
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 1076.4
+================================================================================
+
+10-05-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-05-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-06-10
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-06-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-06-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+10-06-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-06-17
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/log.log: No such file or directory
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/shell.log: No such file or directory
+================================================================================
+
+10-06-18
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-06-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757901978_log.log
+================================================================================
+
+10-06-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757901978_log.log
+================================================================================
+
+10-06-19
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+
+10-06-38
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-06-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-06-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.personal.rocketmouse"
+================================================================================
+
+10-06-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-06-45
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-06-46
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-06-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-06-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-06-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-06-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902010.0.png"
+================================================================================
+
+10-06-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902010.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-06-50
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902010.0.png"
+================================================================================
+
+10-06-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902014.0.png"
+================================================================================
+
+10-06-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902014.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-06-55
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902014.0.png"
+================================================================================
+
+10-06-57
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902017.0.png"
+================================================================================
+
+10-06-57
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902017.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-06-58
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902017.0.png"
+================================================================================
+
+10-07-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-07-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+10-07-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-07-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-07-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-07-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-07-06
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+10-07-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-07-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+10-07-06
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-07-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse': File exists
+mkdir: '/sdcard/Android/data/com.personal.rocketmouse/files': File exists
+================================================================================
+
+10-07-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+10-07-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+10-07-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-07-07
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+================================================================================
+
+10-07-12
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-07-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-07-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-07-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757902033.0.png"
+================================================================================
+
+10-07-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757902033.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-07-13
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757902033.0.png"
+================================================================================
+
+10-07-16
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-07-16
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 1076.4
+================================================================================
+
+10-07-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-07-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-07-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-07-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+================================================================================
+
+10-08-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/log.log: No such file or directory
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.personal.rocketmouse/files/shell.log: No such file or directory
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757902081_log.log
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757902081_log.log
+================================================================================
+
+10-08-01
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+
+10-08-20
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\ACE_Tools_7.7.24_20059_c#.apk"
+================================================================================
+
+10-08-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+================================================================================
+
+10-08-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.tencent.green.ace"
+================================================================================
+
+10-08-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-08-26
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-08-28
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\ACE_Tools_7.7.24_20059_c#.apk"
+================================================================================
+
+10-08-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+================================================================================
+
+10-08-28
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c uninstall "com.tencent.green.ace"
+================================================================================
+
+10-08-29
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-31
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-08-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902112.0.png"
+================================================================================
+
+10-08-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902112.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-08-32
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902112.0.png"
+================================================================================
+
+10-08-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902119.0.png"
+================================================================================
+
+10-08-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902119.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-08-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902119.0.png"
+================================================================================
+
+10-08-42
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902122.0.png"
+================================================================================
+
+10-08-42
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902122.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-08-42
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902122.0.png"
+================================================================================
+
+10-08-45
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757902125.0.png"
+================================================================================
+
+10-08-45
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757902125.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-08-45
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757902125.0.png"
+================================================================================
+
+10-08-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-08-48
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+10-08-48
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\ACE_Tools_7.7.24_20059_c#.apk"
+================================================================================
+
+10-08-48
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-48
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+10-08-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-08-53
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\ACE_Tools_7.7.24_20059_c#.apk"
+================================================================================
+
+10-08-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+================================================================================
+
+10-08-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.tencent.green.ace
+================================================================================
+
+10-08-53
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10-08-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.tencent.green.ace android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+10-08-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.tencent.green.ace android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+10-08-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-08-54
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+================================================================================
+
+10-08-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-09-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.tencent.green.ace"
+================================================================================
+
+10-09-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-09-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/close_pop_up1757902140.0.png"
+================================================================================
+
+10-09-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/close_pop_up1757902140.0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-09-00
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/close_pop_up1757902140.0.png"
+================================================================================
+
+10-09-02
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+================================================================================
+
+10-09-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 1755.0
+================================================================================
+
+10-09-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-09-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.tencent.green.ace"
+================================================================================
+
+10-09-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-09-39
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.tencent.green.ace"
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.tencent.green.ace_0.png"
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.tencent.green.ace_0.png" D:\code\python\All_project\adb_install\temp\screen
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.tencent.green.ace_0.png"
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.tencent.green.ace"
+================================================================================
+
+10-09-46
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/log.log"
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.tencent.green.ace/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757902187_log.log
+================================================================================
+
+10-09-47
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.tencent.green.ace
+================================================================================
+
+10-48-15
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10-48-58
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10-50-04
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+10-50-48
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+10-51-08
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+10-52-50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd uninstall "com.tencent.green.ace"
+result:
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.tencent.green.ace
+	at com.android.server.pm.Settings.isOrphaned(Settings.java:4641)
+	at com.android.server.pm.PackageManagerService.isOrphaned(PackageManagerService.java:25947)
+	at com.android.server.pm.PackageManagerService.deletePackageVersioned(PackageManagerService.java:22439)
+	at com.android.server.pm.PackageInstallerService.uninstall(PackageInstallerService.java:751)
+	at com.android.server.pm.PackageManagerShellCommand.runUninstall(PackageManagerShellCommand.java:955)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:146)
+	at android.os.ShellCommand.exec(ShellCommand.java:96)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:26562)
+	at android.os.Binder.shellCommand(Binder.java:594)
+	at android.os.Binder.onTransact(Binder.java:492)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3030)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4694)
+	at android.os.Binder.execTransact(Binder.java:697)
+================================================================================
+
+10-53-21
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+10-53-36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+11-19-59
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --device-id 9e2bd91c
+result:
+[BT:1.17.1] Error: null
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:903)
+	at com.google.common.io.ByteStreams.toByteArray(ByteStreams.java:238)
+	at com.google.common.io.ByteSource.read(ByteSource.java:300)
+	at com.android.tools.build.bundletool.model.utils.ResultUtils.readTableOfContentFromApksArchive(ResultUtils.java:70)
+	at com.android.tools.build.bundletool.model.utils.ResultUtils.readTableOfContents(ResultUtils.java:55)
+	at com.android.tools.build.bundletool.commands.InstallApksCommand.readBuildApksResult(InstallApksCommand.java:388)
+	at com.android.tools.build.bundletool.commands.InstallApksCommand.execute(InstallApksCommand.java:195)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:117)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+11-20-00
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+11-24-44
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+11-25-04
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\5820425625382148724
+================================================================================
+
+11-25-05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+11-25-10
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+11-26-03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+14-33-58
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+result:
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+================================================================================
+
+14-34-05
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+14-34-28
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\13449309525869268925
+================================================================================
+
+14-34-28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14-34-34
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+14-35-27
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+14-37-35
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+14-37-55
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\12328579296528822531
+================================================================================
+
+14-37-55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14-38-00
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+14-38-55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+14:46:18
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+14:46:38
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\509586299647408850
+================================================================================
+
+14:46:38
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:46:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+14:47:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+14:49:18
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+14:49:39
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\ANO_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\13281695899586878096
+================================================================================
+
+14:49:39
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:49:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+14:50:38
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+15:50:24
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:50:29
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+15:51:02
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\13857838634569194189
+================================================================================
+
+15:51:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:51:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+15:57:57
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:58:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+16:16:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:16:20
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:16:33
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:17:06
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\2910790982986176943
+================================================================================
+
+16:17:06
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:17:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:19:00
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:19:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+16:22:33
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+16:22:52
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+16:23:18
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:23:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+16:24:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace.ano/files/shell.log: No such file or directory
+================================================================================
+
+16:25:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+16:26:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.cfsyts.toutiao/files/log.log"
+result:
+cat: /sdcard/Android/data/com.cfsyts.toutiao/files/log.log: No such file or directory
+================================================================================
+
+16:26:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.cfsyts.toutiao/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.cfsyts.toutiao/files/shell.log: No such file or directory
+================================================================================
+
+16:27:01
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:27:05
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 709ccd85
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\7064421602896305924
+================================================================================
+
+16:27:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:27:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.cfsyts.toutiao/files/log.log"
+result:
+cat: /sdcard/Android/data/com.cfsyts.toutiao/files/log.log: No such file or directory
+================================================================================
+
+16:27:11
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.cfsyts.toutiao/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.cfsyts.toutiao/files/shell.log: No such file or directory
+================================================================================
+
+16:27:39
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:27:40
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:27:54
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\8258146103897063489
+================================================================================
+
+16:27:57
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\14853786152409726419
+================================================================================
+
+16:27:58
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:28:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:28:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 709ccd85 shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+16:29:57
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+16:30:33
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+16:30:56
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:31:02
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\10920364806804799353
+================================================================================
+
+16:31:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+16:31:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/shell.log | grep OpenID"
+result:
+cat: /sdcard/Android/data/com.tencent.green.ace/files/shell.log: No such file or directory
+================================================================================
+
+16:33:39
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:33:53
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4615983269739937022
+================================================================================
+
+16:58:26
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+16:58:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+16:58:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:01:43
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:01:48
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\9964157666602410717
+================================================================================
+
+17:02:38
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:02:52
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\10359661291434946324
+================================================================================
+
+17:07:57
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:07:57
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:08:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:10:19
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:10:23
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\9741096682974298838
+================================================================================
+
+17:10:35
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:12:25
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:12:40
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id dfc5f4ee
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\7597672739707284005
+================================================================================
+
+17:21:24
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:21:24
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:21:45
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:21:55
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:22:00
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17805823147724737490
+================================================================================
+
+17:22:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:28:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:28:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:28:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:28:50
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:29:01
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:29:05
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\15888210377826907578
+================================================================================
+
+17:29:06
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:31:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:31:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:31:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:31:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:31:38
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:31:43
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\10119452125892677285
+================================================================================
+
+17:31:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:35:08
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:35:08
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:35:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:35:28
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:35:38
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:35:43
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\9662596808500389977
+================================================================================
+
+17:35:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:38:15
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:38:16
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:38:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\birdfly_release.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\birdfly_release.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:38:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao': File exists
+mkdir: '/sdcard/Android/data/com.cfsyts.toutiao/files': File exists
+================================================================================
+
+17:38:46
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab --output=G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --mode=universal
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:38:51
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\test\ACE_Tools_7.7.24.aab.apks --device-id 1c6e05a
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\13038362161449839650
+================================================================================
+
+17:38:52
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+17:58:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:58:02
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+17:58:34
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+17:58:34
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+
+18:01:31
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a install -g "G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk"
+result:
+adb: failed to install G:\Business_Area\shell\need_shell\test\ANO_Tools_7.7.24.apk: Failure [INSTALL_CANCELED_BY_USER]
+================================================================================
+
+18:01:31
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 1c6e05a shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+result:
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace.ano/files': File exists
+================================================================================
+

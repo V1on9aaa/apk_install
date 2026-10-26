@@ -1,0 +1,149 @@
+16:51:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+16:51:02
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:02:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+17:02:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:03:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:09:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:19:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+17:19:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:20:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+adb: failed to install E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk: Failure [-99]
+================================================================================
+
+17:31:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:32:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/ocr_1767864769.png
+result:
+adb.exe: device '9e2bd91c' not found
+================================================================================
+
+17:32:49
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/ocr_1767864769.png"
+result:
+adb.exe: device '9e2bd91c' not found
+================================================================================
+
+17:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/ocr_1767864845.png
+result:
+adb.exe: device '9e2bd91c' not found
+================================================================================
+
+17:34:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/ocr_1767864845.png"
+result:
+adb.exe: device '9e2bd91c' not found
+================================================================================
+
+17:36:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+17:36:05
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:38:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd install -g "E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\shell_apks\19368\4531910_20260105131715_test_il2cpp_2020117.shell.signed.apk"
+result:
+^C================================================================================
+
+17:38:45
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:43:27
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:48:59
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:51:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\adb_install_02\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+

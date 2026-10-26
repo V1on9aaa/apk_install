@@ -1,0 +1,152 @@
+15:32:19
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767771137.4338927.png
+result:
+================================================================================
+
+15:32:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767771137.4338927.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767771137.4338927.png"
+result:
+/sdcard/test_1767771137.4338927.png: 1 file pulled, 0 skipped. 33.4 MB/s (1901587 bytes in 0.054s)
+================================================================================
+
+15:32:20
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767771137.4338927.png"
+result:
+================================================================================
+
+15:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767771832.383624.png
+result:
+================================================================================
+
+15:43:54
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767771832.383624.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767771832.383624.png"
+result:
+/sdcard/test_1767771832.383624.png: 1 file pulled, 0 skipped. 25.3 MB/s (2385455 bytes in 0.090s)
+================================================================================
+
+15:43:55
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767771832.383624.png"
+result:
+================================================================================
+
+15:47:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767772069.1953433.png
+result:
+================================================================================
+
+15:47:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767772069.1953433.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767772069.1953433.png"
+result:
+/sdcard/test_1767772069.1953433.png: 1 file pulled, 0 skipped. 23.9 MB/s (2385147 bytes in 0.095s)
+================================================================================
+
+15:47:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767772069.1953433.png"
+result:
+================================================================================
+
+15:48:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767772085.048776.png
+result:
+================================================================================
+
+15:48:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767772085.048776.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767772085.048776.png"
+result:
+/sdcard/test_1767772085.048776.png: 1 file pulled, 0 skipped. 31.8 MB/s (1902542 bytes in 0.057s)
+================================================================================
+
+15:48:06
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767772085.048776.png"
+result:
+================================================================================
+
+16:26:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767774401.029705.png
+result:
+================================================================================
+
+16:26:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767774401.029705.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767774401.029705.png"
+result:
+/sdcard/test_1767774401.029705.png: 1 file pulled, 0 skipped. 33.6 MB/s (2385431 bytes in 0.068s)
+================================================================================
+
+16:26:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767774401.029705.png"
+result:
+================================================================================
+
+16:26:56
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767774415.6971977.png
+result:
+================================================================================
+
+16:26:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767774415.6971977.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767774415.6971977.png"
+result:
+/sdcard/test_1767774415.6971977.png: 1 file pulled, 0 skipped. 32.4 MB/s (1902458 bytes in 0.056s)
+================================================================================
+
+16:26:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767774415.6971977.png"
+result:
+================================================================================
+
+16:37:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767775052.0882123.png
+result:
+================================================================================
+
+16:37:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767775052.0882123.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767775052.0882123.png"
+result:
+/sdcard/test_1767775052.0882123.png: 1 file pulled, 0 skipped. 31.0 MB/s (1871270 bytes in 0.058s)
+================================================================================
+
+16:37:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767775052.0882123.png"
+result:
+================================================================================
+
+16:37:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/test_1767775070.0848846.png
+result:
+================================================================================
+
+16:37:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c pull "/sdcard/test_1767775070.0848846.png" "D:\code\python\All_project\adb_install_02\temp\screen\test_1767775070.0848846.png"
+result:
+/sdcard/test_1767775070.0848846.png: 1 file pulled, 0 skipped. 27.2 MB/s (1871473 bytes in 0.066s)
+================================================================================
+
+16:37:51
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/test_1767775070.0848846.png"
+result:
+================================================================================
+

@@ -1,0 +1,309 @@
+[2025/02/25 10:02:29] module{
+[2025/02/25 10:02:29] 17:1
+[2025/02/25 10:02:29] 19:1
+[2025/02/25 10:02:29] 24:1
+[2025/02/25 10:02:29] module}
+[2025/02/25 10:02:29] android ver:4.2.25.63958 20190901(N) __TPSTL_RECRYLE__ __ENABLE_DATA_ENC__ __ENABLE_MPRCS__  __ENABLE_TPSTL__ __ENABLE_TPCHANNEL__ __USE_NEW_QOS_ONLY__
+[2025/02/25 10:02:29] so:arm32
+[2025/02/25 10:02:29] pid:8486
+[2025/02/25 10:02:29] ChkInit{
+[2025/02/25 10:02:29] init_info:0xc9578988
+[2025/02/25 10:02:29] init_info->size_:12
+[2025/02/25 10:02:29] init_info->game_id_:2005
+[2025/02/25 10:02:29] init_info->tss_sdk_send_data_to_svr:0xc9f67ce8
+[2025/02/25 10:02:29] ChkInit}
+[2025/02/25 10:02:29] |jar_ver:4.2.25(2019/11/28)-jar-version
+[2025/02/25 10:02:29] java_main, time cast:0
+[2025/02/25 10:02:29] |app_ver:1.0.79.0Build3540
+[2025/02/25 10:02:29] java_async, time cast:458
+[2025/02/25 10:02:30] |init rp.
+[2025/02/25 10:02:30] dl https://intldlgs.qq.com/iedsafe/Client/android/test/2005/config2.xml
+[2025/02/25 10:02:32] XXXXXX_9015, time cast:571
+[2025/02/25 10:02:32] dl https://intldlgs.qq.com/iedsafe/Client/android/test/2005/config3.xml
+[2025/02/25 10:02:33] ver:1.0.14.0 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.1 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.0 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.14.1 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.14.3 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.3 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.16.0 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.0 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.16.2 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.2 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.16.1 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.1 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.18.0 app_ver:1.0.79.0Build3540 code_size:10465280 crc:0xca489f60
+[2025/02/25 10:02:33] ver:1.0.18.0 app_ver:1.0.79.0Build3540 code_size:10428416 crc:0x176ff8c6
+[2025/02/25 10:02:33] ver:1.0.19.0 app_ver:1.0.79.0Build3540 code_size:11689984 crc:0x29355296
+[2025/02/25 10:02:33] ver:1.0.19.0 app_ver:1.0.79.0Build3540 code_size:11640832 crc:0xf03cc6c5
+[2025/02/25 10:02:33] ver:1.0.20.0 app_ver:1.0.79.0Build3540 code_size:12042240 crc:0xeeb1e04f
+[2025/02/25 10:02:33] ver:1.0.20.0 app_ver:1.0.79.0Build3540 code_size:11988992 crc:0x284cc81d
+[2025/02/25 10:02:33] ver:1.0.21.0Build478 app_ver:1.0.79.0Build3540 code_size:13291520 crc:0x024f6f22
+[2025/02/25 10:02:33] ver:1.0.21.0Build478 app_ver:1.0.79.0Build3540 code_size:13365248 crc:0x5d6e164b
+[2025/02/25 10:02:33] ver:1.0.22.0 app_ver:1.0.79.0Build3540 code_size:13692928 crc:0xc92e3ae1
+[2025/02/25 10:02:33] ver:1.0.22.0 app_ver:1.0.79.0Build3540 code_size:14254080 crc:0x4cbf7d62
+[2025/02/25 10:02:33] ver:1.0.23.0 app_ver:1.0.79.0Build3540 code_size:14102528 crc:0x577fbdd0
+[2025/02/25 10:02:33] ver:1.0.23.0 app_ver:1.0.79.0Build3540 code_size:14708736 crc:0x9a214da3
+[2025/02/25 10:02:33] ver:1.0.24.0 app_ver:1.0.79.0Build3540 code_size:15085568 crc:0x280e08db
+[2025/02/25 10:02:33] ver:1.0.24.0 app_ver:1.0.79.0Build3540 code_size:15745024 crc:0x2899f487
+[2025/02/25 10:02:33] ver:1.0.25.0 app_ver:1.0.79.0Build3540 code_size:16080896 crc:0x9446900b
+[2025/02/25 10:02:33] ver:1.0.25.0 app_ver:1.0.79.0Build3540 code_size:16822272 crc:0x73a1b7d3
+[2025/02/25 10:02:33] ver:1.0.28.0 app_ver:1.0.79.0Build3540 code_size:16130048 crc:0x80a7bd36
+[2025/02/25 10:02:33] ver:1.0.28.0 app_ver:1.0.79.0Build3540 code_size:16875520 crc:0x23b31284
+[2025/02/25 10:02:33] ver:1.0.29.0 app_ver:1.0.79.0Build3540 code_size:17281024 crc:0x4a5048b4
+[2025/02/25 10:02:33] ver:1.0.29.0 app_ver:1.0.79.0Build3540 code_size:16523264 crc:0x3fc47355
+[2025/02/25 10:02:33] ver:1.0.30.0 app_ver:1.0.79.0Build3540 code_size:16887808 crc:0x254ef848
+[2025/02/25 10:02:33] ver:1.0.30.0 app_ver:1.0.79.0Build3540 code_size:17686528 crc:0x05c28852
+[2025/02/25 10:02:33] ver:1.0.31.0 app_ver:1.0.79.0Build3540 code_size:17043456 crc:0x1ce413ea
+[2025/02/25 10:02:33] ver:1.0.31.0 app_ver:1.0.79.0Build3540 code_size:17854464 crc:0x82ab5ca4
+[2025/02/25 10:02:33] ver:1.0.32.0 app_ver:1.0.79.0Build3540 code_size:17825792 crc:0x40a644ad
+[2025/02/25 10:02:33] ver:1.0.32.0 app_ver:1.0.79.0Build3540 code_size:18702336 crc:0xece7c6aa
+[2025/02/25 10:02:33] ver:1.0.33.0 app_ver:1.0.79.0Build3540 code_size:18202624 crc:0x94c0feb2
+[2025/02/25 10:02:33] ver:1.0.33.0 app_ver:1.0.79.0Build3540 code_size:19107840 crc:0x25c8f73f
+[2025/02/25 10:02:33] ver:1.0.34.0 app_ver:1.0.79.0Build3540 code_size:18714624 crc:0xcbd16d99
+[2025/02/25 10:02:33] ver:1.0.34.0 app_ver:1.0.79.0Build3540 code_size:19656704 crc:0x17ee0ee3
+[2025/02/25 10:02:33] ver:1.0.35.0 app_ver:1.0.79.0Build3540 code_size:18710528 crc:0x4c4f963a
+[2025/02/25 10:02:33] ver:1.0.35.0 app_ver:1.0.79.0Build3540 code_size:19648512 crc:0xbbc077d0
+[2025/02/25 10:02:33] ver:1.0.36.0 app_ver:1.0.79.0Build3540 code_size:19292160 crc:0x60399832
+[2025/02/25 10:02:33] ver:1.0.36.0 app_ver:1.0.79.0Build3540 code_size:20262912 crc:0x5e28380f
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:19750912 crc:0xb0ff260f
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:20762624 crc:0xb3f06bda
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:19750913 crc:0x4b14ca47
+[2025/02/25 10:02:33] ver:1.0.37.7 app_ver:1.0.79.0Build3540 code_size:19750912 crc:0xf265384a
+[2025/02/25 10:02:33] ver:1.0.37.7 app_ver:1.0.79.0Build3540 code_size:20762624 crc:0x0208b60f
+[2025/02/25 10:02:33] ver:1.0.38.0 app_ver:1.0.79.0Build3540 code_size:26529792 crc:0xb6413378
+[2025/02/25 10:02:33] ver:1.0.38.0 app_ver:1.0.79.0Build3540 code_size:20971520 crc:0x4c10e9ae
+[2025/02/25 10:02:33] ver:1.0.39.0 app_ver:1.0.79.0Build3540 code_size:27709440 crc:0x65c5418f
+[2025/02/25 10:02:33] ver:1.0.39.0 app_ver:1.0.79.0Build3540 code_size:21966848 crc:0x41e4d571
+[2025/02/25 10:02:33] ver:1.0.42.0 app_ver:1.0.79.0Build3540 code_size:20140032 crc:0xed4dcf8a
+[2025/02/25 10:02:33] ver:1.0.42.0 app_ver:1.0.79.0Build3540 code_size:19378176 crc:0x19e889eb
+[2025/02/25 10:02:33] ver:1.0.43.0 app_ver:1.0.79.0Build3540 code_size:15446016 crc:0x81d8dd72
+[2025/02/25 10:02:33] ver:1.0.43.0 app_ver:1.0.79.0Build3540 code_size:16289792 crc:0x0481addb
+[2025/02/25 10:02:33] ver:1.0.45.0 app_ver:1.0.79.0Build3540 code_size:16211968 crc:0xab7fdee0
+[2025/02/25 10:02:33] ver:1.0.45.0 app_ver:1.0.79.0Build3540 code_size:17092608 crc:0x9eac6c0d
+[2025/02/25 10:02:33] ver:1.0.47.0 app_ver:1.0.79.0Build3540 code_size:16764928 crc:0x75d5318a
+[2025/02/25 10:02:33] ver:1.0.48.0 app_ver:1.0.79.0Build3540 code_size:17248256 crc:0xb3057c28
+[2025/02/25 10:02:33] ver:1.0.50.0 app_ver:1.0.79.0Build3540 code_size:17690624 crc:0x74381028
+[2025/02/25 10:02:33] ver:1.0.51.0 app_ver:1.0.79.0Build3540 code_size:17690624 crc:0x52a9808d
+[2025/02/25 10:02:33] ver:1.0.52.0 app_ver:1.0.79.0Build3540 code_size:18014208 crc:0xa6389e05
+[2025/02/25 10:02:33] ver:1.0.54.0 app_ver:1.0.79.0Build3540 code_size:18378752 crc:0x9de49807
+[2025/02/25 10:02:33] ver:1.0.55.0 app_ver:1.0.79.0Build3540 code_size:18624512 crc:0x5ae7e034
+[2025/02/25 10:02:33] ver:1.0.56.0 app_ver:1.0.79.0Build3540 code_size:18857984 crc:0x92627114
+[2025/02/25 10:02:33] ver:1.0.57.0 app_ver:1.0.79.0Build3540 code_size:19107840 crc:0x16b27d41
+[2025/02/25 10:02:33] ver:1.0.58.0 app_ver:1.0.79.0Build3540 code_size:19341312 crc:0x8fce07fa
+[2025/02/25 10:02:33] ver:1.0.59.0 app_ver:1.0.79.0Build3540 code_size:19501056 crc:0x46951d9a
+[2025/02/25 10:02:33] ver:1.0.60.0 app_ver:1.0.79.0Build3540 code_size:19804160 crc:0xec9d1402
+[2025/02/25 10:02:33] ver:1.0.61.0 app_ver:1.0.79.0Build3540 code_size:19980288 crc:0x565d4f45
+[2025/02/25 10:02:33] ver:1.0.61.1 app_ver:1.0.79.0Build3540 code_size:19980288 crc:0x10478499
+[2025/02/25 10:02:33] ver:1.0.62.0 app_ver:1.0.79.0Build3540 code_size:20447232 crc:0x7cac0a37
+[2025/02/25 10:02:33] ver:1.0.64.0 app_ver:1.0.79.0Build3540 code_size:20697088 crc:0xe60998af
+[2025/02/25 10:02:33] ver:1.0.66.0 app_ver:1.0.79.0Build3540 code_size:21012480 crc:0x32270509
+[2025/02/25 10:02:33] ver:1.0.67.0 app_ver:1.0.79.0Build3540 code_size:21286912 crc:0x0a6ecd98
+[2025/02/25 10:02:33] ver:1.1.67.0 app_ver:1.0.79.0Build3540 code_size:21270528 crc:0xe4cf4e4d
+[2025/02/25 10:02:33] ver:1.0.68.0 app_ver:1.0.79.0Build3540 code_size:21151744 crc:0x86dd054f
+[2025/02/25 10:02:33] ver:1.0.69.0 app_ver:1.0.79.0Build3540 code_size:21483520 crc:0x45e58e8d
+[2025/02/25 10:02:33] ver:1.1.69.0 app_ver:1.0.79.0Build3540 code_size:21491712 crc:0x877f1076
+[2025/02/25 10:02:33] ver:1.0.70.0 app_ver:1.0.79.0Build3540 code_size:21704704 crc:0xbce8b78e
+[2025/02/25 10:02:33] ver:1.0.71.0 app_ver:1.0.79.0Build3540 code_size:21708800 crc:0xd9bf1b09
+[2025/02/25 10:02:33] ver:1.0.72.1 app_ver:1.0.79.0Build3540 code_size:22171648 crc:0x9de3063b
+[2025/02/25 10:02:33] ver:1.0.73.0 app_ver:1.0.79.0Build3540 code_size:22409216 crc:0x9eb799f7
+[2025/02/25 10:02:33] ver:1.0.74.0 app_ver:1.0.79.0Build3540 code_size:22646784 crc:0x20185dc7
+[2025/02/25 10:02:33] ver:1.0.75.0 app_ver:1.0.79.0Build3540 code_size:23113728 crc:0xf8e9e73c
+[2025/02/25 10:02:33] ver:1.0.76.0 app_ver:1.0.79.0Build3540 code_size:23658496 crc:0x81293401
+[2025/02/25 10:02:33] ver:1.0.77.0 app_ver:1.0.79.0Build3540 code_size:24371200 crc:0x74f8cba3
+[2025/02/25 10:02:33] ver:1.0.78.0 app_ver:1.0.79.0Build3540 code_size:24375296 crc:0xea9aed89
+[2025/02/25 10:02:33] ver:1.0.80.0 app_ver:1.0.79.0Build3540 code_size:25083904 crc:0x9756ae9f
+[2025/02/25 10:02:33] ver:1.0.80.1 app_ver:1.0.79.0Build3540 code_size:25083904 crc:0x57257df5
+[2025/02/25 10:02:33] ver:1.0.82.1 app_ver:1.0.79.0Build3540 code_size:25796608 crc:0xac043ae5
+[2025/02/25 10:02:33] ver:1.0.82.0 app_ver:1.0.79.0Build3540 code_size:25796608 crc:0x93c91801
+[2025/02/25 10:02:33] ver:1.0.83.0 app_ver:1.0.79.0Build3540 code_size:27069092 crc:0x6d84ae13
+[2025/02/25 10:02:33] ver:1.0.84.0 app_ver:1.0.79.0Build3540 code_size:27568552 crc:0xcd01793a
+[2025/02/25 10:02:33] ver:1.0.86.0 app_ver:1.0.79.0Build3540 code_size:27953600 crc:0xc721ce30
+[2025/02/25 10:02:33] ver:1.0.87.0 app_ver:1.0.79.0Build3540 code_size:28822180 crc:0x6e5c0702
+[2025/02/25 10:02:33] ver:1.0.14.0 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.1 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.0 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.14.1 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.14.3 app_ver:1.0.79.0Build3540 code_size:9515008 crc:0x4d977a12
+[2025/02/25 10:02:33] ver:1.0.14.3 app_ver:1.0.79.0Build3540 code_size:9478144 crc:0xea403ce3
+[2025/02/25 10:02:33] ver:1.0.16.0 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.0 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.16.2 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.2 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.16.1 app_ver:1.0.79.0Build3540 code_size:10407936 crc:0x2661ec83
+[2025/02/25 10:02:33] ver:1.0.16.1 app_ver:1.0.79.0Build3540 code_size:10375168 crc:0xdb71f2ef
+[2025/02/25 10:02:33] ver:1.0.18.0 app_ver:1.0.79.0Build3540 code_size:10465280 crc:0xca489f60
+[2025/02/25 10:02:33] ver:1.0.18.0 app_ver:1.0.79.0Build3540 code_size:10428416 crc:0x176ff8c6
+[2025/02/25 10:02:33] ver:1.0.19.0 app_ver:1.0.79.0Build3540 code_size:11689984 crc:0x29355296
+[2025/02/25 10:02:33] ver:1.0.19.0 app_ver:1.0.79.0Build3540 code_size:11640832 crc:0xf03cc6c5
+[2025/02/25 10:02:33] ver:1.0.20.0 app_ver:1.0.79.0Build3540 code_size:12042240 crc:0xeeb1e04f
+[2025/02/25 10:02:33] ver:1.0.20.0 app_ver:1.0.79.0Build3540 code_size:11988992 crc:0x284cc81d
+[2025/02/25 10:02:33] ver:1.0.21.0Build478 app_ver:1.0.79.0Build3540 code_size:13291520 crc:0x024f6f22
+[2025/02/25 10:02:33] ver:1.0.21.0Build478 app_ver:1.0.79.0Build3540 code_size:13365248 crc:0x5d6e164b
+[2025/02/25 10:02:33] ver:1.0.22.0 app_ver:1.0.79.0Build3540 code_size:13692928 crc:0xc92e3ae1
+[2025/02/25 10:02:33] ver:1.0.22.0 app_ver:1.0.79.0Build3540 code_size:14254080 crc:0x4cbf7d62
+[2025/02/25 10:02:33] ver:1.0.23.0 app_ver:1.0.79.0Build3540 code_size:14102528 crc:0x577fbdd0
+[2025/02/25 10:02:33] ver:1.0.23.0 app_ver:1.0.79.0Build3540 code_size:14708736 crc:0x9a214da3
+[2025/02/25 10:02:33] ver:1.0.24.0 app_ver:1.0.79.0Build3540 code_size:15085568 crc:0x280e08db
+[2025/02/25 10:02:33] ver:1.0.24.0 app_ver:1.0.79.0Build3540 code_size:15745024 crc:0x2899f487
+[2025/02/25 10:02:33] ver:1.0.25.0 app_ver:1.0.79.0Build3540 code_size:16080896 crc:0x9446900b
+[2025/02/25 10:02:33] ver:1.0.25.0 app_ver:1.0.79.0Build3540 code_size:16822272 crc:0x73a1b7d3
+[2025/02/25 10:02:33] ver:1.0.28.0 app_ver:1.0.79.0Build3540 code_size:16130048 crc:0x80a7bd36
+[2025/02/25 10:02:33] ver:1.0.28.0 app_ver:1.0.79.0Build3540 code_size:16875520 crc:0x23b31284
+[2025/02/25 10:02:33] ver:1.0.29.0 app_ver:1.0.79.0Build3540 code_size:17281024 crc:0x4a5048b4
+[2025/02/25 10:02:33] ver:1.0.29.0 app_ver:1.0.79.0Build3540 code_size:16523264 crc:0x3fc47355
+[2025/02/25 10:02:33] ver:1.0.30.0 app_ver:1.0.79.0Build3540 code_size:16887808 crc:0x254ef848
+[2025/02/25 10:02:33] ver:1.0.30.0 app_ver:1.0.79.0Build3540 code_size:17686528 crc:0x05c28852
+[2025/02/25 10:02:33] ver:1.0.31.0 app_ver:1.0.79.0Build3540 code_size:17043456 crc:0x1ce413ea
+[2025/02/25 10:02:33] ver:1.0.31.0 app_ver:1.0.79.0Build3540 code_size:17854464 crc:0x82ab5ca4
+[2025/02/25 10:02:33] ver:1.0.32.0 app_ver:1.0.79.0Build3540 code_size:17825792 crc:0x40a644ad
+[2025/02/25 10:02:33] ver:1.0.32.0 app_ver:1.0.79.0Build3540 code_size:18702336 crc:0xece7c6aa
+[2025/02/25 10:02:33] ver:1.0.33.0 app_ver:1.0.79.0Build3540 code_size:18202624 crc:0x94c0feb2
+[2025/02/25 10:02:33] ver:1.0.33.0 app_ver:1.0.79.0Build3540 code_size:19107840 crc:0x25c8f73f
+[2025/02/25 10:02:33] ver:1.0.34.0 app_ver:1.0.79.0Build3540 code_size:18714624 crc:0xcbd16d99
+[2025/02/25 10:02:33] ver:1.0.34.0 app_ver:1.0.79.0Build3540 code_size:19656704 crc:0x17ee0ee3
+[2025/02/25 10:02:33] ver:1.0.35.0 app_ver:1.0.79.0Build3540 code_size:18710528 crc:0x4c4f963a
+[2025/02/25 10:02:33] ver:1.0.35.0 app_ver:1.0.79.0Build3540 code_size:19648512 crc:0xbbc077d0
+[2025/02/25 10:02:33] ver:1.0.36.0 app_ver:1.0.79.0Build3540 code_size:19292160 crc:0x60399832
+[2025/02/25 10:02:33] ver:1.0.36.0 app_ver:1.0.79.0Build3540 code_size:20262912 crc:0x5e28380f
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:19750912 crc:0xb0ff260f
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:20762624 crc:0xb3f06bda
+[2025/02/25 10:02:33] ver:1.0.37.0 app_ver:1.0.79.0Build3540 code_size:19750913 crc:0x4b14ca47
+[2025/02/25 10:02:33] ver:1.0.37.7 app_ver:1.0.79.0Build3540 code_size:19750912 crc:0xf265384a
+[2025/02/25 10:02:33] ver:1.0.37.7 app_ver:1.0.79.0Build3540 code_size:20762624 crc:0x0208b60f
+[2025/02/25 10:02:33] ver:1.0.38.0 app_ver:1.0.79.0Build3540 code_size:26529792 crc:0xb6413378
+[2025/02/25 10:02:33] ver:1.0.38.0 app_ver:1.0.79.0Build3540 code_size:20971520 crc:0x4c10e9ae
+[2025/02/25 10:02:33] ver:1.0.39.0 app_ver:1.0.79.0Build3540 code_size:27709440 crc:0x65c5418f
+[2025/02/25 10:02:33] ver:1.0.39.0 app_ver:1.0.79.0Build3540 code_size:21966848 crc:0x41e4d571
+[2025/02/25 10:02:33] ver:1.0.42.0 app_ver:1.0.79.0Build3540 code_size:20140032 crc:0xed4dcf8a
+[2025/02/25 10:02:33] ver:1.0.42.0 app_ver:1.0.79.0Build3540 code_size:19378176 crc:0x19e889eb
+[2025/02/25 10:02:33] ver:1.0.43.0 app_ver:1.0.79.0Build3540 code_size:15446016 crc:0x81d8dd72
+[2025/02/25 10:02:33] ver:1.0.43.0 app_ver:1.0.79.0Build3540 code_size:16289792 crc:0x0481addb
+[2025/02/25 10:02:33] ver:1.0.45.0 app_ver:1.0.79.0Build3540 code_size:16211968 crc:0xab7fdee0
+[2025/02/25 10:02:33] ver:1.0.45.0 app_ver:1.0.79.0Build3540 code_size:17092608 crc:0x9eac6c0d
+[2025/02/25 10:02:33] ver:1.0.47.0 app_ver:1.0.79.0Build3540 code_size:16764928 crc:0x75d5318a
+[2025/02/25 10:02:33] ver:1.0.48.0 app_ver:1.0.79.0Build3540 code_size:17248256 crc:0xb3057c28
+[2025/02/25 10:02:33] ver:1.0.50.0 app_ver:1.0.79.0Build3540 code_size:17690624 crc:0x74381028
+[2025/02/25 10:02:33] ver:1.0.51.0 app_ver:1.0.79.0Build3540 code_size:17690624 crc:0x52a9808d
+[2025/02/25 10:02:33] ver:1.0.52.0 app_ver:1.0.79.0Build3540 code_size:18014208 crc:0xa6389e05
+[2025/02/25 10:02:33] ver:1.0.54.0 app_ver:1.0.79.0Build3540 code_size:18378752 crc:0x9de49807
+[2025/02/25 10:02:33] ver:1.0.55.0 app_ver:1.0.79.0Build3540 code_size:18624512 crc:0x5ae7e034
+[2025/02/25 10:02:33] ver:1.0.56.0 app_ver:1.0.79.0Build3540 code_size:18857984 crc:0x92627114
+[2025/02/25 10:02:33] ver:1.0.57.0 app_ver:1.0.79.0Build3540 code_size:19107840 crc:0x16b27d41
+[2025/02/25 10:02:33] ver:1.0.58.0 app_ver:1.0.79.0Build3540 code_size:19341312 crc:0x8fce07fa
+[2025/02/25 10:02:33] ver:1.0.59.0 app_ver:1.0.79.0Build3540 code_size:19501056 crc:0x46951d9a
+[2025/02/25 10:02:33] ver:1.0.60.0 app_ver:1.0.79.0Build3540 code_size:19804160 crc:0xec9d1402
+[2025/02/25 10:02:33] ver:1.0.61.0 app_ver:1.0.79.0Build3540 code_size:19980288 crc:0x565d4f45
+[2025/02/25 10:02:33] ver:1.0.61.1 app_ver:1.0.79.0Build3540 code_size:19980288 crc:0x10478499
+[2025/02/25 10:02:33] ver:1.0.62.0 app_ver:1.0.79.0Build3540 code_size:20447232 crc:0x7cac0a37
+[2025/02/25 10:02:33] ver:1.0.64.0 app_ver:1.0.79.0Build3540 code_size:20697088 crc:0xe60998af
+[2025/02/25 10:02:33] ver:1.0.66.0 app_ver:1.0.79.0Build3540 code_size:21012480 crc:0x32270509
+[2025/02/25 10:02:33] ver:1.0.67.0 app_ver:1.0.79.0Build3540 code_size:21286912 crc:0x0a6ecd98
+[2025/02/25 10:02:33] ver:1.1.67.0 app_ver:1.0.79.0Build3540 code_size:21270528 crc:0xe4cf4e4d
+[2025/02/25 10:02:33] ver:1.0.68.0 app_ver:1.0.79.0Build3540 code_size:21151744 crc:0x86dd054f
+[2025/02/25 10:02:33] ver:1.0.69.0 app_ver:1.0.79.0Build3540 code_size:21483520 crc:0x45e58e8d
+[2025/02/25 10:02:33] ver:1.1.69.0 app_ver:1.0.79.0Build3540 code_size:21491712 crc:0x877f1076
+[2025/02/25 10:02:33] ver:1.0.70.0 app_ver:1.0.79.0Build3540 code_size:21704704 crc:0xbce8b78e
+[2025/02/25 10:02:33] ver:1.0.71.0 app_ver:1.0.79.0Build3540 code_size:21708800 crc:0xd9bf1b09
+[2025/02/25 10:02:33] ver:1.0.72.1 app_ver:1.0.79.0Build3540 code_size:22171648 crc:0x9de3063b
+[2025/02/25 10:02:33] ver:1.0.73.0 app_ver:1.0.79.0Build3540 code_size:22409216 crc:0x9eb799f7
+[2025/02/25 10:02:33] ver:1.0.74.0 app_ver:1.0.79.0Build3540 code_size:22646784 crc:0x20185dc7
+[2025/02/25 10:02:33] ver:1.0.75.0 app_ver:1.0.79.0Build3540 code_size:23113728 crc:0xf8e9e73c
+[2025/02/25 10:02:33] ver:1.0.76.0 app_ver:1.0.79.0Build3540 code_size:23658496 crc:0x81293401
+[2025/02/25 10:02:33] ver:1.0.77.0 app_ver:1.0.79.0Build3540 code_size:24371200 crc:0x74f8cba3
+[2025/02/25 10:02:33] ver:1.0.78.0 app_ver:1.0.79.0Build3540 code_size:24375296 crc:0xea9aed89
+[2025/02/25 10:02:33] ver:1.0.80.0 app_ver:1.0.79.0Build3540 code_size:25083904 crc:0x9756ae9f
+[2025/02/25 10:02:33] ver:1.0.80.1 app_ver:1.0.79.0Build3540 code_size:25083904 crc:0x57257df5
+[2025/02/25 10:02:33] ver:1.0.82.1 app_ver:1.0.79.0Build3540 code_size:25796608 crc:0xac043ae5
+[2025/02/25 10:02:33] ver:1.0.82.0 app_ver:1.0.79.0Build3540 code_size:25796608 crc:0x93c91801
+[2025/02/25 10:02:33] ver:1.0.83.0 app_ver:1.0.79.0Build3540 code_size:27069092 crc:0x6d84ae13
+[2025/02/25 10:02:33] ver:1.0.84.0 app_ver:1.0.79.0Build3540 code_size:27568552 crc:0xcd01793a
+[2025/02/25 10:02:33] ver:1.0.86.0 app_ver:1.0.79.0Build3540 code_size:27953600 crc:0xc721ce30
+[2025/02/25 10:02:33] ver:1.0.87.0 app_ver:1.0.79.0Build3540 code_size:28822180 crc:0x6e5c0702
+[2025/02/25 10:02:34] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/E62C48E9/comm.dat, retval:0, size:67225, cache:0
+[2025/02/25 10:02:34] + up, cs_script:sdk_ver_bt("2.0.0")
+[2025/02/25 10:02:34] + up, up_sdk_ver:5.9.7.43004, cur_sdk_ver:4.2.25.63958
+[2025/02/25 10:02:35] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/8F4E9155/comm.zip, retval:0, size:33347, cache:0
+[2025/02/25 10:02:36] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/B3CFBB35/ob_x.zip, retval:0, size:40025, cache:0
+[2025/02/25 10:02:37] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/C7598EFC/big_data.zip, retval:0, size:202230, cache:0
+[2025/02/25 10:02:38] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/6BA9990B/tssmua.zip, retval:0, size:103838, cache:0
+[2025/02/25 10:02:39] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/32CD6D85/tss_gp5.dat, retval:0, size:210, cache:0
+[2025/02/25 10:02:41] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/26370F21/tss_tcj.dat, retval:0, size:362, cache:0
+[2025/02/25 10:02:42] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/42F1737D/config.ini, retval:0, size:85, cache:0
+[2025/02/25 10:02:43] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/711EED32/tssbp_arm.dat, retval:0, size:256, cache:0
+[2025/02/25 10:02:44] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/CDE9E90A/cs_script.zip, retval:0, size:280, cache:0
+[2025/02/25 10:02:46] dl https://intldlgs.qq.com/iedsafe/Client/android/2005/AA4310E6/scripts.dat, retval:0, size:776, cache:0
+[2025/02/25 10:02:46] tdm_report_sdk_update_config_finish 1
+[2025/02/25 10:02:46] !dl 1
+[2025/02/25 10:02:46] ip:10.95.238.51
+[2025/02/25 10:02:49] [mf]scan com.htc.widget.weatherclock, path:/preload/HtcWeatherClockWidget.apk, t:1
+[2025/02/25 10:02:50] [mf]scan com.htc.drawingboard, path:/preload/DrawingBoard.apk, t:1
+[2025/02/25 10:02:50] [mf]scan com.joke.chongya.virtual, path:/data/app/com.joke.chongya.virtual-IlZzjca1lEIstvFBTh8GeA==/base.apk, t:1
+[2025/02/25 10:02:50] [mf]scan com.sandboxol.indiegame.eggwars, path:/data/app/com.sandboxol.indiegame.eggwars-gQfbKSsAmsEq76MEOgDerw==/base.apk, t:1
+[2025/02/25 10:02:52] [mf]scan com.htc.flashlight, path:/preload/Flashlight.apk, t:1
+[2025/02/25 10:02:52] [mf]scan com.tencent.hs, path:/data/app/com.tencent.hs-EtW1DsWjMf_aUc5jfS8iZQ==/base.apk, t:1
+[2025/02/25 10:02:52] [mf]scan com.sohu.inputmethod.sogou, path:/data/app/com.sohu.inputmethod.sogou-Ufxby3CYdlrShSoYRfbbKQ==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.YoStarJP.Arknights, path:/data/app/com.YoStarJP.Arknights-we0Z0Wu8aAyjIwejwjYdKg==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.seasun.jxsj3.xsj, path:/data/app/com.seasun.jxsj3.xsj-Kc489bTP6h9zpo6EPFw-_w==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.garena.game.kgtw, path:/data/app/com.garena.game.kgtw-o8lq2emi7smR0CBRzJqqzQ==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.tencent.mtp.udemo, path:/data/app/com.tencent.mtp.udemo-IhXSKFw2NKivir6vrLSAhw==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.tencent.qnet, path:/data/app/com.tencent.qnet-N_G74bHvQD2FPkuV3v110A==/base.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.socogame.ppc, path:/preload/HTCCN_Gamehall.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.htc.rosiewidgets.powerstrip, path:/preload/HtcPowerStripWidget.apk, t:1
+[2025/02/25 10:02:53] [mf]scan com.tencent.android.qqdownloader, path:/data/app/com.tencent.android.qqdownloader-H9ygleH6VtOzO2RBnVORVQ==/base.apk, t:1
+[2025/02/25 10:02:54] [mf]scan com.google.android.gapid.arm64v8a, path:/data/app/com.google.android.gapid.arm64v8a-Hx_euUq8zNP6MPJNr4xz0Q==/base.apk, t:1
+[2025/02/25 10:02:54] [mf]scan com.weifx.wfx, path:/data/app/com.weifx.wfx-hUreznfGwVCwxhYPhRQNSA==/base.apk, t:1
+[2025/02/25 10:02:54] [mf]scan com.xd.idle.ro.re.test, path:/data/app/com.xd.idle.ro.re.test-_QA3KGjNwygUD1VLeWp98w==/base.apk, t:1
+[2025/02/25 10:02:54] [mf]scan cn.wps.moffice_eng, path:/preload/WPSOffice.apk, t:1
+[2025/02/25 10:02:54] [mf]scan com.htc.guide, path:/preload/HTCAdvantage.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.aaaaaa.bbbbbb, path:/data/app/com.aaaaaa.bbbbbb-xWkTa1gWEEjBM_aE-Tbe2w==/base.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.playgame.havefun64, path:/data/app/com.playgame.havefun64-TPs8M8SFIJnRpfEjFdL07g==/base.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.excelliance.multiaccounts.b32, path:/data/app/com.excelliance.multiaccounts.b32-Ux5hUdf1iWfRKcYx31VrLw==/base.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.tcz.qowei, path:/data/app/com.tcz.qowei-2dfpuJ3xRZ_6d0oWI1wPjQ==/base.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.github.uiautomator.test, path:/data/app/com.github.uiautomator.test-FlYV7E5U8L2TMKVI_pPvEw==/base.apk, t:1
+[2025/02/25 10:02:55] [mf]scan com.netease.uu, path:/data/app/com.netease.uu-AhBWdCn16VnJJuTkV6skxQ==/base.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.excelliance.multiaccounts, path:/data/app/com.excelliance.multiaccounts-LGo2j-b28EZWI0uN_MwZrw==/base.apk, t:1
+[2025/02/25 10:02:56] [mf]scan bin.mt.plus, path:/data/app/bin.mt.plus-KWKRj0jPaep5VwJii70uMg==/base.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.htc.fluidwallpaperblue, path:/preload/FluidWallpaperBlue.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.htc.htccompressviewer, path:/preload/HtcCompressViewer.apk, t:1
+[2025/02/25 10:02:56] [mf]scan app.greyshirts.firewall, path:/data/app/app.greyshirts.firewall-70QxUDpuThltBWwzOTZIYw==/base.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.android.egg, path:/preload/EasterEgg.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.htc.android.mail, path:/data/app/com.htc.android.mail-RVf4wU5ZfL-Tl_HYWr0G4Q==/base.apk, t:1
+[2025/02/25 10:02:56] [mf]scan com.tencent.xriver, path:/data/app/com.tencent.xriver-sz6w53oWl-VQGKuLqRwo0w==/base.apk, t:1
+[2025/02/25 10:02:57] [mf]scan com.tencent.mtp, path:/data/app/com.tencent.mtp-FkDHaxMifg-jvnNfuX7cKQ==/base.apk, t:1
+[2025/02/25 10:02:57] [mf]scan com.taptap, path:/data/app/com.taptap-eqAoD4W-uammhBGbZ5alwg==/base.apk, t:1
+[2025/02/25 10:02:58] [mf]scan com.github.uiautomator, path:/data/app/com.github.uiautomator-vDhvkBQFDaTJEtoICvL2fA==/base.apk, t:1
+[2025/02/25 10:02:58] [mf]scan com.github.shadowsocks, path:/data/app/com.github.shadowsocks-7UaugxaO1_JlDBQG-cI-Ow==/base.apk, t:1
+[2025/02/25 10:02:58] [mf]scan com.excean.maid, path:/data/app/com.excean.maid-eI4E4k-2phgWJbt83BSBJA==/base.apk, t:1
+[2025/02/25 10:02:59] [mf]scan tinker.sample.android, path:/data/app/tinker.sample.android-wEgzsvZ5TCL6o8vBfHd16w==/base.apk, t:1
+[2025/02/25 10:03:00] [mf]scan com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck, path:/data/app/com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck-cJJOTl4KqAgLjUEeHpEINA==/base.apk, t:1
+[2025/02/25 10:03:00] [mf]scan com.zeewinpeng.clock, path:/data/app/com.zeewinpeng.clock-bUoemaSSJec0-Ria2zgVoQ==/base.apk, t:1
+[2025/02/25 10:03:00] [mf]scan com.test.myapplication, path:/data/app/com.test.myapplication-NZeenAnxEVteXG0soRSMlA==/base.apk, t:1
+[2025/02/25 10:03:00] [mf]scan com.htc.simplelauncher, path:/preload/HtcSimpleLauncher.apk, t:1
+[2025/02/25 10:03:00] [mf]scan myworkspace.mobile.clients.android, path:/data/app/myworkspace.mobile.clients.android-cagM8oekSL5Q1LlXviPKXg==/base.apk, t:1
+[2025/02/25 10:03:01] [mf]scan com.blizzard.wtcg.hearthstone, path:/data/app/com.blizzard.wtcg.hearthstone-8Gw-pCHY4LMkYe5kiCAjXg==/base.apk, t:1
+[2025/02/25 10:03:01] [mf]scan net.mypush.dnsswitch, path:/data/app/net.mypush.dnsswitch-SrS699IksrFnh1CwtM-9lA==/base.apk, t:1
+[2025/02/25 10:03:01] [mf]scan com.wind.dumpdex, path:/data/app/com.wind.dumpdex-APptNVFIPqQmejozMAqNNQ==/base.apk, t:1
+[2025/02/25 10:03:01] [mf]scan com.tencent.tptest, path:/data/app/com.tencent.tptest-kWBX2Mvi9NwChnQiUy2rCQ==/base.apk, t:1
+[2025/02/25 10:03:01] [mf]scan com.vng.codmvn, path:/data/app/com.vng.codmvn-61wWElFkUmiKjU5YoZ2NFw==/base.apk, t:1
+[2025/02/25 10:03:02] [mf]scan com.excean.maid.b32, path:/data/app/com.excean.maid.b32-dehEfWy2ruoxqm1vZGscwQ==/base.apk, t:1
+[2025/02/25 10:03:02] [mf]scan com.google.android.gapid.armeabiv7a, path:/data/app/com.google.android.gapid.armeabiv7a-J3V72pEa7FtFMGlM4fBgcw==/base.apk, t:1
+[2025/02/25 10:03:13] md5:146dbce01c515e46f114c7c111a0a608
+[2025/02/25 10:03:13] md5:65f31b5ed2d5269d4dabbd4c0cad3a8c
+[2025/02/25 10:05:45] status_info:0xc9578e84
+[2025/02/25 10:05:45] status_info->size_:8
+[2025/02/25 10:05:45] status_info->game_status_:2
+[2025/02/25 10:05:45] ChkSetGameStatus}
+[2025/02/25 10:10:12] status_info:0xc9578e64
+[2025/02/25 10:10:12] status_info->size_:8
+[2025/02/25 10:10:12] status_info->game_status_:1
+[2025/02/25 10:10:12] ChkSetGameStatus}
+[2025/02/25 10:11:25] + up, cs_script:sdk_ver_bt("2.0.0")
+[2025/02/25 10:11:25] + up, up_sdk_ver:5.9.7.43004, cur_sdk_ver:4.2.25.63958
+[2025/02/25 10:11:35] |@
+[2025/02/25 10:11:35] md5:146dbce01c515e46f114c7c111a0a608
+[2025/02/25 10:11:35] md5:65f31b5ed2d5269d4dabbd4c0cad3a8c
+[2025/02/25 10:11:42] status_info:0xc9578e84
+[2025/02/25 10:11:42] status_info->size_:8
+[2025/02/25 10:11:42] status_info->game_status_:2
+[2025/02/25 10:11:42] ChkSetGameStatus}

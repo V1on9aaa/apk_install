@@ -1,0 +1,100 @@
+[2025/10/23 11:15:03]XCLOUD_VERSION_ACE_7.8.22.64040
+[2025/10/23 11:15:03]7.8.22.64040
+[2025/10/23 11:15:03]{
+[2025/10/23 11:15:03] __MODULE_TERSAFE2__
+[2025/10/23 11:15:03] __ACE_EXPORT__
+[2025/10/23 11:15:03] __ENABLE_DATA_ENC__
+[2025/10/23 11:15:03] __ENABLE_TPSTL__
+[2025/10/23 11:15:03] __ENABLE_TPLIBC__
+[2025/10/23 11:15:03] __USE_NEW_QOS_ONLY__
+[2025/10/23 11:15:03]}
+[2025/10/23 11:15:03]module
+[2025/10/23 11:15:03]{
+[2025/10/23 11:15:03] 17:1
+[2025/10/23 11:15:03] 19:1
+[2025/10/23 11:15:03] 24:1
+[2025/10/23 11:15:03]}
+[2025/10/23 11:15:03]so:arm64
+[2025/10/23 11:15:03]pid:7447
+[2025/10/23 11:15:03]ctl:ilc_open_pipe
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]build_options
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]{
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  pid:7447
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  fake_game_id:1675794875
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  fake_open_id:EB64F169B92F04F9670_OB
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]  sdk_ver:7.8.22.64040
+[2025/10/23 11:15:03][VM64][builtin.zip][vm_main.img]}
+[2025/10/23 11:15:03]SetCountryCode:EN
+[2025/10/23 11:15:03]ChkInit{
+[2025/10/23 11:15:03]init_info:0x7aefdb2d70
+[2025/10/23 11:15:03]init_info->size_:16
+[2025/10/23 11:15:03]init_info->game_id_:20109
+[2025/10/23 11:15:03]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/23 11:15:03]ChkInit}
+[2025/10/23 11:15:03]|jar_ver:7.8.22(2020/11/10)-jar-version
+[2025/10/23 11:15:03]ChkSetGameStatus{
+[2025/10/23 11:15:03]status_info:0x7aefdb2f90
+[2025/10/23 11:15:03]status_info->size_:8
+[2025/10/23 11:15:03]status_info->game_status_:2
+[2025/10/23 11:15:03]ChkSetGameStatus}
+[2025/10/23 11:15:03]ChkSetGameStatus{
+[2025/10/23 11:15:03]status_info:0x7aefdb2f60
+[2025/10/23 11:15:03]status_info->size_:8
+[2025/10/23 11:15:03]status_info->game_status_:1
+[2025/10/23 11:15:03]ChkSetGameStatus}
+[2025/10/23 11:15:06]SetUserInfoEx{
+[2025/10/23 11:15:06]user_info:0x7aefdb2c10
+[2025/10/23 11:15:06]user_info->size_:212
+[2025/10/23 11:15:06]user_info->entry_id_:1
+[2025/10/23 11:15:06]user_info->uin_.type_:2
+[2025/10/23 11:15:06]user_info->uin_.uin_str_:AB36366565F9E02C191ACEANO_7822
+[2025/10/23 11:15:06]user_info->app_id_.type_:2
+[2025/10/23 11:15:06]user_info->app_id_.app_id_str_:
+[2025/10/23 11:15:06]user_info->world_id_:0
+[2025/10/23 11:15:06]user_info->role_id_:
+[2025/10/23 11:15:06]SetUserInfoEx}
+[2025/10/23 11:15:07]csh!glcs.listdl.com
+[2025/10/23 11:15:07]csi!
+[2025/10/23 11:15:08]CS2, host:glcs.listdl.com, ip:129.226.1.157, port:443, err:0, failed_step:0
+[2025/10/23 11:15:08]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:09]dl https://dl.listdl.com/iedsafe/Client/android/test/20109/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:12]dl https://dl.listdl.com/iedsafe/Client/android/20109/20B7BC32/comm.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:14]dl https://dl.listdl.com/iedsafe/Client/android/20109/1EFBBF1D/tss_ano.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:15]dl https://dl.listdl.com/iedsafe/Client/android/20109/882439B9/ob_cdn2.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:16]dl https://dl.listdl.com/iedsafe/Client/android/20109/78131640/tp2cfg.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:17]dl https://dl.listdl.com/iedsafe/Client/android/20109/084B5BAC/ob_x_ace.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:19]dl https://dl.listdl.com/iedsafe/Client/android/20109/9A9A43FC/tssmua2.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:15:19][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/10/23 11:15:19][VM64][builtin.zip][vm_main.img]  v.bss, time cast:23ms
+[2025/10/23 11:15:19][ob_x_ace.zip][maDelta_scan.img]end, loop:24
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.va, time cast:2136ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.op, time cast:9ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.ro, time cast:3ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]auto_defence, time cast:2173ms
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/10/23 11:15:21][VM64][builtin.zip][vm_main.img]  CertScanerV, time cast:0ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  AttestScanerV, time cast:741ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  CC2V, time cast:0ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:0ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:21ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:2ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:15ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:5ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_main.img]vm_scan }, cast:787ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_r4.img]  r4_emulator, time cast:11ms
+[2025/10/23 11:15:22][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:17ms
+[2025/10/23 11:15:22][builtin.zip][vm_r4.img]end, loop:21935
+[2025/10/23 11:15:23][VM64][ob_cdn2.zip][gp6_t3.img]Hi,gp6_t3{
+[2025/10/23 11:15:24]__VM_ASSERT err! jni/gp6_t3.cpp, ln:208
+[2025/10/23 11:15:24][VM64][ob_cdn2.zip][gp6_t3.img]Hi,gp6_t3}
+[2025/10/23 11:15:24][ob_cdn2.zip][gp6_t3.img]end, loop:11
+[2025/10/23 11:15:43]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/10/23 11:15:45]send_cs:31, send_gs:2, remain_cnt:2

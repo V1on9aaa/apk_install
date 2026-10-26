@@ -1,0 +1,42 @@
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517754.png
+result:
+系统找不到指定的路径。
+================================================================================
+
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517754.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517754.png"
+result:
+系统找不到指定的路径。
+================================================================================
+
+17:09:14
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517754.png"
+result:
+系统找不到指定的路径。
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/click_1767517771.png
+result:
+系统找不到指定的路径。
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c pull "/sdcard/click_1767517771.png" "D:\code\python\All_project\adb_install_02\temp\screen\click_1767517771.png"
+result:
+系统找不到指定的路径。
+================================================================================
+
+17:09:31
+comm:
+D:\code\python\All_project\Tools\adb.exe -s 9e2bd91c shell  rm -rf "/sdcard/click_1767517771.png"
+result:
+系统找不到指定的路径。
+================================================================================
+

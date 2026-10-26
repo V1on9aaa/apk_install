@@ -1,0 +1,187 @@
+[2025/09/17 16:35:10] li:530586570001031d62b6218c|1
+[2025/09/17 16:35:10] GCLOUD_VERSION_TP_6.8.020.20560
+[2025/09/17 16:35:10] android ver:6.8.20.20560 20230522
+[2025/09/17 16:35:10] {
+[2025/09/17 16:35:10]  __ENABLE_DATA_ENC__
+[2025/09/17 16:35:10]  __ENABLE_MPRCS__
+[2025/09/17 16:35:10]  __ENABLE_TPSTL__
+[2025/09/17 16:35:10]  __ENABLE_TPLIBC__
+[2025/09/17 16:35:10]  __TPSTL_RECRYLE__
+[2025/09/17 16:35:10]  __USE_NEW_QOS_ONLY__
+[2025/09/17 16:35:10]  __ENABLE_SO_UPDATE__
+[2025/09/17 16:35:10] }
+[2025/09/17 16:35:10] module
+[2025/09/17 16:35:10] {
+[2025/09/17 16:35:10]  17:1
+[2025/09/17 16:35:10]  19:1
+[2025/09/17 16:35:10]  24:1
+[2025/09/17 16:35:10] }
+[2025/09/17 16:35:10] so:arm64
+[2025/09/17 16:35:10] pid:28395
+[2025/09/17 16:35:10] ChkInit{
+[2025/09/17 16:35:10] init_info:0x72f0115228
+[2025/09/17 16:35:10] init_info->size_:16
+[2025/09/17 16:35:10] init_info->game_id_:2131
+[2025/09/17 16:35:10] init_info->tss_sdk_send_data_to_svr:0x0
+[2025/09/17 16:35:10] ChkInit}
+[2025/09/17 16:35:10] |app_1.28.0
+[2025/09/17 16:35:10] |jar_ver:6.8.20(2020/11/10)-jar-version
+[2025/09/17 16:35:10] |init rp.
+[2025/09/17 16:35:16] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2131/config2.xml, retval:0, size:15620, cache:0, jd:1
+[2025/09/17 16:35:16] XXXXXX_9015, time cast:89ms
+[2025/09/17 16:35:18] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/2131/config3.xml, retval:0, size:9812, cache:0, jd:1
+[2025/09/17 16:35:18] ver:0.4.0 app_ver:1.28.0 code_size:57049088 crc:0xf468e9a2
+[2025/09/17 16:35:18] ver:0.5.1 app_ver:1.28.0 code_size:58044416 crc:0x08f49fe2
+[2025/09/17 16:35:18] ver:0.6.1 app_ver:1.28.0 code_size:58617856 crc:0x20b5cb3f
+[2025/09/17 16:35:18] ver:0.7.1 app_ver:1.28.0 code_size:59510784 crc:0x59b7d560
+[2025/09/17 16:35:18] ver:0.8.6 app_ver:1.28.0 code_size:61095936 crc:0xd1b3eb08
+[2025/09/17 16:35:18] ver:0.9.5 app_ver:1.28.0 code_size:61259776 crc:0x95fab6f5
+[2025/09/17 16:35:18] ver:0.10.9 app_ver:1.28.0 code_size:63025152 crc:0x91ccafc8
+[2025/09/17 16:35:18] ver:0.11.3 app_ver:1.28.0 code_size:63172608 crc:0x529c057e
+[2025/09/17 16:35:18] ver:0.12.5 app_ver:1.28.0 code_size:63827968 crc:0x63ee7759
+[2025/09/17 16:35:18] ver:0.13.5 app_ver:1.28.0 code_size:64958464 crc:0xdc3773e5
+[2025/09/17 16:35:18] ver:0.14.5 app_ver:1.28.0 code_size:65662976 crc:0xe5d33890
+[2025/09/17 16:35:18] ver:1.1.16 app_ver:1.28.0 code_size:71630848 crc:0x06ca2be6
+[2025/09/17 16:35:18] ver:1.2.9 app_ver:1.28.0 code_size:74137600 crc:0x28449a64
+[2025/09/17 16:35:18] ver:1.3.6 app_ver:1.28.0 code_size:76509184 crc:0x1f827c31
+[2025/09/17 16:35:18] ver:1.4.6 app_ver:1.28.0 code_size:79646720 crc:0xa51b53fb
+[2025/09/17 16:35:18] ver:1.5.8 app_ver:1.28.0 code_size:82821120 crc:0xb610324e
+[2025/09/17 16:35:18] ver:1.7.7 app_ver:1.28.0 code_size:85835776 crc:0x8a19ead2
+[2025/09/17 16:35:18] ver:1.8.10 app_ver:1.28.0 code_size:88510464 crc:0xc5530c20
+[2025/09/17 16:35:18] ver:1.9.10 app_ver:1.28.0 code_size:92266496 crc:0xef3b6322
+[2025/09/17 16:35:18] ver:1.10.12 app_ver:1.28.0 code_size:108534316 crc:0xb5a72679
+[2025/09/17 16:35:18] ver:1.11.13 app_ver:1.28.0 code_size:101584896 crc:0x2071deff
+[2025/09/17 16:35:18] ver:1.13.12 app_ver:1.28.0 code_size:115341868 crc:0xd8f606cd
+[2025/09/17 16:35:18] ver:1.14.10 app_ver:1.28.0 code_size:108208128 crc:0x100abfaf
+[2025/09/17 16:35:18] ver:1.15.12 app_ver:1.28.0 code_size:127961644 crc:0xb8aa1a43
+[2025/09/17 16:35:18] ver:1.15.13 app_ver:1.28.0 code_size:176302856 crc:0x0c3c31cb
+[2025/09/17 16:35:18] ver:1.16.12 app_ver:1.28.0 code_size:129190444 crc:0x8ce8bdab
+[2025/09/17 16:35:18] ver:1.16.13 app_ver:1.28.0 code_size:177941256 crc:0x199e3c47
+[2025/09/17 16:35:18] ver:1.17.4 app_ver:1.28.0 code_size:126310956 crc:0x48dd3730
+[2025/09/17 16:35:18] ver:1.17.5 app_ver:1.28.0 code_size:174795528 crc:0x6caeb657
+[2025/09/17 16:35:18] ver:1.18.9 app_ver:1.28.0 code_size:127748652 crc:0xa4df0b4a
+[2025/09/17 16:35:18] ver:1.18.10 app_ver:1.28.0 code_size:177285960 crc:0x8a73f4c4
+[2025/09/17 16:35:18] ver:1.19.2 app_ver:1.28.0 code_size:130980396 crc:0xaf6a6826
+[2025/09/17 16:35:18] ver:1.19.3 app_ver:1.28.0 code_size:181676872 crc:0xc0a529fd
+[2025/09/17 16:35:18] ver:1.20.12 app_ver:1.28.0 code_size:134655840 crc:0x909ccee0
+[2025/09/17 16:35:18] ver:1.20.13 app_ver:1.28.0 code_size:186624552 crc:0xf7e64399
+[2025/09/17 16:35:18] ver:1.21.17 app_ver:1.28.0 code_size:139104136 crc:0x5915353d
+[2025/09/17 16:35:18] ver:1.21.18 app_ver:1.28.0 code_size:192719664 crc:0x46e0bc45
+[2025/09/17 16:35:18] ver:1.22.35 app_ver:1.28.0 code_size:144789400 crc:0xff93f8b8
+[2025/09/17 16:35:18] ver:1.22.36 app_ver:1.28.0 code_size:201043000 crc:0x7f8c6be3
+[2025/09/17 16:35:18] ver:1.23.20 app_ver:1.28.0 code_size:151208280 crc:0xaeb76a43
+[2025/09/17 16:35:18] ver:1.23.21 app_ver:1.28.0 code_size:210284232 crc:0x5d295536
+[2025/09/17 16:35:18] ver:1.24.22 app_ver:1.28.0 code_size:153940376 crc:0x4ffcbd75
+[2025/09/17 16:35:18] ver:1.24.23 app_ver:1.28.0 code_size:213954496 crc:0x499fbef2
+[2025/09/17 16:35:18] ver:1.25.11 app_ver:1.28.0 code_size:159981816 crc:0x73ca9d92
+[2025/09/17 16:35:18] ver:1.25.12 app_ver:1.28.0 code_size:221491280 crc:0xd3da3dfc
+[2025/09/17 16:35:18] ver:1.26.17 app_ver:1.28.0 code_size:163623208 crc:0x8455321f
+[2025/09/17 16:35:18] ver:1.26.18 app_ver:1.28.0 code_size:226998816 crc:0x6bc9be7a
+[2025/09/17 16:35:18] ver:1.27.17 app_ver:1.28.0 code_size:171630664 crc:0xfced43e8
+[2025/09/17 16:35:18] ver:1.27.18 app_ver:1.28.0 code_size:239582072 crc:0x9dc9eb47
+[2025/09/17 16:35:18] ver:1.28.12 app_ver:1.28.0 code_size:179306920 crc:0xa2295125
+[2025/09/17 16:35:18] ver:1.28.13 app_ver:1.28.0 code_size:244957088 crc:0x842a2065
+[2025/09/17 16:35:18] ver:1.29.12 app_ver:1.28.0 code_size:191627848 crc:0x57ce594c
+[2025/09/17 16:35:18] ver:1.29.13 app_ver:1.28.0 code_size:261409032 crc:0xb09cfd41
+[2025/09/17 16:35:18] ver:1.30.20 app_ver:1.28.0 code_size:197059432 crc:0x0366632a
+[2025/09/17 16:35:18] ver:1.30.21 app_ver:1.28.0 code_size:269275024 crc:0x00eddd06
+[2025/09/17 16:35:18] ver:1.31.09 app_ver:1.28.0 code_size:205283816 crc:0x3bd8f64a
+[2025/09/17 16:35:18] ver:1.31.10 app_ver:1.28.0 code_size:280350544 crc:0x2ae2e7b7
+[2025/09/17 16:35:18] ver:1.32.10 app_ver:1.28.0 code_size:4096 crc:0x29a44be5
+[2025/09/17 16:35:18] ver:1.32.11 app_ver:1.28.0 code_size:4096 crc:0x2b1112a1
+[2025/09/17 16:35:18] ver:1.33.11 app_ver:1.28.0 code_size:223669352 crc:0xa87218a0
+[2025/09/17 16:35:18] ver:1.33.12 app_ver:1.28.0 code_size:305263248 crc:0x719c1002
+[2025/09/17 16:35:18] ver:0.4.0 app_ver:1.28.0 code_size:57049088 crc:0xf468e9a2
+[2025/09/17 16:35:18] ver:0.5.1 app_ver:1.28.0 code_size:58044416 crc:0x08f49fe2
+[2025/09/17 16:35:18] ver:0.6.1 app_ver:1.28.0 code_size:58617856 crc:0x20b5cb3f
+[2025/09/17 16:35:18] ver:0.7.1 app_ver:1.28.0 code_size:59510784 crc:0x59b7d560
+[2025/09/17 16:35:18] ver:0.8.6 app_ver:1.28.0 code_size:61095936 crc:0xd1b3eb08
+[2025/09/17 16:35:18] ver:0.9.5 app_ver:1.28.0 code_size:61259776 crc:0x95fab6f5
+[2025/09/17 16:35:18] ver:0.10.9 app_ver:1.28.0 code_size:63025152 crc:0x91ccafc8
+[2025/09/17 16:35:18] ver:0.11.3 app_ver:1.28.0 code_size:63172608 crc:0x529c057e
+[2025/09/17 16:35:18] ver:0.12.5 app_ver:1.28.0 code_size:63827968 crc:0x63ee7759
+[2025/09/17 16:35:18] ver:0.13.5 app_ver:1.28.0 code_size:64958464 crc:0xdc3773e5
+[2025/09/17 16:35:18] ver:0.14.5 app_ver:1.28.0 code_size:65662976 crc:0xe5d33890
+[2025/09/17 16:35:18] ver:1.1.16 app_ver:1.28.0 code_size:71630848 crc:0x06ca2be6
+[2025/09/17 16:35:18] ver:1.2.9 app_ver:1.28.0 code_size:74137600 crc:0x28449a64
+[2025/09/17 16:35:18] ver:1.3.6 app_ver:1.28.0 code_size:76509184 crc:0x1f827c31
+[2025/09/17 16:35:18] ver:1.4.6 app_ver:1.28.0 code_size:79646720 crc:0xa51b53fb
+[2025/09/17 16:35:18] ver:1.5.8 app_ver:1.28.0 code_size:82821120 crc:0xb610324e
+[2025/09/17 16:35:18] ver:1.7.7 app_ver:1.28.0 code_size:85835776 crc:0x8a19ead2
+[2025/09/17 16:35:18] ver:1.8.10 app_ver:1.28.0 code_size:88510464 crc:0xc5530c20
+[2025/09/17 16:35:18] ver:1.9.10 app_ver:1.28.0 code_size:92266496 crc:0xef3b6322
+[2025/09/17 16:35:18] ver:1.10.12 app_ver:1.28.0 code_size:108534316 crc:0xb5a72679
+[2025/09/17 16:35:18] ver:1.11.13 app_ver:1.28.0 code_size:101584896 crc:0x2071deff
+[2025/09/17 16:35:18] ver:1.13.12 app_ver:1.28.0 code_size:115341868 crc:0xd8f606cd
+[2025/09/17 16:35:18] ver:1.14.10 app_ver:1.28.0 code_size:108208128 crc:0x100abfaf
+[2025/09/17 16:35:18] ver:1.15.12 app_ver:1.28.0 code_size:127961644 crc:0xb8aa1a43
+[2025/09/17 16:35:18] ver:1.15.13 app_ver:1.28.0 code_size:176302856 crc:0x0c3c31cb
+[2025/09/17 16:35:18] ver:1.16.12 app_ver:1.28.0 code_size:129190444 crc:0x8ce8bdab
+[2025/09/17 16:35:18] ver:1.16.13 app_ver:1.28.0 code_size:177941256 crc:0x199e3c47
+[2025/09/17 16:35:18] ver:1.17.4 app_ver:1.28.0 code_size:126310956 crc:0x48dd3730
+[2025/09/17 16:35:18] ver:1.17.5 app_ver:1.28.0 code_size:174795528 crc:0x6caeb657
+[2025/09/17 16:35:18] ver:1.18.9 app_ver:1.28.0 code_size:127748652 crc:0xa4df0b4a
+[2025/09/17 16:35:18] ver:1.18.10 app_ver:1.28.0 code_size:177285960 crc:0x8a73f4c4
+[2025/09/17 16:35:18] ver:1.19.2 app_ver:1.28.0 code_size:130980396 crc:0xaf6a6826
+[2025/09/17 16:35:18] ver:1.19.3 app_ver:1.28.0 code_size:181676872 crc:0xc0a529fd
+[2025/09/17 16:35:18] ver:1.20.12 app_ver:1.28.0 code_size:134655840 crc:0x909ccee0
+[2025/09/17 16:35:18] ver:1.20.13 app_ver:1.28.0 code_size:186624552 crc:0xf7e64399
+[2025/09/17 16:35:18] ver:1.21.17 app_ver:1.28.0 code_size:139104136 crc:0x5915353d
+[2025/09/17 16:35:18] ver:1.21.18 app_ver:1.28.0 code_size:192719664 crc:0x46e0bc45
+[2025/09/17 16:35:18] ver:1.22.35 app_ver:1.28.0 code_size:144789400 crc:0xff93f8b8
+[2025/09/17 16:35:18] ver:1.22.36 app_ver:1.28.0 code_size:201043000 crc:0x7f8c6be3
+[2025/09/17 16:35:18] ver:1.23.20 app_ver:1.28.0 code_size:151208280 crc:0xaeb76a43
+[2025/09/17 16:35:18] ver:1.23.21 app_ver:1.28.0 code_size:210284232 crc:0x5d295536
+[2025/09/17 16:35:18] ver:1.24.22 app_ver:1.28.0 code_size:153940376 crc:0x4ffcbd75
+[2025/09/17 16:35:18] ver:1.24.23 app_ver:1.28.0 code_size:213954496 crc:0x499fbef2
+[2025/09/17 16:35:18] ver:1.25.11 app_ver:1.28.0 code_size:159981816 crc:0x73ca9d92
+[2025/09/17 16:35:18] ver:1.25.12 app_ver:1.28.0 code_size:221491280 crc:0xd3da3dfc
+[2025/09/17 16:35:18] ver:1.26.17 app_ver:1.28.0 code_size:163623208 crc:0x8455321f
+[2025/09/17 16:35:18] ver:1.26.18 app_ver:1.28.0 code_size:226998816 crc:0x6bc9be7a
+[2025/09/17 16:35:18] ver:1.27.17 app_ver:1.28.0 code_size:171630664 crc:0xfced43e8
+[2025/09/17 16:35:18] ver:1.27.18 app_ver:1.28.0 code_size:239582072 crc:0x9dc9eb47
+[2025/09/17 16:35:18] ver:1.28.12 app_ver:1.28.0 code_size:179306920 crc:0xa2295125
+[2025/09/17 16:35:18] ver:1.28.13 app_ver:1.28.0 code_size:244957088 crc:0x842a2065
+[2025/09/17 16:35:18] ver:1.29.12 app_ver:1.28.0 code_size:191627848 crc:0x57ce594c
+[2025/09/17 16:35:18] ver:1.29.13 app_ver:1.28.0 code_size:261409032 crc:0xb09cfd41
+[2025/09/17 16:35:18] ver:1.30.20 app_ver:1.28.0 code_size:197059432 crc:0x0366632a
+[2025/09/17 16:35:18] ver:1.30.21 app_ver:1.28.0 code_size:269275024 crc:0x00eddd06
+[2025/09/17 16:35:18] ver:1.31.09 app_ver:1.28.0 code_size:205283816 crc:0x3bd8f64a
+[2025/09/17 16:35:18] ver:1.31.10 app_ver:1.28.0 code_size:280350544 crc:0x2ae2e7b7
+[2025/09/17 16:35:18] ver:1.32.10 app_ver:1.28.0 code_size:4096 crc:0x29a44be5
+[2025/09/17 16:35:18] ver:1.32.11 app_ver:1.28.0 code_size:4096 crc:0x2b1112a1
+[2025/09/17 16:35:18] ver:1.33.11 app_ver:1.28.0 code_size:223669352 crc:0xa87218a0
+[2025/09/17 16:35:18] ver:1.33.12 app_ver:1.28.0 code_size:305263248 crc:0x719c1002
+[2025/09/17 16:35:19] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/0490FC1B/comm.zip, retval:0, size:33401, cache:0, jd:1
+[2025/09/17 16:35:19] sig custom, name:comm.dat, len:74988, crc:f62cc07e
+[2025/09/17 16:35:19] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/2D8412B1/ob_extension.zip, retval:0, size:183340, cache:0, jd:1
+[2025/09/17 16:35:20] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/5294F632/ob_cs1.zip, retval:0, size:49351, cache:0, jd:1
+[2025/09/17 16:35:21] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/7C06F09D/ob_x.zip, retval:0, size:471123, cache:0, jd:1
+[2025/09/17 16:35:21] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/522CE3E0/ob_cdn2.zip, retval:0, size:35691, cache:0, jd:1
+[2025/09/17 16:35:22] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/A2E13E1A/libcaptureImage.so, retval:0, size:470520, cache:0, jd:1
+[2025/09/17 16:35:24] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/B6BC49BE/libDWT_test.so, retval:0, size:2869424, cache:0, jd:1
+[2025/09/17 16:35:24] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/1E87C08E/ob_cdn1.zip, retval:0, size:28280, cache:0, jd:1
+[2025/09/17 16:35:24] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/C06939F7/tss_ano.dat, retval:0, size:713, cache:0, jd:1
+[2025/09/17 16:35:25] dl https://down.anticheatexpert.com/iedsafe/Client/android/2131/4E3AD40A/ob_bridge.zip.cdc, retval:0, size:8097, cache:0, jd:1
+[2025/09/17 16:35:25] !dl 1
+[2025/09/17 16:35:25] [VM64][builtin.zip][vm_main.img]build_options
+[2025/09/17 16:35:25] [VM64][builtin.zip][vm_main.img]{
+[2025/09/17 16:35:25] [VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/09/17 16:35:25] [VM64][builtin.zip][vm_main.img]}
+[2025/09/17 16:35:25] [VM64][builtin.zip][vm_main.img]arch:arm64
+[2025/09/17 16:35:25] [VM]aic.img end, loop:2
+[2025/09/17 16:35:25] [VM]auto_clicker_device.img end, loop:1
+[2025/09/17 16:35:25] ob, time cast:4ms
+[2025/09/17 16:35:25] [VM]parse_config3.img end, loop:2
+[2025/09/17 16:35:25] ob, time cast:0ms
+[2025/09/17 16:35:27] [VM]av.img end, loop:2
+[2025/09/17 16:35:29] [VM]collect_ano12_mf.img end, loop:2
+[2025/09/17 16:35:31] [VM]cse.img end, loop:2
+[2025/09/17 16:35:33] [VM]cw.img end, loop:1
+[2025/09/17 16:35:35] [VM]fake_id2.img end, loop:1
+[2025/09/17 16:35:37] [VM]qxk.img end, loop:2
+[2025/09/17 16:35:39] [VM]rdp6.img end, loop:2
+[2025/09/17 16:35:41] [VM]struggle_task_key.img end, loop:2
+[2025/09/17 16:35:43] [VM]wbs.img end, loop:1
+[2025/09/17 16:35:45] [VM]xb.img end, loop:2
+[2025/09/17 16:35:47] [VM]yyb_check_wb.img end, loop:2

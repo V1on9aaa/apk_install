@@ -1,0 +1,299 @@
+14:32:17
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk
+result:
+grep: bad regex 'G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk': Invalid back reference
+================================================================================
+
+14:34:21
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:34:22
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk
+result:
+grep: bad regex 'G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk': Invalid back reference
+================================================================================
+
+14:37:34
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:37:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk
+result:
+grep: bad regex 'G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk': Invalid back reference
+================================================================================
+
+14:46:33
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:05:38
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:06:44
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install_02\Tools\config/adv_ver.txt
+
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:03:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+16:03:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:10:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:10:18
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:10:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:10:53
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:12:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:15:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+16:15:57
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:15:58
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell pm list package com.tencent.sdk_ano
+result:
+^C================================================================================
+
+16:17:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+16:17:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:18:35
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:18:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:29:15
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:29:16
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:30:23
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:33:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:37:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:37:31
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:39:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:39:12
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:41:36
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+^C================================================================================
+
+16:41:37
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:48:09
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+16:50:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\7.9.X\7.9.17.91\demo\ANO_Tools_7.9.17_8888_c++_64.apk: Failure [INSTALL_FAILED_ABORTED: User rejected permissions]
+================================================================================
+
+16:50:25
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:21:11
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano': File exists
+mkdir: '/sdcard/Android/data/com.tencent.sdk_ano/files': File exists
+================================================================================
+
+17:41:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:43:39
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\adb_install_02\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+17:43:52
+comm:
+D:\code\python\All_project\adb_install_02\Tools\adb.exe -s 9e2bd91c shell  screencap -p /sdcard/search_1766483032.png
+result:
+^C================================================================================
+

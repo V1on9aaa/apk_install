@@ -1,0 +1,254 @@
+14-53-30D:\code\python\All_project\adb_install\Tools\adb.exe -s dfc5f4ee shell  echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log
+系统找不到指定的路径。
+================================================================================
+
+15-11-36
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump badging G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk
+unknown option '-'.
+
+dump badging [options] files...
+
+Options:
+ --include-meta-data                               Include meta-data information.
+ -h                                                Displays this help menu
+================================================================================
+
+15-18-47D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk
+15-20-29D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk
+adb: failed to stat 副本.apk: No such file or directory
+================================================================================
+
+15-20-29D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+15-20-30D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  pm grant com.wind.bird2 android.permission.WRITE_EXTERNAL_STORAGE
+
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.wind.bird2
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1461)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:103)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2163)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5965)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1730)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:217)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22620)
+	at android.os.Binder.shellCommand(Binder.java:629)
+	at android.os.Binder.onTransact(Binder.java:527)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2924)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4388)
+	at android.os.Binder.execTransact(Binder.java:735)
+================================================================================
+
+15-20-30D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  pm grant com.wind.bird2 android.permission.READ_EXTERNAL_STORAGE
+
+
+Exception occurred while executing:
+java.lang.IllegalArgumentException: Unknown package: com.wind.bird2
+	at com.android.server.pm.permission.PermissionManagerService.grantRuntimePermission(PermissionManagerService.java:1461)
+	at com.android.server.pm.permission.PermissionManagerService.access$900(PermissionManagerService.java:103)
+	at com.android.server.pm.permission.PermissionManagerService$PermissionManagerInternalImpl.grantRuntimePermission(PermissionManagerService.java:2163)
+	at com.android.server.pm.PackageManagerService.grantRuntimePermission(PackageManagerService.java:5965)
+	at com.android.server.pm.PackageManagerShellCommand.runGrantRevokePermission(PackageManagerShellCommand.java:1730)
+	at com.android.server.pm.PackageManagerShellCommand.onCommand(PackageManagerShellCommand.java:217)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.pm.PackageManagerService.onShellCommand(PackageManagerService.java:22620)
+	at android.os.Binder.shellCommand(Binder.java:629)
+	at android.os.Binder.onTransact(Binder.java:527)
+	at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:2924)
+	at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4388)
+	at android.os.Binder.execTransact(Binder.java:735)
+================================================================================
+
+15-25-18D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.wind.bird2': File exists
+mkdir: '/sdcard/Android/data/com.wind.bird2/files': File exists
+================================================================================
+
+15-25-55D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.wind.bird2/files/log.log"
+cat: /sdcard/Android/data/com.wind.bird2/files/log.log: No such file or directory
+================================================================================
+
+15-26-10D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+15-26-48D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/log.log"
+cat: /sdcard/Android/data/com.tencent.green.ace/files/log.log: No such file or directory
+================================================================================
+
+15-27-03D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.tencent.green.ace': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.ace/files': File exists
+================================================================================
+
+15-27-40D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.tencent.green.ace/files/log.log"
+cat: /sdcard/Android/data/com.tencent.green.ace/files/log.log: No such file or directory
+================================================================================
+
+15-36-08D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.wind.bird2': File exists
+mkdir: '/sdcard/Android/data/com.wind.bird2/files': File exists
+================================================================================
+
+15-36-40D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  am start com.wind.bird2/com.google.firebase.MessagingUnityPlayerActivity
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+================================================================================
+
+15-37-12D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  "cat /sdcard/Android/data/com.wind.bird2/files/log.log"
+cat: /sdcard/Android/data/com.wind.bird2/files/log.log: No such file or directory
+================================================================================
+
+15-37-27D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.wind.bird2': File exists
+mkdir: '/sdcard/Android/data/com.wind.bird2/files': File exists
+================================================================================
+
+15-44-20D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk"
+adb: failed to install G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.wind.bird2 signatures do not match previously installed version; ignoring!]
+================================================================================
+
+15-46-14D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk"
+adb: failed to install G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.wind.bird2 signatures do not match previously installed version; ignoring!]
+================================================================================
+
+15-48-07D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk"
+adb: failed to install G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.wind.bird2 signatures do not match previously installed version; ignoring!]
+================================================================================
+
+15-59-16D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 install -g "G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk"
+adb: failed to install G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3881481_20250709151823_2048_firebase.shell.signed - 副本.apk: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.wind.bird2 signatures do not match previously installed version; ignoring!]
+================================================================================
+
+16-00-57D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-02-47D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-04-09D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-05-59D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-08-28java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks "G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3884388_eggwar_20250710103503.shell.shell.signed.aab.apks" --device-id FA7831801432
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4908619537907227621
+================================================================================
+
+16-08-29D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.sandboxol.indiegame.eggwars': File exists
+/system/bin/sh: <stdin>[5]: /files: not found
+/system/bin/sh: <stdin>[6]: can't create /sdcard/Android/data/com.sandboxol.indiegame.eggwars: Is a directory
+/system/bin/sh: <stdin>[7]: /files/enable.log: not found
+/system/bin/sh: <stdin>[10]: /files/enable.dat: not found
+================================================================================
+
+16-08-29D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  pm grant com.sandboxol.indiegame.eggwars
+ android.permission.WRITE_EXTERNAL_STORAGE
+
+Error: no permission specified
+================================================================================
+
+16-08-29D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  pm grant com.sandboxol.indiegame.eggwars
+ android.permission.READ_EXTERNAL_STORAGE
+
+Error: no permission specified
+================================================================================
+
+16-08-30D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  am start Actions:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.VIEW dat=Actions: flg=0x10000000 }
+================================================================================
+
+16-18-20D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-20-07D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-21-30D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-23-27
+rmdir /s /q D:\code\python\All_project\adb_install\temp\aab_splits
+D:\code\python\All_project\adb_install\temp\aab_splits\STANDA~1 - 目录不是空的。
+================================================================================
+
+16-23-56java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3884388_eggwar_20250710103503.shell.shell.signed.aab.apks --device-id FA7831801432
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\11553293302039379758
+================================================================================
+
+16-23-57D:\code\python\All_project\adb_install\Tools\adb.exe -s FA7831801432 shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16-33-30D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16-35-03D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.wind.bird2/files/log.log"
+cat: /sdcard/Android/data/com.wind.bird2/files/log.log: No such file or directory
+================================================================================
+
+16-35-50D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16-36-55D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.wind.bird2/files/log.log"
+cat: /sdcard/Android/data/com.wind.bird2/files/log.log: No such file or directory
+================================================================================
+
+16-37-06D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16-38-58
+rmdir /s /q D:\code\python\All_project\adb_install\temp\aab_splits
+D:\code\python\All_project\adb_install\temp\aab_splits\STANDA~1 - 目录不是空的。
+================================================================================
+
+16-39-20java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks G:\Business_Area\shell\Andriod_Shell\4.7.11.36692\19368\3884388_eggwar_20250710103503.shell.shell.signed.aab.apks --device-id 9e2bd91c
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\5878308933092015510
+================================================================================
+
+16-39-20D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16-40-53D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.sandboxol.indiegame.eggwars/files/log.log"
+cat: /sdcard/Android/data/com.sandboxol.indiegame.eggwars/files/log.log: No such file or directory
+================================================================================
+

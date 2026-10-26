@@ -1,0 +1,167 @@
+15:11:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c install -g "G:\Business_Area\sdk\8.0.X\8.0.1.41915\demo\Sdk_Tools_8.0.1_8888_c++_32.apk"
+result:
+adb: failed to install G:\Business_Area\sdk\8.0.X\8.0.1.41915\demo\Sdk_Tools_8.0.1_8888_c++_32.apk: ================================================================================
+
+15:11:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:11:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:01
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell  input keyevent 3
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+
+15:12:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell pm list package | grep com.tencent.sdk
+result:
+adb.exe: device '5fa3254c' not found
+================================================================================
+

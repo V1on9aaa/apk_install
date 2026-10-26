@@ -1,0 +1,5 @@
+Gooey
+paddleocr
+# paddleocr.egg==info
+Pillow
+uiautomator2

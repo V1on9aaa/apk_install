@@ -1,0 +1,252 @@
+17-34-50
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G"
+================================================================================
+
+17-43-51
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+com.personal.rocketmouse
+================================================================================
+
+17-43-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-43-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=Window{475199f u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+17-43-58
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=Window{475199f u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+com.personal.rocketmouse
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+================================================================================
+
+17-43-59
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=Window{f11c9dd u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670243.0.png"
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670243.0.png" D:\code\python\All_project\adb_install\temp\screen
+/sdcard/install1757670243.0.png: 1 file pulled, 0 skipped. 5.4 MB/s (145637 bytes in 0.026s)
+================================================================================
+
+17-44-03
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670243.0.png"
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670248.0.png"
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670248.0.png" D:\code\python\All_project\adb_install\temp\screen
+/sdcard/install1757670248.0.png: 1 file pulled, 0 skipped. 6.9 MB/s (145421 bytes in 0.020s)
+================================================================================
+
+17-44-08
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670248.0.png"
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/install1757670251.0.png"
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/install1757670251.0.png" D:\code\python\All_project\adb_install\temp\screen
+/sdcard/install1757670251.0.png: 1 file pulled, 0 skipped. 15.3 MB/s (145504 bytes in 0.009s)
+================================================================================
+
+17-44-11
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/install1757670251.0.png"
+================================================================================
+
+17-44-14
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  wm size
+Physical size: 1080x2340
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  input tap 540.0 2176.2
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-44-15
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{475199f u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\mouse.apk"
+com.personal.rocketmouse
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+package:com.personal.rocketmouse
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm list package | grep com.personal.rocketmouse
+package:com.personal.rocketmouse
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-44-20
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  < D:\code\python\All_project\adb_install\Tools\config/adv_ver.txt
+
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.WRITE_EXTERNAL_STORAGE
+
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  pm grant com.personal.rocketmouse android.permission.READ_EXTERNAL_STORAGE
+
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-44-21
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity }
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{5619e67 u0 com.android.systemui}
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+u0_a2205       5581    736 1683620 142504 0                   0 S com.personal.rocketmouse
+================================================================================
+
+17-44-51
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-44-52
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am start com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.personal.rocketmouse/com.unity3d.player.UnityPlayerNativeActivity }
+================================================================================
+
+17-45-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{5619e67 u0 com.android.systemui}
+================================================================================
+
+17-45-22
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+u0_a2205       5581    736 1683620 142500 0                   0 S com.personal.rocketmouse
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "screencap -p /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull "/sdcard/com.personal.rocketmouse_0.png" D:\code\python\All_project\adb_install\temp\screen
+/sdcard/com.personal.rocketmouse_0.png: 1 file pulled, 0 skipped. 13.8 MB/s (66388 bytes in 0.005s)
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "rm -rf /sdcard/com.personal.rocketmouse_0.png"
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "dumpsys window | grep mCurrentFocus"
+  mCurrentFocus=null
+  mCurrentFocus=null
+  mCurrentFocus=Window{5619e67 u0 com.android.systemui}
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "ps | grep com.personal.rocketmouse"
+u0_a2205       5581    736 1683620 142500 0                   0 S com.personal.rocketmouse
+================================================================================
+
+17-45-23
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/log.log"
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  "cat /sdcard/Android/data/com.personal.rocketmouse/files/shell.log | grep OpenID"
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+11
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/Android/data/com.personal.rocketmouse/files/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757670324_log.log
+adb: error: failed to stat remote object '/sdcard/Android/data/com.personal.rocketmouse/files/log.log': No such file or directory
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c pull /sdcard/sdk/log.log D:\code\python\All_project\adb_install\temp\log\Android\9e2bd91c_1757670324_log.log
+/sdcard/sdk/log.log: 1 file pulled, 0 skipped. 1.1 MB/s (6993 bytes in 0.006s)
+================================================================================
+
+17-45-24
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 9e2bd91c shell  am force-stop com.personal.rocketmouse
+================================================================================
+

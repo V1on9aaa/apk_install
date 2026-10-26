@@ -1,0 +1,3565 @@
+09:39:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe devices
+result:
+List of devices attached
+5fa3254c	device
+9e2bd91c	device
+
+================================================================================
+
+09:40:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe devices
+result:
+List of devices attached
+5fa3254c	device
+9e2bd91c	device
+dfc5f4ee	device
+
+================================================================================
+
+09:47:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe devices
+result:
+List of devices attached
+5fa3254c	device
+9e2bd91c	device
+dfc5f4ee	device
+
+================================================================================
+
+09:47:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+09:47:11
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+09:47:11
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+09:47:12
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+09:47:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:47:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.green.ace
+result:
+Success
+================================================================================
+
+09:47:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+09:47:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:47:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1195fca0 u0 android}
+================================================================================
+
+09:47:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk: 1 file pushed, 0 skipped. 3.7 MB/s (31548000 bytes in 8.238s)
+	pkg: /data/local/tmp/ACE_Tools_7.7.49_20059_c#.apk
+Success
+================================================================================
+
+09:47:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:47:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:47:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:47:29
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ACE_Tools_7.7.49_20059_c#.apk"
+result:
+com.tencent.green.ace
+================================================================================
+
+09:47:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace
+result:
+package:com.tencent.green.ace
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:47:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:47:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:47:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.green.ace | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        a7f43f7 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+================================================================================
+
+09:47:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity }
+================================================================================
+
+09:47:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace"
+result:
+u0_a1253  12897 482   1300552 99800 ffffffff 00000000 S com.tencent.green.ace
+================================================================================
+
+09:47:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.green.ace_start_1769219255.png
+result:
+================================================================================
+
+09:47:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.green.ace_start_1769219255.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.green.ace_start_1769219255.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.green.ace_start_1769219255.png: 1 file pulled, 0 skipped. 2.1 MB/s (67355 bytes in 0.031s)
+================================================================================
+
+09:47:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.green.ace_start_1769219255.png"
+result:
+================================================================================
+
+09:47:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:47:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:49:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:49:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace"
+result:
+u0_a1253  12897 482   1303500 136432 ffffffff 00000000 S com.tencent.green.ace
+================================================================================
+
+09:50:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{16ff16c7 u0 com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:50:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace"
+result:
+u0_a1253  12897 482   1302980 138984 ffffffff 00000000 S com.tencent.green.ace
+================================================================================
+
+09:50:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.green.ace_end_1769219432.png
+result:
+================================================================================
+
+09:50:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.green.ace_end_1769219432.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.green.ace_end_1769219432.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.green.ace_end_1769219432.png: 1 file pulled, 0 skipped. 2.9 MB/s (42597 bytes in 0.014s)
+================================================================================
+
+09:50:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.green.ace_end_1769219432.png"
+result:
+================================================================================
+
+09:50:33
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.green.ace
+result:
+================================================================================
+
+09:50:34
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk"
+result:
+com.tencent.green.ace.ano
+================================================================================
+
+09:50:34
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk"
+result:
+com.tencent.green.ace.ano
+================================================================================
+
+09:50:34
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk"
+result:
+com.tencent.green.ace.ano
+================================================================================
+
+09:50:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace.ano
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.green.ace.ano
+result:
+Success
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:50:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1aff6929 u0 android}
+================================================================================
+
+09:50:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/ocr_1769219443.png
+result:
+================================================================================
+
+09:50:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1769219443.png" "D:\code\python\All_project\apk_install\temp\screen\ocr_1769219443.png"
+result:
+/sdcard/ocr_1769219443.png: 1 file pulled, 0 skipped. 3.4 MB/s (202652 bytes in 0.056s)
+================================================================================
+
+09:50:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/ocr_1769219443.png"
+result:
+================================================================================
+
+09:50:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/click_1769219445.png
+result:
+================================================================================
+
+09:50:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1769219445.png" "D:\code\python\All_project\apk_install\temp\screen\click_1769219445.png"
+result:
+/sdcard/click_1769219445.png: 1 file pulled, 0 skipped. 3.4 MB/s (194877 bytes in 0.054s)
+================================================================================
+
+09:50:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/click_1769219445.png"
+result:
+================================================================================
+
+09:50:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  wm size
+result:
+Physical size: 1080x1920
+================================================================================
+
+09:50:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  input tap 302.4 1843.2
+result:
+================================================================================
+
+09:50:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk: 1 file pushed, 0 skipped. 4.7 MB/s (22417847 bytes in 4.579s)
+	pkg: /data/local/tmp/ANO_Tools_7.7.49_20109_c#.apk
+Success
+================================================================================
+
+09:50:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:50:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:50:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace.ano
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:50:51
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_20109_c#.apk"
+result:
+com.tencent.green.ace.ano
+================================================================================
+
+09:50:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.green.ace.ano
+result:
+package:com.tencent.green.ace.ano
+================================================================================
+
+09:50:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:50:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:50:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.green.ace.ano | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        a6d2a6e com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity
+================================================================================
+
+09:50:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity }
+================================================================================
+
+09:50:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:50:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace.ano"
+result:
+u0_a1254  14945 482   1537032 92248 ffffffff 00000000 S com.tencent.green.ace.ano
+================================================================================
+
+09:50:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.green.ace.ano_start_1769219457.png
+result:
+================================================================================
+
+09:50:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.green.ace.ano_start_1769219457.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.green.ace.ano_start_1769219457.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.green.ace.ano_start_1769219457.png: 1 file pulled, 0 skipped. 2.2 MB/s (38422 bytes in 0.017s)
+================================================================================
+
+09:50:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.green.ace.ano_start_1769219457.png"
+result:
+================================================================================
+
+09:50:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:51:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:52:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:52:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace.ano"
+result:
+u0_a1254  14945 482   1539536 129016 ffffffff 00000000 S com.tencent.green.ace.ano
+================================================================================
+
+09:53:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{3a16d883 u0 com.tencent.green.ace.ano/com.unity3d.player.UnityPlayerActivity}
+================================================================================
+
+09:53:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.green.ace.ano"
+result:
+u0_a1254  14945 482   1539016 130660 ffffffff 00000000 S com.tencent.green.ace.ano
+================================================================================
+
+09:53:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.green.ace.ano_end_1769219634.png
+result:
+================================================================================
+
+09:53:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.green.ace.ano_end_1769219634.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.green.ace.ano_end_1769219634.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.green.ace.ano_end_1769219634.png: 1 file pulled, 0 skipped. 1.5 MB/s (47989 bytes in 0.031s)
+================================================================================
+
+09:53:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.green.ace.ano_end_1769219634.png"
+result:
+================================================================================
+
+09:53:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.green.ace.ano
+result:
+================================================================================
+
+09:53:56
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:53:56
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:53:56
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:53:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.sdk_ano
+result:
+Success
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:58
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:53:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3f313065 u0 android}
+================================================================================
+
+09:54:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/ocr_1769219640.png
+result:
+================================================================================
+
+09:54:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1769219640.png" "D:\code\python\All_project\apk_install\temp\screen\ocr_1769219640.png"
+result:
+/sdcard/ocr_1769219640.png: 1 file pulled, 0 skipped. 5.4 MB/s (222338 bytes in 0.039s)
+================================================================================
+
+09:54:01
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/ocr_1769219640.png"
+result:
+================================================================================
+
+09:54:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/click_1769219642.png
+result:
+================================================================================
+
+09:54:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1769219642.png" "D:\code\python\All_project\apk_install\temp\screen\click_1769219642.png"
+result:
+/sdcard/click_1769219642.png: 1 file pulled, 0 skipped. 5.3 MB/s (215749 bytes in 0.039s)
+================================================================================
+
+09:54:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/click_1769219642.png"
+result:
+================================================================================
+
+09:54:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  wm size
+result:
+Physical size: 1080x1920
+================================================================================
+
+09:54:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  input tap 302.4 1843.2
+result:
+================================================================================
+
+09:54:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk: 1 file pushed, 0 skipped. 129.9 MB/s (3404175 bytes in 0.025s)
+	pkg: /data/local/tmp/ANO_Tools_7.7.49_8888_c++_32.apk
+Success
+================================================================================
+
+09:54:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:54:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:54:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:54:08
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:54:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:54:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:54:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:54:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.sdk_ano | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        25a6bfc com.tencent.sdk_ano/.MainActivity
+================================================================================
+
+09:54:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.sdk_ano/.MainActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.sdk_ano/.MainActivity }
+================================================================================
+
+09:54:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1255  16263 483   1605028 49256 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+09:54:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219653.png
+result:
+================================================================================
+
+09:54:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219653.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_ano_start_1769219653.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219653.png: 1 file pulled, 0 skipped. 3.1 MB/s (124378 bytes in 0.039s)
+================================================================================
+
+09:54:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219653.png"
+result:
+================================================================================
+
+09:54:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:54:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:55:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:55:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1255  16263 483   1607888 55780 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+09:57:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{2a8e1930 u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:57:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1255  16263 483   1607888 56804 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+09:57:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769219830.png
+result:
+================================================================================
+
+09:57:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769219830.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_ano_end_1769219830.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769219830.png: 1 file pulled, 0 skipped. 3.7 MB/s (124393 bytes in 0.032s)
+================================================================================
+
+09:57:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769219830.png"
+result:
+================================================================================
+
+09:57:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.sdk_ano
+result:
+================================================================================
+
+09:57:12
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:57:12
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:57:12
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:57:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.sdk_ano
+result:
+Success
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+09:57:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3ea05ac8 u0 android}
+================================================================================
+
+09:57:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/ocr_1769219836.png
+result:
+================================================================================
+
+09:57:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1769219836.png" "D:\code\python\All_project\apk_install\temp\screen\ocr_1769219836.png"
+result:
+/sdcard/ocr_1769219836.png: 1 file pulled, 0 skipped. 2.0 MB/s (256398 bytes in 0.121s)
+================================================================================
+
+09:57:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/ocr_1769219836.png"
+result:
+================================================================================
+
+09:57:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/click_1769219838.png
+result:
+================================================================================
+
+09:57:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1769219838.png" "D:\code\python\All_project\apk_install\temp\screen\click_1769219838.png"
+result:
+/sdcard/click_1769219838.png: 1 file pulled, 0 skipped. 3.9 MB/s (215249 bytes in 0.052s)
+================================================================================
+
+09:57:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/click_1769219838.png"
+result:
+================================================================================
+
+09:57:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  wm size
+result:
+Physical size: 1080x1920
+================================================================================
+
+09:57:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  input tap 302.4 1843.2
+result:
+================================================================================
+
+09:57:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk: 1 file pushed, 0 skipped. 103.4 MB/s (3628967 bytes in 0.033s)
+	pkg: /data/local/tmp/ANO_Tools_7.7.49_8888_c++_64.apk
+Success
+================================================================================
+
+09:57:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:57:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:57:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:57:24
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\ANO_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk_ano
+================================================================================
+
+09:57:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk_ano
+result:
+package:com.tencent.sdk_ano
+================================================================================
+
+09:57:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+09:57:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+09:57:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.sdk_ano | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        176970bb com.tencent.sdk_ano/.MainActivity
+================================================================================
+
+09:57:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.sdk_ano/.MainActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.sdk_ano/.MainActivity }
+================================================================================
+
+09:57:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:57:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1256  17148 482   2208756 60812 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+09:57:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219850.png
+result:
+================================================================================
+
+09:57:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219850.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_ano_start_1769219850.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219850.png: 1 file pulled, 0 skipped. 3.0 MB/s (127109 bytes in 0.040s)
+================================================================================
+
+09:57:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_ano_start_1769219850.png"
+result:
+================================================================================
+
+09:57:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+09:58:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1256  17148 482   2213496 69680 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+10:00:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{1111937f u0 com.tencent.sdk_ano/com.tencent.sdk_ano.MainActivity}
+================================================================================
+
+10:00:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk_ano"
+result:
+u0_a1256  17148 482   2213532 70716 ffffffff 00000000 S com.tencent.sdk_ano
+================================================================================
+
+10:00:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769220027.png
+result:
+================================================================================
+
+10:00:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769220027.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_ano_end_1769220027.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769220027.png: 1 file pulled, 0 skipped. 3.9 MB/s (127133 bytes in 0.031s)
+================================================================================
+
+10:00:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_ano_end_1769220027.png"
+result:
+================================================================================
+
+10:00:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.sdk_ano
+result:
+================================================================================
+
+10:00:28
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:00:28
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:00:28
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:00:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:00:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.sdk
+result:
+Success
+================================================================================
+
+10:00:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:00:32
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{c9f227f u0 android}
+================================================================================
+
+10:00:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk: 1 file pushed, 0 skipped. 81.1 MB/s (3464833 bytes in 0.041s)
+	pkg: /data/local/tmp/Sdk_Tools_7.7.49_8888_c++_32.apk
+Success
+================================================================================
+
+10:00:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+10:00:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+10:00:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:00:36
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_32.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:00:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:00:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+10:00:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+10:00:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.sdk | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        21f20168 com.tencent.sdk/com.tencent.foogame.MainActivity
+================================================================================
+
+10:00:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.sdk/com.tencent.foogame.MainActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.sdk/com.tencent.foogame.MainActivity }
+================================================================================
+
+10:00:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:00:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1257  18266 483   1604540 48808 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:00:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_start_1769220041.png
+result:
+================================================================================
+
+10:00:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220041.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_start_1769220041.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220041.png: 1 file pulled, 0 skipped. 2.7 MB/s (128830 bytes in 0.046s)
+================================================================================
+
+10:00:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220041.png"
+result:
+================================================================================
+
+10:00:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:01:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:02:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:02:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1257  18266 483   1609192 62360 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:03:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{35eec386 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:03:37
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1257  18266 483   1609192 63128 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:03:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_end_1769220218.png
+result:
+================================================================================
+
+10:03:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220218.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_end_1769220218.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220218.png: 1 file pulled, 0 skipped. 3.5 MB/s (129674 bytes in 0.035s)
+================================================================================
+
+10:03:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220218.png"
+result:
+================================================================================
+
+10:03:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.sdk
+result:
+================================================================================
+
+10:03:39
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:03:39
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:03:39
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:03:40
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:03:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee uninstall com.tencent.sdk
+result:
+Success
+================================================================================
+
+10:03:41
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  getprop ro.build.version.release
+result:
+5.1.1
+================================================================================
+
+10:03:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:03:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:03:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:03:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{3bffd183 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}
+================================================================================
+
+10:03:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{1525b959 u0 android}
+================================================================================
+
+10:03:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/ocr_1769220223.png
+result:
+================================================================================
+
+10:03:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/ocr_1769220223.png" "D:\code\python\All_project\apk_install\temp\screen\ocr_1769220223.png"
+result:
+/sdcard/ocr_1769220223.png: 1 file pulled, 0 skipped. 3.8 MB/s (219407 bytes in 0.055s)
+================================================================================
+
+10:03:44
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/ocr_1769220223.png"
+result:
+================================================================================
+
+10:03:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/click_1769220225.png
+result:
+================================================================================
+
+10:03:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/click_1769220225.png" "D:\code\python\All_project\apk_install\temp\screen\click_1769220225.png"
+result:
+/sdcard/click_1769220225.png: 1 file pulled, 0 skipped. 3.6 MB/s (213028 bytes in 0.057s)
+================================================================================
+
+10:03:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/click_1769220225.png"
+result:
+================================================================================
+
+10:03:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  wm size
+result:
+Physical size: 1080x1920
+================================================================================
+
+10:03:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  input tap 302.4 1843.2
+result:
+================================================================================
+
+10:03:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee install G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk
+result:
+Performing Push Install
+G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk: 1 file pushed, 0 skipped. 63.1 MB/s (3688828 bytes in 0.056s)
+	pkg: /data/local/tmp/Sdk_Tools_7.7.49_8888_c++_64.apk
+Success
+================================================================================
+
+10:03:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+10:03:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090910009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+10:03:51
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:03:52
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\sdk\7.7.X\7.7.49.57576\demo\Sdk_Tools_7.7.49_8888_c++_64.apk"
+result:
+com.tencent.sdk
+================================================================================
+
+10:03:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell pm list package | grep com.tencent.sdk
+result:
+package:com.tencent.sdk_ano
+package:com.tencent.sdk
+================================================================================
+
+10:03:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell mkdir /sdcard/sdk/
+result:
+mkdir failed for /sdcard/sdk/, File exists
+================================================================================
+
+10:03:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell "echo 0000000000000000090900009000000000000 > /sdcard/sdk/enable.log"
+result:
+================================================================================
+
+10:03:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys package com.tencent.sdk | grep -A 1 android.intent.action.MAIN:
+result:
+      android.intent.action.MAIN:
+        11ffa41e com.tencent.sdk/com.tencent.foogame.MainActivity
+================================================================================
+
+10:03:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am start com.tencent.sdk/com.tencent.foogame.MainActivity
+result:
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.sdk/com.tencent.foogame.MainActivity }
+================================================================================
+
+10:03:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:03:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1258  20517 482   2210036 64012 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:03:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_start_1769220237.png
+result:
+================================================================================
+
+10:03:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220237.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_start_1769220237.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220237.png: 1 file pulled, 0 skipped. 3.4 MB/s (124561 bytes in 0.035s)
+================================================================================
+
+10:03:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_start_1769220237.png"
+result:
+================================================================================
+
+10:04:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:14
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:18
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:20
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:21
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:04:22
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:05:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:05:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1258  20517 482   2214364 70660 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:06:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "dumpsys window | grep mCurrentFocus"
+result:
+  mCurrentFocus=Window{397c2d83 u0 com.tencent.sdk/com.tencent.foogame.MainActivity}
+================================================================================
+
+10:06:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  "ps | grep com.tencent.sdk"
+result:
+u0_a1258  20517 482   2214364 71304 ffffffff 00000000 S com.tencent.sdk
+================================================================================
+
+10:06:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  screencap -p /sdcard/dfc5f4ee_com.tencent.sdk_end_1769220414.png
+result:
+================================================================================
+
+10:06:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee pull "/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220414.png" "D:\code\python\All_project\apk_install\temp\screen\dfc5f4ee_com.tencent.sdk_end_1769220414.png"
+result:
+/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220414.png: 1 file pulled, 0 skipped. 6.5 MB/s (124410 bytes in 0.018s)
+================================================================================
+
+10:06:54
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell  rm -rf "/sdcard/dfc5f4ee_com.tencent.sdk_end_1769220414.png"
+result:
+================================================================================
+
+10:06:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell am force-stop com.tencent.sdk
+result:
+================================================================================
+

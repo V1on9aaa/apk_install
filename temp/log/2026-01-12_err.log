@@ -1,0 +1,161 @@
+14:47:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:49:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:54:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:57:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:58:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:01:38
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:04:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:05:43
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab.apks --device-id 44221FDJH0020K
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\3781051760710164820
+================================================================================
+
+15:05:43
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:07:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:11:56
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:16:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:19:52
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:23:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:26:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:29:39
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:33:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:36:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:39:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:42:50
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab --output=D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab.apks
+result:
+[BT:1.17.1] Error: File 'D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+15:43:03
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4558830_2022.3.4f1c1_20260112143356.shell.shell.signed.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\9547486255709671412
+================================================================================
+
+15:43:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+

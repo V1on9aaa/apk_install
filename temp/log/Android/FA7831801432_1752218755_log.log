@@ -1,0 +1,194 @@
+[2025/07/11 10:55:14] android ver:4.7.10.11678 20200122(N)
+[2025/07/11 10:55:14] {
+[2025/07/11 10:55:14]  __ACE_EXPORT__
+[2025/07/11 10:55:14]  __ENABLE_DATA_ENC__
+[2025/07/11 10:55:14]  __ENABLE_MPRCS__
+[2025/07/11 10:55:14]  __ENABLE_TPSTL__
+[2025/07/11 10:55:14]  __TPSTL_RECRYLE__
+[2025/07/11 10:55:14]  __USE_NEW_QOS_ONLY__
+[2025/07/11 10:55:14] }
+[2025/07/11 10:55:14] module
+[2025/07/11 10:55:14] {
+[2025/07/11 10:55:14]  17:1
+[2025/07/11 10:55:14]  19:1
+[2025/07/11 10:55:14]  24:1
+[2025/07/11 10:55:14] }
+[2025/07/11 10:55:14] so:arm64
+[2025/07/11 10:55:14] pid:21816
+[2025/07/11 10:55:14] ChkInit{
+[2025/07/11 10:55:14] init_info:0x7fcbd08a20
+[2025/07/11 10:55:14] init_info->size_:16
+[2025/07/11 10:55:14] init_info->game_id_:8888
+[2025/07/11 10:55:14] init_info->tss_sdk_send_data_to_svr:0x0
+[2025/07/11 10:55:14] ChkInit}
+[2025/07/11 10:55:14] SetUserInfoEx{
+[2025/07/11 10:55:14] user_info:0x7fcbd088f8
+[2025/07/11 10:55:14] user_info->size_:212
+[2025/07/11 10:55:14] user_info->entry_id_:1
+[2025/07/11 10:55:14] user_info->uin_.type_:2
+[2025/07/11 10:55:14] user_info->uin_.uin_str_:this is a test open id!
+[2025/07/11 10:55:14] user_info->app_id_.type_:2
+[2025/07/11 10:55:14] user_info->app_id_.app_id_str_:
+[2025/07/11 10:55:14] user_info->world_id_:0
+[2025/07/11 10:55:14] user_info->role_id_:
+[2025/07/11 10:55:14] SetUserInfoEx}
+[2025/07/11 10:55:14] entry.QQ, open_id:this is a test open id!
+[2025/07/11 10:55:14] app_id_type.STR, app_id:
+[2025/07/11 10:55:14] |jar_ver:4.7.10(2020/04/25)-jar-version
+[2025/07/11 10:55:14] java_main, time cast:0
+[2025/07/11 10:55:14] |app_ver:1.1
+[2025/07/11 10:55:14] java_async, time cast:59
+[2025/07/11 10:55:15] |init rp.
+[2025/07/11 10:55:16] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.xml, retval:0, size:23080, cache:0
+[2025/07/11 10:55:16] XXXXXX_9015, time cast:23
+[2025/07/11 10:55:17] dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.xml, retval:0, size:11960, cache:0
+[2025/07/11 10:55:17] ver:1.3.3 app_ver:1.1 code_size:151552 crc:0xe1c5c1c7
+[2025/07/11 10:55:17] ver:1.4.4 app_ver:1.1 code_size:1757184 crc:0xbff43527
+[2025/07/11 10:55:17] ver:1.4.5 app_ver:1.1 code_size:1757184 crc:0x3bb5289d
+[2025/07/11 10:55:17] ver:1.4.7 app_ver:1.1 code_size:1925120 crc:0x00466312
+[2025/07/11 10:55:17] ver:1.0 app_ver:1.1 code_size:3731456 crc:0x32b23ef2
+[2025/07/11 10:55:17] ver:1.4.3 app_ver:1.1 code_size:2522744 crc:0xfb1f2fef
+[2025/07/11 10:55:17] ver:2.1.7 app_ver:1.1 code_size:3754400 crc:0xc112e305
+[2025/07/11 10:55:17] ver:2.1 app_ver:1.1 code_size:9904 crc:0xd40e8bbf
+[2025/07/11 10:55:17] ver:2.2 app_ver:1.1 code_size:21879820 crc:0x658ca4c0
+[2025/07/11 10:55:17] ver:2.4.64 app_ver:1.1 code_size:162588280 crc:0x3f8cd8c4
+[2025/07/11 10:55:17] ver:3.0.1 app_ver:1.1 code_size:3754400 crc:0xc112e305
+[2025/07/11 10:55:17] ver:3.0.1.64 app_ver:1.1 code_size:163465576 crc:0xca896f16
+[2025/07/11 10:55:17] ver:2.4.6.32 app_ver:1.1 code_size:3714996 crc:0x600c3d7e
+[2025/07/11 10:55:17] ver:7.6.0 app_ver:1.1 code_size:7022944 crc:0x44226398
+[2025/07/11 10:55:17] ver:1.3.3 app_ver:1.1 code_size:151552 crc:0xe1c5c1c7
+[2025/07/11 10:55:17] ver:1.4.4 app_ver:1.1 code_size:1757184 crc:0xbff43527
+[2025/07/11 10:55:17] ver:1.4.5 app_ver:1.1 code_size:1757184 crc:0x3bb5289d
+[2025/07/11 10:55:17] ver:1.4.7 app_ver:1.1 code_size:1925120 crc:0x00466312
+[2025/07/11 10:55:17] ver:1.0 app_ver:1.1 code_size:3731456 crc:0x32b23ef2
+[2025/07/11 10:55:17] ver:1.4.3 app_ver:1.1 code_size:2522744 crc:0xfb1f2fef
+[2025/07/11 10:55:17] ver:2.1.7 app_ver:1.1 code_size:3754400 crc:0xc112e305
+[2025/07/11 10:55:17] ver:2.1 app_ver:1.1 code_size:9904 crc:0xd40e8bbf
+[2025/07/11 10:55:17] ver:2.2 app_ver:1.1 code_size:21879820 crc:0x658ca4c0
+[2025/07/11 10:55:17] ver:2.4.64 app_ver:1.1 code_size:162588280 crc:0x3f8cd8c4
+[2025/07/11 10:55:17] ver:3.0.1 app_ver:1.1 code_size:3754400 crc:0xc112e305
+[2025/07/11 10:55:17] ver:3.0.1.64 app_ver:1.1 code_size:163465576 crc:0xca896f16
+[2025/07/11 10:55:17] ver:2.4.6.32 app_ver:1.1 code_size:3714996 crc:0x600c3d7e
+[2025/07/11 10:55:17] ver:7.6.0 app_ver:1.1 code_size:7022944 crc:0x44226398
+[2025/07/11 10:55:17] send_0,ret:1,cnt:3,len:660,remain:3,cs:0
+[2025/07/11 10:55:18] dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/7A55332B/tssmua2.zip, retval:0, size:34277, cache:0
+[2025/07/11 10:55:18] DoConnCSChannelImp, 117.89.177.167:443
+[2025/07/11 10:55:19] ###ZZ#####@@############### CS2, 117.89.177.167:443, suc:true, stat_result_cnt:0, failed_step:0
+[2025/07/11 10:55:19] ###ZZ#####@@############### CS2, ALL:0, suc:true, stat_result_cnt:1, failed_step:0
+[2025/07/11 10:55:19] send_1,ret:1,cnt:1,len:227,remain:10,cs:1
+[2025/07/11 10:55:19] send_2,ret:1,cnt:3,len:846,remain:7,cs:1
+[2025/07/11 10:55:19] send_3,ret:1,cnt:3,len:503,remain:4,cs:1
+[2025/07/11 10:55:19] send_4,ret:1,cnt:3,len:532,remain:1,cs:1
+[2025/07/11 10:55:19] send_5,ret:1,cnt:1,len:198,remain:0,cs:1
+[2025/07/11 10:55:19] dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D541F2B/tss_ano.dat, retval:0, size:1317, cache:0
+[2025/07/11 10:55:20] dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/555C9ABC/comm.zip, retval:0, size:34937, cache:0
+[2025/07/11 10:55:20] sig custom, name:comm.dat, len:76433, crc:26dc73ff
+[2025/07/11 10:55:20] dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, size:68, cache:0
+[2025/07/11 10:55:20] !dl 1
+[2025/07/11 10:55:20] res.2
+[2025/07/11 10:55:20] res err:1.
+[2025/07/11 10:55:20] tss_main:base.apk
+[2025/07/11 10:55:21] send_6,ret:1,cnt:4,len:837,remain:33,cs:0
+[2025/07/11 10:55:21] send_7,ret:1,cnt:4,len:796,remain:29,cs:1
+[2025/07/11 10:55:21] send_8,ret:1,cnt:4,len:830,remain:25,cs:1
+[2025/07/11 10:55:21] send_9,ret:1,cnt:4,len:861,remain:21,cs:1
+[2025/07/11 10:55:21] send_10,ret:1,cnt:4,len:854,remain:17,cs:1
+[2025/07/11 10:55:21] send_11,ret:1,cnt:4,len:975,remain:13,cs:1
+[2025/07/11 10:55:21] send_12,ret:1,cnt:5,len:998,remain:8,cs:1
+[2025/07/11 10:55:21] send_13,ret:1,cnt:5,len:988,remain:3,cs:1
+[2025/07/11 10:55:21] send_14,ret:1,cnt:3,len:634,remain:0,cs:1
+[2025/07/11 10:55:21] send_15,ret:1,cnt:2,len:307,remain:0,cs:1
+[2025/07/11 10:55:21] ip:10.95.238.52
+[2025/07/11 10:55:23] send_16,ret:1,cnt:2,len:409,remain:2,cs:1
+[2025/07/11 10:55:23] send_17,ret:1,cnt:2,len:478,remain:0,cs:1
+[2025/07/11 10:55:26] send_18,ret:1,cnt:1,len:228,remain:0,cs:1
+[2025/07/11 10:55:28] [mf]scan com.htc.widget.weatherclock, path:/preload/HtcWeatherClockWidget.apk, t:1
+[2025/07/11 10:55:28] [mf]scan com.htc.drawingboard, path:/preload/DrawingBoard.apk, t:1
+[2025/07/11 10:55:29] [mf]scan com.joke.chongya.virtual, path:/data/app/com.joke.chongya.virtual-IlZzjca1lEIstvFBTh8GeA==/base.apk, t:1
+[2025/07/11 10:55:29] [mf]scan com.UnityTechnologies.com.unity.template.urpblank, path:/data/app/com.UnityTechnologies.com.unity.template.urpblank--p6WOaYjn1kHpsflFS-TFg==/base.apk, t:1
+[2025/07/11 10:55:29] [mf]scan com.htc.flashlight, path:/preload/Flashlight.apk, t:1
+[2025/07/11 10:55:29] [mf]scan com.tencent.hs, path:/data/app/com.tencent.hs-EtW1DsWjMf_aUc5jfS8iZQ==/base.apk, t:1
+[2025/07/11 10:55:29] [mf]scan com.sohu.inputmethod.sogou, path:/data/app/com.sohu.inputmethod.sogou-Ufxby3CYdlrShSoYRfbbKQ==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.YoStarJP.Arknights, path:/data/app/com.YoStarJP.Arknights-jTASeKsm_OTO245Ob8yS0A==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.seasun.jxsj3.xsj, path:/data/app/com.seasun.jxsj3.xsj-qAotS7-ZXVSlQ0UgI5CFLg==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.garena.game.kgtw, path:/data/app/com.garena.game.kgtw-zTcxlme6HvBEcr9PNL76Rg==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.tencent.mtp.udemo, path:/data/app/com.tencent.mtp.udemo-72S8fOJu8LbM70M7P3tObQ==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.tencent.qnet, path:/data/app/com.tencent.qnet-N_G74bHvQD2FPkuV3v110A==/base.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.socogame.ppc, path:/preload/HTCCN_Gamehall.apk, t:1
+[2025/07/11 10:55:30] [mf]scan com.htc.rosiewidgets.powerstrip, path:/preload/HtcPowerStripWidget.apk, t:1
+[2025/07/11 10:55:31] [mf]scan com.tencent.android.qqdownloader, path:/data/app/com.tencent.android.qqdownloader-H9ygleH6VtOzO2RBnVORVQ==/base.apk, t:1
+[2025/07/11 10:55:33] [mf]scan com.google.android.gapid.arm64v8a, path:/data/app/com.google.android.gapid.arm64v8a-Hx_euUq8zNP6MPJNr4xz0Q==/base.apk, t:1
+[2025/07/11 10:55:33] [mf]scan com.weifx.wfx, path:/data/app/com.weifx.wfx-hUreznfGwVCwxhYPhRQNSA==/base.apk, t:1
+[2025/07/11 10:55:33] [mf]scan com.xd.idle.ro.re.test, path:/data/app/com.xd.idle.ro.re.test-VaEhlYYgDM10Y3gXNbtWBQ==/base.apk, t:1
+[2025/07/11 10:55:33] [mf]scan cn.wps.moffice_eng, path:/preload/WPSOffice.apk, t:1
+[2025/07/11 10:55:33] [mf]scan com.htc.guide, path:/preload/HTCAdvantage.apk, t:1
+[2025/07/11 10:55:33] [mf]scan com.aaaaaa.bbbbbb, path:/data/app/com.aaaaaa.bbbbbb-i02zodJUWX6Ifg1cWCojJg==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.tencent.debug_demo, path:/data/app/com.tencent.debug_demo-vmuxNo21AwgrK2XojO2aRw==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.playgame.havefun64, path:/data/app/com.playgame.havefun64-TPs8M8SFIJnRpfEjFdL07g==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.excelliance.multiaccounts.b32, path:/data/app/com.excelliance.multiaccounts.b32-Ux5hUdf1iWfRKcYx31VrLw==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.tcz.qowei, path:/data/app/com.tcz.qowei-GcE9EG5opUsAvaPy7YtBBg==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.github.uiautomator.test, path:/data/app/com.github.uiautomator.test-FlYV7E5U8L2TMKVI_pPvEw==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.netease.uu, path:/data/app/com.netease.uu-AhBWdCn16VnJJuTkV6skxQ==/base.apk, t:1
+[2025/07/11 10:55:34] [mf]scan com.excelliance.multiaccounts, path:/data/app/com.excelliance.multiaccounts-LGo2j-b28EZWI0uN_MwZrw==/base.apk, t:1
+[2025/07/11 10:55:35] [mf]scan com.tencent.sdk, path:/data/app/com.tencent.sdk-bD5IBCiPdpyhl9P9TAYcIA==/base.apk, t:1
+[2025/07/11 10:55:35] [mf]scan bin.mt.plus, path:/data/app/bin.mt.plus-KWKRj0jPaep5VwJii70uMg==/base.apk, t:1
+[2025/07/11 10:55:35] [mf]scan com.tencent.sdk_ano, path:/data/app/com.tencent.sdk_ano-KdGHoa32MeLN5Y5mKTsuRQ==/base.apk, t:1
+[2025/07/11 10:55:35] [mf]scan com.htc.fluidwallpaperblue, path:/preload/FluidWallpaperBlue.apk, t:1
+[2025/07/11 10:55:35] [mf]scan com.htc.htccompressviewer, path:/preload/HtcCompressViewer.apk, t:1
+[2025/07/11 10:55:36] [mf]scan com.example.myapplication, path:/data/app/com.example.myapplication-KhEH9pMJPQbxRl-gjHvBKQ==/base.apk, t:1
+[2025/07/11 10:55:36] [mf]scan app.greyshirts.firewall, path:/data/app/app.greyshirts.firewall-70QxUDpuThltBWwzOTZIYw==/base.apk, t:1
+[2025/07/11 10:55:36] [mf]scan com.android.egg, path:/preload/EasterEgg.apk, t:1
+[2025/07/11 10:55:36] [mf]scan com.htc.android.mail, path:/data/app/com.htc.android.mail-RVf4wU5ZfL-Tl_HYWr0G4Q==/base.apk, t:1
+[2025/07/11 10:55:36] [mf]scan com.tencent.xriver, path:/data/app/com.tencent.xriver-sz6w53oWl-VQGKuLqRwo0w==/base.apk, t:1
+[2025/07/11 10:55:38] [mf]scan com.tencent.mtp, path:/data/app/com.tencent.mtp-JO6sD2YAhj1D9hgOGbUH1Q==/base.apk, t:1
+[2025/07/11 10:55:38] [mf]scan com.taptap, path:/data/app/com.taptap-eqAoD4W-uammhBGbZ5alwg==/base.apk, t:1
+[2025/07/11 10:55:39] [mf]scan com.github.uiautomator, path:/data/app/com.github.uiautomator-vDhvkBQFDaTJEtoICvL2fA==/base.apk, t:1
+[2025/07/11 10:55:39] [mf]scan com.github.shadowsocks, path:/data/app/com.github.shadowsocks-7UaugxaO1_JlDBQG-cI-Ow==/base.apk, t:1
+[2025/07/11 10:55:39] [mf]scan com.excean.maid, path:/data/app/com.excean.maid-eI4E4k-2phgWJbt83BSBJA==/base.apk, t:1
+[2025/07/11 10:55:40] [mf]scan com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck, path:/data/app/com.konggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekonggekongge.fuckfuckfuckfuckfuckfuckfuckfuck-cJJOTl4KqAgLjUEeHpEINA==/base.apk, t:1
+[2025/07/11 10:55:40] [mf]scan com.zeewinpeng.clock, path:/data/app/com.zeewinpeng.clock-_KcD6XiXZ3pUF1hwQSgGmg==/base.apk, t:1
+[2025/07/11 10:55:40] [mf]scan com.test.myapplication, path:/data/app/com.test.myapplication-fG3XzynxVlgdxw1D9D-mEg==/base.apk, t:1
+[2025/07/11 10:55:40] [mf]scan com.htc.simplelauncher, path:/preload/HtcSimpleLauncher.apk, t:1
+[2025/07/11 10:55:40] [mf]scan myworkspace.mobile.clients.android, path:/data/app/myworkspace.mobile.clients.android-cagM8oekSL5Q1LlXviPKXg==/base.apk, t:1
+[2025/07/11 10:55:41] [mf]scan com.blizzard.wtcg.hearthstone, path:/data/app/com.blizzard.wtcg.hearthstone-0nD3nP2VIMsrfVX6EFU1Zw==/base.apk, t:1
+[2025/07/11 10:55:42] [mf]scan com.tencent.green.ace, path:/data/app/com.tencent.green.ace-iFnOsHdfCbE5R9QRes3Zyg==/base.apk, t:1
+[2025/07/11 10:55:42] [mf]scan com.tencent.green.ace.ano, path:/data/app/com.tencent.green.ace.ano-NA-Sxv4BHOK0iQTqC-8Bvg==/base.apk, t:1
+[2025/07/11 10:55:42] [mf]scan net.mypush.dnsswitch, path:/data/app/net.mypush.dnsswitch-SrS699IksrFnh1CwtM-9lA==/base.apk, t:1
+[2025/07/11 10:55:42] [mf]scan com.wind.dumpdex, path:/data/app/com.wind.dumpdex-G1Yk5MYuXCW7VzOJ-Su30w==/base.apk, t:1
+[2025/07/11 10:55:42] [mf]scan com.vng.codmvn, path:/data/app/com.vng.codmvn-pNwbeA2yrzPkTqHXJfrk4g==/base.apk, t:1
+[2025/07/11 10:55:43] [mf]scan com.excean.maid.b32, path:/data/app/com.excean.maid.b32-dehEfWy2ruoxqm1vZGscwQ==/base.apk, t:1
+[2025/07/11 10:55:43] [mf]scan com.google.android.gapid.armeabiv7a, path:/data/app/com.google.android.gapid.armeabiv7a-J3V72pEa7FtFMGlM4fBgcw==/base.apk, t:1
+[2025/07/11 10:55:43] [mf]scan com.excelliance.dualaid.b64, path:/data/app/com.excelliance.dualaid.b64-3-b7tHoo8lXUqSWwxnOz0Q==/base.apk, t:1
+[2025/07/11 10:55:43] send_19,ret:1,cnt:1,len:57,remain:1,cs:1
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.sy4399.hxjy"),102403), retval:0
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.crisisfire.cmge"),102404), retval:0
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.crisisfire.android.baidu"),102405), retval:0
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.wooduan.ssjj"),102406), retval:0
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.netease.hyxd"),111501), retval:0
+[2025/07/11 10:55:45] cs:report_qos_if(apk_installed("com.netease.zjz"),111502), retval:0
+[2025/07/11 10:55:45] send_20,ret:1,cnt:1,len:211,remain:0,cs:1
+[2025/07/11 10:55:45] DataProxyImp::SendDataToSvr, schemd_id:258
+[2025/07/11 10:55:46] |/data/data/log/enable.log:0x00000000, from_c:1
+[2025/07/11 10:55:46] |/sdcard/sdk/log.log:0x09cfca30, from_c:1
+[2025/07/11 10:55:46] |/sdcard/sdk/a.txt:0x00000000, from_c:1
+[2025/07/11 10:55:46] |/sdcard/sdk/b.txt:0x00000000, from_c:1
+[2025/07/11 10:55:46] |classes.dex:0xa1fa2374
+[2025/07/11 10:55:47] send_21,ret:1,cnt:4,len:814,remain:2,cs:1
+[2025/07/11 10:55:47] send_22,ret:1,cnt:2,len:513,remain:0,cs:1
+[2025/07/11 10:55:50] md5:bcac8f3c56033901826596cca8f67c48
+[2025/07/11 10:55:50] md5:65f31b5ed2d5269d4dabbd4c0cad3a8c
+[2025/07/11 10:55:52] send_23,ret:1,cnt:2,len:307,remain:0,cs:1
+[2025/07/11 10:55:54] send_24,ret:1,cnt:1,len:222,remain:0,cs:1
+[2025/07/11 10:56:00] send_25,ret:1,cnt:2,len:495,remain:0,cs:1
+[2025/07/11 10:56:03] send_26,ret:1,cnt:3,len:782,remain:7,cs:1
+[2025/07/11 10:56:03] send_27,ret:1,cnt:3,len:787,remain:4,cs:1
+[2025/07/11 10:56:03] send_28,ret:1,cnt:4,len:768,remain:0,cs:1
+[2025/07/11 10:56:21] send_29,ret:1,cnt:2,len:307,remain:0,cs:1
+[2025/07/11 10:56:45] DataProxyImp::SendDataToSvr, schemd_id:258
+[2025/07/11 10:56:47] send_30,ret:1,cnt:1,len:80,remain:0,cs:1
+[2025/07/11 10:57:24] send_31,ret:1,cnt:2,len:307,remain:0,cs:1
+[2025/07/11 10:57:45] DataProxyImp::SendDataToSvr, schemd_id:258
+[2025/07/11 10:57:47] send_32,ret:1,cnt:1,len:80,remain:0,cs:1
+[2025/07/11 10:58:24] send_33,ret:1,cnt:2,len:307,remain:0,cs:1
+[2025/07/11 10:58:45] DataProxyImp::SendDataToSvr, schemd_id:258
+[2025/07/11 10:58:47] send_34,ret:1,cnt:1,len:80,remain:0,cs:1

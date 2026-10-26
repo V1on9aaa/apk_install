@@ -1,0 +1,467 @@
+10:34:29
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": "/data/local/tmp/libutils.so" is 32-bit instead of 64-bit
+================================================================================
+
+10:35:23
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": "/data/local/tmp/libutils.so" is 32-bit instead of 64-bit
+================================================================================
+
+10:36:02
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": "/data/local/tmp/libutils.so" is 32-bit instead of 64-bit
+================================================================================
+
+11:11:01
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 18419
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:12:41
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 18670
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:13:04
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 18698
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:14:13
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 18781
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:22:23
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 19200
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:22:38
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 19215
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:28:07
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 19745
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+11:29:40
+comm:
+adb -s 1c6e05a shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 1080x1920@1080x1920/0
+result:
+PID: 19817
+INFO: Using projection 1080x1920@1080x1920/0
+INFO: (external/MY_minicap/src/minicap_28.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_28.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_28.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_28.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_28.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_28.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_28.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_28.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 6268932 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_28.cpp:291) Destroying virtual display
+================================================================================
+
+15:27:35
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:27:48
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:36:46
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:36:57
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:45:16
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:45:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:50:30
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:50:41
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:50:42
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+15:50:43
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+15:55:33
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+15:55:47
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:00:12
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:00:25
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:05:21
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:05:34
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:10:00
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:10:13
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:14:35
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:14:49
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:23:44
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:23:52
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:32:33
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:32:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:37:25
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:37:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:37:36
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:37:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.tencent.debug_demo android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.tencent.debug_demo has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+16:42:07
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4134173_Clock_20250917151130.shell.shell.signed.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\6930153879433790307
+================================================================================
+
+16:42:07
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:42:21
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:42:22
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:42:23
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+
+16:46:49
+comm:
+java -jar D:\code\python\All_project\adb_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install\Tools\adb.exe --apks D:\code\python\tools_exe\temp\shell\19368\4134188_Clock_20250917151905.shell.shell.signed.aab.apks --device-id 18fdf3fd
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\17978573658290130723
+================================================================================
+
+16:46:49
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:47:03
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  < D:\code\python\All_project\adb_install\Tools\config/low_ver.txt
+
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+16:47:04
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.WRITE_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.WRITE_EXTERNAL_STORAGE
+================================================================================
+
+16:47:05
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe -s 18fdf3fd shell  pm grant com.zeewinpeng.clock android.permission.READ_EXTERNAL_STORAGE
+
+result:
+Operation not allowed: java.lang.SecurityException: Package com.zeewinpeng.clock has not requested permission android.permission.READ_EXTERNAL_STORAGE
+================================================================================
+

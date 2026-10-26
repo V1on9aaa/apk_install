@@ -1,0 +1,104 @@
+[2025/10/23 11:21:02]GCLOUD_VERSION_TP_7.8.022.64040
+[2025/10/23 11:21:02]7.8.22.64040
+[2025/10/23 11:21:02]{
+[2025/10/23 11:21:02] __ENABLE_DATA_ENC__
+[2025/10/23 11:21:02] __ENABLE_MPRCS__
+[2025/10/23 11:21:02] __ENABLE_TPSTL__
+[2025/10/23 11:21:02] __ENABLE_TPLIBC__
+[2025/10/23 11:21:02] __USE_NEW_QOS_ONLY__
+[2025/10/23 11:21:02] __ENABLE_SO_UPDATE__
+[2025/10/23 11:21:02]}
+[2025/10/23 11:21:02]module
+[2025/10/23 11:21:02]{
+[2025/10/23 11:21:02] 17:1
+[2025/10/23 11:21:02] 19:1
+[2025/10/23 11:21:02] 24:1
+[2025/10/23 11:21:02]}
+[2025/10/23 11:21:02]so:arm32
+[2025/10/23 11:21:02]pid:17147
+[2025/10/23 11:21:02]ChkInit{
+[2025/10/23 11:21:02]init_info:0xffe003dc
+[2025/10/23 11:21:02]init_info->size_:12
+[2025/10/23 11:21:02]init_info->game_id_:8888
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]build_options
+[2025/10/23 11:21:02]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/23 11:21:02]ChkInit}
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]{
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  arch:arm32
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  pid:17147
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  fake_game_id:8888
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  fake_open_id:AFFA834F879D4BE347B_OB
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]  sdk_ver:7.8.22.64040
+[2025/10/23 11:21:02][VM32][builtin.zip][vm_main.img]}
+[2025/10/23 11:21:03]TssIoCtl.emm_ex:0,n:,p:files_dir=/data/data/com.tencent.tp/files|wait=1,b:512
+[2025/10/23 11:21:03]|jar_ver:7.8.22(2020/11/10)-jar-version
+[2025/10/23 11:21:04]ChkSetGameStatus{
+[2025/10/23 11:21:04]status_info:0xffe008c8
+[2025/10/23 11:21:04]status_info->size_:8
+[2025/10/23 11:21:04]status_info->game_status_:2
+[2025/10/23 11:21:04]ChkSetGameStatus}
+[2025/10/23 11:21:06]SetUserInfoEx{
+[2025/10/23 11:21:06]user_info:0xb849f620
+[2025/10/23 11:21:06]user_info->size_:212
+[2025/10/23 11:21:06]user_info->entry_id_:1
+[2025/10/23 11:21:06]user_info->uin_.type_:2
+[2025/10/23 11:21:06]user_info->uin_.uin_str_:202510231121_sdk_7822_32_qq
+[2025/10/23 11:21:06]user_info->app_id_.type_:2
+[2025/10/23 11:21:06]user_info->app_id_.app_id_str_:100555390
+[2025/10/23 11:21:06]user_info->world_id_:32
+[2025/10/23 11:21:06]user_info->role_id_:saite.tt
+[2025/10/23 11:21:06]SetUserInfoEx}
+[2025/10/23 11:21:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/10/23 11:21:06]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:21:07]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/6626A84D/comm.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/10/23 11:21:07]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/7A55332B/tssmua2.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/23 11:21:08]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/10/23 11:21:08]ChkSetGameStatus{
+[2025/10/23 11:21:08]status_info:0xffe008b8
+[2025/10/23 11:21:08]status_info->size_:8
+[2025/10/23 11:21:08]status_info->game_status_:1
+[2025/10/23 11:21:08]ChkSetGameStatus}
+[2025/10/23 11:21:09][VM32][builtin.zip][vm_r4.img]  r4_foo, time cast:0ms
+[2025/10/23 11:21:09][VM32][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/10/23 11:21:09][VM32][builtin.zip][vm_main.img]  v.bss, time cast:5ms
+[2025/10/23 11:21:09]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.171.23, port:443, err:0, failed_step:0
+[2025/10/23 11:21:09][VM32][builtin.zip][vm_r4.img]  r4_attest_task, time cast:483ms
+[2025/10/23 11:21:09][VM32][builtin.zip][vm_r4.img]vm_r4, time cast:492ms
+[2025/10/23 11:21:09][builtin.zip][vm_r4.img]end, loop:107053
+[2025/10/23 11:21:11]r4, time cast:2118ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.va, time cast:2110ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.op, time cast:8ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.ro, time cast:2ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]auto_defence, time cast:2128ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]vm_scan {
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  CertScanerV, time cast:4ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  AttestScanerV, time cast:700ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  CC2V, time cast:0ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  FooScanerV, time cast:1ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  FridaScanerV, time cast:18ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  CommDatScanerV, time cast:2ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:12ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]  RoDataScanerV, time cast:2ms
+[2025/10/23 11:21:11][VM32][builtin.zip][vm_main.img]vm_scan }, cast:742ms
+[2025/10/23 11:21:18][VM32][builtin.zip][vm_r4.img]  r4_emulator, time cast:10ms
+[2025/10/23 11:21:18][VM32][builtin.zip][vm_r4.img]vm_r4, time cast:18ms
+[2025/10/23 11:21:18][builtin.zip][vm_r4.img]end, loop:45766
+[2025/10/23 11:21:28]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/10/23 11:21:28]|/sdcard/sdk/log.log:0xffffffff, from_c:0
+[2025/10/23 11:21:28]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/10/23 11:21:28]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/10/23 11:21:40]<cp>9014_alert, 8783f086361ced70cc61f898b291cd10
+[2025/10/23 11:21:40]<cp-ret>response:0, t:9014_alert
+[2025/10/23 11:21:42]<cp>9005_alert, bin.mt.plus
+[2025/10/23 11:21:42]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/10/23 11:21:44]send_cs:77, send_gs:3, remain_cnt:2
+[2025/10/23 11:21:45]<cp-ret>response:0, t:9005_alert

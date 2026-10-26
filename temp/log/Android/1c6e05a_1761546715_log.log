@@ -1,0 +1,86 @@
+[2025/10/27 14:30:18]GCLOUD_VERSION_TP_7.8.025.46154
+[2025/10/27 14:30:18]7.8.25.46154
+[2025/10/27 14:30:18]{
+[2025/10/27 14:30:18] __MODULE_TERSAFE2__
+[2025/10/27 14:30:18] __ENABLE_DATA_ENC__
+[2025/10/27 14:30:18] __ENABLE_MPRCS__
+[2025/10/27 14:30:18] __ENABLE_TPSTL__
+[2025/10/27 14:30:18] __ENABLE_TPLIBC__
+[2025/10/27 14:30:18] __USE_NEW_QOS_ONLY__
+[2025/10/27 14:30:18] __ENABLE_SO_UPDATE__
+[2025/10/27 14:30:18]}
+[2025/10/27 14:30:18]module
+[2025/10/27 14:30:18]{
+[2025/10/27 14:30:18] 17:1
+[2025/10/27 14:30:18] 19:1
+[2025/10/27 14:30:18] 24:1
+[2025/10/27 14:30:18]}
+[2025/10/27 14:30:18]so:arm64
+[2025/10/27 14:30:18]pid:11887
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]build_options
+[2025/10/27 14:30:18]ctl:ilc_open_pipe
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]{
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  pid:11887
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  fake_game_id:1607671657
+[2025/10/27 14:30:18]ChkInit{
+[2025/10/27 14:30:18]init_info:0x77254ff420
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  fake_open_id:73B6C07634A7050E76F_OB
+[2025/10/27 14:30:18]init_info->size_:16
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]  sdk_ver:7.8.25.46154
+[2025/10/27 14:30:18]init_info->game_id_:20059
+[2025/10/27 14:30:18]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/10/27 14:30:18][VM64][builtin.zip][vm_main.img]}
+[2025/10/27 14:30:18]ChkInit}
+[2025/10/27 14:30:18]|jar_ver:7.8.25(2020/11/10)-jar-version
+[2025/10/27 14:30:22]SetUserInfoEx{
+[2025/10/27 14:30:22]user_info:0x77254ff46c
+[2025/10/27 14:30:22]user_info->size_:212
+[2025/10/27 14:30:22]user_info->entry_id_:1
+[2025/10/27 14:30:22]user_info->uin_.type_:2
+[2025/10/27 14:30:22]user_info->uin_.uin_str_:AB36366565F9E02C191ACE_7825
+[2025/10/27 14:30:22]user_info->app_id_.type_:2
+[2025/10/27 14:30:22]user_info->app_id_.app_id_str_:
+[2025/10/27 14:30:22]user_info->world_id_:101
+[2025/10/27 14:30:22]user_info->role_id_:paladin
+[2025/10/27 14:30:22]SetUserInfoEx}
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/20059/config3.dat, retval:-1, cache:0, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/50F1E41F/comm.zip, retval:0, cache:1, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/2CA88C48/tss_ano.dat, retval:0, cache:1, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/5DC1D8B9/cpfc.zip, retval:0, cache:1, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/8CE149F7/tp2cfg.dat, retval:0, cache:1, cs:0, cs_cache:0
+[2025/10/27 14:30:22]dl https://down.anticheatexpert.com/iedsafe/Client/android/20059/1EB83FE7/ob_cs1_32.zip, retval:0, cache:1, cs:0, cs_cache:0
+[2025/10/27 14:30:23]CS2, host:nj.cschannel.anticheatexpert.com, ip:222.94.109.22, port:443, err:0, failed_step:0
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.bss, time cast:25ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.va, time cast:204ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.op, time cast:16ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.ro, time cast:5ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]auto_defence, time cast:254ms
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/10/27 14:30:26][VM64][builtin.zip][vm_main.img]  CertScanerV, time cast:1ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  CC2V, time cast:1690ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:0ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:83ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:7ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:39ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:8ms
+[2025/10/27 14:30:28][VM64][builtin.zip][vm_main.img]vm_scan }, cast:1833ms
+[2025/10/27 14:30:44][VM64][builtin.zip][vm_r4.img]  r4_emulator, time cast:11ms
+[2025/10/27 14:30:44][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:31ms
+[2025/10/27 14:30:44][builtin.zip][vm_r4.img]end, loop:33507
+[2025/10/27 14:30:54]|com.hnkv:GGuardian86X, attr:0X00001000
+
+[2025/10/27 14:30:54]|com.hnkv:beixuan30, attr:0X00001000
+
+[2025/10/27 14:30:58]|com.github.shadowsocks:com.github.shadowsocks, attr:0X00008000
+[2025/10/27 14:30:58]|bin.mt.plus:bin.mt.plus, attr:0X00010000
+[2025/10/27 14:31:00]send_cs:60, send_gs:3, remain_cnt:7

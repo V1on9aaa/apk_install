@@ -1,0 +1,420 @@
+[2025/08/29 17:52:22]GCLOUD_VERSION_TP_7.8.07.54221
+[2025/08/29 17:52:22]7.8.7.54221
+[2025/08/29 17:52:22]{
+[2025/08/29 17:52:22] __ENABLE_DATA_ENC__
+[2025/08/29 17:52:22] __ENABLE_MPRCS__
+[2025/08/29 17:52:22] __ENABLE_TPSTL__
+[2025/08/29 17:52:22] __ENABLE_TPLIBC__
+[2025/08/29 17:52:22] __USE_NEW_QOS_ONLY__
+[2025/08/29 17:52:22] __ENABLE_SO_UPDATE__
+[2025/08/29 17:52:22]}
+[2025/08/29 17:52:22]module
+[2025/08/29 17:52:22]{
+[2025/08/29 17:52:22] 17:1
+[2025/08/29 17:52:22] 19:1
+[2025/08/29 17:52:22] 20:1
+[2025/08/29 17:52:22] 24:1
+[2025/08/29 17:52:22] 68:1
+[2025/08/29 17:52:22] 69:1
+[2025/08/29 17:52:22]}
+[2025/08/29 17:52:22]so:arm64
+[2025/08/29 17:52:22]pid:28223
+[2025/08/29 17:52:22]ChkSetGameStatus{
+[2025/08/29 17:52:22]status_info:0x7310e62520
+[2025/08/29 17:52:22]status_info->size_:8
+[2025/08/29 17:52:22]status_info->game_status_:2
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]build_options
+[2025/08/29 17:52:22]ChkSetGameStatus}
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]{
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  __PLATFORM_ANDROID__
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  ver:20250801.1
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  arch:arm64
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  pid:28223
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  fake_game_id:2139088223
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  fake_open_id:A7992408A49557424DC_OB
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]  sdk_ver:7.8.7.54221
+[2025/08/29 17:52:22][VM64][builtin.zip][vm_main.img]}
+[2025/08/29 17:52:22]ChkSetGameStatus{
+[2025/08/29 17:52:22]status_info:0x7310e62520
+[2025/08/29 17:52:22]status_info->size_:8
+[2025/08/29 17:52:22]status_info->game_status_:1
+[2025/08/29 17:52:22]ChkSetGameStatus}
+[2025/08/29 17:52:22]!aac
+[2025/08/29 17:52:22]ChkInit{
+[2025/08/29 17:52:22]init_info:0x7310e62100
+[2025/08/29 17:52:22]init_info->size_:16
+[2025/08/29 17:52:22]init_info->game_id_:8888
+[2025/08/29 17:52:22]init_info->tss_sdk_send_data_to_svr:0x0
+[2025/08/29 17:52:22]ChkInit}
+[2025/08/29 17:52:22]C# SDK ver:7.8.7.54221
+[2025/08/29 17:52:22]SetUserInfoEx{
+[2025/08/29 17:52:22]user_info:0x7310e62030
+[2025/08/29 17:52:22]user_info->size_:212
+[2025/08/29 17:52:22]user_info->entry_id_:1
+[2025/08/29 17:52:22]user_info->uin_.type_:2
+[2025/08/29 17:52:22]user_info->uin_.uin_str_:C73B36366565F9E02C191SDK_787
+[2025/08/29 17:52:22]user_info->app_id_.type_:2
+[2025/08/29 17:52:22]|jar_ver:7.8.7(2020/11/10)-jar-version
+[2025/08/29 17:52:22]user_info->app_id_.app_id_str_:100732256
+[2025/08/29 17:52:22]user_info->world_id_:1001
+[2025/08/29 17:52:22]user_info->role_id_:30048974
+[2025/08/29 17:52:22]SetUserInfoEx}
+[2025/08/29 17:52:23]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.102.211.42, port:443, err:0, failed_step:0
+[2025/08/29 17:52:25]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/08/29 17:52:25]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/08/29 17:52:26]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/6626A84D/comm.zip, retval:0, cache:0, cs:0, cs_cache:0
+[2025/08/29 17:52:26]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/7A55332B/tssmua2.zip, retval:0, cache:0, cs:1, cs_cache:0
+[2025/08/29 17:52:26]dl https://down.anticheatexpert.com/iedsafe/Client/android/8888/3D12EB9C/wz_off.dat, retval:0, cache:0, cs:1, cs_cache:0
+[2025/08/29 17:52:28]get2:128, 0x7105ba263a
+[2025/08/29 17:52:28]get3_1, 0x7427370610
+[2025/08/29 17:52:28]del3_1, 0x7427370610
+[2025/08/29 17:52:28]get4_0, 0x7427373470
+[2025/08/29 17:52:28]del4_0, 0x7427373470
+[2025/08/29 17:52:28][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/08/29 17:52:28][VM64][builtin.zip][vm_r4.img]  r4_foo, time cast:0ms
+[2025/08/29 17:52:28][VM64][builtin.zip][vm_main.img]  v.bss, time cast:18ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_r4.img]  r4_attest_task, time cast:1792ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:1805ms
+[2025/08/29 17:52:30][builtin.zip][vm_r4.img]end, loop:1131964
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.va, time cast:2066ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.cert, time cast:0ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.op, time cast:8ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.ro, time cast:2ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]auto_defence, time cast:2106ms
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/08/29 17:52:30][VM64][builtin.zip][vm_main.img]  CertScanerV, time cast:0ms
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]  AttestScanerV, time cast:2380ms
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]  CC2V, time cast:0ms
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2ms
+[2025/08/29 17:52:32][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:9ms
+[2025/08/29 17:52:33][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:804ms
+[2025/08/29 17:52:33][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:42ms
+[2025/08/29 17:52:33][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:3ms
+[2025/08/29 17:52:33][VM64][builtin.zip][vm_main.img]vm_scan }, cast:3257ms
+[2025/08/29 17:52:35]r4, time cast:6939ms
+[2025/08/29 17:52:37][VM64][builtin.zip][vm_r4.img]  r4_emulator, time cast:11ms
+[2025/08/29 17:52:37][VM64][builtin.zip][vm_r4.img]vm_r4, time cast:23ms
+[2025/08/29 17:52:37][builtin.zip][vm_r4.img]end, loop:49475
+[2025/08/29 17:52:41]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/08/29 17:52:41]|/sdcard/sdk/log.log:0x63be1825, from_c:0
+[2025/08/29 17:52:41]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/08/29 17:52:41]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/08/29 17:52:48]get2:128, 0x7105ba263a
+[2025/08/29 17:52:48]get3_2, 0x7427374010
+[2025/08/29 17:52:48]del3_2, 0x7427374010
+[2025/08/29 17:52:48]get4_1, 0x74273748b0
+[2025/08/29 17:52:48]del4_1, 0x74273748b0
+[2025/08/29 17:52:53]<cp>9014_alert, bcc1f31281da803eab09974e54bbd8e0
+[2025/08/29 17:52:55]<cp-ret>response:0, t:9014_alert
+[2025/08/29 17:52:57]send_cs:73, send_gs:6, remain_cnt:2
+[2025/08/29 17:53:08]get2:128, 0x7105ba263a
+[2025/08/29 17:53:08]get3_3, 0x7427374010
+[2025/08/29 17:53:08]del3_3, 0x7427374010
+[2025/08/29 17:53:28]get2:128, 0x7105ba263a
+[2025/08/29 17:53:28]get3_4, 0x7427374010
+[2025/08/29 17:53:28]del3_4, 0x7427374010
+[2025/08/29 17:53:48]get2:128, 0x7105ba263a
+[2025/08/29 17:53:48]get3_5, 0x7427374010
+[2025/08/29 17:53:48]del3_5, 0x7427374010
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  v.op, time cast:32ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  v.ro, time cast:4ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]auto_defence, time cast:48ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:14ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:2ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:26ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:3ms
+[2025/08/29 17:57:32][VM64][builtin.zip][vm_main.img]vm_scan }, cast:58ms
+[2025/08/29 17:57:41]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/08/29 17:57:41]|/sdcard/sdk/log.log:0xcdca080c, from_c:0
+[2025/08/29 17:57:41]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/08/29 17:57:41]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/08/29 17:57:56]send_cs:105, send_gs:7, remain_cnt:0
+[2025/08/29 18:02:27]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:0, cache:0, cs:1, cs_cache:1
+[2025/08/29 18:02:27]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config3.dat, retval:0, cache:0, cs:0, cs_cache:0
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  v.op, time cast:32ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  v.ro, time cast:4ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]auto_defence, time cast:48ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:3ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:16ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:1ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:18ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:2ms
+[2025/08/29 18:02:31][VM64][builtin.zip][vm_main.img]vm_scan }, cast:62ms
+[2025/08/29 18:02:42]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/08/29 18:02:42]|/sdcard/sdk/log.log:0xf9e8fdc6, from_c:0
+[2025/08/29 18:02:42]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/08/29 18:02:42]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/08/29 18:02:57]send_cs:139, send_gs:7, remain_cnt:0
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  v.op, time cast:34ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  v.ro, time cast:4ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]auto_defence, time cast:55ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:2ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:16ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:1ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:18ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:2ms
+[2025/08/29 18:07:33][VM64][builtin.zip][vm_main.img]vm_scan }, cast:48ms
+[2025/08/29 18:07:42]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/08/29 18:07:42]|/sdcard/sdk/log.log:0xcb8bc531, from_c:0
+[2025/08/29 18:07:42]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/08/29 18:07:42]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/08/29 18:07:57]send_cs:167, send_gs:7, remain_cnt:0
+[2025/08/29 18:12:17]ChkSetGameStatus{
+[2025/08/29 18:12:17]status_info:0x7310e62520
+[2025/08/29 18:12:17]status_info->size_:8
+[2025/08/29 18:12:17]status_info->game_status_:2
+[2025/08/29 18:12:17]ChkSetGameStatus}
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]vm_auto_defence{
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  v.fr, time cast:0ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  v.op, time cast:34ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  v.ro, time cast:11ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  v.so, time cast:0ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]vm_auto_defence}
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]auto_defence, time cast:57ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]vm_scan {
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]_M_FooScanAlertOnly:1
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]_M_SimulateExceptionChecked:0
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  FooScanerV, time cast:5ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  FridaScanerV, time cast:75ms
+[2025/08/29 18:15:37][VM64][builtin.zip][vm_main.img]  CommDatScanerV, time cast:7ms
+[2025/08/29 18:15:46][VM64][builtin.zip][vm_main.img]  OpcodeScanerV, time cast:9719ms
+[2025/08/29 18:15:46][VM64][builtin.zip][vm_main.img]  RoDataScanerV, time cast:16ms
+[2025/08/29 18:15:46][VM64][builtin.zip][vm_main.img]vm_scan }, cast:9837ms
+[2025/08/29 18:39:20]|/data/data/log/enable.log:0x00000000, from_c:0
+[2025/08/29 18:39:20]|/sdcard/sdk/log.log:0xbad1daf0, from_c:0
+[2025/08/29 18:39:20]|/sdcard/sdk/a.txt:0x00000000, from_c:0
+[2025/08/29 18:39:20]|/sdcard/sdk/b.txt:0x00000000, from_c:0
+[2025/08/29 18:46:30]<cp>ThreadPool3.err, n:ace_x_task;l:99;c:3;t:3248;td:255
+[2025/08/29 19:07:55]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:55]!dcfd
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:55]dl https://down.anticheatexpert.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]!dcf
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]dl https://dl.putdl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:55]!dcfd
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]dl https://dl.putdl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]!dcf
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:55]dl https://dl.timedl.com/iedsafe/Client/android/test/8888/config2.dat, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:55]!dcfd
+[2025/08/29 19:07:56]dl https://dl.timedl.com/iedsafe/Client/android/test/8888/config2.xml, retval:-1, cache:0, cs:1, cs_cache:0
+[2025/08/29 19:07:56]!dcf
+[2025/08/29 19:07:56]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:56]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:56]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:56]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:443, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:10012, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:80, err:-1, failed_step:400
+[2025/08/29 19:07:57]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:80, err:-1, failed_step:400
+[2025/08/29 19:14:26]send_cs:186, send_gs:12, remain_cnt:17
+[2025/08/29 19:14:48]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:443, err:-1, failed_step:400
+[2025/08/29 21:15:18]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:443, err:-1, failed_step:400
+[2025/08/30 00:53:14]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:443, err:-1, failed_step:400
+[2025/08/30 01:15:49]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:443, err:-1, failed_step:400
+[2025/08/30 04:04:31]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:443, err:-1, failed_step:400
+[2025/08/30 06:46:44]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:31]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:31]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:32]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:443, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:10012, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.94, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:42.81.179.246, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:111.30.185.235, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:220.194.120.73, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:109.244.170.205, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:180.109.156.92, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:36.155.240.19, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:153.3.50.229, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:119.45.69.203, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:14.22.9.201, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:120.232.27.62, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:157.148.45.163, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:106.55.209.88, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.110, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.225, port:80, err:-1, failed_step:400
+[2025/08/30 07:08:33]CS2, host:nj.cschannel.anticheatexpert.com, ip:139.186.105.126, port:80, err:-1, failed_step:400

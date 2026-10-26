@@ -1,0 +1,56 @@
+17:09:42
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks --device-id 709ccd85
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\12220038277251355299
+================================================================================
+
+17:09:43
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab: error: could not identify format of APK.
+================================================================================
+
+17:18:10
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab: error: could not identify format of APK.
+================================================================================
+
+17:26:00
+comm:
+D:\code\python\All_project\adb_install_02\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab"
+result:
+G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab: error: could not identify format of APK.
+================================================================================
+
+17:33:59
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+17:34:04
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks G:\Business_Area\shell\shell_auto_pkg\Android\2022.3.4f1c1.aab.apks --device-id 709ccd85
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\12876137521867907441
+================================================================================
+
+17:35:57
+comm:
+java -jar D:\code\python\All_project\adb_install_02\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\adb_install_02\Tools\adb.exe --apks E:\MTPClientConsole\MTPClientConsole_2.2.93.26585\out_alone\19368\4514427_2022.3.4f1c1_20251231171945.shell.shell.signed.aab.apks --device-id 709ccd85
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\18024374215308685191
+================================================================================
+

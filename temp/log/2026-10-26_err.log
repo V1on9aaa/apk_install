@@ -1,0 +1,32 @@
+16:03:04
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16:03:05
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.tencent.green.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.green.tools/files': File exists
+================================================================================
+
+16:06:09
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+16:06:10
+comm:
+E:\pycharmWorkSpace\apk_install\Tools\adb.exe -s FA7831801432 shell < E:\pycharmWorkSpace\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+mkdir: '/sdcard/Android/data/com.tencent.tools': File exists
+mkdir: '/sdcard/Android/data/com.tencent.tools/files': File exists
+================================================================================
+

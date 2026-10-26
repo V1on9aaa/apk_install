@@ -1,0 +1,531 @@
+11:29:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:30:08
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:31:06
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:31:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['bf00905', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'f8cc787']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[bf00905, }
+================================================================================
+
+11:31:07
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['bf00905', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'f8cc787']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[bf00905, }
+================================================================================
+
+11:31:09
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['bf00905', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'f8cc787']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[bf00905, }
+================================================================================
+
+11:31:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['bf00905', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'f8cc787']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[bf00905, }
+================================================================================
+
+11:42:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+11:45:11
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:45:12
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b89f5e9', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'aeb08c3']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b89f5e9, }
+================================================================================
+
+11:45:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b89f5e9', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'aeb08c3']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b89f5e9, }
+================================================================================
+
+11:45:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b89f5e9', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'aeb08c3']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b89f5e9, }
+================================================================================
+
+11:45:27
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b89f5e9', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'aeb08c3']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b89f5e9, }
+================================================================================
+
+11:46:23
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell dumpsys window | grep mCurrentFocus
+result:
+^C================================================================================
+
+11:47:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+11:47:45
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b1c060', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'ba24e8a']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b1c060, }
+================================================================================
+
+11:48:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b1c060', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'ba24e8a']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b1c060, }
+================================================================================
+
+11:48:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b1c060', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'ba24e8a']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b1c060, }
+================================================================================
+
+11:48:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b1c060', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'ba24e8a']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b1c060, }
+================================================================================
+
+11:50:24
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['b1c060', 'com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity', 'filter', 'ba24e8a']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[b1c060, }
+================================================================================
+
+11:51:55
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 127.0.0.1:5555 shell am start ['79e71', 'com.android.settings/.SetupRedactionInterstitial']
+result:
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=[79e71, }
+================================================================================
+
+14:23:25
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:23:28
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell am start com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+result:
+Warning: Activity not started, its current task has been brought to the front
+================================================================================
+
+14:23:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell am start com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+result:
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+================================================================================
+
+14:23:31
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell am start com.tencent.green.ace/com.unity3d.player.UnityPlayerActivity
+result:
+Warning: Activity not started, intent has been delivered to currently running top-most instance.
+================================================================================
+
+14:35:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c install -g "G:\Business_Area\sdk\7.9.X\7.9.20.54492\demo\ACE_Tools_7.9.20_20059_c#.apk"
+result:
+^C================================================================================
+
+14:35:35
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:38:10
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:47:04
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:50:01
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:51:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:52:00
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:57:57
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+14:58:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:00:53
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:06:42
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:25:19
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+15:29:36
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:34:03
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:36:17
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:37:48
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:39:37
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+15:39:46
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\14085070570142903141
+================================================================================
+
+15:39:46
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:39:46
+comm:
+D:\code\python\All_project\apk_install\Tools\aapt2.exe dump packagename "G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab"
+result:
+G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab: error: could not identify format of APK.
+================================================================================
+
+15:48:50
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+15:48:59
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\3069327017159320307
+================================================================================
+
+15:48:59
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+15:52:05
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+15:52:12
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 9e2bd91c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\2209193490946522626
+================================================================================
+
+15:52:37
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+15:53:05
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 5fa3254c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\602451126040533513
+================================================================================
+
+15:53:05
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:12:30
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:13:02
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 5fa3254c
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\4849184464515558284
+================================================================================
+
+16:13:02
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 5fa3254c shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+cp: bad '/sdcard/sdk/enable.dat': No such file or directory
+================================================================================
+
+16:19:06
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:19:15
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 44221FDJH0020K
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\5364560411470634728
+================================================================================
+
+16:19:16
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:22:25
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar build-apks --bundle=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab --output=G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks
+result:
+[BT:1.17.1] Error: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+java.lang.IllegalArgumentException: File 'G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks' already exists.
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at com.android.tools.build.bundletool.model.utils.files.FilePreconditions.checkFileDoesNotExist(FilePreconditions.java:30)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.validateInput(BuildApksCommand.java:963)
+	at com.android.tools.build.bundletool.commands.BuildApksCommand.execute(BuildApksCommand.java:904)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:83)
+	at com.android.tools.build.bundletool.BundleToolMain.main(BundleToolMain.java:55)
+================================================================================
+
+16:22:30
+comm:
+java -jar D:\code\python\All_project\apk_install\Tools\bundletool.jar install-apks --adb D:\code\python\All_project\apk_install\Tools\adb.exe --apks G:\Business_Area\shell\need_shell\Android\2022.3.4f1c1.aab.apks --device-id 44221FDJH0020K
+result:
+The APKs have been extracted in the directory: C:\Users\v_pjinjpan\AppData\Local\Temp\10659109687159979859
+================================================================================
+
+16:22:30
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 44221FDJH0020K shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: inaccessible or not found
+================================================================================
+
+16:38:13
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s dfc5f4ee shell dumpsys window | grep mCurrentFocus
+result:
+^C^C================================================================================
+
+16:40:50
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 9e2bd91c shell  getprop ro.build.version.release
+result:
+adb.exe: device '9e2bd91c' not found
+================================================================================
+
+16:53:15
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s FA7831801432 shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+/system/bin/sh: <stdin>[1]: su: not found
+================================================================================
+
+17:02:47
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 18fdf3fd shell < D:\code\python\All_project\apk_install\Tools\config\low_ver.txt
+result:
+mkdir: '/sdcard/sdk': File exists
+================================================================================
+
+17:32:29
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 1c6e05a install -g "G:/Business_Area/shell/Andriod_Shell/5.1.X/5.1.10.27214/bird_lz4_arm64_2019.3.0f6.cloud.apk"
+result:
+adb: failed to install G:/Business_Area/shell/Andriod_Shell/5.1.X/5.1.10.27214/bird_lz4_arm64_2019.3.0f6.cloud.apk: Failure [INSTALL_PARSE_FAILED_NO_CERTIFICATES: Failed to collect certificates from /data/app/vmdl526446493.tmp/nubia_adbd_base.apk: META-INF/TEST.SF indicates /data/app/vmdl526446493.tmp/nubia_adbd_base.apk is signed using APK Signature Scheme v2, but no such signature was found. Signature stripped?]
+================================================================================
+
+17:34:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 1c6e05a install -g "G:/Business_Area/shell/Andriod_Shell/5.1.X/5.1.10.27214/bird_lz4_arm64_2019.3.0f6.cloud.apk"
+result:
+adb: failed to install G:/Business_Area/shell/Andriod_Shell/5.1.X/5.1.10.27214/bird_lz4_arm64_2019.3.0f6.cloud.apk: Failure [INSTALL_PARSE_FAILED_NO_CERTIFICATES: Failed to collect certificates from /data/app/vmdl312908380.tmp/nubia_adbd_base.apk: META-INF/TEST.SF indicates /data/app/vmdl312908380.tmp/nubia_adbd_base.apk is signed using APK Signature Scheme v2, but no such signature was found. Signature stripped?]
+================================================================================
+
+17:34:26
+comm:
+D:\code\python\All_project\apk_install\Tools\adb.exe -s 1c6e05a shell < D:\code\python\All_project\apk_install\Tools\config\adv_ver.txt
+result:
+mkdir: '/sdcard/Android/data/com.wind.bird2.cloud': File exists
+mkdir: '/sdcard/Android/data/com.wind.bird2.cloud/files': File exists
+================================================================================
+

@@ -1,0 +1,211 @@
+09:47:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a\27
+\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+09:47:37
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\27
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+10:02:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\arm64-v8a
+\27\minicap.so /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+10:02:55
+comm:
+D:\code\python\All_project\adb_install\Tools\adb.exe push D:\code\python\All_project\adb_install\Tools\minicap_libs\libs\arm64-v8a
+\minicap /data/local/tmp
+result:
+adb.exe: push requires an argument
+================================================================================
+
+10:52:57
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+/system/bin/sh: /data/local/tmp/minicap: can't execute: Permission denied
+================================================================================
+
+10:53:35
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+/system/bin/sh: /data/local/tmp/minicap: can't execute: Permission denied
+================================================================================
+
+10:53:49
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+/system/bin/sh: /data/local/tmp/minicap: can't execute: Permission denied
+================================================================================
+
+10:55:03
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+/system/bin/sh: /data/local/tmp/minicap: can't execute: Permission denied
+================================================================================
+
+10:56:14
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+/system/bin/sh: /data/local/tmp/minicap: can't execute: Permission denied
+================================================================================
+
+11:22:50
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 4003
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+11:28:55
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 4616
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+11:32:40
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 4880
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+11:33:20
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 4972
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+11:34:14
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 5071
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+15:29:19
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 18736
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+15:31:30
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 18839
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+
+16:17:25
+comm:
+adb -s 18fdf3fd shell LD_LIBRARY_PATH=/data/local/tmp /data/local/tmp/minicap -P 720x1520@720x1520/0
+result:
+PID: 22289
+INFO: Using projection 720x1520@720x1520/0
+INFO: (external/MY_minicap/src/minicap_27.cpp:241) Creating SurfaceComposerClient
+INFO: (external/MY_minicap/src/minicap_27.cpp:244) Performing SurfaceComposerClient init check
+INFO: (external/MY_minicap/src/minicap_27.cpp:255) Creating virtual display
+INFO: (external/MY_minicap/src/minicap_27.cpp:261) Creating buffer queue
+INFO: (external/MY_minicap/src/minicap_27.cpp:264) Setting buffer options
+INFO: (external/MY_minicap/src/minicap_27.cpp:268) Creating CPU consumer
+INFO: (external/MY_minicap/src/minicap_27.cpp:272) Creating frame waiter
+INFO: (external/MY_minicap/src/minicap_27.cpp:276) Publishing virtual display
+INFO: (jni/minicap/JpgEncoder.cpp:64) Allocating 3285252 bytes for JPG encoder
+INFO: (external/MY_minicap/src/minicap_27.cpp:291) Destroying virtual display
+================================================================================
+

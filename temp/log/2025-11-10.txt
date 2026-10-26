@@ -1,0 +1,5 @@
+>>>G:\Business_Area\shell\Andriod_Shell\5.1.X\5.1.1.53884\111\1_app-debug-29-lld.apk
+com.test.myapplication未闪退，运行正常
+user_info->uin_.uin_str_:BF01262517E6AE02BF1A3BB4BCC11D14
+OpenID:584AEBE0805C7E245494E024,
+
